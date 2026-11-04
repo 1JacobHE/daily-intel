@@ -1,0 +1,3218 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03 08:30",
+  "events": [
+    {
+      "eid": "353925ba99",
+      "ekey": "险资举牌热度骤降权益投资逻辑悄然",
+      "kind": "event_line",
+      "title": "险资举牌热度骤降 权益投资逻辑悄然切换",
+      "body": "记者近日梳理发现，相较于去年险资举牌的高歌猛进，今年以来险资举牌步伐明显放缓。中国保险行业协会截至9月底公告信息显示，今年险资举牌6次，如果算上去年底举牌并于今年公告的2次举牌，合计8次，远低于去年同期约30次举牌。险资举牌案例数量显著回落，背后一大原因是保险机构投资布局趋于低调。有保险公司投资负责人告诉记者，为了避免引发市场过度关注，公司在5%或者10%举牌线等点位都会格外关注，除非是明确有超比例投资意愿的投资标的，都会尽量避免触及这个点位。随着权益比例站上历史高位，险资布局更为审慎。低利率下保险资金再投资需求和高权益仓位带来的波动风险，成为保险机构需要平衡和解决的重要课题。一家外资寿险首席投资官告诉记者，今年会维持权益资产比例平稳，重点在于优化结构。 (证券时报)",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bear",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 57.5,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": true,
+      "member_count": 2,
+      "members": [
+        {
+          "title": "险资举牌热度骤降 权益投资逻辑悄然切换",
+          "src": "同花顺",
+          "time": "2026-10-03 08:02:54",
+          "body": "记者近日梳理发现，相较于去年险资举牌的高歌猛进，今年以来险资举牌步伐明显放缓。中国保险行业协会截至9月底公告信息显示，今年险资举牌6次，如果算上去年底举牌并于今年公告的2次举牌，合计8次，远低于去年同期约30次举牌。险资举牌案例数量显著回落，背后一大原因是保险机构投资布局趋于低调。有保险公司投资负责人告诉记者，为了避免引发市场过度关注，公司在5%或者10%举牌线等点位都会格外关注，除非是明确有超比例投资意愿的投资标的，都会尽量避免触及这个点位。随着权益比例站上历史高位，险资布局更为审慎。低利率下保险资金再投资需求和高权益仓位带来的波动风险，成为保险机构需要平衡和解决的重要课题。一家外资寿险首席投资官告诉记者，今年会维持权益资产比例平稳，重点在于优化结构。 (证券时报)",
+          "score": 57.5
+        },
+        {
+          "title": "降幅过半！险资举牌热度骤降 权益投资逻辑悄然切换",
+          "src": "东方财富",
+          "time": "2026-10-03 07:32:19",
+          "body": "记者近日梳理发现，相较于去年险资举牌的高歌猛进，今年以来险资举牌步伐明显放缓。中国保险行业协会截至9月底公告信息显示，今年险资举牌6次，如果算上去年底举牌并于今年公告的2次举牌，合计8次，远低于去年同期约30次举牌。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [
+        "标题相似度 0.82 ≥ 0.52"
+      ],
+      "related": [],
+      "time": "2026-10-03 08:02:54",
+      "rank_score": 59.0
+    },
+    {
+      "eid": "f5a5a39ab3",
+      "ekey": "预计达万人次今天深圳各口岸将迎来",
+      "kind": "event_line",
+      "title": "预计达109万人次！今天，深圳各口岸将迎来双向客流高峰",
+      "body": "转自：证券时报人民财讯10月3日电，据深圳边检总站统计，国庆节假期，预计罗湖口岸、福田口岸、深圳湾口岸日均出入境客流量分别约25万人次、20万人次、19万人次。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 53.0,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": true,
+      "member_count": 2,
+      "members": [
+        {
+          "title": "预计达109万人次！今天，深圳各口岸将迎来双向客流高峰",
+          "src": "新浪财经",
+          "time": "2026-10-03 08:19:00",
+          "body": "转自：证券时报人民财讯10月3日电，据深圳边检总站统计，国庆节假期，预计罗湖口岸、福田口岸、深圳湾口岸日均出入境客流量分别约25万人次、20万人次、19万人次。",
+          "score": 53.0
+        },
+        {
+          "title": "深圳各口岸将迎来双向客流高峰 预计达109万人次",
+          "src": "东方财富",
+          "time": "2026-10-03 08:23:12",
+          "body": "据深圳边检总站统计，国庆节假期，预计罗湖口岸、福田口岸、深圳湾口岸日均出入境客流量分别约25万人次、20万人次、19万人次。10月3日，深圳陆路口岸将迎来双向客流高峰，预计达109万人次；其余日期客流预计为：1日99万人次、2日97万人次、4日104万人次、5日91万人次、6日90万人次、7日92万人次。",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [
+        "标题相似度 0.73 ≥ 0.52"
+      ],
+      "related": [],
+      "time": "2026-10-03 08:19:00",
+      "rank_score": 57.2
+    },
+    {
+      "eid": "106f9172b8",
+      "ekey": "希捷科技",
+      "kind": "topic_line",
+      "title": "东芝宣布大举扩产HDD 西部数据、希捷股价重挫",
+      "body": "周五（10月2日）美股盘中，希捷科技和西部数据股价双双跌超10%，日内东芝宣布其菲律宾子公司TIP将继续投资扩大产能，力争把存储产能提高一倍。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 70.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "东芝宣布大举扩产HDD 西部数据、希捷股价重挫",
+          "src": "东方财富",
+          "time": "2026-10-03 03:43:59",
+          "body": "周五（10月2日）美股盘中，希捷科技和西部数据股价双双跌超10%，日内东芝宣布其菲律宾子公司TIP将继续投资扩大产能，力争把存储产能提高一倍。",
+          "score": 70.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 03:43:59",
+      "rank_score": 43.0
+    },
+    {
+      "eid": "6b3d3b354a",
+      "ekey": "谷歌",
+      "kind": "topic_line",
+      "title": "谷歌宣布Spanner Queues正式全面开放",
+      "body": "谷歌宣布SpannerQueues正式全面开放，支持智能体工作流中的事务性消息传递。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 70.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "谷歌宣布Spanner Queues正式全面开放",
+          "src": "东方财富",
+          "time": "2026-10-02 23:57:47",
+          "body": "谷歌宣布SpannerQueues正式全面开放，支持智能体工作流中的事务性消息传递。",
+          "score": 70.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 23:57:47",
+      "rank_score": 43.0
+    },
+    {
+      "eid": "21bb5945f5",
+      "ekey": "西藏措美兆瓦风电项目首台机组投产",
+      "kind": "event_line",
+      "title": "西藏措美80兆瓦风电项目首台机组投产发电",
+      "body": "西藏山南市措美80兆瓦风电项目首台机组10月2日顺利并网发电。这一项目全面投产后，预计年均节约标准煤5.59万吨，减少二氧化碳排放15.34万吨。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "新能源/锂电"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 69.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "西藏措美80兆瓦风电项目首台机组投产发电",
+          "src": "东方财富",
+          "time": "2026-10-03 06:55:02",
+          "body": "西藏山南市措美80兆瓦风电项目首台机组10月2日顺利并网发电。这一项目全面投产后，预计年均节约标准煤5.59万吨，减少二氧化碳排放15.34万吨。",
+          "score": 69.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 06:55:02",
+      "rank_score": 42.6
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "美股收盘：三大指数集体收涨 纳指、英伟达盘中再创新高",
+      "body": "美股三大指数集体收涨，纳指涨1.19%，标普500指数涨0.74%，道指涨0.49%。其中，纳指盘中再创新高。大型科技股多数上涨，SpaceX涨超7%，特斯拉涨超4%，谷歌、英伟达涨超1%。其中，英伟达盘中再创新高。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 67.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指、英伟达盘中再创新高",
+          "src": "东方财富",
+          "time": "2026-10-03 04:00:51",
+          "body": "美股三大指数集体收涨，纳指涨1.19%，标普500指数涨0.74%，道指涨0.49%。其中，纳指盘中再创新高。大型科技股多数上涨，SpaceX涨超7%，特斯拉涨超4%，谷歌、英伟达涨超1%。其中，英伟达盘中再创新高。",
+          "score": 67.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 04:00:51",
+      "rank_score": 42.0
+    },
+    {
+      "eid": "f1cbfcf8c3",
+      "ekey": "亿桶能源|出口禁令七国集团",
+      "kind": "topic_line",
+      "title": "G7同意联手释放1亿桶能源储备 换取美国放弃柴油出口禁令",
+      "body": "七国集团（G7）领导人在周五举行会议后表示，鉴于燃料市场持续承压，各国将在国际能源署（IEA）的协调下释放1亿桶原油和柴油。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 67.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "G7同意联手释放1亿桶能源储备 换取美国放弃柴油出口禁令",
+          "src": "东方财富",
+          "time": "2026-10-03 05:11:55",
+          "body": "七国集团（G7）领导人在周五举行会议后表示，鉴于燃料市场持续承压，各国将在国际能源署（IEA）的协调下释放1亿桶原油和柴油。",
+          "score": 67.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 05:11:55",
+      "rank_score": 41.8
+    },
+    {
+      "eid": "23c8d2dd4d",
+      "ekey": "七国集团|对油价飙升及能源",
+      "kind": "topic_line",
+      "title": "七国集团就推动主要炼油国家增产增加柴油供应达成一致",
+      "body": "当地时间10月2日，七国集团领导人召开视频会议，应对油价飙升及能源供应压力，同意采取协调行动，稳定市场、缓解家庭和企业负担，并增强能源体系长期韧性。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 66.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "七国集团就推动主要炼油国家增产增加柴油供应达成一致",
+          "src": "东方财富",
+          "time": "2026-10-03 02:09:53",
+          "body": "当地时间10月2日，七国集团领导人召开视频会议，应对油价飙升及能源供应压力，同意采取协调行动，稳定市场、缓解家庭和企业负担，并增强能源体系长期韧性。",
+          "score": 66.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 02:09:53",
+      "rank_score": 41.6
+    },
+    {
+      "eid": "eb8faa73cc",
+      "ekey": "七国集团|国将通过国际能源",
+      "kind": "topic_line",
+      "title": "七国集团将释放1亿桶战略石油储备 初期集中释放柴油",
+      "body": "法国总统府爱丽舍宫2日发布声明说，七国集团成员国将通过国际能源署协调释放1亿桶战略石油储备，以缓解国际能源市场压力。相关行动将立即启动并持续4个月，最初20天将集中释放大量柴油储备。近期，美国和欧洲多国柴油价格均创下新高。上述声明是在法国总统马克龙当天召集七国集团领导人举行视频会议后发布的。声明说，七国集团将协调成员国炼油厂检修安排，避免集中停产，并视情况提高炼油设施利用率。同时，将加强同炼油能力较强国家的合作，增加全球成品油特别是柴油供应。声明重申，成员国之间将避免对能源及能源产品采取出口限制措施，并呼吁所有能源生产商避免实施可能加剧市场紧张的出口禁令。马克龙会后表示，七国集团成员国达成共识，将采取行动压低炼油利润空间并降低运输成本，这些决定“应能降低燃油价格”。(新华社)",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T2",
+      "score": 66.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "七国集团将释放1亿桶战略石油储备 初期集中释放柴油",
+          "src": "同花顺",
+          "time": "2026-10-03 07:21:39",
+          "body": "法国总统府爱丽舍宫2日发布声明说，七国集团成员国将通过国际能源署协调释放1亿桶战略石油储备，以缓解国际能源市场压力。相关行动将立即启动并持续4个月，最初20天将集中释放大量柴油储备。近期，美国和欧洲多国柴油价格均创下新高。上述声明是在法国总统马克龙当天召集七国集团领导人举行视频会议后发布的。声明说，七国集团将协调成员国炼油厂检修安排，避免集中停产，并视情况提高炼油设施利用率。同时，将加强同炼油能力较强国家的合作，增加全球成品油特别是柴油供应。声明重申，成员国之间将避免对能源及能源产品采取出口限制措施，并呼吁所有能源生产商避免实施可能加剧市场紧张的出口禁令。马克龙会后表示，七国集团成员国达成共识，将采取行动压低炼油利润空间并降低运输成本，这些决定“应能降低燃油价格”。(新华社)",
+          "score": 66.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 07:21:39",
+      "rank_score": 41.6
+    },
+    {
+      "eid": "4d8898be44",
+      "ekey": "美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储加息预期降温 纳指高开1.2%",
+      "body": "非农表现疲软，美联储加息预期降温，美股三大指数集体高开，纳指涨1.22%，道指涨0.63%，标普500指数涨0.85%。“科技七巨头”集体高开，苹果涨0.87%，特斯拉涨1.6%，微软涨1.45%，亚马逊涨1.7%，英伟达涨2.3%，谷歌涨1.3%，Meta涨1.3%。HDD股票大幅低开，希捷科技跌超15%，西部数据跌超9%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1",
+      "score": 65.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储加息预期降温 纳指高开1.2%",
+          "src": "同花顺",
+          "time": "2026-10-02 21:32:51",
+          "body": "非农表现疲软，美联储加息预期降温，美股三大指数集体高开，纳指涨1.22%，道指涨0.63%，标普500指数涨0.85%。“科技七巨头”集体高开，苹果涨0.87%，特斯拉涨1.6%，微软涨1.45%，亚马逊涨1.7%，英伟达涨2.3%，谷歌涨1.3%，Meta涨1.3%。HDD股票大幅低开，希捷科技跌超15%，西部数据跌超9%。",
+          "score": 65.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 21:32:51",
+      "rank_score": 41.2
+    },
+    {
+      "eid": "4d8898be44",
+      "ekey": "美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储古尔斯比：就加息或按兵不动而言 任何选项均有充分空间",
+      "body": "美联储古尔斯比表示，就加息或按兵不动而言，任何选项均有充分空间；劳动力市场保持稳定，美联储职责中通胀方面更为重要；美联储会关注是否有证据表明通胀回到2%的水平。并表示，不会对一个月的数据做出强烈反应，不排除在下次利率会议上做出任何决定。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1",
+      "score": 64.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储古尔斯比：就加息或按兵不动而言 任何选项均有充分空间",
+          "src": "东方财富",
+          "time": "2026-10-03 01:05:33",
+          "body": "美联储古尔斯比表示，就加息或按兵不动而言，任何选项均有充分空间；劳动力市场保持稳定，美联储职责中通胀方面更为重要；美联储会关注是否有证据表明通胀回到2%的水平。并表示，不会对一个月的数据做出强烈反应，不排除在下次利率会议上做出任何决定。",
+          "score": 64.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 01:05:33",
+      "rank_score": 40.8
+    },
+    {
+      "eid": "860df49c21",
+      "ekey": "人民日报金轩支持民营企业在高质量",
+      "kind": "event_line",
+      "title": "人民日报金轩：支持民营企业在高质量发展中大显身手",
+      "body": "企业有活力，经济发展就有动力。新时代以来，广大民营企业锐意进取，民营经济持续发展壮大，在稳定增长、促进创新、增加就业、改善民生等方面发挥重要作用。今年以来，民营企业继续保持第一大外贸主体地位，国际竞争力不断增强，前8个月，民营企业进出口19.79万亿元，增长17.6%，占我国进出口总额的56.9%。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 64.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "人民日报金轩：支持民营企业在高质量发展中大显身手",
+          "src": "东方财富",
+          "time": "2026-10-03 07:26:59",
+          "body": "企业有活力，经济发展就有动力。新时代以来，广大民营企业锐意进取，民营经济持续发展壮大，在稳定增长、促进创新、增加就业、改善民生等方面发挥重要作用。今年以来，民营企业继续保持第一大外贸主体地位，国际竞争力不断增强，前8个月，民营企业进出口19.79万亿元，增长17.6%，占我国进出口总额的56.9%。",
+          "score": 64.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 07:26:59",
+      "rank_score": 40.6
+    },
+    {
+      "eid": "969527e614",
+      "ekey": "二十国集团#关税贸易",
+      "kind": "topic_line",
+      "title": "二十国集团贸易部长会议在美国密尔沃基举行",
+      "body": "9月30日至10月1日，二十国集团（G20）贸易部长会议在美国密尔沃基举行。G20成员及嘉宾国（波兰）贸易部长或代表与会。各方就美方设置的反对粮食武器化、应对产能过剩、消除强迫劳动、调整最惠国待遇原则等议题交换意见。会议就粮食议题达成联合声明，未就其他议题形成成果文件。中华人民共和国国际贸易谈判代表（正部长级）兼商务部副部长李成钢出席会议并发言。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "农业/种业"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "关税贸易",
+      "topicLabel": "关税与制裁",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "二十国集团贸易部长会议在美国密尔沃基举行",
+          "src": "东方财富",
+          "time": "2026-10-02 23:44:17",
+          "body": "9月30日至10月1日，二十国集团（G20）贸易部长会议在美国密尔沃基举行。G20成员及嘉宾国（波兰）贸易部长或代表与会。各方就美方设置的反对粮食武器化、应对产能过剩、消除强迫劳动、调整最惠国待遇原则等议题交换意见。会议就粮食议题达成联合声明，未就其他议题形成成果文件。中华人民共和国国际贸易谈判代表（正部长级）兼商务部副部长李成钢出席会议并发言。",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 23:44:17",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "a2bb7568b8",
+      "ekey": "柴油补给受阻扎波罗热核电站拟减少",
+      "kind": "event_line",
+      "title": "柴油补给受阻 扎波罗热核电站拟减少待命应急发电机数量",
+      "body": "国际原子能机构当地时间10月2日表示，由于柴油燃料储备持续偏低，扎波罗热核电站正考虑进一步减少处于自动待命状态的应急柴油发电机数量。应急柴油发电机主要在外部供电中断时，为核电站关键安全系统提供电力。国际原子能机构介绍，今年8月至9月，扎波罗热核电站曾因长时间失去外部电源，连续近三周依靠应急柴油发电机供电，导致柴油储备明显下降。受周边军事活动影响，近期补充柴油的工作仍受到阻碍。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "电力/公用",
+        "石油/能源"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "柴油补给受阻 扎波罗热核电站拟减少待命应急发电机数量",
+          "src": "东方财富",
+          "time": "2026-10-02 23:07:04",
+          "body": "国际原子能机构当地时间10月2日表示，由于柴油燃料储备持续偏低，扎波罗热核电站正考虑进一步减少处于自动待命状态的应急柴油发电机数量。应急柴油发电机主要在外部供电中断时，为核电站关键安全系统提供电力。国际原子能机构介绍，今年8月至9月，扎波罗热核电站曾因长时间失去外部电源，连续近三周依靠应急柴油发电机供电，导致柴油储备明显下降。受周边军事活动影响，近期补充柴油的工作仍受到阻碍。",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 23:07:04",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "18ebca3b10",
+      "ekey": "拉斯联邦储备银行|美联储#全球债市",
+      "kind": "topic_line",
+      "title": "达拉斯联储行长称需再升息至少50个基点，美债收益率上扬或助经济降温",
+      "body": "达拉斯联邦储备银行行长Lorie Logan表示，美联储必须继续提高利率才能彻底抑制通胀，并暗示美国国债收益率上升，也可能有助于为经济降温。Logan周四在为达拉斯联邦储备银行一场活动预备的讲稿中表示，“我目前估计，目标利率区间需要再上调50个基点或更多，才能适当平衡双重使命目标的前景与风险”。在加入达拉斯联邦储备银行之前，Logan曾在纽约联储银行市场部门任职逾20年。她也提到，过去几周美国国债收益率大幅攀升。她表示，市场人士告诉她，这波涨势起初源于市场预期经济增长强劲，以及美联储的中性利率可能更高；但目前模型显示，期限溢价也正在上升。所谓期限溢价，是指投资人持有较长天期而非较短天期债券所要求的额外报酬。（新浪财经）",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "达拉斯联储行长称需再升息至少50个基点，美债收益率上扬或助经济降温",
+          "src": "同花顺",
+          "time": "2026-10-02 14:46:21",
+          "body": "达拉斯联邦储备银行行长Lorie Logan表示，美联储必须继续提高利率才能彻底抑制通胀，并暗示美国国债收益率上升，也可能有助于为经济降温。Logan周四在为达拉斯联邦储备银行一场活动预备的讲稿中表示，“我目前估计，目标利率区间需要再上调50个基点或更多，才能适当平衡双重使命目标的前景与风险”。在加入达拉斯联邦储备银行之前，Logan曾在纽约联储银行市场部门任职逾20年。她也提到，过去几周美国国债收益率大幅攀升。她表示，市场人士告诉她，这波涨势起初源于市场预期经济增长强劲，以及美联储的中性利率可能更高；但目前模型显示，期限溢价也正在上升。所谓期限溢价，是指投资人持有较长天期而非较短天期债券所要求的额外报酬。（新浪财经）",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 14:46:21",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "66d8070b4d",
+      "ekey": "欧洲央行",
+      "kind": "topic_line",
+      "title": "欧洲央行管委内格尔表示：德国经济今年可能增长约1%",
+      "body": "欧洲央行管委内格尔表示，德国经济今年可能增长约1%。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 62.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "欧洲央行管委内格尔表示：德国经济今年可能增长约1%",
+          "src": "东方财富",
+          "time": "2026-10-03 03:36:13",
+          "body": "欧洲央行管委内格尔表示，德国经济今年可能增长约1%。",
+          "score": 62.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 03:36:13",
+      "rank_score": 40.0
+    },
+    {
+      "eid": "42c4abe6b2",
+      "ekey": "布伦特原油期货日内转涨此前一度跌",
+      "kind": "event_line",
+      "title": "布伦特原油期货日内转涨 此前一度跌近4%",
+      "body": "WTI原油期货价格跌1.35%，报91.615美元/桶，此前一度跌约5%；布伦特原油期货价格涨0.09%，报102.405美元/桶，此前一度跌近4%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 62.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "布伦特原油期货日内转涨 此前一度跌近4%",
+          "src": "东方财富",
+          "time": "2026-10-03 00:48:09",
+          "body": "WTI原油期货价格跌1.35%，报91.615美元/桶，此前一度跌约5%；布伦特原油期货价格涨0.09%，报102.405美元/桶，此前一度跌近4%。",
+          "score": 62.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 00:48:09",
+      "rank_score": 39.8
+    },
+    {
+      "eid": "301108295e",
+      "ekey": "博通|英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "费城半导体指数日内涨3%",
+      "body": "费城半导体指数日内涨3.01%，现报13215.21点。英伟达涨2.77%，博通涨2.76%，美光跌0.16%，英特尔涨3.43%，AMD涨3.78%，高通涨1.96%，台积电涨1.94%，阿斯麦涨3.01%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 61.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "费城半导体指数日内涨3%",
+          "src": "同花顺",
+          "time": "2026-10-02 21:46:49",
+          "body": "费城半导体指数日内涨3.01%，现报13215.21点。英伟达涨2.77%，博通涨2.76%，美光跌0.16%，英特尔涨3.43%，AMD涨3.78%，高通涨1.96%，台积电涨1.94%，阿斯麦涨3.01%。",
+          "score": 61.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 21:46:49",
+      "rank_score": 39.6
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "英伟达宣布将推出DGX SPARK 64GB配置",
+      "body": "英伟达宣布，DGX SPARK 64GB配置将于本月起通过主要合作伙伴推出。该设备可在本地运行最高1000亿参数的AI模型。DGX SPARK 64GB将于10月23日起通过主要合作伙伴发售，起售价为4999美元。(财联社)",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 61.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "英伟达宣布将推出DGX SPARK 64GB配置",
+          "src": "同花顺",
+          "time": "2026-10-02 21:07:18",
+          "body": "英伟达宣布，DGX SPARK 64GB配置将于本月起通过主要合作伙伴推出。该设备可在本地运行最高1000亿参数的AI模型。DGX SPARK 64GB将于10月23日起通过主要合作伙伴发售，起售价为4999美元。(财联社)",
+          "score": 61.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 21:07:18",
+      "rank_score": 39.6
+    },
+    {
+      "eid": "5f4f207885",
+      "ekey": "允许伊朗各航空#中东",
+      "kind": "topic_line",
+      "title": "伊朗航司获准复飞往返伊拉克纳杰夫的航班",
+      "body": "伊拉克总理新闻办公室2日发布声明说，经与美国方面沟通后达成协议，允许伊朗各航空公司每日运营总计40架次往返伊拉克纳杰夫国际机场的航班，但伊朗马汉航空被除外。声明说，该协议旨在便利伊拉克与伊朗两地人员往来，重点满足医疗、宗教朝圣、旅游、教育等方面出行需求。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 61.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "伊朗航司获准复飞往返伊拉克纳杰夫的航班",
+          "src": "东方财富",
+          "time": "2026-10-03 06:15:34",
+          "body": "伊拉克总理新闻办公室2日发布声明说，经与美国方面沟通后达成协议，允许伊朗各航空公司每日运营总计40架次往返伊拉克纳杰夫国际机场的航班，但伊朗马汉航空被除外。声明说，该协议旨在便利伊拉克与伊朗两地人员往来，重点满足医疗、宗教朝圣、旅游、教育等方面出行需求。",
+          "score": 61.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 06:15:34",
+      "rank_score": 39.4
+    },
+    {
+      "eid": "c5fc8081e7",
+      "ekey": "国际能源|开始下跌国际能源",
+      "kind": "topic_line",
+      "title": "国际能源署署长比罗尔称油价开始下跌",
+      "body": "国际能源署署长比罗尔称，油价开始下跌。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 61.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国际能源署署长比罗尔称油价开始下跌",
+          "src": "东方财富",
+          "time": "2026-10-02 23:58:33",
+          "body": "国际能源署署长比罗尔称，油价开始下跌。",
+          "score": 61.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 23:58:33",
+      "rank_score": 39.4
+    },
+    {
+      "eid": "072f70b129",
+      "ekey": "Kalshi|美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "非农就业数据不及预期后，美联储维持利率不变概率飙升至85%",
+      "body": "Kalshi 预测市场目前定价：美联储 10 月按兵不动的概率达 85%。本次非农就业仅新增 2.9 万人，而市场预期为 8.4 万人。失业率攀升至 4.2%，引发市场对美联储政策前景的大幅鸽派重定价。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1",
+      "score": 61.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "非农就业数据不及预期后，美联储维持利率不变概率飙升至85%",
+          "src": "同花顺",
+          "time": "2026-10-02 20:38:50",
+          "body": "Kalshi 预测市场目前定价：美联储 10 月按兵不动的概率达 85%。本次非农就业仅新增 2.9 万人，而市场预期为 8.4 万人。失业率攀升至 4.2%，引发市场对美联储政策前景的大幅鸽派重定价。",
+          "score": 61.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 20:38:50",
+      "rank_score": 39.4
+    },
+    {
+      "eid": "ee177a759e",
+      "ekey": "欧盟",
+      "kind": "topic_line",
+      "title": "意大利将2026年GDP增长预测从4月预测的0.6%上调至0.8% 将请求欧盟在2027年给予相当于GDP0.6%的赤字空间",
+      "body": "意大利将2026年GDP增长预测从4月预测的0.6%上调至0.8%，将请求欧盟在2027年给予相当于GDP0.6%的赤字空间。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "意大利将2026年GDP增长预测从4月预测的0.6%上调至0.8% 将请求欧盟在2027年给予相当于GDP0.6%的赤字空间",
+          "src": "东方财富",
+          "time": "2026-10-03 00:47:18",
+          "body": "意大利将2026年GDP增长预测从4月预测的0.6%上调至0.8%，将请求欧盟在2027年给予相当于GDP0.6%的赤字空间。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 00:47:18",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "4d8898be44",
+      "ekey": "美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储12月加息概率为72.6%",
+      "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为86.2%，累计加息25个基点的概率为13.8%。美联储到12月维持利率不变的概率为27.4%，累计加息25个基点的概率63.1%，累计加息50个基点的概率为9.4%。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储12月加息概率为72.6%",
+          "src": "同花顺",
+          "time": "2026-10-02 20:52:21",
+          "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为86.2%，累计加息25个基点的概率为13.8%。美联储到12月维持利率不变的概率为27.4%，累计加息25个基点的概率63.1%，累计加息50个基点的概率为9.4%。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 20:52:21",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "b9192465a4",
+      "ekey": "刚果金埃博拉疫情已致超人死亡",
+      "kind": "event_line",
+      "title": "刚果（金）埃博拉疫情已致超4000人死亡",
+      "body": "总台记者获悉，刚果（金）卫生部10月2日公布的最新数据显示，截至目前，该国本轮埃博拉疫情累计报告确诊病例8300例，其中4018人死亡，2162名患者康复，病死率为48.4%。（央视新闻）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "刚果（金）埃博拉疫情已致超4000人死亡",
+          "src": "同花顺",
+          "time": "2026-10-02 18:19:48",
+          "body": "总台记者获悉，刚果（金）卫生部10月2日公布的最新数据显示，截至目前，该国本轮埃博拉疫情累计报告确诊病例8300例，其中4018人死亡，2162名患者康复，病死率为48.4%。（央视新闻）",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 18:19:48",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "1396f9d717",
+      "ekey": "三星|也让三星电子#AI芯片",
+      "kind": "topic_line",
+      "title": "机构：AI芯片需求带动晶圆代工2.0市场增长",
+      "body": "人工智能芯片需求激增，也让三星电子的晶圆代工业务受益。目前AI芯片产能高度集中于台积电，越来越多客户寻求分散订单，助力三星电子稳住全球晶圆代工市场第二名的位置。市场研究机构Counterpoint于30日发布数据，今年二季度三星电子占据全球晶圆代工市场约4%份额，仅次于台积电。公司4纳米与5纳米工艺（SF4、SF5制程）需求旺盛，叠加晶圆价格上涨，支撑了该业绩。不过三星与台积电之间差距依旧巨大。台积电二季度营收402亿美元（约合54万亿韩元），同比增长34%，约占整个代工2.0市场的42%。Counterpoint表示，三星电子与英特尔正在承接客户寻找备选供应商带来的订单，但在先进制程产能、良率以及先进封装能力方面，二者仍难以替代台积电。行业竞争重心预计将从晶圆制造拓展至先进封装领域。Counterpoint预测，代工2.0市场下半年将维持两位数增长，封装、基板与测试产能将成为扩大AI芯片供给的关键变量。（新浪财经）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "机构：AI芯片需求带动晶圆代工2.0市场增长",
+          "src": "同花顺",
+          "time": "2026-10-02 14:53:44",
+          "body": "人工智能芯片需求激增，也让三星电子的晶圆代工业务受益。目前AI芯片产能高度集中于台积电，越来越多客户寻求分散订单，助力三星电子稳住全球晶圆代工市场第二名的位置。市场研究机构Counterpoint于30日发布数据，今年二季度三星电子占据全球晶圆代工市场约4%份额，仅次于台积电。公司4纳米与5纳米工艺（SF4、SF5制程）需求旺盛，叠加晶圆价格上涨，支撑了该业绩。不过三星与台积电之间差距依旧巨大。台积电二季度营收402亿美元（约合54万亿韩元），同比增长34%，约占整个代工2.0市场的42%。Counterpoint表示，三星电子与英特尔正在承接客户寻找备选供应商带来的订单，但在先进制程产能、良率以及先进封装能力方面，二者仍难以替代台积电。行业竞争重心预计将从晶圆制造拓展至先进封装领域。Counterpoint预测，代工2.0市场下半年将维持两位数增长，封装、基板与测试产能将成为扩大AI芯片供给的关键变量。（新浪财经）",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 14:53:44",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "ee177a759e",
+      "ekey": "欧盟",
+      "kind": "topic_line",
+      "title": "“欧盟制造”边界之争折射欧洲产业政策难题",
+      "body": "近日，英国首相伯纳姆表示，将争取让英国在欧盟拟议的“欧盟制造”规则下被视为“可信赖伙伴”。他担心，一旦英国汽车无法享受“欧盟制造”政策待遇，其汽车产业将受到明显冲击。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "“欧盟制造”边界之争折射欧洲产业政策难题",
+          "src": "东方财富",
+          "time": "2026-10-03 07:15:47",
+          "body": "近日，英国首相伯纳姆表示，将争取让英国在欧盟拟议的“欧盟制造”规则下被视为“可信赖伙伴”。他担心，一旦英国汽车无法享受“欧盟制造”政策待遇，其汽车产业将受到明显冲击。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 07:15:47",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "a3b9f46918",
+      "ekey": "诺贝尔物理学奖揭晓在即凝聚态物理",
+      "kind": "event_line",
+      "title": "诺贝尔物理学奖揭晓在即：凝聚态物理研究受关注 薛其坤、叶军等已拿下风向标奖项",
+      "body": "2026年诺贝尔物理学奖最早将于10月6日欧洲中部夏令时间11时45分在瑞典皇家科学院公布。今年物理诺奖将花落谁家？哪些中国科学家或华裔科学家有获奖机会？",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 59.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "诺贝尔物理学奖揭晓在即：凝聚态物理研究受关注 薛其坤、叶军等已拿下风向标奖项",
+          "src": "东方财富",
+          "time": "2026-10-03 07:50:10",
+          "body": "2026年诺贝尔物理学奖最早将于10月6日欧洲中部夏令时间11时45分在瑞典皇家科学院公布。今年物理诺奖将花落谁家？哪些中国科学家或华裔科学家有获奖机会？",
+          "score": 59.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 07:50:10",
+      "rank_score": 38.6
+    },
+    {
+      "eid": "6946ecf844",
+      "ekey": "交所利弗莫尔证券|募债务开放式基金#房地产",
+      "kind": "topic_line",
+      "title": "港股IPO：基汇资本房地产私募债务开放式基金型公司递表港交所",
+      "body": "利弗莫尔证券显示，基汇资本房地产私募债务开放式基金型公司向港交所提交上市申请书，独家保荐人为Jefferies。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "地产/基建",
+        "券商/大金融"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 59.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "房地产",
+      "topicLabel": "地产与楼市",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "港股IPO：基汇资本房地产私募债务开放式基金型公司递表港交所",
+          "src": "东方财富",
+          "time": "2026-10-02 22:46:52",
+          "body": "利弗莫尔证券显示，基汇资本房地产私募债务开放式基金型公司向港交所提交上市申请书，独家保荐人为Jefferies。",
+          "score": 59.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 22:46:52",
+      "rank_score": 38.6
+    },
+    {
+      "eid": "b3269b097c",
+      "ekey": "受冷空气影响北京今明风雨降温来袭",
+      "kind": "event_line",
+      "title": "受冷空气影响北京今明风雨降温来袭 阵风可达7级左右",
+      "body": "今天（10月3日）白天，北京多云有分散性小阵雨，最高气温22℃，公众雨天出行请留意交通安全。受冷空气影响，今天傍晚至明天白天北风较大，阵风可达7级左右，需注意防风，明夜最低气温将降至仅8℃，大家请适时添衣保暖。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "受冷空气影响北京今明风雨降温来袭 阵风可达7级左右",
+          "src": "东方财富",
+          "time": "2026-10-03 07:45:19",
+          "body": "今天（10月3日）白天，北京多云有分散性小阵雨，最高气温22℃，公众雨天出行请留意交通安全。受冷空气影响，今天傍晚至明天白天北风较大，阵风可达7级左右，需注意防风，明夜最低气温将降至仅8℃，大家请适时添衣保暖。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 07:45:19",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "392f28a54b",
+      "ekey": "亿桶能源",
+      "kind": "topic_line",
+      "title": "周六你需要知道的隔夜全球要闻",
+      "body": "周六你需要知道的隔夜全球要闻：沙特计划多线进攻也门胡塞武装，G7将释放1亿桶能源，欧美股市全线上涨，纳指、英伟达盘中再创新高。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "周六你需要知道的隔夜全球要闻",
+          "src": "东方财富",
+          "time": "2026-10-03 06:00:54",
+          "body": "周六你需要知道的隔夜全球要闻：沙特计划多线进攻也门胡塞武装，G7将释放1亿桶能源，欧美股市全线上涨，纳指、英伟达盘中再创新高。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 06:00:54",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "f60beb844f",
+      "ekey": "美联储#美债",
+      "kind": "topic_line",
+      "title": "周五（10月2日） 美联储隔夜逆回购协议（RRP）使用规模为15.01亿美元",
+      "body": "周五（10月2日），美联储隔夜逆回购协议（RRP）使用规模为15.01亿美元。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "周五（10月2日） 美联储隔夜逆回购协议（RRP）使用规模为15.01亿美元",
+          "src": "东方财富",
+          "time": "2026-10-03 01:17:00",
+          "body": "周五（10月2日），美联储隔夜逆回购协议（RRP）使用规模为15.01亿美元。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 01:17:00",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "b64de6fe7d",
+      "ekey": "宁德时代|高盛",
+      "kind": "topic_line",
+      "title": "高盛将宁德时代和正力新能列为中国电池行业重点标的",
+      "body": "高盛将宁德时代和正力新能列为中国电池行业重点标的，并认为随着电动车和储能需求持续增长，行业份额将进一步向具备规模、技术和成本优势的企业集中。其中，宁德时代继续被列为行业首选。高盛认为，公司动力电池业务盈利基础稳固，未来更重要的增量将来自储能及综合能源解决方案；随着业务从单纯销售电芯向系统集成和服务延伸，单项目价值量和利润率有望提升。该行给予宁德时代H股12个月目标价947港元、A股目标价565元。对于正力新能，高盛看好其通过客户扩张、产能利用率提升和储能业务发展继续获取市场份额，并预计其未来EBITDA增速可能位居所覆盖电池企业前列。高盛维持其“买入”评级和9港元目标价。高盛认为，这两家公司分别代表行业龙头继续扩大优势，以及二线厂商加速抢占份额两种增长逻辑。(新浪财经)",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "新能源/锂电",
+        "石油/能源"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 58.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "高盛将宁德时代和正力新能列为中国电池行业重点标的",
+          "src": "同花顺",
+          "time": "2026-10-02 14:36:55",
+          "body": "高盛将宁德时代和正力新能列为中国电池行业重点标的，并认为随着电动车和储能需求持续增长，行业份额将进一步向具备规模、技术和成本优势的企业集中。其中，宁德时代继续被列为行业首选。高盛认为，公司动力电池业务盈利基础稳固，未来更重要的增量将来自储能及综合能源解决方案；随着业务从单纯销售电芯向系统集成和服务延伸，单项目价值量和利润率有望提升。该行给予宁德时代H股12个月目标价947港元、A股目标价565元。对于正力新能，高盛看好其通过客户扩张、产能利用率提升和储能业务发展继续获取市场份额，并预计其未来EBITDA增速可能位居所覆盖电池企业前列。高盛维持其“买入”评级和9港元目标价。高盛认为，这两家公司分别代表行业龙头继续扩大优势，以及二线厂商加速抢占份额两种增长逻辑。(新浪财经)",
+          "score": 58.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 14:36:55",
+      "rank_score": 38.2
+    },
+    {
+      "eid": "e5160ca54b",
+      "ekey": "CMEGroup|的申请芝商所集团",
+      "kind": "topic_line",
+      "title": "芝商所撤回推出全天候10桶原油期货合约的申请",
+      "body": "芝商所集团（CMEGroup）宣布暂停推出原定支持24小时全天候交易的10桶原油期货合约。CME董事长兼首席执行官特里·达菲表示，该产品原本旨在为市场现有的24/7原油合约提供受美国监管的替代选择，但在与行业参与者沟通后，部分重要市场参与者担忧，在未经进一步评估的情况下引入能源期货全天候交易，可能产生意外后果并增加市场风险，因此CME决定撤回相关申请。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "芝商所撤回推出全天候10桶原油期货合约的申请",
+          "src": "东方财富",
+          "time": "2026-10-03 04:04:24",
+          "body": "芝商所集团（CMEGroup）宣布暂停推出原定支持24小时全天候交易的10桶原油期货合约。CME董事长兼首席执行官特里·达菲表示，该产品原本旨在为市场现有的24/7原油合约提供受美国监管的替代选择，但在与行业参与者沟通后，部分重要市场参与者担忧，在未经进一步评估的情况下引入能源期货全天候交易，可能产生意外后果并增加市场风险，因此CME决定撤回相关申请。",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 04:04:24",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "3395e422fa",
+      "ekey": "联合国中东局势或致全球新增万人面",
+      "kind": "event_line",
+      "title": "联合国：中东局势或致全球新增2200万人面临粮食不安全",
+      "body": "当地时间10月2日，联合国妇女署发布报告称，中东地区局势持续紧张导致霍尔木兹海峡航运受阻，推高全球食品价格，并对民众生计造成压力。报告预计，到2026年年底，全球可能新增约2200万人面临粮食不安全状况，其中约53%、即1170万人是女性。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "航运/物流",
+        "消费/白酒",
+        "农业/种业"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "联合国：中东局势或致全球新增2200万人面临粮食不安全",
+          "src": "东方财富",
+          "time": "2026-10-03 00:20:45",
+          "body": "当地时间10月2日，联合国妇女署发布报告称，中东地区局势持续紧张导致霍尔木兹海峡航运受阻，推高全球食品价格，并对民众生计造成压力。报告预计，到2026年年底，全球可能新增约2200万人面临粮食不安全状况，其中约53%、即1170万人是女性。",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 00:20:45",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "4c547fa39d",
+      "ekey": "我国深地油气开发实现关键跨越",
+      "kind": "event_line",
+      "title": "我国深地油气开发实现关键跨越",
+      "body": "10月1日，位于塔克拉玛干沙漠北缘的塔里木油田震探1井完成取芯作业，在地下8080米获取到连续6米的岩芯，这些灰色的石头来自寒武系玉尔吐斯组，已在地下沉睡了5亿年之久。这是塔里木盆地西北缘首次在此深度取出烃源岩。中国石油塔里木油田勘探事业部台盆区勘探项目部主任徐亚南：“这就是宝贝，有了这些宝贵的岩石，我们就可以分析评价8000米之下油气的生成能力，油气的厚度是多少，油气成熟度是什么样子，这也是我们继万米科探井之后又一次在8000米之下取出烃源岩，彰显了我们钻井技术重要进步。”我国深地油气勘探正迎来关键跨越。截至目前，塔里木油田已钻探8000米以深井超270口，占我国总量50%以上，2025年率先完钻我国首口超万米深井-深地塔科1井，超深油气年产量超2000万吨，建成我国最大超深油气生产基地，引领和带动我国深地油气勘探开发相关产业和关键核心技术进步。（央视财经）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "我国深地油气开发实现关键跨越",
+          "src": "同花顺",
+          "time": "2026-10-02 16:37:43",
+          "body": "10月1日，位于塔克拉玛干沙漠北缘的塔里木油田震探1井完成取芯作业，在地下8080米获取到连续6米的岩芯，这些灰色的石头来自寒武系玉尔吐斯组，已在地下沉睡了5亿年之久。这是塔里木盆地西北缘首次在此深度取出烃源岩。中国石油塔里木油田勘探事业部台盆区勘探项目部主任徐亚南：“这就是宝贝，有了这些宝贵的岩石，我们就可以分析评价8000米之下油气的生成能力，油气的厚度是多少，油气成熟度是什么样子，这也是我们继万米科探井之后又一次在8000米之下取出烃源岩，彰显了我们钻井技术重要进步。”我国深地油气勘探正迎来关键跨越。截至目前，塔里木油田已钻探8000米以深井超270口，占我国总量50%以上，2025年率先完钻我国首口超万米深井-深地塔科1井，超深油气年产量超2000万吨，建成我国最大超深油气生产基地，引领和带动我国深地油气勘探开发相关产业和关键核心技术进步。（央视财经）",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 16:37:43",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "87c19dde36",
+      "ekey": "国庆假期首日海南离岛免税购物金额",
+      "kind": "event_line",
+      "title": "国庆假期首日，海南离岛免税购物金额超1亿元",
+      "body": "据海口海关统计，今年国庆假期首日，海南离岛免税购物金额达1.07亿元，共有1.89万人次参与离岛免税购物，累计购买离岛免税商品8.30万件。离岛免税购物金额、人数、件数同比分别增长21.17%、13.81%、11.24%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 57.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国庆假期首日，海南离岛免税购物金额超1亿元",
+          "src": "同花顺",
+          "time": "2026-10-02 16:34:33",
+          "body": "据海口海关统计，今年国庆假期首日，海南离岛免税购物金额达1.07亿元，共有1.89万人次参与离岛免税购物，累计购买离岛免税商品8.30万件。离岛免税购物金额、人数、件数同比分别增长21.17%、13.81%、11.24%。",
+          "score": 57.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 16:34:33",
+      "rank_score": 37.8
+    },
+    {
+      "eid": "01d90bf889",
+      "ekey": "拧紧智能体支付应用安全阀",
+      "kind": "event_line",
+      "title": "拧紧智能体支付应用“安全阀”",
+      "body": "对着手机说一句“帮我订一张下午两点的电影票，顺路买一杯冰美式咖啡”，话音落下不过数秒，选座、比价、下单便全部完成。这不是科幻电影里的桥段，而是智能体支付走进现实的日常。当人工智能从“出主意的参谋”变成“能花钱的助手”，一个问题始终悬在用户心头：我的钱，人工智能真的能管住吗？",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "拧紧智能体支付应用“安全阀”",
+          "src": "东方财富",
+          "time": "2026-10-03 07:05:31",
+          "body": "对着手机说一句“帮我订一张下午两点的电影票，顺路买一杯冰美式咖啡”，话音落下不过数秒，选座、比价、下单便全部完成。这不是科幻电影里的桥段，而是智能体支付走进现实的日常。当人工智能从“出主意的参谋”变成“能花钱的助手”，一个问题始终悬在用户心头：我的钱，人工智能真的能管住吗？",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 07:05:31",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "493dd9275d",
+      "ekey": "国际贵金属期货普遍收跌COMEX",
+      "kind": "event_line",
+      "title": "国际贵金属期货普遍收跌 COMEX黄金期货跌0.72%",
+      "body": "国际贵金属期货普遍收跌，COMEX黄金期货跌0.72%，报4172.1美元/盎司，本周累跌3.45%；COMEX白银期货跌0.76%，报60.71美元/盎司，本周累跌6.31%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "黄金/贵金属"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 56.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国际贵金属期货普遍收跌 COMEX黄金期货跌0.72%",
+          "src": "东方财富",
+          "time": "2026-10-03 05:08:18",
+          "body": "国际贵金属期货普遍收跌，COMEX黄金期货跌0.72%，报4172.1美元/盎司，本周累跌3.45%；COMEX白银期货跌0.76%，报60.71美元/盎司，本周累跌6.31%。",
+          "score": 56.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 05:08:18",
+      "rank_score": 37.4
+    },
+    {
+      "eid": "20adcaae5e",
+      "ekey": "国际原油期货结算价收跌",
+      "kind": "event_line",
+      "title": "国际原油期货结算价收跌",
+      "body": "国际原油期货结算价收跌。WTI原油期货11月合约跌1.9%，报91.11美元/桶，本周累跌1.4%。布伦特原油期货12月合约跌0.06%，报102.25美元/桶。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 56.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国际原油期货结算价收跌",
+          "src": "东方财富",
+          "time": "2026-10-03 02:31:21",
+          "body": "国际原油期货结算价收跌。WTI原油期货11月合约跌1.9%，报91.11美元/桶，本周累跌1.4%。布伦特原油期货12月合约跌0.06%，报102.25美元/桶。",
+          "score": 56.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 02:31:21",
+      "rank_score": 37.4
+    },
+    {
+      "eid": "279a1f21ce",
+      "ekey": "美国非农数据公布后比特币一度升至",
+      "kind": "event_line",
+      "title": "美国非农数据公布后 比特币一度升至87000美元",
+      "body": "美国非农数据公布后，比特币拉升，一度升至87000美元，现回落至86700美元，日内上涨超3%。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 55.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国非农数据公布后 比特币一度升至87000美元",
+          "src": "同花顺",
+          "time": "2026-10-02 20:56:28",
+          "body": "美国非农数据公布后，比特币拉升，一度升至87000美元，现回落至86700美元，日内上涨超3%。",
+          "score": 55.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 20:56:28",
+      "rank_score": 37.0
+    },
+    {
+      "eid": "b066daaa26",
+      "ekey": "现货白银日内跌幅扩大至",
+      "kind": "event_line",
+      "title": "现货白银日内跌幅扩大至2%",
+      "body": "现货白银日内跌幅扩大至2%，现报59.76美元/盎司。现货黄金同步走低，现跌1.12%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "黄金/贵金属"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "现货白银日内跌幅扩大至2%",
+          "src": "东方财富",
+          "time": "2026-10-02 23:56:47",
+          "body": "现货白银日内跌幅扩大至2%，现报59.76美元/盎司。现货黄金同步走低，现跌1.12%。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 23:56:47",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "9e54322dbc",
+      "ekey": "阿拉曼非洲论坛聚焦非洲经济一体化",
+      "kind": "event_line",
+      "title": "阿拉曼非洲论坛聚焦非洲经济一体化",
+      "body": "首届阿拉曼非洲论坛2日在埃及阿拉曼新城开幕。论坛聚焦非洲经济一体化，旨在为非洲国家提供有影响力的高规格平台，加强具体项目和实际成果转化。本次论坛由埃及政府、非洲进出口银行和非洲联盟发展署共同举办。来自非洲多国政府、国际和地区金融机构、公共部门及私营企业的约1500名代表参加。论坛议题涵盖基础设施、贸易、关键矿产、数字创新、医疗健康以及新兴产业等领域。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "阿拉曼非洲论坛聚焦非洲经济一体化",
+          "src": "东方财富",
+          "time": "2026-10-02 23:32:18",
+          "body": "首届阿拉曼非洲论坛2日在埃及阿拉曼新城开幕。论坛聚焦非洲经济一体化，旨在为非洲国家提供有影响力的高规格平台，加强具体项目和实际成果转化。本次论坛由埃及政府、非洲进出口银行和非洲联盟发展署共同举办。来自非洲多国政府、国际和地区金融机构、公共部门及私营企业的约1500名代表参加。论坛议题涵盖基础设施、贸易、关键矿产、数字创新、医疗健康以及新兴产业等领域。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 23:32:18",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "efcadbc518",
+      "ekey": "河北实施省级耕地保护经济奖励机制",
+      "kind": "event_line",
+      "title": "河北实施省级耕地保护经济奖励机制",
+      "body": "（来源：河北新闻网）转自：河北新闻网河北日报讯（苑立立、姜慧婕）耕地是粮食生产的命根子。为落实最严格的耕地保护制度，充分调动各地保护耕地的积极性和主动性...",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "农业/种业"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T2",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "河北实施省级耕地保护经济奖励机制",
+          "src": "新浪财经",
+          "time": "2026-10-03 07:31:10",
+          "body": "（来源：河北新闻网）转自：河北新闻网河北日报讯（苑立立、姜慧婕）耕地是粮食生产的命根子。为落实最严格的耕地保护制度，充分调动各地保护耕地的积极性和主动性...",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 07:31:10",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "7c7e49ca7f",
+      "ekey": "以色列中央选举委员会要求国家安全",
+      "kind": "event_line",
+      "title": "以色列中央选举委员会要求国家安全部长删除争议视频",
+      "body": "据多家以色列媒体报道，以色列中央选举委员会2日要求国家安全部长本-格维尔删除其发布在社交媒体上一段引发争议的视频。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "以色列中央选举委员会要求国家安全部长删除争议视频",
+          "src": "东方财富",
+          "time": "2026-10-02 23:33:37",
+          "body": "据多家以色列媒体报道，以色列中央选举委员会2日要求国家安全部长本-格维尔删除其发布在社交媒体上一段引发争议的视频。",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 23:33:37",
+      "rank_score": 36.2
+    },
+    {
+      "eid": "3f373968f6",
+      "ekey": "江龙芯电驱动科技",
+      "kind": "topic_line",
+      "title": "吴兴：订单旺 市场热",
+      "body": "国庆假期，浙江龙芯电驱动科技有限公司的车间里灯光明亮。一件件产品接连下线，现场涌动着抢进度、赶订单的忙碌气息。今年1—8月，该企业销售额同比增长400%...",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "吴兴：订单旺 市场热",
+          "src": "新浪财经",
+          "time": "2026-10-03 08:00:00",
+          "body": "国庆假期，浙江龙芯电驱动科技有限公司的车间里灯光明亮。一件件产品接连下线，现场涌动着抢进度、赶订单的忙碌气息。今年1—8月，该企业销售额同比增长400%...",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 08:00:00",
+      "rank_score": 36.2
+    },
+    {
+      "eid": "7f57090708",
+      "ekey": "特朗普",
+      "kind": "topic_line",
+      "title": "据韩国媒体报道 韩国产业通商资源部官员表示 美国总统特朗普提到的84亿美元石油项目并非韩美协议的一部分",
+      "body": "据韩国媒体报道，韩国产业通商资源部官员表示，美国总统特朗普提到的84亿美元石油项目并非韩美协议的一部分。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "据韩国媒体报道 韩国产业通商资源部官员表示 美国总统特朗普提到的84亿美元石油项目并非韩美协议的一部分",
+          "src": "东方财富",
+          "time": "2026-10-02 22:53:10",
+          "body": "据韩国媒体报道，韩国产业通商资源部官员表示，美国总统特朗普提到的84亿美元石油项目并非韩美协议的一部分。",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 22:53:10",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "英伟达股价突破5月高点刷新历史新高 市值重返5.7万亿美元",
+      "body": "英伟达股价盘中持续走高，突破今年5月创下的前期历史高点，刷新历史新高，总市值重返5.7万亿美元。截至发稿，英伟达涨2.34%，报236.26美元。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "英伟达股价突破5月高点刷新历史新高 市值重返5.7万亿美元",
+          "src": "同花顺",
+          "time": "2026-10-02 21:41:57",
+          "body": "英伟达股价盘中持续走高，突破今年5月创下的前期历史高点，刷新历史新高，总市值重返5.7万亿美元。截至发稿，英伟达涨2.34%，报236.26美元。",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 21:41:57",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "dd8c6c48ea",
+      "ekey": "欧洲主要股指开盘集体上涨",
+      "kind": "event_line",
+      "title": "欧洲主要股指开盘集体上涨",
+      "body": "欧洲主要股指开盘集体上涨，欧洲斯托克50指数涨0.33%，英国富时100指数涨0.19%，法国CAC40指数涨0.13%，德国DAX指数涨0.25%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "欧洲主要股指开盘集体上涨",
+          "src": "同花顺",
+          "time": "2026-10-02 15:02:33",
+          "body": "欧洲主要股指开盘集体上涨，欧洲斯托克50指数涨0.33%，英国富时100指数涨0.19%，法国CAC40指数涨0.13%，德国DAX指数涨0.25%。",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 15:02:33",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "3fb1441dde",
+      "ekey": "加拿大拟建石油运输管道降低对美依",
+      "kind": "event_line",
+      "title": "加拿大拟建石油运输管道降低对美依赖",
+      "body": "加拿大政府1日将一条拟修建的西海岸石油管道改名为“太平洋联线管道”，并将其列为“国家利益”项目，预计该项目将大幅降低加石油通过管道运输的对美依赖。据加拿大枢密院指令说明文件，结合跨山输油管道系统的优化，该项目带来的出口能力提升有望将加拿大对美国石油管道外输的依赖度从2025年约82%-83%降至65%-70%，还有望使加拿大重质原油与西得克萨斯轻质原油之间的每桶价差缩小3至5美元。文件显示，加拿大对美国主导的石油出口基础设施具有结构性依赖。文件还显示，“太平洋联线管道”全长约1250公里，起点为艾伯塔省的布鲁德海姆，终点为不列颠哥伦比亚省德尔塔附近的深水港，建成后每天可增加100万桶原油出口能力，特别是加大对亚太市场的出口。项目预计耗资352亿至437亿加元（约合247亿至307亿美元）。(新华社)",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "加拿大拟建石油运输管道降低对美依赖",
+          "src": "同花顺",
+          "time": "2026-10-02 14:57:19",
+          "body": "加拿大政府1日将一条拟修建的西海岸石油管道改名为“太平洋联线管道”，并将其列为“国家利益”项目，预计该项目将大幅降低加石油通过管道运输的对美依赖。据加拿大枢密院指令说明文件，结合跨山输油管道系统的优化，该项目带来的出口能力提升有望将加拿大对美国石油管道外输的依赖度从2025年约82%-83%降至65%-70%，还有望使加拿大重质原油与西得克萨斯轻质原油之间的每桶价差缩小3至5美元。文件显示，加拿大对美国主导的石油出口基础设施具有结构性依赖。文件还显示，“太平洋联线管道”全长约1250公里，起点为艾伯塔省的布鲁德海姆，终点为不列颠哥伦比亚省德尔塔附近的深水港，建成后每天可增加100万桶原油出口能力，特别是加大对亚太市场的出口。项目预计耗资352亿至437亿加元（约合247亿至307亿美元）。(新华社)",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 14:57:19",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "0e4df4d054",
+      "ekey": "离岸人民币兑美元较周四纽约尾盘涨",
+      "kind": "event_line",
+      "title": "离岸人民币兑美元较周四纽约尾盘涨84点",
+      "body": "周五（10月2日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7058元，较周四纽约尾盘涨84点，日内整体交投于6.7192-6.7008元区间。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "离岸人民币兑美元较周四纽约尾盘涨84点",
+          "src": "东方财富",
+          "time": "2026-10-03 05:06:57",
+          "body": "周五（10月2日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7058元，较周四纽约尾盘涨84点，日内整体交投于6.7192-6.7008元区间。",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 05:06:57",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "35ec85935a",
+      "ekey": "俄罗斯二季度GDP同比终值增长初",
+      "kind": "event_line",
+      "title": "俄罗斯二季度GDP同比终值增长1.3% 初值增长1.3%",
+      "body": "俄罗斯二季度GDP同比终值增长1.3%，初值增长1.3%。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "俄乌",
+      "topicLabel": "俄乌局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "俄罗斯二季度GDP同比终值增长1.3% 初值增长1.3%",
+          "src": "东方财富",
+          "time": "2026-10-03 00:02:02",
+          "body": "俄罗斯二季度GDP同比终值增长1.3%，初值增长1.3%。",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 00:02:02",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "481748d0c1",
+      "ekey": "国庆假期第二天出游热度不减湖南接",
+      "kind": "event_line",
+      "title": "国庆假期第二天出游热度不减 湖南接待游客近1295万人次",
+      "body": "长沙晚报10月2日讯（全媒体记者 宁莎鸥）国庆假期进入第二天，尽管湖南多地飘起了小雨，但游客的出游热情不减。根据手机信令大数据建模统计，全省当日接待游客1294...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国庆假期第二天出游热度不减 湖南接待游客近1295万人次",
+          "src": "新浪财经",
+          "time": "2026-10-03 07:21:00",
+          "body": "长沙晚报10月2日讯（全媒体记者 宁莎鸥）国庆假期进入第二天，尽管湖南多地飘起了小雨，但游客的出游热情不减。根据手机信令大数据建模统计，全省当日接待游客1294...",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 07:21:00",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "7f57090708",
+      "ekey": "特朗普",
+      "kind": "topic_line",
+      "title": "美国总统特朗普：将很快用委内瑞拉石油填满战略石油储备",
+      "body": "美国总统特朗普表示，将很快用委内瑞拉石油填满战略石油储备。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 51.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国总统特朗普：将很快用委内瑞拉石油填满战略石油储备",
+          "src": "东方财富",
+          "time": "2026-10-03 08:19:34",
+          "body": "美国总统特朗普表示，将很快用委内瑞拉石油填满战略石油储备。",
+          "score": 51.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 08:19:34",
+      "rank_score": 35.6
+    },
+    {
+      "eid": "6ff3a1d23b",
+      "ekey": "A级及以上景区接待游客万人次国庆",
+      "kind": "event_line",
+      "title": "4A级及以上景区接待游客451.7万人次！国庆假期第二天广东文旅市场热度攀升",
+      "body": "10月2日是国庆假期第二天。据初步测算，全省4A级及以上景区接待游客451.7万人次，同比增长4.9%；纳入监测的14段古驿道沿线重点区域接待游客62.8万人次，同比增长1...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 51.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "4A级及以上景区接待游客451.7万人次！国庆假期第二天广东文旅市场热度攀升",
+          "src": "新浪财经",
+          "time": "2026-10-03 07:25:00",
+          "body": "10月2日是国庆假期第二天。据初步测算，全省4A级及以上景区接待游客451.7万人次，同比增长4.9%；纳入监测的14段古驿道沿线重点区域接待游客62.8万人次，同比增长1...",
+          "score": 51.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 07:25:00",
+      "rank_score": 35.4
+    },
+    {
+      "eid": "d6b6f66138",
+      "ekey": "摩根士丹利|英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "摩根士丹利将英伟达列为其首选半导体股",
+      "body": "摩根士丹利重新将英伟达列为其首选半导体股，理由是英伟达拥有强劲的市场地位，且估值具有吸引力。目前，英伟达股价对应摩根士丹利对其2028财年盈利预期的市盈率约为15倍，与此同时，市场对其盈利的预期仍在不断上调。摩根士丹利表示，人工智能产业的瓶颈正从芯片供应转向数据中心建设和融资；与此同时，英伟达拥有广泛的全球客户基础，因此能够灵活地根据可获得的电力容量拓展业务。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件",
+        "算力/数据中心"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 51.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "摩根士丹利将英伟达列为其首选半导体股",
+          "src": "同花顺",
+          "time": "2026-10-02 19:55:53",
+          "body": "摩根士丹利重新将英伟达列为其首选半导体股，理由是英伟达拥有强劲的市场地位，且估值具有吸引力。目前，英伟达股价对应摩根士丹利对其2028财年盈利预期的市盈率约为15倍，与此同时，市场对其盈利的预期仍在不断上调。摩根士丹利表示，人工智能产业的瓶颈正从芯片供应转向数据中心建设和融资；与此同时，英伟达拥有广泛的全球客户基础，因此能够灵活地根据可获得的电力容量拓展业务。",
+          "score": 51.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 19:55:53",
+      "rank_score": 35.4
+    },
+    {
+      "eid": "26129c9c77",
+      "ekey": "泽连斯基称乌打击俄多地石油设施",
+      "kind": "event_line",
+      "title": "泽连斯基称乌打击俄多地石油设施",
+      "body": "当地时间10月2日，乌克兰总统泽连斯基表示，乌克兰正以远程打击回应俄罗斯的“升级行动”。泽连斯基当天在社交媒体上说，过去24小时，乌军打击了俄罗斯萨马拉州和伏尔加格勒州的石油设施。此外，乌方还在黑海以及俄罗斯沃罗涅日州、下诺夫哥罗德州、伏尔加格勒州、萨马拉州和克拉斯诺达尔边疆区，对机场、企业、炼油厂、导弹航天中心和弹药库等目标实施了打击。乌克兰国家安全局、乌克兰国防部情报总局、乌克兰无人系统部队、乌克兰特种作战部队和乌克兰对外情报局参与相关行动。当天稍早前，乌克兰基辅市军政管理部门通报称，俄军当天袭击了基辅市达尔尼茨基区一栋25层住宅楼，截至目前袭击已造成1人死亡、2人受伤，住宅楼受损。（央视新闻）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防",
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 51.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "泽连斯基称乌打击俄多地石油设施",
+          "src": "同花顺",
+          "time": "2026-10-02 17:20:49",
+          "body": "当地时间10月2日，乌克兰总统泽连斯基表示，乌克兰正以远程打击回应俄罗斯的“升级行动”。泽连斯基当天在社交媒体上说，过去24小时，乌军打击了俄罗斯萨马拉州和伏尔加格勒州的石油设施。此外，乌方还在黑海以及俄罗斯沃罗涅日州、下诺夫哥罗德州、伏尔加格勒州、萨马拉州和克拉斯诺达尔边疆区，对机场、企业、炼油厂、导弹航天中心和弹药库等目标实施了打击。乌克兰国家安全局、乌克兰国防部情报总局、乌克兰无人系统部队、乌克兰特种作战部队和乌克兰对外情报局参与相关行动。当天稍早前，乌克兰基辅市军政管理部门通报称，俄军当天袭击了基辅市达尔尼茨基区一栋25层住宅楼，截至目前袭击已造成1人死亡、2人受伤，住宅楼受损。（央视新闻）",
+          "score": 51.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-02 17:20:49",
+      "rank_score": 35.4
+    },
+    {
+      "eid": "506825cb25",
+      "ekey": "意大利将年赤字占GDP比率目标定",
+      "kind": "event_line",
+      "title": "意大利将2026年赤字占GDP比率目标定为2.9% 与4月预测保持不变",
+      "body": "意大利将2026年赤字占GDP比率目标定为2.9%，与4月预测保持不变。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 50.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "意大利将2026年赤字占GDP比率目标定为2.9% 与4月预测保持不变",
+          "src": "东方财富",
+          "time": "2026-10-03 03:51:53",
+          "body": "意大利将2026年赤字占GDP比率目标定为2.9%，与4月预测保持不变。",
+          "score": 50.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-03 03:51:53",
+      "rank_score": 35.2
+    }
+  ],
+  "topics": [
+    {
+      "topic": "AI芯片",
+      "label": "AI 芯片与算力",
+      "count": 6,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 6.0,
+      "eids": [
+        "22fa1242af",
+        "301108295e",
+        "22fa1242af",
+        "1396f9d717",
+        "22fa1242af",
+        "d6b6f66138"
+      ],
+      "lead": "美股收盘：三大指数集体收涨 纳指、英伟达盘中再创新高",
+      "events": [
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "美股收盘：三大指数集体收涨 纳指、英伟达盘中再创新高",
+          "body": "美股三大指数集体收涨，纳指涨1.19%，标普500指数涨0.74%，道指涨0.49%。其中，纳指盘中再创新高。大型科技股多数上涨，SpaceX涨超7%，特斯拉涨超4%，谷歌、英伟达涨超1%。其中，英伟达盘中再创新高。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "汽车/智能驾驶"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 67.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股收盘：三大指数集体收涨 纳指、英伟达盘中再创新高",
+              "src": "东方财富",
+              "time": "2026-10-03 04:00:51",
+              "body": "美股三大指数集体收涨，纳指涨1.19%，标普500指数涨0.74%，道指涨0.49%。其中，纳指盘中再创新高。大型科技股多数上涨，SpaceX涨超7%，特斯拉涨超4%，谷歌、英伟达涨超1%。其中，英伟达盘中再创新高。",
+              "score": 67.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-03 04:00:51",
+          "rank_score": 42.0
+        },
+        {
+          "eid": "301108295e",
+          "ekey": "博通|英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "费城半导体指数日内涨3%",
+          "body": "费城半导体指数日内涨3.01%，现报13215.21点。英伟达涨2.77%，博通涨2.76%，美光跌0.16%，英特尔涨3.43%，AMD涨3.78%，高通涨1.96%，台积电涨1.94%，阿斯麦涨3.01%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T2",
+          "score": 61.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "费城半导体指数日内涨3%",
+              "src": "同花顺",
+              "time": "2026-10-02 21:46:49",
+              "body": "费城半导体指数日内涨3.01%，现报13215.21点。英伟达涨2.77%，博通涨2.76%，美光跌0.16%，英特尔涨3.43%，AMD涨3.78%，高通涨1.96%，台积电涨1.94%，阿斯麦涨3.01%。",
+              "score": 61.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 21:46:49",
+          "rank_score": 39.6
+        },
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "英伟达宣布将推出DGX SPARK 64GB配置",
+          "body": "英伟达宣布，DGX SPARK 64GB配置将于本月起通过主要合作伙伴推出。该设备可在本地运行最高1000亿参数的AI模型。DGX SPARK 64GB将于10月23日起通过主要合作伙伴发售，起售价为4999美元。(财联社)",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T2",
+          "score": 61.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "英伟达宣布将推出DGX SPARK 64GB配置",
+              "src": "同花顺",
+              "time": "2026-10-02 21:07:18",
+              "body": "英伟达宣布，DGX SPARK 64GB配置将于本月起通过主要合作伙伴推出。该设备可在本地运行最高1000亿参数的AI模型。DGX SPARK 64GB将于10月23日起通过主要合作伙伴发售，起售价为4999美元。(财联社)",
+              "score": 61.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 21:07:18",
+          "rank_score": 39.6
+        },
+        {
+          "eid": "1396f9d717",
+          "ekey": "三星|也让三星电子#AI芯片",
+          "kind": "topic_line",
+          "title": "机构：AI芯片需求带动晶圆代工2.0市场增长",
+          "body": "人工智能芯片需求激增，也让三星电子的晶圆代工业务受益。目前AI芯片产能高度集中于台积电，越来越多客户寻求分散订单，助力三星电子稳住全球晶圆代工市场第二名的位置。市场研究机构Counterpoint于30日发布数据，今年二季度三星电子占据全球晶圆代工市场约4%份额，仅次于台积电。公司4纳米与5纳米工艺（SF4、SF5制程）需求旺盛，叠加晶圆价格上涨，支撑了该业绩。不过三星与台积电之间差距依旧巨大。台积电二季度营收402亿美元（约合54万亿韩元），同比增长34%，约占整个代工2.0市场的42%。Counterpoint表示，三星电子与英特尔正在承接客户寻找备选供应商带来的订单，但在先进制程产能、良率以及先进封装能力方面，二者仍难以替代台积电。行业竞争重心预计将从晶圆制造拓展至先进封装领域。Counterpoint预测，代工2.0市场下半年将维持两位数增长，封装、基板与测试产能将成为扩大AI芯片供给的关键变量。（新浪财经）",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T2",
+          "score": 60.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "机构：AI芯片需求带动晶圆代工2.0市场增长",
+              "src": "同花顺",
+              "time": "2026-10-02 14:53:44",
+              "body": "人工智能芯片需求激增，也让三星电子的晶圆代工业务受益。目前AI芯片产能高度集中于台积电，越来越多客户寻求分散订单，助力三星电子稳住全球晶圆代工市场第二名的位置。市场研究机构Counterpoint于30日发布数据，今年二季度三星电子占据全球晶圆代工市场约4%份额，仅次于台积电。公司4纳米与5纳米工艺（SF4、SF5制程）需求旺盛，叠加晶圆价格上涨，支撑了该业绩。不过三星与台积电之间差距依旧巨大。台积电二季度营收402亿美元（约合54万亿韩元），同比增长34%，约占整个代工2.0市场的42%。Counterpoint表示，三星电子与英特尔正在承接客户寻找备选供应商带来的订单，但在先进制程产能、良率以及先进封装能力方面，二者仍难以替代台积电。行业竞争重心预计将从晶圆制造拓展至先进封装领域。Counterpoint预测，代工2.0市场下半年将维持两位数增长，封装、基板与测试产能将成为扩大AI芯片供给的关键变量。（新浪财经）",
+              "score": 60.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 14:53:44",
+          "rank_score": 39.0
+        },
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "英伟达股价突破5月高点刷新历史新高 市值重返5.7万亿美元",
+          "body": "英伟达股价盘中持续走高，突破今年5月创下的前期历史高点，刷新历史新高，总市值重返5.7万亿美元。截至发稿，英伟达涨2.34%，报236.26美元。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T2",
+          "score": 52.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "英伟达股价突破5月高点刷新历史新高 市值重返5.7万亿美元",
+              "src": "同花顺",
+              "time": "2026-10-02 21:41:57",
+              "body": "英伟达股价盘中持续走高，突破今年5月创下的前期历史高点，刷新历史新高，总市值重返5.7万亿美元。截至发稿，英伟达涨2.34%，报236.26美元。",
+              "score": 52.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 21:41:57",
+          "rank_score": 36.0
+        },
+        {
+          "eid": "d6b6f66138",
+          "ekey": "摩根士丹利|英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "摩根士丹利将英伟达列为其首选半导体股",
+          "body": "摩根士丹利重新将英伟达列为其首选半导体股，理由是英伟达拥有强劲的市场地位，且估值具有吸引力。目前，英伟达股价对应摩根士丹利对其2028财年盈利预期的市盈率约为15倍，与此同时，市场对其盈利的预期仍在不断上调。摩根士丹利表示，人工智能产业的瓶颈正从芯片供应转向数据中心建设和融资；与此同时，英伟达拥有广泛的全球客户基础，因此能够灵活地根据可获得的电力容量拓展业务。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件",
+            "算力/数据中心"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T2",
+          "score": 51.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "摩根士丹利将英伟达列为其首选半导体股",
+              "src": "同花顺",
+              "time": "2026-10-02 19:55:53",
+              "body": "摩根士丹利重新将英伟达列为其首选半导体股，理由是英伟达拥有强劲的市场地位，且估值具有吸引力。目前，英伟达股价对应摩根士丹利对其2028财年盈利预期的市盈率约为15倍，与此同时，市场对其盈利的预期仍在不断上调。摩根士丹利表示，人工智能产业的瓶颈正从芯片供应转向数据中心建设和融资；与此同时，英伟达拥有广泛的全球客户基础，因此能够灵活地根据可获得的电力容量拓展业务。",
+              "score": 51.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 19:55:53",
+          "rank_score": 35.4
+        }
+      ]
+    },
+    {
+      "topic": "美联储利率",
+      "label": "美联储动向",
+      "count": 6,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 6.0,
+      "eids": [
+        "4d8898be44",
+        "4d8898be44",
+        "18ebca3b10",
+        "072f70b129",
+        "4d8898be44",
+        "f60beb844f"
+      ],
+      "lead": "美联储加息预期降温 纳指高开1.2%",
+      "events": [
+        {
+          "eid": "4d8898be44",
+          "ekey": "美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "美联储加息预期降温 纳指高开1.2%",
+          "body": "非农表现疲软，美联储加息预期降温，美股三大指数集体高开，纳指涨1.22%，道指涨0.63%，标普500指数涨0.85%。“科技七巨头”集体高开，苹果涨0.87%，特斯拉涨1.6%，微软涨1.45%，亚马逊涨1.7%，英伟达涨2.3%，谷歌涨1.3%，Meta涨1.3%。HDD股票大幅低开，希捷科技跌超15%，西部数据跌超9%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "半导体/AI芯片",
+            "汽车/智能驾驶"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1",
+          "score": 65.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储加息预期降温 纳指高开1.2%",
+              "src": "同花顺",
+              "time": "2026-10-02 21:32:51",
+              "body": "非农表现疲软，美联储加息预期降温，美股三大指数集体高开，纳指涨1.22%，道指涨0.63%，标普500指数涨0.85%。“科技七巨头”集体高开，苹果涨0.87%，特斯拉涨1.6%，微软涨1.45%，亚马逊涨1.7%，英伟达涨2.3%，谷歌涨1.3%，Meta涨1.3%。HDD股票大幅低开，希捷科技跌超15%，西部数据跌超9%。",
+              "score": 65.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 21:32:51",
+          "rank_score": 41.2
+        },
+        {
+          "eid": "4d8898be44",
+          "ekey": "美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "美联储古尔斯比：就加息或按兵不动而言 任何选项均有充分空间",
+          "body": "美联储古尔斯比表示，就加息或按兵不动而言，任何选项均有充分空间；劳动力市场保持稳定，美联储职责中通胀方面更为重要；美联储会关注是否有证据表明通胀回到2%的水平。并表示，不会对一个月的数据做出强烈反应，不排除在下次利率会议上做出任何决定。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bear",
+          "sectors": [],
+          "ctypeName": "海外宏观",
+          "tier": "T1",
+          "score": 64.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储古尔斯比：就加息或按兵不动而言 任何选项均有充分空间",
+              "src": "东方财富",
+              "time": "2026-10-03 01:05:33",
+              "body": "美联储古尔斯比表示，就加息或按兵不动而言，任何选项均有充分空间；劳动力市场保持稳定，美联储职责中通胀方面更为重要；美联储会关注是否有证据表明通胀回到2%的水平。并表示，不会对一个月的数据做出强烈反应，不排除在下次利率会议上做出任何决定。",
+              "score": 64.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-03 01:05:33",
+          "rank_score": 40.8
+        },
+        {
+          "eid": "18ebca3b10",
+          "ekey": "拉斯联邦储备银行|美联储#全球债市",
+          "kind": "topic_line",
+          "title": "达拉斯联储行长称需再升息至少50个基点，美债收益率上扬或助经济降温",
+          "body": "达拉斯联邦储备银行行长Lorie Logan表示，美联储必须继续提高利率才能彻底抑制通胀，并暗示美国国债收益率上升，也可能有助于为经济降温。Logan周四在为达拉斯联邦储备银行一场活动预备的讲稿中表示，“我目前估计，目标利率区间需要再上调50个基点或更多，才能适当平衡双重使命目标的前景与风险”。在加入达拉斯联邦储备银行之前，Logan曾在纽约联储银行市场部门任职逾20年。她也提到，过去几周美国国债收益率大幅攀升。她表示，市场人士告诉她，这波涨势起初源于市场预期经济增长强劲，以及美联储的中性利率可能更高；但目前模型显示，期限溢价也正在上升。所谓期限溢价，是指投资人持有较长天期而非较短天期债券所要求的额外报酬。（新浪财经）",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bull",
+          "sectors": [
+            "券商/大金融"
+          ],
+          "ctypeName": "海外宏观",
+          "tier": "T2",
+          "score": 63.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "达拉斯联储行长称需再升息至少50个基点，美债收益率上扬或助经济降温",
+              "src": "同花顺",
+              "time": "2026-10-02 14:46:21",
+              "body": "达拉斯联邦储备银行行长Lorie Logan表示，美联储必须继续提高利率才能彻底抑制通胀，并暗示美国国债收益率上升，也可能有助于为经济降温。Logan周四在为达拉斯联邦储备银行一场活动预备的讲稿中表示，“我目前估计，目标利率区间需要再上调50个基点或更多，才能适当平衡双重使命目标的前景与风险”。在加入达拉斯联邦储备银行之前，Logan曾在纽约联储银行市场部门任职逾20年。她也提到，过去几周美国国债收益率大幅攀升。她表示，市场人士告诉她，这波涨势起初源于市场预期经济增长强劲，以及美联储的中性利率可能更高；但目前模型显示，期限溢价也正在上升。所谓期限溢价，是指投资人持有较长天期而非较短天期债券所要求的额外报酬。（新浪财经）",
+              "score": 63.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 14:46:21",
+          "rank_score": 40.4
+        },
+        {
+          "eid": "072f70b129",
+          "ekey": "Kalshi|美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "非农就业数据不及预期后，美联储维持利率不变概率飙升至85%",
+          "body": "Kalshi 预测市场目前定价：美联储 10 月按兵不动的概率达 85%。本次非农就业仅新增 2.9 万人，而市场预期为 8.4 万人。失业率攀升至 4.2%，引发市场对美联储政策前景的大幅鸽派重定价。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "neutral",
+          "sectors": [],
+          "ctypeName": "经济数据",
+          "tier": "T1",
+          "score": 61.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "非农就业数据不及预期后，美联储维持利率不变概率飙升至85%",
+              "src": "同花顺",
+              "time": "2026-10-02 20:38:50",
+              "body": "Kalshi 预测市场目前定价：美联储 10 月按兵不动的概率达 85%。本次非农就业仅新增 2.9 万人，而市场预期为 8.4 万人。失业率攀升至 4.2%，引发市场对美联储政策前景的大幅鸽派重定价。",
+              "score": 61.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 20:38:50",
+          "rank_score": 39.4
+        },
+        {
+          "eid": "4d8898be44",
+          "ekey": "美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "美联储12月加息概率为72.6%",
+          "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为86.2%，累计加息25个基点的概率为13.8%。美联储到12月维持利率不变的概率为27.4%，累计加息25个基点的概率63.1%，累计加息50个基点的概率为9.4%。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bear",
+          "sectors": [],
+          "ctypeName": "海外宏观",
+          "tier": "T2",
+          "score": 60.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储12月加息概率为72.6%",
+              "src": "同花顺",
+              "time": "2026-10-02 20:52:21",
+              "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为86.2%，累计加息25个基点的概率为13.8%。美联储到12月维持利率不变的概率为27.4%，累计加息25个基点的概率63.1%，累计加息50个基点的概率为9.4%。",
+              "score": 60.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 20:52:21",
+          "rank_score": 39.0
+        },
+        {
+          "eid": "f60beb844f",
+          "ekey": "美联储#美债",
+          "kind": "topic_line",
+          "title": "周五（10月2日） 美联储隔夜逆回购协议（RRP）使用规模为15.01亿美元",
+          "body": "周五（10月2日），美联储隔夜逆回购协议（RRP）使用规模为15.01亿美元。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bull",
+          "sectors": [],
+          "ctypeName": "政策发布",
+          "tier": "T1.5",
+          "score": 58.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "周五（10月2日） 美联储隔夜逆回购协议（RRP）使用规模为15.01亿美元",
+              "src": "东方财富",
+              "time": "2026-10-03 01:17:00",
+              "body": "周五（10月2日），美联储隔夜逆回购协议（RRP）使用规模为15.01亿美元。",
+              "score": 58.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-03 01:17:00",
+          "rank_score": 38.4
+        }
+      ]
+    },
+    {
+      "topic": "中东",
+      "label": "中东局势",
+      "count": 3,
+      "sources": [
+        "东方财富"
+      ],
+      "heat": 3.0,
+      "eids": [
+        "5f4f207885",
+        "3395e422fa",
+        "7c7e49ca7f"
+      ],
+      "lead": "伊朗航司获准复飞往返伊拉克纳杰夫的航班",
+      "events": [
+        {
+          "eid": "5f4f207885",
+          "ekey": "允许伊朗各航空#中东",
+          "kind": "topic_line",
+          "title": "伊朗航司获准复飞往返伊拉克纳杰夫的航班",
+          "body": "伊拉克总理新闻办公室2日发布声明说，经与美国方面沟通后达成协议，允许伊朗各航空公司每日运营总计40架次往返伊拉克纳杰夫国际机场的航班，但伊朗马汉航空被除外。声明说，该协议旨在便利伊拉克与伊朗两地人员往来，重点满足医疗、宗教朝圣、旅游、教育等方面出行需求。",
+          "dim": "military",
+          "dimName": "军事地缘",
+          "impact": "neutral",
+          "sectors": [
+            "消费/白酒"
+          ],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 61.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "中东",
+          "topicLabel": "中东局势",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "伊朗航司获准复飞往返伊拉克纳杰夫的航班",
+              "src": "东方财富",
+              "time": "2026-10-03 06:15:34",
+              "body": "伊拉克总理新闻办公室2日发布声明说，经与美国方面沟通后达成协议，允许伊朗各航空公司每日运营总计40架次往返伊拉克纳杰夫国际机场的航班，但伊朗马汉航空被除外。声明说，该协议旨在便利伊拉克与伊朗两地人员往来，重点满足医疗、宗教朝圣、旅游、教育等方面出行需求。",
+              "score": 61.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-03 06:15:34",
+          "rank_score": 39.4
+        },
+        {
+          "eid": "3395e422fa",
+          "ekey": "联合国中东局势或致全球新增万人面",
+          "kind": "event_line",
+          "title": "联合国：中东局势或致全球新增2200万人面临粮食不安全",
+          "body": "当地时间10月2日，联合国妇女署发布报告称，中东地区局势持续紧张导致霍尔木兹海峡航运受阻，推高全球食品价格，并对民众生计造成压力。报告预计，到2026年年底，全球可能新增约2200万人面临粮食不安全状况，其中约53%、即1170万人是女性。",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "neutral",
+          "sectors": [
+            "航运/物流",
+            "消费/白酒",
+            "农业/种业"
+          ],
+          "ctypeName": "行业观点",
+          "tier": "T1.5",
+          "score": 57.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "中东",
+          "topicLabel": "中东局势",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "联合国：中东局势或致全球新增2200万人面临粮食不安全",
+              "src": "东方财富",
+              "time": "2026-10-03 00:20:45",
+              "body": "当地时间10月2日，联合国妇女署发布报告称，中东地区局势持续紧张导致霍尔木兹海峡航运受阻，推高全球食品价格，并对民众生计造成压力。报告预计，到2026年年底，全球可能新增约2200万人面临粮食不安全状况，其中约53%、即1170万人是女性。",
+              "score": 57.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-03 00:20:45",
+          "rank_score": 38.0
+        },
+        {
+          "eid": "7c7e49ca7f",
+          "ekey": "以色列中央选举委员会要求国家安全",
+          "kind": "event_line",
+          "title": "以色列中央选举委员会要求国家安全部长删除争议视频",
+          "body": "据多家以色列媒体报道，以色列中央选举委员会2日要求国家安全部长本-格维尔删除其发布在社交媒体上一段引发争议的视频。",
+          "dim": "military",
+          "dimName": "军事地缘",
+          "impact": "neutral",
+          "sectors": [],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 53.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "中东",
+          "topicLabel": "中东局势",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "以色列中央选举委员会要求国家安全部长删除争议视频",
+              "src": "东方财富",
+              "time": "2026-10-02 23:33:37",
+              "body": "据多家以色列媒体报道，以色列中央选举委员会2日要求国家安全部长本-格维尔删除其发布在社交媒体上一段引发争议的视频。",
+              "score": 53.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-02 23:33:37",
+          "rank_score": 36.2
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "input_articles": 60,
+    "events": 58,
+    "merged_away": 2,
+    "redundancy": 1.03,
+    "multi_source_events": 2,
+    "roundup_articles": 3,
+    "story_links": 0,
+    "method": "rule_based",
+    "topic_blocks": 3,
+    "compared_with": "2026-10-02 18:29:16",
+    "new_events": 46,
+    "rising_events": 0
+  },
+  "provenance": {
+    "method": "rule_based_clustering",
+    "status": "derived",
+    "detail": "事件合并与主题归组由标题相似度 + 实体重叠规则判定，非 LLM 语义判断；热度按独立来源数计算（48h 内每源一次，24h 减半）"
+  }
+}

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# WorkBuddy 本地状态（与站点无关）
+.workbuddy/
+
+# 手动备份 / 临时文件
+*.bak
+data/market_news.manual_backup.json
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# WorkBuddy 应用标识（本地元数据）
+.wbapp_*.genie

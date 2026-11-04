@@ -1,0 +1,1684 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>今日情报汇总 · GitHub 涨星雷达 + A股要闻</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --panel:#ffffff; --panel-2:#fbfcfd;
+    --line:#e4e7ec; --line-soft:#eef1f5;
+    --tx:#1a1f2b; --tx-2:#4a5567; --tx-3:#8b95a6;
+    --red:#d92d20; --red-bg:#fef3f2; --red-line:#fda29b;
+    --green:#079455; --green-bg:#ecfdf3; --green-line:#75e0a7;
+    --blue:#175cd3; --blue-bg:#eff8ff; --blue-line:#84caff;
+    --amber:#b54708; --amber-bg:#fffaeb; --amber-line:#fec84b;
+    --purple:#6941c6; --purple-bg:#f9f5ff; --purple-line:#b692f6;
+    --shadow:0 1px 2px rgba(16,24,40,.05), 0 4px 16px rgba(16,24,40,.06);
+    --radius:12px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--tx);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-size:14px; line-height:1.6; padding:0 0 60px;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+
+  /* ---------- header ---------- */
+  header{
+    background:linear-gradient(135deg,#1e293b 0%,#334155 55%,#475569 100%);
+    color:#fff; padding:32px 0 28px; margin-bottom:24px;
+  }
+  header .wrap{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap}
+  h1{font-size:24px;font-weight:700;letter-spacing:-.3px;display:flex;align-items:center;gap:10px}
+  h1 .dot{width:9px;height:9px;border-radius:50%;background:#4ade80;box-shadow:0 0 0 4px rgba(74,222,128,.22);animation:pulse 2s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.45}}
+  .sub{color:#cbd5e1;font-size:13px;margin-top:8px}
+  .hmeta{text-align:right;font-size:12px;color:#94a3b8;line-height:1.9}
+  .hmeta b{color:#e2e8f0;font-weight:600}
+  .btn{
+    display:inline-flex;align-items:center;gap:6px;margin-top:10px;
+    background:rgba(255,255,255,.13);border:1px solid rgba(255,255,255,.22);
+    color:#fff;padding:7px 14px;border-radius:8px;font-size:12.5px;
+    cursor:pointer;transition:.15s;font-family:inherit;
+  }
+  .btn:hover{background:rgba(255,255,255,.24)}
+  .btn:disabled{opacity:.4;cursor:not-allowed}
+
+  /* ---------- 日期选择器 ---------- */
+  .datebar{
+    display:flex;align-items:center;gap:10px;flex-wrap:wrap;
+    background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+    padding:11px 16px;margin-bottom:18px;box-shadow:var(--shadow);
+  }
+  .datebar .lb{font-size:12.5px;font-weight:700;color:var(--tx-2);white-space:nowrap}
+  .dnav{
+    display:flex;align-items:center;gap:6px;
+  }
+  .dbtn{
+    width:28px;height:28px;border-radius:7px;border:1px solid var(--line);
+    background:#fff;color:var(--tx-2);cursor:pointer;font-family:inherit;
+    display:flex;align-items:center;justify-content:center;font-size:13px;transition:.15s;
+  }
+  .dbtn:hover:not(:disabled){background:#f2f4f7;border-color:#c7d2e0}
+  .dbtn:disabled{opacity:.35;cursor:not-allowed}
+  .dpick{
+    border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-family:inherit;
+    font-size:13px;color:var(--tx);background:#fff;cursor:pointer;min-width:150px;font-weight:600;
+  }
+  .dpick:focus{outline:2px solid var(--blue-line);outline-offset:1px}
+  .dquick{display:flex;gap:5px;flex-wrap:wrap}
+  .dq{
+    font-size:12px;padding:5px 11px;border-radius:7px;border:1px solid var(--line);
+    background:#fff;color:var(--tx-2);cursor:pointer;font-family:inherit;transition:.15s;
+  }
+  .dq:hover{background:#f2f4f7}
+  .dq.on{background:var(--blue-bg);border-color:var(--blue-line);color:var(--blue);font-weight:700}
+  .dhint{
+    margin-left:auto;font-size:12px;color:var(--tx-3);display:flex;align-items:center;gap:6px;
+  }
+  .dhint .dot2{width:7px;height:7px;border-radius:50%;background:#4ade80}
+  .dhint .dot2.old{background:#cbd5e1}
+
+  /* ---------- tabs ---------- */
+  .tabs{display:flex;gap:4px;border-bottom:2px solid var(--line);margin-bottom:22px}
+  .tab{
+    padding:11px 20px;border:none;background:none;font-family:inherit;font-size:14.5px;
+    font-weight:600;color:var(--tx-3);cursor:pointer;position:relative;top:2px;
+    border-bottom:2px solid transparent;transition:.15s;
+  }
+  .tab:hover{color:var(--tx-2)}
+  .tab.on{color:var(--blue);border-bottom-color:var(--blue)}
+  .tab .cnt{
+    display:inline-block;margin-left:6px;background:var(--line-soft);color:var(--tx-3);
+    font-size:11px;padding:1px 6px;border-radius:10px;font-weight:600;
+  }
+  .tab.on .cnt{background:var(--blue-bg);color:var(--blue)}
+  .pane{display:none}
+  .pane.on{display:block;animation:fade .25s}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+
+  /* ---------- market strip ---------- */
+  .strip{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:18px}
+  .idx{
+    background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+    padding:14px 16px;box-shadow:var(--shadow);
+  }
+  .idx .n{font-size:12px;color:var(--tx-3);font-weight:500}
+  .idx .v{font-size:20px;font-weight:700;margin:4px 0 2px;letter-spacing:-.5px}
+  .idx .c{font-size:13px;font-weight:600}
+  .up{color:var(--red)} .down{color:var(--green)}
+  .idx .v.up{color:var(--tx)} 
+
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:18px}
+  .st{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:13px 16px;box-shadow:var(--shadow)}
+  .st .k{font-size:12px;color:var(--tx-3)}
+  .st .val{font-size:17px;font-weight:700;margin-top:3px}
+
+  /* ---------- cards ---------- */
+  .card{
+    background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:var(--shadow);margin-bottom:14px;overflow:hidden;
+  }
+  .card-h{
+    display:flex;align-items:center;gap:10px;padding:14px 18px;
+    border-bottom:1px solid var(--line-soft);flex-wrap:wrap;
+  }
+  .dim{
+    font-size:11.5px;font-weight:700;padding:3px 9px;border-radius:6px;
+    border:1px solid;letter-spacing:.2px;white-space:nowrap;
+  }
+  .d-economic{color:var(--blue);background:var(--blue-bg);border-color:var(--blue-line)}
+  .d-military{color:var(--amber);background:var(--amber-bg);border-color:var(--amber-line)}
+  .d-tech{color:var(--purple);background:var(--purple-bg);border-color:var(--purple-line)}
+  .d-risk{color:var(--tx-2);background:#f2f4f7;border-color:#d0d5dd}
+  .imp{
+    font-size:11.5px;font-weight:700;padding:3px 9px;border-radius:6px;
+    display:inline-flex;align-items:center;gap:3px;
+  }
+  .i-bullish{color:var(--red);background:var(--red-bg);border:1px solid var(--red-line)}
+  .i-bearish{color:var(--green);background:var(--green-bg);border:1px solid var(--green-line)}
+  .i-mixed{color:var(--amber);background:var(--amber-bg);border:1px solid var(--amber-line)}
+  .i-neutral{color:var(--tx-2);background:#f2f4f7;border:1px solid #d0d5dd}
+  .tagx{font-size:11.5px;color:var(--tx-3);font-weight:600}
+  .card-t{font-size:16px;font-weight:650;padding:2px 18px 0;line-height:1.5;letter-spacing:-.15px}
+  .card-b{padding:10px 18px 16px;color:var(--tx-2);font-size:13.5px}
+  .why{
+    margin-top:12px;padding:12px 14px;background:var(--panel-2);
+    border-left:3px solid var(--blue);border-radius:0 8px 8px 0;font-size:13px;color:var(--tx-2);
+  }
+  .why b{color:var(--tx);font-weight:650}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+  .chip{
+    font-size:12px;padding:3px 9px;border-radius:20px;
+    background:#f2f4f7;color:var(--tx-2);border:1px solid var(--line);
+    font-weight:500;
+  }
+  .chip.hot{background:var(--red-bg);color:var(--red);border-color:var(--red-line);font-weight:600}
+
+  /* ---------- github ---------- */
+  .gl{display:grid;grid-template-columns:1fr;gap:9px}
+  .repo{
+    background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+    padding:14px 16px;box-shadow:var(--shadow);display:flex;gap:14px;
+    transition:.18s;position:relative;
+  }
+  .repo:hover{border-color:#c7d2e0;transform:translateY(-1px);box-shadow:0 4px 20px rgba(16,24,40,.1)}
+  .rank{
+    flex:0 0 34px;height:34px;border-radius:9px;display:flex;align-items:center;justify-content:center;
+    font-weight:800;font-size:14px;background:#f2f4f7;color:var(--tx-3);
+  }
+  .r1{background:linear-gradient(135deg,#fbbf24,#f59e0b);color:#fff}
+  .r2{background:linear-gradient(135deg,#cbd5e1,#94a3b8);color:#fff}
+  .r3{background:linear-gradient(135deg,#d97706,#b45309);color:#fff}
+  .rmain{flex:1;min-width:0}
+  .rtop{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}
+  .rname{font-size:14.5px;font-weight:680;color:var(--blue);text-decoration:none;letter-spacing:-.15px}
+  .rname:hover{text-decoration:underline}
+  .rtag{
+    font-size:11px;font-weight:700;padding:2px 8px;border-radius:5px;
+    background:#eef2f7;color:var(--tx-2);border:1px solid var(--line);white-space:nowrap;
+  }
+  .rplain{
+    font-size:13.6px;color:var(--tx);font-weight:600;margin-top:7px;line-height:1.6;
+    padding-left:11px;border-left:3px solid var(--blue);
+  }
+  .rdesc{font-size:12.2px;color:var(--tx-3);margin-top:6px;line-height:1.6;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .rnote{
+    margin-top:7px;font-size:12.3px;color:var(--amber);background:var(--amber-bg);
+    border:1px solid var(--amber-line);border-radius:7px;padding:6px 10px;line-height:1.55;
+  }
+  .rmeta{display:flex;gap:13px;flex-wrap:wrap;margin-top:8px;font-size:11.8px;color:var(--tx-3);align-items:center}
+  .rmeta .m{display:inline-flex;align-items:center;gap:4px}
+  .lang{display:inline-flex;align-items:center;gap:5px;font-weight:600;color:var(--tx-2)}
+  .ld{width:9px;height:9px;border-radius:50%;background:#8b95a6}
+  .rstats{flex:0 0 auto;text-align:right;display:flex;flex-direction:column;justify-content:center;gap:2px}
+  .stars{font-size:15.5px;font-weight:750;letter-spacing:-.3px}
+  .delta{font-size:12px;font-weight:700;color:var(--red)}
+  .rate{font-size:11.5px;color:var(--tx-3)}
+
+  .subh{
+    display:flex;align-items:center;gap:9px;margin:26px 0 12px;
+    font-size:15px;font-weight:680;letter-spacing:-.2px;
+  }
+  .subh .bar{width:3px;height:16px;border-radius:2px;background:var(--blue)}
+  .subh .hint{font-size:12px;font-weight:400;color:var(--tx-3);margin-left:auto}
+  .note{
+    background:var(--blue-bg);border:1px solid var(--blue-line);border-radius:10px;
+    padding:12px 15px;font-size:12.8px;color:#1849a9;margin-bottom:18px;line-height:1.65;
+  }
+  .note b{font-weight:700}
+  .empty{
+    text-align:center;padding:40px 20px;color:var(--tx-3);font-size:13.5px;
+    background:var(--panel);border:1px dashed var(--line);border-radius:var(--radius);
+  }
+
+  /* ---------- misc ---------- */
+  .wl{margin-top:8px}
+  .wl-item{
+    display:flex;gap:12px;padding:12px 0;border-bottom:1px solid var(--line-soft);
+  }
+  .wl-item:last-child{border-bottom:none}
+  .wl-i{flex:0 0 22px;height:22px;border-radius:6px;background:var(--blue-bg);color:var(--blue);
+    display:flex;align-items:center;justify-content:center;font-size:11.5px;font-weight:800;margin-top:2px}
+  .wl-t{font-weight:650;font-size:13.5px}
+  .wl-d{font-size:12.8px;color:var(--tx-2);margin-top:2px}
+  footer{
+    margin-top:32px;padding-top:18px;border-top:1px solid var(--line);
+    font-size:12px;color:var(--tx-3);text-align:center;line-height:1.8;
+  }
+  .sec{
+    display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+    background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+    padding:12px 16px;margin-bottom:18px;box-shadow:var(--shadow);font-size:12.8px;
+  }
+  .sec .lbl{font-weight:700;color:var(--tx);white-space:nowrap}
+  .sec.up .lbl{color:var(--red)} .sec.down .lbl{color:var(--green)}
+  .sec .items{color:var(--tx-2)}
+
+  /* ---------- 决策仪表盘 ---------- */
+  .panel-card{
+    background:linear-gradient(135deg,#f8fafc 0%,#eef2f7 100%);
+    border:1px solid #dbe2ea;border-radius:14px;padding:20px 22px;margin-bottom:18px;
+    box-shadow:var(--shadow);
+  }
+  .pc-top{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:14px}
+  .pc-stance{
+    font-size:19px;font-weight:750;letter-spacing:-.3px;padding:7px 16px;border-radius:9px;
+    background:#fff;border:1px solid var(--line);
+  }
+  .pc-gauge{display:flex;align-items:center;gap:10px;flex:1;min-width:190px}
+  .pc-bar{flex:1;height:8px;border-radius:5px;background:#e2e8f0;overflow:hidden;position:relative}
+  .pc-fill{height:100%;border-radius:5px;transition:width .6s ease}
+  .pc-num{font-size:20px;font-weight:800;letter-spacing:-.5px;min-width:38px;text-align:right}
+  .pc-line{font-size:14.5px;color:var(--tx);font-weight:600;line-height:1.6;margin-bottom:16px}
+  .pc-cols{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px}
+  .pc-col{background:#fff;border:1px solid var(--line);border-radius:10px;padding:13px 15px}
+  .pc-col h4{font-size:12.5px;font-weight:750;margin-bottom:9px;display:flex;align-items:center;gap:6px}
+  .pc-col.up h4{color:var(--red)} .pc-col.down h4{color:var(--green)}
+  .pc-col ul{list-style:none;display:flex;flex-direction:column;gap:7px}
+  .pc-col li{font-size:13px;color:var(--tx-2);padding-left:14px;position:relative;line-height:1.55}
+  .pc-col li::before{content:"";position:absolute;left:0;top:7px;width:5px;height:5px;border-radius:50%}
+  .pc-col.up li::before{background:var(--red)} .pc-col.down li::before{background:var(--green)}
+  .pc-action{
+    background:#fff;border:1px solid var(--line);border-radius:10px;padding:13px 15px;
+    font-size:13.2px;color:var(--tx-2);line-height:1.68;
+  }
+  .pc-action b{color:var(--tx);font-weight:700}
+
+  /* ---------- 溯源 ---------- */
+  .prov{
+    border:1px solid var(--line);border-radius:10px;margin-bottom:16px;
+    background:var(--panel);overflow:hidden;
+  }
+  .prov-h{
+    padding:11px 16px;font-size:12.5px;font-weight:700;cursor:pointer;
+    display:flex;align-items:center;gap:8px;color:var(--tx-2);user-select:none;
+    background:var(--panel-2);border-bottom:1px solid transparent;
+  }
+  .prov-h:hover{color:var(--tx)}
+  .prov-h .arrow{transition:.2s;font-size:10px;color:var(--tx-3)}
+  .prov.open .prov-h{border-bottom-color:var(--line-soft)}
+  .prov.open .prov-h .arrow{transform:rotate(90deg)}
+  .prov-b{display:none;padding:13px 16px;font-size:12.5px}
+  .prov.open .prov-b{display:block}
+  .pv-row{display:flex;gap:10px;padding:7px 0;border-bottom:1px solid var(--line-soft);align-items:flex-start}
+  .pv-row:last-child{border-bottom:none}
+  .pv-k{flex:0 0 108px;color:var(--tx-3);font-weight:600}
+  .pv-v{flex:1;color:var(--tx-2);word-break:break-word}
+  .st-badge{
+    display:inline-block;font-size:11px;font-weight:700;padding:2px 7px;border-radius:5px;margin-right:7px;
+  }
+  .st-observed{background:var(--green-bg);color:var(--green);border:1px solid var(--green-line)}
+  .st-derived{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-line)}
+  .st-failed{background:var(--red-bg);color:var(--red);border:1px solid var(--red-line)}
+  .st-unavailable{background:#f2f4f7;color:var(--tx-3);border:1px solid var(--line)}
+  .warnbox{
+    background:var(--amber-bg);border:1px solid var(--amber-line);border-radius:8px;
+    padding:10px 13px;font-size:12.5px;color:var(--amber);margin-top:10px;line-height:1.65;
+  }
+  .conf{
+    font-size:11px;font-weight:700;padding:2px 7px;border-radius:5px;
+    background:#f2f4f7;color:var(--tx-3);border:1px solid var(--line);
+  }
+  .src{
+    margin-top:10px;padding-top:9px;border-top:1px dashed var(--line);
+    font-size:11.8px;color:var(--tx-3);display:flex;gap:6px;align-items:flex-start;
+  }
+  .src b{font-weight:600;color:var(--tx-2);flex:0 0 auto}
+
+  /* ---------- 风险与机会 ---------- */
+  .ro-head{
+    display:flex;align-items:center;gap:10px;flex-wrap:wrap;
+    background:linear-gradient(135deg,#1e293b,#475569);color:#fff;
+    border-radius:12px;padding:14px 18px;margin-bottom:16px;font-size:14.5px;font-weight:650;
+  }
+  .ro-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:18px}
+  .ro-col h3{
+    font-size:14px;font-weight:750;margin-bottom:11px;display:flex;align-items:center;gap:7px;
+    padding-bottom:8px;border-bottom:2px solid;
+  }
+  .ro-col.risk h3{color:var(--green);border-color:#a6f4c5}
+  .ro-col.opp h3{color:var(--red);border-color:#fda29b}
+  .ro-item{
+    background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:12px 14px;margin-bottom:10px;box-shadow:var(--shadow);
+  }
+  .ro-item.lv-high{border-left:4px solid}
+  .ro-col.risk .ro-item.lv-high{border-left-color:var(--green)}
+  .ro-col.opp  .ro-item.lv-high{border-left-color:var(--red)}
+  .ro-col.risk .ro-item.lv-medium{border-left-color:#a6f4c5}
+  .ro-col.opp  .ro-item.lv-medium{border-left-color:#fda29b}
+  .ro-col.risk .ro-item.lv-low{border-left-color:#d0d5dd}
+  .ro-col.opp  .ro-item.lv-low{border-left-color:#d0d5dd}
+  .ro-t{font-size:13.6px;font-weight:680;line-height:1.5;display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
+  .lv{
+    font-size:10.5px;font-weight:800;padding:2px 6px;border-radius:4px;letter-spacing:.3px;
+    flex:0 0 auto;white-space:nowrap;
+  }
+  .lv-high{background:#fee4e2;color:#b42318;border:1px solid #fda29b}
+  .lv-medium{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-line)}
+  .lv-low{background:#f2f4f7;color:var(--tx-3);border:1px solid var(--line)}
+  .ro-d{font-size:12.8px;color:var(--tx-2);margin-top:7px;line-height:1.65}
+  .ro-a{
+    font-size:12.5px;color:var(--tx);margin-top:8px;background:var(--panel-2);
+    border-radius:7px;padding:7px 11px;line-height:1.6;
+  }
+  .ro-a b{font-weight:700}
+  .ro-col.risk .ro-a b{color:var(--green)}
+  .ro-col.opp  .ro-a b{color:var(--red)}
+  .ck{
+    background:var(--panel);border:1px solid var(--line);border-radius:12px;
+    padding:16px 20px;box-shadow:var(--shadow);
+  }
+  .ck h3{font-size:14px;font-weight:750;margin-bottom:11px;color:var(--tx);
+    display:flex;align-items:center;gap:7px}
+  .ck-item{
+    display:flex;gap:10px;padding:8px 0;font-size:13px;color:var(--tx-2);
+    border-bottom:1px solid var(--line-soft);line-height:1.6;
+  }
+  .ck-item:last-child{border-bottom:none}
+  .ck-box{
+    flex:0 0 16px;height:16px;border:2px solid #cbd5e1;border-radius:4px;margin-top:3px;
+  }
+
+  /* ---------- 新鲜度提示条 ---------- */
+  .fresher{
+    margin:14px 0 0;padding:11px 15px;border-radius:11px;font-size:13px;line-height:1.65;
+    display:flex;align-items:flex-start;gap:9px;
+  }
+  .fresher.ok{background:#f0fdf4;border:1px solid #bbf7d0;color:#14532d}
+  .fresher.stale{background:#fffbeb;border:1px solid #fde68a;color:#78350f}
+  .fresher.old{background:#f8fafc;border:1px solid var(--line);color:var(--tx-2)}
+  .fresher .fi{font-size:15px;line-height:1.4;flex:0 0 auto}
+  .fresher b{font-weight:700}
+  .fresher code{
+    background:rgba(0,0,0,.06);padding:1px 5px;border-radius:4px;
+    font-family:ui-monospace,Consolas,monospace;font-size:12px;
+  }
+
+  /* ---------- 休市横幅 ---------- */
+  .closed{
+    margin:14px 0 0;padding:16px 18px;border-radius:13px;
+    background:linear-gradient(135deg,#fff7ed,#ffedd5);
+    border:1px solid #fed7aa;display:flex;align-items:center;gap:14px;
+  }
+  .closed-ic{font-size:26px;line-height:1;flex:0 0 auto}
+  .closed-tx{display:flex;flex-direction:column;gap:3px}
+  .closed-tx b{font-size:15.5px;color:#9a3412;font-weight:700}
+  .closed-tx span{font-size:12.5px;color:#b45309;line-height:1.6}
+
+  /* 休市时归档盘面数据置灰 */
+  .stale-box{position:relative;opacity:.62;filter:saturate(.45)}
+  .stale-box::after{
+    content:"以下为上一交易日收盘数据（非当日）";
+    position:absolute;top:-9px;left:12px;background:#fff;padding:0 8px;
+    font-size:11px;color:#b45309;border-radius:5px;border:1px solid #fed7aa;
+  }
+
+  /* ---------- 新闻卡片：自动 / 人工 ---------- */
+  .auto-badge,.man-badge{
+    font-size:10.5px;padding:2px 7px;border-radius:5px;font-weight:600;
+    white-space:nowrap;letter-spacing:.2px;
+  }
+  .auto-badge{background:#eef2ff;color:#4338ca;border:1px solid #c7d2fe}
+  .man-badge{background:#fef3c7;color:#92400e;border:1px solid #fde68a}
+  .card-man{border-left:3px solid #f59e0b}
+  .card-auto{border-left:3px solid #c7d2fe}
+  .fold-btn{
+    margin-left:auto;background:none;border:none;cursor:pointer;
+    font-size:11.5px;color:var(--tx-3);padding:2px 6px;border-radius:5px;
+    font-family:inherit;
+  }
+  .fold-btn:hover{background:var(--bg-soft);color:var(--tx-1)}
+  .card-fold{display:none;margin-top:2px}
+  .card.open .card-fold{display:block}
+  .card.open .fold-btn{color:var(--tx-1)}
+  .news-divider{
+    display:flex;align-items:center;gap:10px;margin:18px 0 12px;
+    font-size:12px;color:var(--tx-3);
+  }
+  .news-divider::before,.news-divider::after{
+    content:"";flex:1;height:1px;background:var(--line-soft);
+  }
+  .news-toolbar{
+    display:flex;gap:8px;flex-wrap:wrap;align-items:center;
+    margin:0 0 12px;font-size:12px;color:var(--tx-3);
+  }
+  .fbtn{
+    padding:4px 11px;border:1px solid var(--line);border-radius:7px;
+    background:#fff;cursor:pointer;font-size:12px;font-family:inherit;color:var(--tx-2);
+  }
+  .fbtn.on{background:var(--tx-1);color:#fff;border-color:var(--tx-1)}
+
+  /* ---------- 视图切换（A股 tab 内） ---------- */
+  .vswitch{display:flex;gap:8px;margin:16px 0 10px}
+  .vs{flex:1;padding:11px 14px;border-radius:11px;border:1px solid var(--line);
+      background:var(--card);color:var(--tx2);font-size:14px;font-weight:600;
+      cursor:pointer;transition:.16s;font-family:inherit;text-align:left}
+  .vs:hover{border-color:var(--line2)}
+  .vs.on{background:var(--acc);border-color:var(--acc);color:#fff}
+  .vs.on .vsh{color:rgba(255,255,255,.85)}
+  .vsh{display:block;font-size:11.5px;font-weight:400;margin-top:2px;color:var(--tx3)}
+  .vbox{display:none}
+  .vbox.on{display:block}
+  .mk-flags{display:block;margin-top:6px;font-size:12px;color:var(--tx3)}
+
+  /* ---------- 事件卡 ---------- */
+  .ev{border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px;
+      background:var(--card);transition:.16s}
+  .ev:hover{border-color:var(--line2)}
+  .ev.merged{border-left:3px solid #1570ef}
+  .ev-h{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:7px}
+  .mk{font-size:11px;padding:1px 7px;border-radius:20px;font-weight:600}
+  .mk.new{background:rgba(217,45,32,.1);color:var(--red)}
+  .mk.rise{background:rgba(247,144,9,.13);color:#b54708}
+  .mk.multi{background:rgba(21,112,239,.1);color:#1570ef}
+  .mk.tier{background:var(--bg2);color:var(--tx3)}
+  .ev-t{font-size:15px;font-weight:650;line-height:1.45;color:var(--tx)}
+  .ev-meta{display:flex;flex-wrap:wrap;gap:12px;margin-top:8px;font-size:12.5px;color:var(--tx3)}
+  .heatbar{display:inline-flex;align-items:center;gap:5px}
+  .heatbar i{display:block;height:6px;border-radius:3px;
+      background:linear-gradient(90deg,#f79009,#d92d20)}
+  .ev-members{margin-top:9px;border-top:1px dashed var(--line);padding-top:8px}
+  .ev-members .m{font-size:12.5px;color:var(--tx2);padding:3px 0;display:flex;gap:8px}
+  .ev-members .m b{color:var(--tx3);font-weight:500;flex:0 0 auto}
+  .fold{cursor:pointer;user-select:none;color:#1570ef;font-size:12.5px;font-weight:600}
+  .axes{display:flex;gap:12px;flex-wrap:wrap;margin-top:7px;font-size:12px;color:var(--tx3)}
+  .axes span b{color:var(--tx2)}
+
+  /* ---------- 主题块 ---------- */
+  .tblock{border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px;
+      background:var(--card)}
+  .tblock h4{margin:0 0 8px;font-size:13.5px;font-weight:700;color:var(--tx);
+      display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .tblock h4 .cnt2{font-size:11.5px;font-weight:500;color:var(--tx3)}
+  .tblock ul{margin:0;padding-left:18px}
+  .tblock li{font-size:13px;color:var(--tx2);line-height:1.7}
+
+  /* ---------- 时间线 ---------- */
+  .tl{border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px;
+      background:var(--card)}
+  .tl-h{font-size:14px;font-weight:650;margin-bottom:9px;display:flex;gap:8px;
+      flex-wrap:wrap;align-items:center;color:var(--tx)}
+  .tl-step{display:flex;gap:10px;padding:5px 0;font-size:12.5px;color:var(--tx2)}
+  .tl-step .dt{flex:0 0 80px;color:var(--tx3);font-variant-numeric:tabular-nums}
+  .tl-step .dot{flex:0 0 8px;height:8px;border-radius:50%;background:#1570ef;margin-top:6px}
+  .tl.up .dot{background:var(--red)} .tl.down .dot{background:var(--green)}
+
+  /* ---------- 周报 ---------- */
+  .wk{border:1px solid var(--line);border-radius:11px;padding:10px 13px;margin-bottom:8px;
+      display:flex;gap:12px;align-items:center;background:var(--card)}
+  .wk .idx{flex:0 0 26px;height:26px;border-radius:8px;background:var(--bg2);color:var(--tx3);
+      display:flex;align-items:center;justify-content:center;font-size:12.5px;font-weight:700}
+  .wk .bd{flex:1;min-width:0}
+  .wk .nm{font-size:13.5px;font-weight:620;color:var(--tx);word-break:break-all}
+  .wk .ds{font-size:12px;color:var(--tx3);margin-top:2px;line-height:1.5}
+  .wk .rt{flex:0 0 auto;text-align:right;font-size:12.5px;color:var(--tx3)}
+  .wk .rt b{display:block;font-size:14px;color:var(--tx)}
+  .days{display:inline-block;font-size:11px;padding:1px 6px;border-radius:20px;
+      background:rgba(21,112,239,.1);color:#1570ef;font-weight:600}
+
+  /* ---------- 校准 ---------- */
+  .calib{border:1px solid var(--line);border-radius:12px;padding:14px;background:var(--card)}
+  .calib .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(108px,1fr));
+      gap:10px;margin:12px 0}
+  .calib .m{background:var(--bg2);border-radius:10px;padding:10px 12px}
+  .calib .m b{display:block;font-size:20px;color:var(--tx);font-variant-numeric:tabular-nums}
+  .calib .m span{font-size:11.5px;color:var(--tx3)}
+  .calib .warn{background:rgba(247,144,9,.09);border-left:3px solid #f79009;
+      padding:9px 12px;border-radius:0 8px 8px 0;font-size:12.5px;color:var(--tx2);line-height:1.65}
+
+  @media (max-width:820px){
+    .strip{grid-template-columns:repeat(2,1fr)}
+    .stats{grid-template-columns:repeat(2,1fr)}
+    .pc-cols{grid-template-columns:1fr}
+    .ro-grid{grid-template-columns:1fr}
+    header .wrap{flex-direction:column;align-items:flex-start}
+    .hmeta{text-align:left}
+    .repo{flex-wrap:wrap}
+    .rstats{text-align:left;flex-direction:row;gap:12px;align-items:center;width:100%;padding-left:48px}
+    .pv-k{flex:0 0 80px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div>
+      <h1><span class="dot"></span>今日情报汇总</h1>
+      <div class="sub" id="hsub">GitHub 涨星雷达 · A股四维要闻</div>
+    </div>
+    <div class="hmeta">
+      <div>数据生成：<b id="hgen">—</b></div>
+      <div>覆盖：<b>GitHub · 军事 · 经济 · AI科技 · 风险</b></div>
+      <button class="btn" onclick="hardReload()" title="重新加载页面并绕过缓存。数据由每日定时任务抓取，此按钮不会触发采集">↻ 刷新页面</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <!-- 新鲜度提示条 -->
+  <div class="fresher" id="fresher" style="display:none"></div>
+
+  <!-- 休市横幅 -->
+  <div class="closed" id="closed-bar" style="display:none">
+    <div class="closed-ic">🏖</div>
+    <div class="closed-tx">
+      <b id="closed-title">A股休市</b>
+      <span id="closed-sub"></span>
+    </div>
+  </div>
+
+  <div class="datebar" id="datebar">
+    <span class="lb">📅 数据日期</span>
+    <div class="dnav">
+      <button class="dbtn" id="d-prev" title="前一天">‹</button>
+      <select class="dpick" id="d-select"></select>
+      <button class="dbtn" id="d-next" title="后一天">›</button>
+    </div>
+    <div class="dquick" id="d-quick"></div>
+    <div class="dhint" id="d-hint"></div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab on" data-p="p-github">🔥 GitHub 涨星雷达<span class="cnt" id="c-gh">—</span></button>
+    <button class="tab" data-p="p-news" id="tab-news">📰 今日 A 股要闻<span class="cnt" id="c-nw">—</span></button>
+    <button class="tab" data-p="p-week" id="tab-week">📊 本周综述<span class="cnt" id="c-wk">—</span></button>
+  </div>
+
+  <!-- ============ GitHub ============ -->
+  <section class="pane on" id="p-github">
+    <div class="note">
+      <b>关于「涨星最快」的度量口径：</b>GitHub 官方已不对外提供单日 star 增量接口（trending 页面也无 API）。
+      本工具用三个可量化维度逼近「增长最快」：<b>火箭榜</b>看平均吸星速率（近 10 天新建项目的星数 ÷ 存活天数，反映爆发力）；
+      <b>势能榜</b>看半年内新建项目的总星数（持续高增长）；<b>活跃榜</b>看高星项目是否仍在高频推送代码。
+      每次运行自动留存快照，<b>第二次运行起将出现真实「星数增量」列</b>。
+      <span id="delta-note"></span>
+    </div>
+
+    <div class="prov" id="prov-gh">
+      <div class="prov-h" onclick="this.parentNode.classList.toggle('open')">
+        <span class="arrow">▶</span>数据溯源与可信度说明
+      </div>
+      <div class="prov-b" id="prov-gh-b"></div>
+    </div>
+
+    <div class="subh"><span class="bar"></span>🚀 火箭榜 · 平均吸星速率最快
+      <span class="hint" id="h-rocket"></span></div>
+    <div class="gl" id="l-rocket"></div>
+
+    <div class="subh"><span class="bar"></span>📈 势能榜 · 半年内新建项目总星数
+      <span class="hint" id="h-pot"></span></div>
+    <div class="gl" id="l-pot"></div>
+
+    <div class="subh"><span class="bar"></span>⚡ 活跃榜 · 高星且仍在密集更新
+      <span class="hint" id="h-act"></span></div>
+    <div class="gl" id="l-act"></div>
+  </section>
+
+  <!-- ============ 要闻 ============ -->
+  <section class="pane" id="p-news">
+    <div class="vswitch">
+      <button class="vs on" data-v="v-events">📌 事件视图<span class="vsh" id="h-ev">—</span></button>
+      <button class="vs" data-v="v-news">📋 要闻列表<span class="vsh" id="h-nl">—</span></button>
+    </div>
+
+    <!-- ---- 事件视图：聚簇后的「事件」而非「文章」 ---- -->
+    <div class="vbox on" id="v-events">
+      <div class="note">
+        <b>为什么按「事件」而不是「文章」看：</b>同一件事常被多家媒体各报一遍——
+        实测 60 条快讯里有多组是同一事件。<b>热度按事件计算</b>（48 小时内每个独立来源只算一次，
+        24 小时减半），所以「一家媒体发十篇」不会把它顶上去，<b>真的有很多人在说才会排前面</b>。
+        <span class="mk-flags"><span class="mk new">🆕 新</span>=首次出现
+        <span class="mk rise">🔥 上升</span>=比上次抓取热度明显上涨
+        <span class="mk multi">×N源</span>=N 家媒体报道</span>
+      </div>
+      <div id="l-topics"></div>
+      <div class="subh"><span class="bar"></span>事件热度排序<span class="hint" id="h-ev2"></span></div>
+      <div id="l-events"></div>
+    </div>
+
+    <!-- ---- 要闻列表：原有视图 ---- -->
+    <div class="vbox" id="v-news">
+    <div class="panel-card" id="panel"></div>
+    <div class="prov" id="prov-nw">
+      <div class="prov-h" onclick="this.parentNode.classList.toggle('open')">
+        <span class="arrow">▶</span>数据溯源与可信度说明
+      </div>
+      <div class="prov-b" id="prov-nw-b"></div>
+    </div>
+
+    <div class="subh"><span class="bar"></span>今日盘面<span class="hint" id="h-mkt"></span></div>
+    <div id="mkt-box">
+      <div class="strip" id="strip"></div>
+      <div class="stats" id="stats"></div>
+      <div class="sec up"><span class="lbl">▲ 领涨</span><span class="items" id="sec-up">—</span></div>
+      <div class="sec down"><span class="lbl">▼ 领跌</span><span class="items" id="sec-down">—</span></div>
+      <div class="note" id="mkt-summary"></div>
+    </div>
+
+    <div class="subh"><span class="bar"></span><span id="news-title">今日重要信息 · 四维全覆盖</span><span class="hint" id="h-news"></span></div>
+    <div id="l-news"></div>
+
+    <div class="subh"><span class="bar"></span>⚠️ 风险与机会 · 今日操作参考
+      <span class="hint">按重要度排序</span></div>
+    <div class="ro-head" id="ro-head"></div>
+    <div class="ro-grid">
+      <div class="ro-col risk">
+        <h3>▼ 需要警惕的风险</h3>
+        <div id="l-risk"></div>
+      </div>
+      <div class="ro-col opp">
+        <h3>▲ 值得关注的机会</h3>
+        <div id="l-opp"></div>
+      </div>
+    </div>
+    <div class="ck" id="l-check">
+      <h3>📋 节前操作自查清单</h3>
+      <div id="l-check-items"></div>
+    </div>
+
+    <div class="subh"><span class="bar"></span>后续观察要点</div>
+    <div class="card"><div class="wl" id="l-watch" style="padding:8px 18px"></div></div>
+    </div><!-- /v-news -->
+  </section>
+
+  <!-- ============ 本周综述 ============ -->
+  <section class="pane" id="p-week">
+    <div class="note">
+      <b>单日榜单看不出「谁在持续涨星」。</b>本周综述把每天的归档叠起来看：
+      GitHub 看<b>持续上榜天数与星数净增</b>，要闻看<b>反复出现的主线</b>，
+      并追踪同一事件跨天的进展。数据来自历史归档，刚启用时天数不足属正常现象。
+    </div>
+
+    <div class="subh"><span class="bar"></span>本周 GitHub 持续性榜单
+      <span class="hint" id="h-wkgh"></span></div>
+    <div id="l-wkgh"></div>
+
+    <div class="subh"><span class="bar"></span>本周要闻主线
+      <span class="hint" id="h-wknw"></span></div>
+    <div id="l-wknw"></div>
+
+    <div class="subh"><span class="bar"></span>跨天事件追踪
+      <span class="hint" id="h-tl"></span></div>
+    <div id="l-timeline"></div>
+
+    <div class="subh"><span class="bar"></span>筛选规则校准结果
+      <span class="hint">规则判定 vs 人工标注</span></div>
+    <div id="l-calib"></div>
+  </section>
+
+  <footer>
+    <div id="disc">—</div>
+    <div style="margin-top:6px">本地看板 · 数据存于 <code>data/</code> 目录 · 可离线打开</div>
+  </footer>
+</div>
+
+<script>
+const LANG_COLOR = {
+  Python:"#3572A5", JavaScript:"#f1e05a", TypeScript:"#3178c6", Go:"#00ADD8",
+  Rust:"#dea584", "C++":"#f34b7d", C:"#555555", Java:"#b07219", Kotlin:"#A97BFF",
+  HTML:"#e34c26", CSS:"#563d7c", Shell:"#89e051", Swift:"#F05138", Ruby:"#701516",
+  PHP:"#4F5D95", Vue:"#41b883", Dart:"#00B4AB", "Jupyter Notebook":"#DA5B0B",
+  Other:"#8b95a6", MDX:"#fcb32c", Svelte:"#ff3e00", Zig:"#ec915c", Lua:"#000080"
+};
+
+const IMP = {
+  bullish:{cls:"i-bullish", txt:"▲ 利好"},
+  bearish:{cls:"i-bearish", txt:"▼ 利空"},
+  mixed:  {cls:"i-mixed",   txt:"◆ 多空交织"},
+  neutral:{cls:"i-neutral", txt:"● 中性"}
+};
+
+const DIMNAME = {
+  economic:"宏观经济", military:"军事地缘", tech:"AI 与科技", risk:"监管与风险"
+};
+
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function fmt(n){return n>=1000 ? (n/1000).toFixed(1).replace(/\.0$/,"")+"k" : String(n);}
+
+/* ---------- tabs ---------- */
+document.querySelectorAll(".tab").forEach(t=>{
+  t.onclick=()=>{
+    document.querySelectorAll(".tab").forEach(x=>x.classList.remove("on"));
+    document.querySelectorAll(".pane").forEach(x=>x.classList.remove("on"));
+    t.classList.add("on");
+    document.getElementById(t.dataset.p).classList.add("on");
+    if(t.dataset.p==="p-week" && typeof loadWeek==="function") loadWeek();
+  };
+});
+
+/* ---------- A股 tab 内的视图切换（事件视图 / 要闻列表） ---------- */
+document.querySelectorAll(".vs").forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll(".vs").forEach(x=>x.classList.remove("on"));
+    document.querySelectorAll(".vbox").forEach(x=>x.classList.remove("on"));
+    b.classList.add("on");
+    const box=document.getElementById(b.dataset.v);
+    if(box) box.classList.add("on");
+  };
+});
+
+/* ---------- github render ---------- */
+function repoCard(r,i,delta,ann){
+  const lc = LANG_COLOR[r.lang] || "#8b95a6";
+  const rk = i===0?"r1":i===1?"r2":i===2?"r3":"";
+  const topics = (r.topics||[]).slice(0,3).map(t=>`<span class="chip">${esc(t)}</span>`).join("");
+  const dLine = delta!=null && delta>0
+    ? `<div class="delta">+${fmt(delta)} ★ 较上次</div>` : "";
+
+  // 中文解读优先；无解读时退回原始简介
+  const plain = ann && ann.name
+    ? `<div class="rplain">${esc(ann.name)}</div>` : "";
+  const tag = ann && ann.tag
+    ? `<span class="rtag">${esc(ann.tag)}</span>` : "";
+  const note = ann && ann.note
+    ? `<div class="rnote">💡 ${esc(ann.note)}</div>` : "";
+  // 已有人话解读时，原始英文简介降级为次要信息
+  const rawDesc = (ann && ann.name) ? "" :
+    `<div class="rdesc">${esc(r.desc)||"<i>（暂无简介）</i>"}</div>`;
+
+  return `<div class="repo">
+    <div class="rank ${rk}">${i+1}</div>
+    <div class="rmain">
+      <div class="rtop">
+        <a class="rname" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.full_name)}</a>
+        ${tag}
+        <span class="lang"><span class="ld" style="background:${lc}"></span>${esc(r.lang)}</span>
+      </div>
+      ${plain}
+      ${note}
+      ${rawDesc}
+      <div class="rmeta">
+        <span class="m">建仓 ${esc(r.created)}</span>
+        <span class="m">最近推送 ${esc(r.pushed)}</span>
+        <span class="m">存活 ${r.age_days} 天</span>
+        <span class="m">Fork ${fmt(r.forks)}</span>
+        ${topics}
+      </div>
+    </div>
+    <div class="rstats">
+      <div class="stars">${fmt(r.stars)} ★</div>
+      ${dLine}
+      <div class="rate">≈ ${Math.round(r.stars_per_day||0)} ★/天</div>
+    </div>
+  </div>`;
+}
+
+function renderList(el, arr, deltas, emptyMsg, anns){
+  const node = document.getElementById(el);
+  if(!arr || !arr.length){
+    node.innerHTML = `<div class="empty">${emptyMsg||"暂无数据"}</div>`;
+    node.className = "";
+    return;
+  }
+  node.className = "gl";
+  node.innerHTML = arr.map((r,i)=>{
+    const a = anns ? (anns[r.full_name] || null) : null;
+    return repoCard(r,i,deltaOf(r,deltas),a);
+  }).join("");
+}
+
+function deltaOf(r,deltas){
+  if(!deltas) return null;
+  const v = deltas[r.full_name];
+  return (v!=null && v>0) ? v : null;
+}
+
+/* ---------- news render ---------- */
+const CONF = {high:"高置信", medium:"中等", low:"偏低"};
+const EVID = {observed:"实测数据", derived:"分析推断", cited:"引用来源", proposed:"待验证"};
+
+function newsCard(n){
+  const imp = IMP[n.impact] || IMP.neutral;
+  const chips = (n.sectors||[]).map(s=>`<span class="chip hot">${esc(s)}</span>`).join("");
+  const conf = n.confidence
+    ? `<span class="conf">${esc(CONF[n.confidence]||n.confidence)}置信度</span>` : "";
+  const src = n.source
+    ? `<div class="src"><b>信源</b><span>${esc(n.source)}</span></div>` : "";
+  const badge = n.auto
+    ? `<span class="auto-badge">自动抓取</span>`
+    : `<span class="man-badge">人工研判</span>`;
+
+  // 自动快讯：正文折叠，避免页面过长
+  if(n.auto){
+    return `<div class="card card-auto">
+      <div class="card-h">
+        <span class="dim d-${n.dim}">${esc(n.dimName||DIMNAME[n.dim]||n.dim)}</span>
+        <span class="imp ${imp.cls}">${imp.txt}</span>
+        ${badge}
+        <button class="fold-btn" onclick="this.closest('.card').classList.toggle('open')">详情 ▾</button>
+      </div>
+      <div class="card-t">${esc(n.title)}</div>
+      <div class="card-fold">
+        ${n.body ? `<div class="card-b">${esc(n.body)}</div>` : ""}
+        <div class="chips">${chips}</div>
+        ${src}
+      </div>
+    </div>`;
+  }
+
+  return `<div class="card card-man">
+    <div class="card-h">
+      <span class="dim d-${n.dim}">${esc(n.dimName||DIMNAME[n.dim]||n.dim)}</span>
+      <span class="imp ${imp.cls}">${imp.txt}</span>
+      <span class="tagx">${esc(n.tag)}</span>
+      ${badge}
+      ${conf}
+    </div>
+    <div class="card-t">${esc(n.title)}</div>
+    <div class="card-b">
+      ${esc(n.body)}
+      <div class="why"><b>为什么重要：</b>${esc(n.why)}</div>
+      <div class="chips">${chips}</div>
+      ${src}
+    </div>
+  </div>`;
+}
+
+/* ---------- 决策仪表盘 ---------- */
+function renderPanel(mk){
+  const c = mk.conclusion;
+  const el = document.getElementById("panel");
+  if(!c){
+    // 自动抓取模式：无人工深度研判，用统计摘要代替
+    const news = mk.news || [];
+    if(news.length){
+      const bull = news.filter(n=>n.impact==="bull").length;
+      const bear = news.filter(n=>n.impact==="bear").length;
+      const neu = news.length - bull - bear;
+      el.style.display="";
+      el.innerHTML = `
+        <div class="pc-top">
+          <div class="pc-stance" style="color:var(--tx-2)">自动汇总</div>
+          <div class="pc-gauge" style="gap:10px">
+            <span class="imp up">利好 ${bull}</span>
+            <span class="imp down">利空 ${bear}</span>
+            <span class="imp">中性 ${neu}</span>
+          </div>
+        </div>
+        <div class="pc-line">本页由脚本自动抓取公开财经快讯并规则分类生成，<b>不含人工深度研判</b>。
+          下方「风险与机会」为人工调研内容，仅在有深度分析时才出现。</div>
+        <div style="margin-top:10px;font-size:11.5px;color:var(--tx-3);line-height:1.6">
+          自动分类为关键词规则推断（derived），可能存在误判，请结合原文判断。
+        </div>`;
+    } else {
+      el.style.display="none";
+    }
+    return;
+  }
+
+  const score = Math.max(0, Math.min(100, c.score==null?50:c.score));
+  // 0=极度看空(绿) -> 50=中性(琥珀) -> 100=极度看多(红)
+  const color = score>=66 ? "#d92d20" : score>=45 ? "#b54708" : "#079455";
+  const stanceColor = score>=66 ? "var(--red)" : score>=45 ? "var(--amber)" : "var(--green)";
+
+  el.innerHTML = `
+    <div class="pc-top">
+      <div class="pc-stance" style="color:${stanceColor}">${esc(c.stance||"—")}</div>
+      <div class="pc-gauge">
+        <span style="font-size:12px;color:var(--tx-3);white-space:nowrap">多空评分</span>
+        <div class="pc-bar"><div class="pc-fill" style="width:${score}%;background:${color}"></div></div>
+        <span class="pc-num" style="color:${color}">${score}</span>
+      </div>
+    </div>
+    <div class="pc-line">${esc(c.oneLine||"")}</div>
+    <div class="pc-cols">
+      <div class="pc-col up"><h4>▲ 支撑因素</h4>
+        <ul>${(c.bull||[]).map(x=>`<li>${esc(x)}</li>`).join("")||"<li>—</li>"}</ul></div>
+      <div class="pc-col down"><h4>▼ 压制因素</h4>
+        <ul>${(c.bear||[]).map(x=>`<li>${esc(x)}</li>`).join("")||"<li>—</li>"}</ul></div>
+    </div>
+    <div class="pc-action"><b>操作提示：</b>${esc(c.action||"")}</div>
+    <div style="margin-top:10px;font-size:11.5px;color:var(--tx-3);line-height:1.6">
+      评分与结论为基于当日公开信息的分析推断（derived），非事实陈述、非投资建议。
+    </div>`;
+}
+
+/* ---------- 溯源面板 ---------- */
+function renderProv(elId, prov){
+  const box = document.getElementById(elId);
+  const body = document.getElementById(elId+"-b");
+  if(!prov){ box.style.display="none"; return; }
+  const m = prov.metrics||{};
+  const rows = Object.keys(m).map(k=>{
+    const v = m[k]||{};
+    return `<div class="pv-row">
+      <div class="pv-k">${esc(k)}</div>
+      <div class="pv-v"><span class="st-badge st-${esc(v.status)}">${esc(v.status)}</span>${esc(v.detail||"")}</div>
+    </div>`;
+  }).join("");
+
+  const warn = (prov.warnings&&prov.warnings.length)
+    ? `<div class="warnbox"><b>⚠ 使用提醒：</b><br>${prov.warnings.map(w=>"· "+esc(w)).join("<br>")}</div>` : "";
+
+  body.innerHTML = `
+    <div class="pv-row"><div class="pv-k">数据源</div><div class="pv-v">${esc(prov.source||"—")}</div></div>
+    <div class="pv-row"><div class="pv-k">获取方式</div><div class="pv-v">${esc(prov.source_type||"—")}${prov.auth?" · 鉴权："+esc(prov.auth):""}</div></div>
+    <div class="pv-row"><div class="pv-k">获取时间</div><div class="pv-v">${esc(prov.fetched_at||"—")}</div></div>
+    ${rows}
+    ${warn}
+    <div style="margin-top:11px;font-size:11.5px;color:var(--tx-3);line-height:1.65">
+      可信度标记含义：<span class="st-badge st-observed">observed</span>接口/原文实测可得 ·
+      <span class="st-badge st-derived">derived</span>由其他数据推算 ·
+      <span class="st-badge st-failed">failed</span>获取失败 ·
+      <span class="st-badge st-unavailable">unavailable</span>本次不可得
+    </div>`;
+}
+
+/* ---------- 风险与机会 ---------- */
+const LV = {high:"高", medium:"中", low:"低"};
+
+function roItem(it, kind){
+  const lv = it.level || "medium";
+  return `<div class="ro-item lv-${lv}">
+    <div class="ro-t">
+      <span class="lv lv-${lv}">${LV[lv]||""}关注</span>
+      <span>${esc(it.title)}</span>
+    </div>
+    <div class="ro-d">${esc(it.detail)}</div>
+    <div class="ro-a"><b>${kind==="risk"?"应对：":"思路："}</b>${esc(it.action||"")}</div>
+  </div>`;
+}
+
+function renderRiskOpp(mk){
+  const ro = mk.riskOpportunity;
+  const head = document.getElementById("ro-head");
+  const box = document.getElementById("l-check");
+  if(!ro){
+    head.style.display="none";
+    box.style.display="none";
+    document.querySelector(".ro-grid").style.display="none";
+    return;
+  }
+  head.innerHTML = `<span>${esc(ro.headline||"")}</span>`;
+
+  const lvOrder = {high:0, medium:1, low:2};
+  const sortByLv = a => (a||[]).slice().sort((x,y)=>(lvOrder[x.level]??9)-(lvOrder[y.level]??9));
+
+  const risks = sortByLv(ro.risks), opps = sortByLv(ro.opportunities);
+
+  document.getElementById("l-risk").innerHTML = risks.length
+    ? risks.map(r=>roItem(r,"risk")).join("")
+    : `<div class="empty">暂无</div>`;
+  document.getElementById("l-opp").innerHTML = opps.length
+    ? opps.map(o=>roItem(o,"opp")).join("")
+    : `<div class="empty">暂无</div>`;
+
+  const ck = ro.checklist||[];
+  document.getElementById("l-check-items").innerHTML = ck.length
+    ? ck.map(c=>`<div class="ck-item"><span class="ck-box"></span><span>${esc(c)}</span></div>`).join("")
+    : `<div class="empty">暂无</div>`;
+}
+
+/* ---------- 日期状态 ---------- */
+/* ============================================================
+   数据源：云端（GitHub Actions 每日产出，经 CDN 分发）优先，本地副本兜底
+   ------------------------------------------------------------
+   抓取任务已迁到 GitHub Actions，每天 08:00 自动跑并把 data/ 推到仓库；
+   页面本身**不需要重新发布**，打开时直接读云端最新的 JSON。
+   云端取不到（CDN 故障 / 双击本地文件离线看）时，自动退回随站点发布的 data/。
+   仓库改名后只需改下面两行。
+   ============================================================ */
+const GH_OWNER = "1JacobHE";
+const GH_REPO  = "daily-intel";
+
+const DATA_BASES = [
+  `https://cdn.jsdelivr.net/gh/${GH_OWNER}/${GH_REPO}@main/`,   // 主：全球 CDN，国内可达
+  `https://${GH_OWNER}.github.io/${GH_REPO}/`,                  // 备：GitHub Pages
+  "",                                                          // 兜底：站点自带 data/
+];
+const SRC_LABEL = ["云端·CDN", "云端·Pages", "本地副本"];
+let DATA_BASE_IDX = -1;          // 上次成功的源；-1 表示尚未确定
+let DATA_SOURCE_NAME = "";
+
+async function _tryBase(i, path){
+  try{
+    const r = await fetch(DATA_BASES[i] + path, {cache:"no-store"});
+    if(!r.ok) return null;
+    return await r.json();
+  }catch(e){ return null; }      // 网络异常 / JSON 解析失败都换下一个源
+}
+
+async function fetchJSON(path){
+  // 先用上次成功的源，命中即返回（正常情况只有 1 次请求）
+  if(DATA_BASE_IDX >= 0){
+    const v = await _tryBase(DATA_BASE_IDX, path);
+    if(v !== null){ DATA_SOURCE_NAME = SRC_LABEL[DATA_BASE_IDX]; return v; }
+    DATA_BASE_IDX = -1;          // 该源失效（CDN 抖动），重新按优先级找
+  }
+  for(let i = 0; i < DATA_BASES.length; i++){
+    const v = await _tryBase(i, path);
+    if(v !== null){
+      DATA_BASE_IDX = i; DATA_SOURCE_NAME = SRC_LABEL[i];
+      return v;
+    }
+  }
+  return null;
+}
+
+const STATE = { index:null, date:"", gh:null, mk:null, anns:null, ev:null, wk:null, tl:null, cal:null };
+
+function todayISO(){
+  const d = new Date();
+  return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");
+}
+function fmtDateCN(s){
+  if(!s) return "—";
+  const p = s.split("-");
+  if(p.length!==3) return s;
+  return `${p[0]}年${+p[1]}月${+p[2]}日`;
+}
+function weekdayCN(s){
+  const w = ["周日","周一","周二","周三","周四","周五","周六"];
+  const d = new Date(s+"T00:00:00");
+  return isNaN(d) ? "" : w[d.getDay()];
+}
+
+/* ---------- 日期选择器 ---------- */
+async function initDateBar(){
+  try{
+    STATE.index = await fetchJSON("data/history/index.json");
+  }catch(e){ STATE.index = null; }
+  if(!STATE.index) STATE.index = {days:[], latest:""};
+
+  const days = (STATE.index && STATE.index.days) || [];
+  const sel = document.getElementById("d-select");
+  const quick = document.getElementById("d-quick");
+
+  const today = todayISO();
+  const all = days.map(d=>d.date);
+  const hasToday = all.includes(today);
+
+  // 下拉：列出所有历史日期
+  sel.innerHTML = days.length
+    ? days.map(d=>{
+        const isToday = d.date===today;
+        return `<option value="${esc(d.date)}">${fmtDateCN(d.date)} ${weekdayCN(d.date)}${isToday?" · 今天":""}</option>`;
+      }).join("")
+    : `<option value="">（暂无数据）</option>`;
+
+  // 快捷按钮：今天 + 最近 3 个日期
+  const quickDates = [];
+  if(hasToday) quickDates.push(today);
+  days.slice(0,4).forEach(d=>{ if(!quickDates.includes(d.date)) quickDates.push(d.date); });
+  quick.innerHTML = quickDates.map(d=>
+    `<button class="dq" data-d="${esc(d)}">${d===today?"今天":d.slice(5)}</button>`
+  ).join("");
+
+  quick.querySelectorAll(".dq").forEach(b=>{
+    b.onclick = ()=>{ sel.value = b.dataset.d; loadDate(b.dataset.d); };
+  });
+  sel.onchange = ()=>loadDate(sel.value);
+  document.getElementById("d-prev").onclick = ()=>step(-1);
+  document.getElementById("d-next").onclick = ()=>step(1);
+
+  // 默认加载最新一天
+  const start = STATE.index.latest || (days.length?days[0].date:"") || today;
+  if(sel.querySelector(`option[value="${start}"]`)) sel.value = start;
+  loadDate(start);
+}
+
+function step(dir){
+  const days = (STATE.index && STATE.index.days) || [];
+  const arr = days.map(d=>d.date);            // 已按日期倒序
+  const i = arr.indexOf(STATE.date);
+  if(i<0) return;
+  const j = i - dir;                           // 倒序数组：上一条=更新的日期
+  if(j<0 || j>=arr.length) return;
+  document.getElementById("d-select").value = arr[j];
+  loadDate(arr[j]);
+}
+
+function syncDateUI(){
+  const days = (STATE.index && STATE.index.days) || [];
+  const arr = days.map(d=>d.date);
+  const today = todayISO();
+  const i = arr.indexOf(STATE.date);
+  document.getElementById("d-prev").disabled = (i===arr.length-1 || i<0);
+  document.getElementById("d-next").disabled = (i===0 || i<0);
+
+  document.querySelectorAll(".dq").forEach(b=>{
+    b.classList.toggle("on", b.dataset.d === STATE.date);
+  });
+
+  const info = days.find(d=>d.date===STATE.date);
+  const hint = document.getElementById("d-hint");
+  const isLatest = STATE.date === (STATE.index.latest||"");
+  const isToday = STATE.date === today;
+  if(info){
+    hint.innerHTML = `<span class="dot2 ${isLatest?"":"old"}"></span>` +
+      (isToday ? "今天 · 最新" : isLatest ? "最新数据（非今日）" : "历史存档") +
+      ` · 榜单 ${info.rocket_count||0} 条` +
+      (info.delta_count ? ` · 增量 ${info.delta_count} 个` : "");
+  }else{
+    hint.innerHTML = `<span class="dot2 old"></span>该日期无归档数据`;
+  }
+}
+
+/* ---------- 按日期加载 ---------- */
+let LOAD_TOKEN = 0;
+async function loadDate(date){
+  if(!date) return;
+  const token = ++LOAD_TOKEN;
+  STATE.date = date;
+
+  const j = fetchJSON;   // 统一走「云端优先 / 本地兜底」
+
+  let gh = await j(`data/history/${date}.json`);
+  let mk = await j(`data/news_history/${date}.json`);
+  let anns = null;
+
+  // 归档缺失时回退到当前工作文件（保证页面永远有东西看）
+  if(!gh){
+    const cur = await j("data/github.json");
+    if(cur && cur.date===date) gh = cur;
+  }
+  if(!mk){
+    const cur = await j("data/market_news.json");
+    if(cur && cur.date===date) mk = cur;
+  }
+  if(gh && gh.annotations) anns = gh.annotations;
+  if(!anns) anns = await j("data/annotations.json");
+
+  // 事件聚簇数据：优先按日期归档，回退当前工作文件
+  let ev = await j(`data/event_history/${date}.json`);
+  if(!ev){
+    const cur = await j("data/events.json");
+    if(cur && (cur.date===date || !cur.date)) ev = cur;
+  }
+
+  if(token !== LOAD_TOKEN) return;            // 竞态保护：丢弃过期请求
+  STATE.gh=gh; STATE.mk=mk; STATE.anns=anns; STATE.ev=ev;
+  renderAll();
+  syncDateUI();
+}
+
+/* ---------- 渲染全部 ---------- */
+/* ---------- 顶部新鲜度提示 ---------- */
+function renderFresher(){
+  const el = document.getElementById("fresher");
+  const today = todayISO();
+  const dataDate = STATE.date || "";
+  const latest = (STATE.index && STATE.index.latest) || "";
+  const isLatest = dataDate === latest;
+
+  if(!STATE.gh && !STATE.mk){
+    el.style.display="none"; return;
+  }
+  el.style.display="";
+
+  if(dataDate === today){
+    el.className = "fresher ok";
+    el.innerHTML = `<span class="fi">✅</span><div>
+      本页数据是<b>今天（${fmtDateCN(today)}）</b>的，已是最新。</div>`;
+    return;
+  }
+  if(isLatest){
+    // 数据是最新归档，但不是今天 -> 今天还没抓
+    el.className = "fresher stale";
+    const hasAuto = (STATE.mk && (STATE.mk.auto_news_count || (STATE.mk.news||[]).some(n=>n.auto)));
+    el.innerHTML = `<span class="fi">⏳</span><div>
+      <b>页面显示的「数据日期」是 ${fmtDateCN(dataDate)}，不是今天。</b>
+      今天（${fmtDateCN(today)} ${weekdayCN(today)}）的数据<b>还没有抓取</b>——
+      点右上角「刷新页面」只会重新加载网页，<b>不会重新采集数据</b>。
+      ${hasAuto
+        ? `抓取任务由<b>云端每天 08:00 自动执行</b>，与是否打开 WorkBuddy 无关；若长时间未更新，可能是云端跑失败，稍后会自动重试，也可手动触发一次。`
+        : `要让数据更新到今天，请双击项目目录下的 <code>run.bat</code>（依次执行 抓取 → 归档 → 打开看板）。`}
+      <span style="display:inline-block;margin-top:6px;font-size:11px;opacity:.65">数据源：${SRC_LABEL[DATA_BASE_IDX] || "未知"}</span>
+    </div>`;
+    return;
+  }
+  el.className = "fresher old";
+  el.innerHTML = `<span class="fi">🗂</span><div>
+    正在查看 <b>${fmtDateCN(dataDate)}</b> 的<b>历史存档</b>（最新数据为 ${fmtDateCN(latest)}）。
+    可在上方日期栏切回最新一天。</div>`;
+}
+
+/* ---------- 休市横幅 ---------- */
+function renderClosed(mk){
+  const bar = document.getElementById("closed-bar");
+  const box = document.getElementById("mkt-box");
+  const hint = document.getElementById("h-mkt");
+  if(!mk || mk.marketClosed !== true){
+    bar.style.display="none";
+    if(box) box.classList.remove("stale-box");
+    if(hint) hint.textContent = "";
+    return;
+  }
+  bar.style.display="";
+  document.getElementById("closed-title").textContent = "A股今日休市";
+  document.getElementById("closed-sub").textContent =
+    (mk.weekday ? mk.weekday + " · " : "") +
+    "无当日盘面数据。「今日盘面」区块保留的是上一交易日收盘数据，仅供对照。";
+
+  if(box) box.classList.add("stale-box");
+  if(hint) hint.textContent = "休市 · 下方为上一交易日数据";
+}
+
+function renderAll(){
+  renderFresher();
+  renderClosed(STATE.mk);
+  renderGithub(STATE.gh, STATE.anns);
+  renderMarket(STATE.mk);
+  renderEvents(STATE.ev);
+  const d = STATE.date;
+  document.getElementById("hsub").textContent =
+    `GitHub 涨星雷达 · A股四维要闻 · ${fmtDateCN(d)}`;
+  const gen = (STATE.gh&&STATE.gh.generated_at) || (STATE.mk&&STATE.mk.generated_at);
+  document.getElementById("hgen").textContent = gen || "—";
+}
+
+/* ---------- 事件视图渲染 ---------- */
+function heatBar(h){
+  const w = Math.max(8, Math.min(110, (h||0)*20));
+  return `<span class="heatbar"><i style="width:${w}px"></i>热度 ${h}</span>`;
+}
+
+function toggleFold(id, el){
+  const b = document.getElementById(id);
+  if(!b) return;
+  const open = b.style.display !== "none";
+  b.style.display = open ? "none" : "block";
+  if(!el.dataset.label) el.dataset.label = el.textContent.replace(/^[▸▾]\s*/,"");
+  el.textContent = (open ? "▸ " : "▾ ") + el.dataset.label;
+}
+
+function eventCard(e, i){
+  const flags = [];
+  if(e.isNew) flags.push(`<span class="mk new">🆕 新出现</span>`);
+  if(e.isRising) flags.push(`<span class="mk rise">🔥 上升${e.heat_delta?` +${e.heat_delta}`:""}</span>`);
+  if((e.source_count||0) > 1) flags.push(`<span class="mk multi">×${e.source_count} 家媒体</span>`);
+  const sec = (e.sectors||[]).map(s=>`<span class="chip hot">${esc(s)}</span>`).join("");
+  const nMembers = (e.members||[]).length;
+  const members = nMembers>1 ? `<div class="ev-members" id="em-${i}" style="display:none">
+      ${e.members.map(m=>`<div class="m"><b>${esc(m.src||"")}</b><span>${esc(m.title||"")}</span></div>`).join("")}
+    </div>` : "";
+  const foldBtn = nMembers>1
+    ? `<span class="fold" onclick="toggleFold('em-${i}',this)">▾ 另 ${nMembers-1} 家媒体报道</span>` : "";
+  const whyBtn = (e.merge_reasons||[]).length
+    ? `<span class="fold" onclick="toggleFold('mr-${i}',this)">▾ 为什么合并</span>` : "";
+  const axes = e.axes ? (()=>{
+    const NM={sig:"实质",nov:"增量",cred:"可信",reson:"影响",act:"可用"};
+    return `<div class="axes">${Object.keys(NM).map(k=>
+      `<span>${NM[k]} <b>${e.axes[k]}</b></span>`).join("")}</div>`;
+  })() : "";
+  const noise = (e.noise_notes||[]).length
+    ? `<div class="ev-meta" style="color:var(--tx3);font-size:11.5px">已降权：${esc(e.noise_notes.join("；"))}</div>` : "";
+  return `<div class="ev ${e.merged?"merged":""}">
+    <div class="ev-h">
+      <span class="mk tier">${esc(e.dimName||e.dim||"")}</span>
+      <span class="mk tier">${esc(e.ctypeName||"")}</span>
+      ${flags.join("")}
+    </div>
+    <div class="ev-t">${esc(e.title)}</div>
+    ${e.body?`<div style="margin-top:6px;font-size:13px;color:var(--tx2);line-height:1.6">${esc((e.body||"").slice(0,170))}</div>`:""}
+    <div class="ev-meta">
+      ${heatBar(e.heat)}
+      ${e.time?`<span>${esc(e.time)}</span>`:""}
+      ${e.rank_score!=null?`<span>综合 ${e.rank_score}</span>`:""}
+    </div>
+    ${sec?`<div style="margin-top:8px">${sec}</div>`:""}
+    ${(foldBtn||whyBtn)?`<div style="margin-top:8px;display:flex;gap:16px">${foldBtn}${whyBtn}</div>`:""}
+    <div id="mr-${i}" style="display:none;font-size:12px;color:var(--tx3);margin-top:7px;line-height:1.7">
+      ${(e.merge_reasons||[]).map(r=>`· ${esc(r)}`).join("<br>")}
+    </div>
+    ${members}
+    ${axes}
+    ${noise}
+  </div>`;
+}
+
+function renderEvents(ev){
+  const hEv=document.getElementById("h-ev"), hNl=document.getElementById("h-nl"),
+        hEv2=document.getElementById("h-ev2");
+  const newsN = (STATE.mk && STATE.mk.news ? STATE.mk.news.length : 0);
+  if(hNl) hNl.textContent = newsN ? `${newsN} 条` : "—";
+
+  if(!ev || !ev.events || !ev.events.length){
+    document.getElementById("l-topics").innerHTML = "";
+    document.getElementById("l-events").innerHTML =
+      `<div class="empty">${fmtDateCN(STATE.date)} 没有事件聚簇数据。<br>
+       事件视图仅对已抓取的日期可用；历史日期只保存了榜单与要闻。</div>`;
+    if(hEv) hEv.textContent = "无数据";
+    if(hEv2) hEv2.textContent = "";
+    return;
+  }
+  const st = ev.stat || {};
+  if(hEv) hEv.textContent = `${st.events || ev.events.length} 个事件`;
+  if(hEv2) hEv2.textContent =
+    `由 ${st.input_articles||0} 条快讯合并而来${st.topic_blocks?` · ${st.topic_blocks} 个话题块`:""}`;
+
+  const topics = (ev.topics||[]).filter(t=>t.count>=3);
+  document.getElementById("l-topics").innerHTML = topics.length ? `
+    <div class="subh"><span class="bar"></span>话题块 · 同一主题的多条独立事件
+      <span class="hint">${topics.length} 组，各条独立不合并</span></div>
+    ${topics.map(t=>`<div class="tblock">
+      <h4>【${esc(t.label||t.topic)}】
+        <span class="cnt2">${t.count} 条 · ${(t.sources||[]).length} 家来源 · 合计热度 ${t.heat}</span></h4>
+      <ul>${t.events.slice(0,6).map(e=>`<li>${esc(e.title)}</li>`).join("")}</ul>
+    </div>`).join("")}` : "";
+
+  const list = ev.events.slice(0, 25);
+  document.getElementById("l-events").innerHTML =
+    list.map((e,i)=>eventCard(e,i)).join("")
+    + (ev.events.length > list.length
+        ? `<div class="empty">另有 ${ev.events.length-list.length} 个事件未展示</div>` : "");
+}
+
+function renderGithub(gh, anns){
+  const noteEl = document.getElementById("delta-note");
+
+  if(!gh){
+    document.getElementById("c-gh").textContent = "0";
+    document.getElementById("prov-gh").style.display="none";
+    ["l-rocket","l-pot","l-act"].forEach(id=>{
+      const n=document.getElementById(id);
+      n.className="";
+      n.innerHTML = `<div class="empty">${fmtDateCN(STATE.date)} 没有 GitHub 数据归档<br><br>
+        该日期尚未运行采集脚本，或数据已被清理。</div>`;
+    });
+    if(noteEl) noteEl.textContent = "";
+    return;
+  }
+  document.getElementById("prov-gh").style.display="";
+
+  document.getElementById("c-gh").textContent = (gh.rocket||[]).length;
+  document.getElementById("h-rocket").textContent = `近 ${gh.fresh_days||10} 天新建 · 按吸星速率排序`;
+  document.getElementById("h-pot").textContent = `按总星数排序`;
+  document.getElementById("h-act").textContent = `近 3 天有推送`;
+
+  const deltas = (gh.deltas && Object.keys(gh.deltas).length) ? gh.deltas : null;
+  noteEl.innerHTML = deltas
+    ? `本次已计算增量（对比快照 ${esc(gh.prev_date||"—")}，共 ${Object.keys(deltas).length} 个项目有变化）。`
+    : `当前为<b>首次运行</b>，尚无历史快照可比对 —— 明天再运行一次采集脚本，这里就会出现真实的「+N ★ 较上次」增量。`;
+
+  renderList("l-rocket", gh.rocket, deltas, "暂无数据", anns);
+  renderList("l-pot",   gh.potential, deltas, "暂无数据", anns);
+  renderList("l-act",   gh.active, deltas, "暂无数据", anns);
+  renderProv("prov-gh", gh.provenance);
+}
+
+function renderMarket(mk){
+  if(!mk){
+    document.getElementById("c-nw").textContent = "0";
+    document.getElementById("prov-nw").style.display="none";
+    document.getElementById("panel").style.display="none";
+    document.getElementById("closed-bar").style.display="none";
+    document.getElementById("l-news").innerHTML =
+      `<div class="empty">${fmtDateCN(STATE.date)} 没有 A股要闻归档</div>`;
+    ["strip","stats","l-watch"].forEach(id=>document.getElementById(id).innerHTML="");
+    document.getElementById("sec-up").textContent="—";
+    document.getElementById("sec-down").textContent="—";
+    document.getElementById("mkt-summary").textContent="";
+    renderRiskOpp(null);
+    return;
+  }
+  document.getElementById("panel").style.display="";
+
+  document.getElementById("c-nw").textContent = (mk.news||[]).length;
+  const closed = mk.marketClosed === true;
+  const tab = document.getElementById("tab-news");
+  if(tab) tab.textContent = closed ? "📰 假期信息汇总" : "📰 今日 A 股要闻";
+  const nt = document.getElementById("news-title");
+  if(nt) nt.textContent = closed ? "假期重要信息 · 四维全覆盖" : "今日重要信息 · 四维全覆盖";
+  document.getElementById("h-news").textContent =
+    closed ? `${(mk.news||[]).length} 条 · 假期期间政策与外围动态`
+           : `${(mk.news||[]).length} 条 · 已标注受益板块与信源`;
+  renderPanel(mk);
+  renderProv("prov-nw", mk.provenance);
+  renderRiskOpp(mk);
+
+  const m = mk.market||{};
+  const order = [["sh","上证指数"],["sz","深证成指"],["cyb","创业板指"],["kc50","科创50"]];
+  let html = order.filter(([k])=>m[k]).map(([k,label])=>{
+    const d=m[k]; const cls = d.chg>0?"up":d.chg<0?"down":"";
+    const sign = d.chg>0?"+":"";
+    const val = d.value!=null ? d.value.toFixed(2) : "—";
+    return `<div class="idx"><div class="n">${label}</div>
+      <div class="v">${val}</div>
+      <div class="c ${cls}">${sign}${d.chg.toFixed(2)}%</div></div>`;
+  }).join("");
+  html += `<div class="idx"><div class="n">两市成交额</div>
+    <div class="v" style="font-size:18px">${esc(m.turnover||"—")}</div>
+    <div class="c" style="color:#8b95a6">${m.up||0} 涨 / ${m.down||0} 跌</div></div>`;
+  document.getElementById("strip").innerHTML = html;
+
+  document.getElementById("stats").innerHTML = `
+    <div class="st"><div class="k">上涨家数</div><div class="val up">${m.up||0}</div></div>
+    <div class="st"><div class="k">下跌家数</div><div class="val down">${m.down||0}</div></div>
+    <div class="st"><div class="k">涨停 / 跌停(>9%)</div><div class="val">${m.limit_up||0} / ${m.limit_down||0}</div></div>
+    <div class="st"><div class="k">交易日</div><div class="val" style="font-size:13.5px">${esc(mk.weekday||mk.date)}</div></div>`;
+
+  const s = mk.sectors||{};
+  document.getElementById("sec-up").textContent = (s.up||[]).join(" · ") || "—";
+  document.getElementById("sec-down").textContent = (s.down||[]).join(" · ") || "—";
+  document.getElementById("mkt-summary").innerHTML = `<b>盘面速览：</b>${esc(m.summary||"")}`;
+
+  const dimOrder = {military:0, economic:1, tech:2, risk:3};
+  const news = (mk.news||[]).slice().sort((a,b)=>(dimOrder[a.dim]??9)-(dimOrder[b.dim]??9));
+  renderNewsList(news);
+
+  document.getElementById("l-watch").innerHTML = (mk.watchlist||[]).map((w,i)=>
+    `<div class="wl-item"><div class="wl-i">${i+1}</div>
+      <div><div class="wl-t">${esc(w.label)}</div><div class="wl-d">${esc(w.detail)}</div></div></div>`
+  ).join("") || `<div class="empty">暂无</div>`;
+
+  document.getElementById("disc").textContent = mk.disclaimer || "";
+}
+
+/* ---------- 新闻列表：人工/自动分组 + 维度筛选 ---------- */
+const NEWS_FILTER = {dim:"all"};
+
+function renderNewsList(news){
+  const box = document.getElementById("l-news");
+  if(!news.length){ box.innerHTML = `<div class="empty">暂无要闻数据</div>`; return; }
+
+  const manual = news.filter(n=>!n.auto);
+  const autos  = news.filter(n=>n.auto);
+
+  // 工具栏：按维度筛选
+  const dims = [];
+  news.forEach(n=>{ if(!dims.includes(n.dim)) dims.push(n.dim); });
+  const dimLabel = d => ({military:"军事地缘",economic:"宏观经济",tech:"AI科技",risk:"资金面"}[d] || d);
+  const bar = `<div class="news-toolbar">
+    <span>筛选：</span>
+    <button class="fbtn ${NEWS_FILTER.dim==="all"?"on":""}" data-f="all">全部 ${news.length}</button>
+    ${dims.map(d=>{
+      const c = news.filter(n=>n.dim===d).length;
+      return `<button class="fbtn ${NEWS_FILTER.dim===d?"on":""}" data-f="${d}">${dimLabel(d)} ${c}</button>`;
+    }).join("")}
+  </div>`;
+
+  const flt = arr => NEWS_FILTER.dim==="all" ? arr : arr.filter(n=>n.dim===NEWS_FILTER.dim);
+  const mShow = flt(manual), aShow = flt(autos);
+
+  let html = bar;
+  if(mShow.length){
+    html += `<div class="news-divider"><span>🔍 人工深度研判 · ${mShow.length} 条</span></div>`;
+    html += mShow.map(newsCard).join("");
+  }
+  if(aShow.length){
+    html += `<div class="news-divider"><span>⚡ 自动抓取快讯 · ${aShow.length} 条（点击「详情」展开）</span></div>`;
+    html += aShow.map(newsCard).join("");
+  }
+  if(!mShow.length && !aShow.length){
+    html += `<div class="empty">该维度暂无新闻</div>`;
+  }
+  box.innerHTML = html;
+
+  box.querySelectorAll(".fbtn").forEach(b=>{
+    b.onclick = ()=>{
+      NEWS_FILTER.dim = b.dataset.f;
+      document.querySelectorAll("#l-news .fbtn").forEach(x=>x.classList.toggle("on", x.dataset.f===NEWS_FILTER.dim));
+      renderNewsList(news);
+    };
+  });
+}
+
+/* ---------- boot ---------- */
+initDateBar();
+
+/* ---------- 绕过缓存的刷新 & 回到页面自动取新 ---------- */
+// 手机浏览器对 HTML 有启发式缓存，直接 reload 可能拿回旧页面。
+// 加时间戳参数强制走网络；数据请求本身已是 cache:"no-store"。
+function hardReload(){
+  const p = location.pathname + "?t=" + Date.now() + (location.hash || "");
+  location.replace(p);
+}
+
+const RECHECK_MS = 5 * 60 * 1000;   // 离开超过 5 分钟，回来就检查一次
+let LAST_SEEN = Date.now();
+let CHECKING = false;
+
+async function recheckFreshness(){
+  if(CHECKING) return;
+  // 用户主动在看历史存档时不打扰
+  const latest = (STATE.index && STATE.index.latest) || "";
+  if(STATE.date && latest && STATE.date !== latest) return;
+  CHECKING = true;
+  try{
+    const idx = await fetchJSON("data/history/index.json");
+    if(!idx) return;
+    if(idx && idx.latest && idx.latest !== latest){
+      STATE.index = idx;                 // 有新的归档日：整页数据重载
+      WEEK_LOADED = false;
+      await initDateBar();
+      return;
+    }
+    // 归档日没变，但同一天可能被重抓过 -> 原地刷新当前日期
+    if(STATE.date){ await loadDate(STATE.date); await syncDateUI(); }
+  }catch(e){
+    /* 网络异常时静默保留当前内容 */
+  }finally{
+    CHECKING = false;
+  }
+}
+
+function onReturn(){
+  if(document.visibilityState && document.visibilityState !== "visible") return;
+  const now = Date.now();
+  if(now - LAST_SEEN < RECHECK_MS) return;
+  LAST_SEEN = now;
+  recheckFreshness();
+}
+
+document.addEventListener("visibilitychange", onReturn);   // 切回标签/从后台恢复
+window.addEventListener("focus", onReturn);                // 手机切回浏览器
+window.addEventListener("pageshow", e=>{ if(e.persisted) onReturn(); }); // bfcache 恢复
+/* ---------- 本周综述（周报 / 时间线 / 校准） ---------- */
+let WEEK_LOADED = false;
+async function loadWeek(){
+  if(WEEK_LOADED) return;
+  const j = fetchJSON;
+  const idx = await j("data/weekly/index.json");
+  let wk = null;
+  if(idx && idx.latest) wk = await j(`data/weekly/${idx.latest}.json`);
+  STATE.wk = wk;
+  STATE.tl = await j("data/timeline.json");
+  STATE.cal = await j("data/calibration/report.json");
+  renderWeek();
+  WEEK_LOADED = true;
+}
+
+function renderWeek(){
+  renderWeeklyGh();
+  renderWeeklyNews();
+  renderTimeline();
+  renderCalib();
+}
+
+function renderWeeklyGh(){
+  const wk = STATE.wk;
+  const h = document.getElementById("h-wkgh");
+  const rows = ((wk && wk.github_persistent) || []).filter(r=>r.days_on_board>1);
+  const cw = document.getElementById("c-wk");
+  if(cw) cw.textContent = rows.length || "—";
+  if(h) h.textContent = wk
+    ? `周报 ${wk.week} · ${(wk.date_range||[]).slice().reverse().join(" ~ ")}`
+    : "";
+  document.getElementById("l-wkgh").innerHTML = rows.length ? rows.slice(0,20).map((r,i)=>{
+    const arrow = r.trend==="up" ? "↑" : r.trend==="down" ? "↓" : "→";
+    return `<div class="wk">
+      <div class="idx">${i+1}</div>
+      <div class="bd">
+        <div class="nm">${esc(r.full_name)}</div>
+        <div class="ds">${esc((r.desc||"").slice(0,70))}</div>
+      </div>
+      <div class="rt">
+        <span class="days">${r.days_on_board} 天在榜</span>
+        <b>${fmt(r.stars_last)}★</b>
+        ${r.stars_growth>0 ? `+${fmt(r.stars_growth)} ★ ${arrow}` : `<span style="color:var(--tx3)">${arrow}</span>`}
+      </div>
+    </div>`;
+  }).join("") : `<div class="empty">历史归档不足，需要至少两天的数据。<br>
+      每天自动更新一次，积累几天后这里就会显示「连续多天在榜」的项目。</div>`;
+}
+
+function renderWeeklyNews(){
+  const wk = STATE.wk;
+  const ml = (wk && wk.news_mainlines) || [];
+  const h = document.getElementById("h-wknw");
+  if(h) h.textContent = ml.length ? `${ml.length} 条主线` : "";
+  document.getElementById("l-wknw").innerHTML = ml.length ? ml.map(m=>`
+    <div class="tl">
+      <div class="tl-h">
+        <span class="days">${m.days} 天</span>
+        <span style="color:var(--tx3);font-size:12.5px">【${esc(m.topicLabel||"综合")}】</span>
+      </div>
+      ${m.points.map(p=>`<div class="tl-step">
+        <span class="dt">${esc(p.date.slice(5))}</span>
+        <span class="dot"></span>
+        <span>${esc(p.title)}</span>
+      </div>`).join("")}
+    </div>`).join("") : `<div class="empty">暂无跨天主线。</div>`;
+}
+
+function renderTimeline(){
+  const tl = STATE.tl;
+  const list = ((tl && tl.timelines) || []).filter(e=>e.days>1).slice(0,12);
+  const h = document.getElementById("h-tl");
+  if(h) h.textContent = tl
+    ? `覆盖 ${(tl.days_covered||[]).length} 天 · ${tl.multi_day_events||0} 个跨天事件`
+    : "";
+  document.getElementById("l-timeline").innerHTML = list.length ? list.map(e=>`
+    <div class="tl ${esc(e.trend||"flat")}">
+      <div class="tl-h">
+        <span class="mk tier">${esc(e.topicLabel||e.dim||"综合")}</span>
+        <span>${esc(e.title)}</span>
+        <span style="color:var(--tx3);font-size:12px">${e.days} 天 · 峰值热度 ${e.heat_peak}</span>
+      </div>
+      ${e.series.map(p=>`<div class="tl-step">
+        <span class="dt">${esc((p.date||"").slice(5))}</span>
+        <span class="dot"></span>
+        <span>${esc(p.title)}</span>
+        <span style="color:var(--tx3);flex:0 0 auto">${p.source_count||0} 源</span>
+      </div>`).join("")}
+    </div>`).join("") : `<div class="empty">暂无跨天事件（需要至少两天的数据积累）。</div>`;
+}
+
+function renderCalib(){
+  const cal = STATE.cal, m = cal && cal.metrics;
+  document.getElementById("l-calib").innerHTML = m ? `<div class="calib">
+    <div style="font-size:13.5px;font-weight:650;color:var(--tx)">规则筛选质量自评</div>
+    <div style="font-size:12.5px;color:var(--tx3);margin-top:5px;line-height:1.6">
+      用人工标注的 ${cal.gold_size} 条样本，检验「关键词 + 五轴」规则挑出的新闻准不准。
+      标注分三类：该选 / 不该选 / 两可（难例）。
+    </div>
+    <div class="grid">
+      <div class="m"><b>${(m.accuracy*100).toFixed(0)}%</b><span>准确率</span></div>
+      <div class="m"><b>${(m.precision*100).toFixed(0)}%</b><span>查准率</span></div>
+      <div class="m"><b>${(m.recall*100).toFixed(0)}%</b><span>查全率</span></div>
+      <div class="m"><b>${m.f1.toFixed(2)}</b><span>F1</span></div>
+      <div class="m"><b>${m.n_judged}</b><span>可判定样本</span></div>
+    </div>
+    ${cal.holdout ? `<div style="font-size:12.5px;color:var(--tx2);line-height:1.7">
+      <b>留出集</b>（${cal.holdout.n} 个事件，规则调优时未使用）：准确率
+      <b>${(cal.holdout.accuracy*100).toFixed(0)}%</b>、F1 ${cal.holdout.f1.toFixed(2)}
+      —— 这一项更能代表真实水平。</div>` : ""}
+    <div style="font-size:12.5px;color:var(--tx2);margin-top:8px;line-height:1.7">
+      最优门槛 ${cal.best_threshold} · 评测口径：以「事件」为单位（同一件事的多条报道先合并）
+      ${cal.errors && cal.errors.length===0 ? "· 当前无错例" : `· 剩余错例 ${cal.errors?cal.errors.length:0} 条`}
+    </div>
+    <div class="warn" style="margin-top:10px">
+      ⚠️ 这套规则正是在上面这批标注样本上迭代调优出来的，主指标接近满分属于
+      「训练集表现」，不代表真实准确率。留出集数字更有参考价值。样本量偏小，
+      规则仍在持续调整。
+    </div>
+    <div class="provenance-note" style="margin-top:10px;font-size:12px;color:var(--tx3);line-height:1.7">
+      调优轨迹：初版规则准确率 <b>47.6%</b> → 补上「A 股关联度」维度 <b>52.4%</b>
+      → 加领域无关/小额/会议通知/标题党压制 <b>61.9%</b>
+      → 引入硬淘汰机制 <b>90.5%</b> → 聚簇感知评测 + 门槛标定 <b>97.4%</b>。
+      完整报告见 <code>data/calibration/report.json</code>。
+    </div>
+  </div>` : `<div class="empty">暂无校准报告，运行 <code>python calibrate.py</code> 生成。</div>`;
+}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+name: 每日情报更新
+
+# 完全跑在 GitHub 服务器上：不需要 WorkBuddy 打开，也不需要本机开机。
+# cron 用的是 UTC，00:00 UTC = 北京时间 08:00。
+# 注意：GitHub 的定时任务在整点高峰可能延迟几分钟到十几分钟，属正常现象。
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 支持手动点一下立刻跑（补跑用）
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-intel
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: 拉取仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓取并生成数据
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TZ: Asia/Shanghai
+        run: bash tools/ci_update.sh
+
+      - name: 提交数据
+        run: |
+          set -e
+          git config user.name  "intel-bot"
+          git config user.email "intel-bot@users.noreply.github.com"
+          git add -A data
+          if git diff --staged --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            D=$(TZ=Asia/Shanghai date +%F)
+            git commit -m "data: 每日更新 ${D}"
+            git push
+          fi
+
+      - name: 刷新 CDN 缓存
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python tools/purge_cdn.py "${{ github.repository_owner }}" "${{ github.event.repository.name }}" || true
+
+      - name: 失败提示
+        if: failure()
+        run: |
+          echo "::error::本次更新未通过校验。页面会继续显示上一次成功的数据（fail-closed），不会出现空页面。"

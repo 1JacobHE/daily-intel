@@ -1,0 +1,592 @@
+{
+  "week": "2026-W43",
+  "date_range": [
+    "2026-10-21",
+    "2026-10-15"
+  ],
+  "generated_at": "2026-10-21 08:32",
+  "github_persistent": [
+    {
+      "full_name": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "days_on_board": 3,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 326967,
+      "stars_last": 347915,
+      "stars_growth": 20948,
+      "trend": "flat"
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 31283,
+      "stars_last": 34190,
+      "stars_growth": 2907,
+      "trend": "flat"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 167285,
+      "stars_last": 169641,
+      "stars_growth": 2356,
+      "trend": "flat"
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "lang": "TypeScript",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 253638,
+      "stars_last": 255787,
+      "stars_growth": 2149,
+      "trend": "flat"
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 43500,
+      "stars_last": 45532,
+      "stars_growth": 2032,
+      "trend": "flat"
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "lang": "Rust",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 67781,
+      "stars_last": 69661,
+      "stars_growth": 1880,
+      "trend": "flat"
+    },
+    {
+      "full_name": "ly05010419/MacNativeGames",
+      "desc": "",
+      "lang": "C",
+      "days_on_board": 3,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 1154,
+      "stars_last": 2816,
+      "stars_growth": 1662,
+      "trend": "up"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "days_on_board": 3,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 283485,
+      "stars_last": 284911,
+      "stars_growth": 1426,
+      "trend": "flat"
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "lang": "HTML",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 66007,
+      "stars_last": 67076,
+      "stars_growth": 1069,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Leonxlnx/earshot",
+      "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 977,
+      "stars_last": 1948,
+      "stars_growth": 971,
+      "trend": "up"
+    },
+    {
+      "full_name": "HeyPuter/everything",
+      "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "lang": "JavaScript",
+      "days_on_board": 3,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 2253,
+      "stars_last": 3153,
+      "stars_growth": 900,
+      "trend": "flat"
+    },
+    {
+      "full_name": "public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 490199,
+      "stars_last": 490879,
+      "stars_growth": 680,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 255026,
+      "stars_last": 255587,
+      "stars_growth": 561,
+      "trend": "flat"
+    },
+    {
+      "full_name": "nexu-io/open-design",
+      "desc": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
+      "lang": "TypeScript",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 102295,
+      "stars_last": 102811,
+      "stars_growth": 516,
+      "trend": "flat"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 58051,
+      "stars_last": 58535,
+      "stars_growth": 484,
+      "trend": "flat"
+    },
+    {
+      "full_name": "vinta/awesome-python",
+      "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 328554,
+      "stars_last": 329025,
+      "stars_growth": 471,
+      "trend": "flat"
+    },
+    {
+      "full_name": "aicodeking/leanrea",
+      "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 715,
+      "stars_last": 1176,
+      "stars_growth": 461,
+      "trend": "flat"
+    },
+    {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "lang": "TypeScript",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 31603,
+      "stars_last": 31993,
+      "stars_growth": 390,
+      "trend": "flat"
+    },
+    {
+      "full_name": "OpenMOSS/MOSS-Image",
+      "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 782,
+      "stars_last": 1164,
+      "stars_growth": 382,
+      "trend": "down"
+    },
+    {
+      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 3136,
+      "stars_last": 3494,
+      "stars_growth": 358,
+      "trend": "down"
+    },
+    {
+      "full_name": "ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 57742,
+      "stars_last": 58032,
+      "stars_growth": 290,
+      "trend": "flat"
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 42786,
+      "stars_last": 43068,
+      "stars_growth": 282,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 33441,
+      "stars_last": 33707,
+      "stars_growth": 266,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 3,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 392427,
+      "stars_last": 392683,
+      "stars_growth": 256,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Supermedo/uncharted_pc",
+      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "lang": "C++",
+      "days_on_board": 3,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 1479,
+      "stars_last": 1721,
+      "stars_growth": 242,
+      "trend": "down"
+    },
+    {
+      "full_name": "jhaizhou-ops/d2r-mobile",
+      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+      "lang": "C",
+      "days_on_board": 3,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 3956,
+      "stars_last": 4163,
+      "stars_growth": 207,
+      "trend": "flat"
+    },
+    {
+      "full_name": "xscreensaver-official/xscreensaver",
+      "desc": "There is no official XScreenSaver GitHub repository.",
+      "lang": "Other",
+      "days_on_board": 3,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 874,
+      "stars_last": 1075,
+      "stars_growth": 201,
+      "trend": "down"
+    },
+    {
+      "full_name": "zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "lang": "PowerShell",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 42596,
+      "stars_last": 42796,
+      "stars_growth": 200,
+      "trend": "flat"
+    },
+    {
+      "full_name": "virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 35301,
+      "stars_last": 35473,
+      "stars_growth": 172,
+      "trend": "flat"
+    },
+    {
+      "full_name": "EbookFoundation/free-programming-books",
+      "desc": ":books: Freely available programming books",
+      "lang": "Python",
+      "days_on_board": 3,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-21",
+      "stars_first": 399521,
+      "stars_last": 399681,
+      "stars_growth": 160,
+      "trend": "flat"
+    }
+  ],
+  "news_mainlines": [
+    {
+      "topicLabel": "综合",
+      "title": "经济日报金观平：统筹用好两个市场两种资源",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-19",
+          "title": "成都住房公积金新政明起施行",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-21",
+          "title": "今年三季度全国共1.92亿人次出入境",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "稳步推出新股市值配售 北交所或迎来增量资金",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-20",
+          "title": "证监会法制司司长程合红：研究推进将《证券法》修改纳入下一届全国人大的立法规划",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-10-21",
+          "title": "A股年内分红回购规模达2.1万亿元",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济",
+      "title": "多家上市公司加码3D打印业务",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-19",
+          "title": "陆利平：经济政策正从短期刺激转向长期制度建设",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-21",
+          "title": "多家上市公司加码3D打印业务",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "商务部：坚决反对美污名化中国企业并实施制裁",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-20",
+          "title": "管住该管的 放开该放的——我国无人机出口管制政策优化调整",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-21",
+          "title": "商务部：坚决反对美污名化中国企业并实施制裁",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "首批标志性重大应用场景项目发布，鸿蒙等10个广东项目入选",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-20",
+          "title": "国家发展改革委答记者提问：两批88个投资项目吸引民企300余次咨询，部分项目取得实质性进展",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-21",
+          "title": "首批标志性重大应用场景项目发布，鸿蒙等10个广东项目入选",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "政策催化叠加算力网定位，云计算50ETF东方红（562110）再度活跃于市场",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-19",
+          "title": "政策催化叠加算力网定位，云计算50ETF东方红（562110）跟踪指数上涨",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-20",
+          "title": "政策催化叠加算力网定位，云计算50ETF东方红（562110）再度活跃于市场",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "repos_tracked": 65,
+    "repos_multi_day": 52,
+    "mainlines": 6
+  },
+  "provenance": {
+    "method": "aggregate_over_archives",
+    "status": "derived",
+    "detail": "对近 7 天归档做叠加统计：GitHub 用「上榜天数+星数净增」，要闻主线复用跨天事件串联结果"
+  }
+}

@@ -1,0 +1,30 @@
+# 今日情报汇总看板
+
+> GitHub 涨星雷达 + A股四维要闻。每日自动更新。
+
+在线看板: https://daily-intel-dashboard-27810.app.workbuddy.host/
+数据日期: 2026-11-04
+生成时间: 2026-11-04 22:59
+
+## 这是什么
+一个聚合两类信息的看板：
+1. GitHub 涨星雷达 —— 用「火箭榜（星数÷存活天数）/ 势能榜（半年内总星）/ 活跃榜（近3天推送）」三维度逼近"涨星最快"，并用每日快照计算真实增量
+2. A股四维要闻 —— 军事地缘 / 宏观经济政策 / AI与科技 / 市场资金面，标注利好利空与受益板块
+
+## 数据入口（供 Agent 读取）
+- https://daily-intel-dashboard-27810.app.workbuddy.host/data/feed/latest.md      当日完整摘要（推荐，含事件聚簇与要闻）
+- https://daily-intel-dashboard-27810.app.workbuddy.host/data/feed/events.md      当日事件清单（最省 token）
+- https://daily-intel-dashboard-27810.app.workbuddy.host/data/feed/feed.xml       RSS 订阅
+- https://daily-intel-dashboard-27810.app.workbuddy.host/data/events.json         当日聚簇后的事件（含热度、来源数、成员报道）
+- https://daily-intel-dashboard-27810.app.workbuddy.host/data/github.json         当日 GitHub 榜单（含中文解读与增量）
+- https://daily-intel-dashboard-27810.app.workbuddy.host/data/market_news.json    当日 A股要闻
+- https://daily-intel-dashboard-27810.app.workbuddy.host/data/timeline.json       跨天事件时间线
+- https://daily-intel-dashboard-27810.app.workbuddy.host/data/weekly/index.json   周报索引
+- https://daily-intel-dashboard-27810.app.workbuddy.host/data/calibration/report.json  筛选规则校准报告（准确率/查准/查全 + 错例）
+
+## 口径说明
+- 热度按「事件」算而非按文章算：48 小时内每个独立来源只算一次，24 小时减半
+- 重要性评分为五轴加权（实质份量/信息增量/证据强度/共振面/可用性）+ 噪声压制
+- 四维归类、情绪判定、事件合并、热度均为规则推断（derived），未经人工审核
+- A股深度研判（决策结论、风险机会）为人工调研内容，自动化流程不改写
+- 本看板仅供信息聚合参考，不构成投资建议

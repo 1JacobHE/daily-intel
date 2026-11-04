@@ -1,0 +1,243 @@
+{
+  "deepseek-ai/dsh-superagent-prototype": {
+    "name": "Towards a More Autonomous Agent System",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "storytold/craft-anything": {
+    "name": "Craft Anything: understand how any software works, and craft your own.",
+    "tag": "其他",
+    "auto": true
+  },
+  "KKKKhazix/agent-autoloop": {
+    "name": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "heydamir/unslop": {
+    "name": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "govijr/terminal-mac": {
+    "name": "Entire MacOS running in your terminal.",
+    "tag": "开发工具",
+    "auto": true
+  },
+  "wangzan101/Mika": {
+    "name": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "patch-gg/pixelfx": {
+    "name": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "valentderah/totk-pc-recomp": {
+    "name": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+    "tag": "其他",
+    "auto": true
+  },
+  "anhao/ai-pose-gallery-zh": {
+    "name": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "tag": "创意/AI生成",
+    "auto": true
+  },
+  "BryceYuuu/RUN": {
+    "name": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+    "tag": "其他",
+    "auto": true
+  },
+  "caru-ini/stack-diagram": {
+    "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "Djihads80/Eglantine": {
+    "name": "VERY experimental Nintendo Switch 2 emulator",
+    "tag": "其他",
+    "auto": true
+  },
+  "Verlintas/NOIR": {
+    "name": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+    "tag": "安全研究",
+    "auto": true
+  },
+  "mromidev/claude-animated-shorts": {
+    "name": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "elvarofficial/teardown": {
+    "name": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "paipiange/nvzhuang": {
+    "name": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "tag": "创意/AI生成",
+    "auto": true
+  },
+  "haydenschmitty/floorplan": {
+    "name": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+    "tag": "其他",
+    "auto": true
+  },
+  "modelflare-ai/AnyModelBot": {
+    "name": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "wquguru/cicada": {
+    "name": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+    "tag": "其他",
+    "auto": true
+  },
+  "Arjun-Ingole/hop": {
+    "name": "Install Linux next to Windows without a USB stick",
+    "tag": "其他",
+    "auto": true
+  },
+  "deepseek-ai/deepseek-harness": {
+    "name": "DeepSeek 官方 Agent 框架，主打「一切皆插件」，半年拿到 24 万星",
+    "tag": "AI Agent",
+    "note": "本榜增长最快的项目，生态地位类似 Claude Code 的插件体系"
+  },
+  "DietrichGebert/ponytail": {
+    "name": "让 AI 像最懒的资深工程师那样思考——最好的代码是你从没写过的代码",
+    "tag": "Agent Skill",
+    "note": "理念是让 AI 少写代码、多复用，反向优化 token 消耗"
+  },
+  "odysseus-dev/odysseus": {
+    "name": "可自托管的 AI 工作台",
+    "tag": "自托管"
+  },
+  "storytold/photocraft": {
+    "name": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+    "tag": "开发工具",
+    "auto": true
+  },
+  "eternity4719/HowToLiveBetter": {
+    "name": "高性价比人生指南：长寿防病、急救、省钱理财、法律红线、失业工伤、医保社保、婚育育儿、创业合规、出国技能，每条标明成本收益与证据等级",
+    "tag": "生活指南",
+    "note": "你正在办跨省医保备案，里面医保社保那一节可能用得上"
+  },
+  "bilawalsidhu/gods-eye-view": {
+    "name": "浏览器里的间谍卫星模拟器，游玩用的是真实开源地理数据",
+    "tag": "地理可视化"
+  },
+  "Ebony-Vinyl/dsh-our-free-model": {
+    "name": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "ayghri/i-have-adhd": {
+    "name": "治 AI「话太多」的技能：让它别把答案埋在废话里，直接给结论",
+    "tag": "Agent Skill"
+  },
+  "cloudflare/security-audit-skill": {
+    "name": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "Gathin23/cleanyourtv": {
+    "name": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "tag": "其他",
+    "auto": true
+  },
+  "boykopovar/AnyPS5": {
+    "name": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "tag": "其他",
+    "auto": true
+  },
+  "alibaba/open-code-review": {
+    "name": "阿里开源的代码审查工具：确定性流水线 + LLM，能精确到行级评论",
+    "tag": "开发工具",
+    "note": "阿里生产环境验证过，工程可靠性有背书"
+  },
+  "JustVugg/colibri": {
+    "name": "纯 C 写的推理引擎，无依赖，把专家权重从磁盘流式加载，让普通机器也能跑超大 MoE 模型",
+    "tag": "本地推理"
+  },
+  "zhaoxuya520/reverse-skill": {
+    "name": "逆向工程/授权渗透测试的技能路由器包，按需加载工具链",
+    "tag": "安全研究",
+    "note": "安全类工具，注意只在授权范围内使用"
+  },
+  "Niko1221/Strata": {
+    "name": "让 125B 超大模型跑在 8GB 显卡上：一键安装，本地起 OpenAI/Anthropic 兼容接口",
+    "tag": "本地推理",
+    "note": "显存不够跑大模型的痛点方案，消费级硬件就能用"
+  },
+  "NandhaKishorM/laya": {
+    "name": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+    "tag": "模型/推理",
+    "auto": true
+  },
+  "anywhere-labs/dsh-desktop": {
+    "name": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "vorssaint/vorssaint-utils": {
+    "name": "Free and open-source macOS menu bar toolkit.",
+    "tag": "其他",
+    "auto": true
+  },
+  "baidu/Unlimited-OCR": {
+    "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+    "tag": "其他",
+    "auto": true
+  },
+  "yetone/magpie": {
+    "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
+    "tag": "开发工具"
+  },
+  "freeCodeCamp/freeCodeCamp": {
+    "name": "免费学编程的课程与代码库",
+    "tag": "学习资源"
+  },
+  "morluto/rea": {
+    "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "openclaw/openclaw": {
+    "name": "跨平台通用 AI 助手，主打「真能干活」",
+    "tag": "AI Agent"
+  },
+  "nilbuild/developer-roadmap": {
+    "name": "开发者成长路线图，各技术方向该学什么一目了然",
+    "tag": "学习资源"
+  },
+  "awesome-selfhosted/awesome-selfhosted": {
+    "name": "可自托管的开源网络服务清单",
+    "tag": "资源合集"
+  },
+  "vinta/awesome-python": {
+    "name": "Python 工具大全：想做 X，该用哪个库",
+    "tag": "资源合集"
+  },
+  "mattpocock/skills": {
+    "name": "一线工程师的真实 Agent 技能库",
+    "tag": "Agent Skill"
+  },
+  "obra/superpowers": {
+    "name": "An agentic skills framework & software development methodology that works.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "affaan-m/ECC": {
+    "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
+    "tag": "AI Agent"
+  },
+  "practical-tutorials/project-based-learning": {
+    "name": "通过做项目来学编程的教程合集",
+    "tag": "学习资源"
+  },
+  "NousResearch/hermes-agent": {
+    "name": "随你一起成长的 Agent",
+    "tag": "AI Agent"
+  }
+}

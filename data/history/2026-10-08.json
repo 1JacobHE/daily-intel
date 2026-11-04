@@ -1,0 +1,1785 @@
+{
+  "generated_at": "2026-10-08 08:31:02",
+  "date": "2026-10-08",
+  "prev_date": "2026-10-07",
+  "fresh_days": 10,
+  "provenance": {
+    "source": "api.github.com/search/repositories",
+    "source_type": "official_api",
+    "auth": "anonymous",
+    "rate_limit": "10 req/min (unauthenticated)",
+    "fetched_at": "2026-10-08 08:30:53",
+    "metrics": {
+      "rocket": {
+        "status": "observed",
+        "detail": "created:>2026-09-28 stars:>80 fork:false -> 40 条"
+      },
+      "potential": {
+        "status": "observed",
+        "detail": "created:>2026-04-11 stars:>800 fork:false -> 40 条"
+      },
+      "active": {
+        "status": "observed",
+        "detail": "pushed:>2026-10-05 stars:>5000 fork:false -> 20 条"
+      },
+      "star_delta": {
+        "status": "observed",
+        "detail": "对比快照 2026-10-07，74 个项目有正向增量"
+      },
+      "stars_per_day": {
+        "status": "derived",
+        "detail": "stars ÷ 存活天数，为平均速率而非真实单日增量"
+      },
+      "star_count": {
+        "status": "observed",
+        "detail": "GitHub Search API 返回的星数，可能有分钟级缓存延迟"
+      }
+    },
+    "warnings": []
+  },
+  "deltas": {
+    "deepseek-ai/deepseek-harness": 568,
+    "DietrichGebert/ponytail": 752,
+    "nexu-io/open-design": 155,
+    "odysseus-dev/odysseus": 516,
+    "tt-a1i/archify": 537,
+    "ayghri/i-have-adhd": 706,
+    "eternity4719/HowToLiveBetter": 3638,
+    "bilawalsidhu/gods-eye-view": 380,
+    "Yuan1z0825/nature-skills": 192,
+    "cathrynlavery/diagram-design": 935,
+    "alibaba/open-code-review": 196,
+    "JustVugg/colibri": 290,
+    "zhaoxuya520/reverse-skill": 130,
+    "esengine/DeepSeek-Reasonix": 7,
+    "virgiliojr94/book-to-skill": 102,
+    "freestylefly/awesome-gpt-image-2": 34,
+    "BigPizzaV3/CodexPlusPlus": 23,
+    "tashfeenahmed/freellmapi": 423,
+    "NandhaKishorM/laya": 221,
+    "anywhere-labs/dsh-desktop": 57,
+    "Nutlope/hallmark": 38,
+    "h4ckf0r0day/obscura": 80,
+    "browser-use/video-use": 97,
+    "op7418/guizang-ppt-skill": 60,
+    "xai-org/grok-build": 19,
+    "baidu/Unlimited-OCR": 39,
+    "cloudflare/security-audit-skill": 688,
+    "t8y2/dbx": 107,
+    "alchaincyf/huashu-design": 24,
+    "vorssaint/vorssaint-utils": 203,
+    "antirez/ds4": 51,
+    "guillaumemeyer/watermarks-remover": 66,
+    "AprilNEA/OpenLogi": 103,
+    "firecrawl/anydoc": 37,
+    "ifixai-ai/iFixAi": 677,
+    "browser-use/jev-ultrafast": 75,
+    "PrimeIntellect-ai/prime-agent": 21,
+    "hypit-ai/hypit": 325,
+    "dnshe/DNSHE-FreeDomains": 158,
+    "andrewyng/openworker": 14,
+    "storytold/photocraft": 10459,
+    "openai/math": 7850,
+    "rehan-remade/universal-modder": 605,
+    "CopilotKit/OpenDots": 259,
+    "omlahore/RemoveMacAI": 422,
+    "storytold/filmcraft": 1679,
+    "storytold/lightcraft": 1805,
+    "nykooi1/vibe-wise": 400,
+    "shader-effects-inc/shaders": 1223,
+    "storytold/vectorcraft": 1195,
+    "QingYunA/answer-me-with-html": 271,
+    "nanaism/yomiyasu": 99,
+    "storytold/effectcraft": 834,
+    "facebookincubator/muse-gadget-sdk": 109,
+    "kargulstudio/sales-crm": 51,
+    "deadinside28/bloodborne_pc": 391,
+    "alchaincyf/huashu-art-motion": 979,
+    "wy51ai/floorplan-3d": 112,
+    "BlueHeisenberg/SCSKiller": 99,
+    "CAPCOM-TD-OSS/REDox": 12,
+    "lucasmarkes/hairline": 282,
+    "chasmlol/SkyCraft": 29,
+    "oil-oil/oil-ui": 186,
+    "mizorewww/x_gift_bot": 271,
+    "sganggs/Stronghold-Protocol": 89,
+    "Jakeschincariol/replica-skill": 170,
+    "StayLameBro/backburner": 76,
+    "Edwardxlai/easyread": 15,
+    "openai/mcp-extensions": 9,
+    "rauchg/gdp-ts": 37,
+    "extend-hq/jevbox": 15,
+    "elstongun/leviathan": 34,
+    "ythx-101/live-panel-skill": 17,
+    "composio-community/open-dot": 10
+  },
+  "rocket": [
+    {
+      "full_name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "desc": "",
+      "stars": 9431,
+      "forks": 917,
+      "lang": "Lean",
+      "created": "2026-10-06",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "openai",
+      "avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "age_days": 2,
+      "stars_per_day": 4715.5
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "desc": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "stars": 17080,
+      "forks": 2245,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "topics": [
+        "adobe",
+        "adobe-photoshop-2026",
+        "adobe-photoshop-2026-ai",
+        "art",
+        "image-editing",
+        "image-editing-software"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 8,
+      "stars_per_day": 2135.0
+    },
+    {
+      "full_name": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "stars": 1620,
+      "forks": 189,
+      "lang": "JavaScript",
+      "created": "2026-10-06",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "alchaincyf",
+      "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4",
+      "age_days": 2,
+      "stars_per_day": 810.0
+    },
+    {
+      "full_name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "stars": 5203,
+      "forks": 472,
+      "lang": "Python",
+      "created": "2026-09-30",
+      "pushed": "2026-10-07",
+      "topics": [
+        "age-of-empires",
+        "claude-code",
+        "claude-code-plugin",
+        "fal",
+        "game-assets",
+        "game-modding"
+      ],
+      "owner": "rehan-remade",
+      "avatar": "https://avatars.githubusercontent.com/u/173837546?v=4",
+      "age_days": 8,
+      "stars_per_day": 650.4
+    },
+    {
+      "full_name": "CopilotKit/OpenDots",
+      "url": "https://github.com/CopilotKit/OpenDots",
+      "desc": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "stars": 4194,
+      "forks": 581,
+      "lang": "TypeScript",
+      "created": "2026-09-29",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "CopilotKit",
+      "avatar": "https://avatars.githubusercontent.com/u/131273140?v=4",
+      "age_days": 9,
+      "stars_per_day": 466.0
+    },
+    {
+      "full_name": "storytold/filmcraft",
+      "url": "https://github.com/storytold/filmcraft",
+      "desc": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "stars": 3295,
+      "forks": 1046,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "topics": [
+        "adobe",
+        "art",
+        "rust",
+        "video",
+        "video-editing",
+        "video-editor"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 8,
+      "stars_per_day": 411.9
+    },
+    {
+      "full_name": "kargulstudio/sales-crm",
+      "url": "https://github.com/kargulstudio/sales-crm",
+      "desc": "",
+      "stars": 1635,
+      "forks": 355,
+      "lang": "TypeScript",
+      "created": "2026-10-04",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "kargulstudio",
+      "avatar": "https://avatars.githubusercontent.com/u/245261909?v=4",
+      "age_days": 4,
+      "stars_per_day": 408.8
+    },
+    {
+      "full_name": "omlahore/RemoveMacAI",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "desc": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
+      "stars": 3527,
+      "forks": 91,
+      "lang": "Swift",
+      "created": "2026-09-29",
+      "pushed": "2026-10-07",
+      "topics": [
+        "apple-intelligence",
+        "cli",
+        "debloat",
+        "macos",
+        "macos-27",
+        "privacy"
+      ],
+      "owner": "omlahore",
+      "avatar": "https://avatars.githubusercontent.com/u/119071446?v=4",
+      "age_days": 9,
+      "stars_per_day": 391.9
+    },
+    {
+      "full_name": "storytold/lightcraft",
+      "url": "https://github.com/storytold/lightcraft",
+      "desc": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "stars": 3042,
+      "forks": 891,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "topics": [
+        "art",
+        "lightroom",
+        "photography",
+        "raw",
+        "raw-editor",
+        "raw-processing"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 8,
+      "stars_per_day": 380.2
+    },
+    {
+      "full_name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "stars": 2045,
+      "forks": 138,
+      "lang": "JavaScript",
+      "created": "2026-10-02",
+      "pushed": "2026-10-07",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "claude-code-skill",
+        "claude-skill",
+        "claude-skills"
+      ],
+      "owner": "QingYunA",
+      "avatar": "https://avatars.githubusercontent.com/u/41177312?v=4",
+      "age_days": 6,
+      "stars_per_day": 340.8
+    },
+    {
+      "full_name": "nykooi1/vibe-wise",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "stars": 2981,
+      "forks": 126,
+      "lang": "Python",
+      "created": "2026-09-29",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "nykooi1",
+      "avatar": "https://avatars.githubusercontent.com/u/74839315?v=4",
+      "age_days": 9,
+      "stars_per_day": 331.2
+    },
+    {
+      "full_name": "storytold/pdfcraft",
+      "url": "https://github.com/storytold/pdfcraft",
+      "desc": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+      "stars": 2353,
+      "forks": 811,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "topics": [
+        "acrobat",
+        "acrobat-full",
+        "acrobat-pro",
+        "adobe",
+        "adobe-acrobat",
+        "document-processing"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 8,
+      "stars_per_day": 294.1
+    },
+    {
+      "full_name": "feder-cr/invisible_playwright_mcp",
+      "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+      "desc": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+      "stars": 2643,
+      "forks": 459,
+      "lang": "Python",
+      "created": "2026-09-29",
+      "pushed": "2026-10-07",
+      "topics": [
+        "ai-tools",
+        "antidetect-browser",
+        "autonomous-agents",
+        "browser-agent",
+        "browser-automation",
+        "claude-code-plugin"
+      ],
+      "owner": "feder-cr",
+      "avatar": "https://avatars.githubusercontent.com/u/85809106?v=4",
+      "age_days": 9,
+      "stars_per_day": 293.7
+    },
+    {
+      "full_name": "storytold/vectorcraft",
+      "url": "https://github.com/storytold/vectorcraft",
+      "desc": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+      "stars": 2228,
+      "forks": 855,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "topics": [
+        "adobe-illustrator",
+        "art",
+        "illustrator",
+        "illustrator-2023",
+        "illustrator-extensions",
+        "illustrator-free"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 8,
+      "stars_per_day": 278.5
+    },
+    {
+      "full_name": "facebookincubator/muse-gadget-sdk",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "desc": "Open source SDK to build Muse gadgets",
+      "stars": 1651,
+      "forks": 327,
+      "lang": "C",
+      "created": "2026-10-02",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "facebookincubator",
+      "avatar": "https://avatars.githubusercontent.com/u/19538647?v=4",
+      "age_days": 6,
+      "stars_per_day": 275.2
+    },
+    {
+      "full_name": "shader-effects-inc/shaders",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "desc": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+      "stars": 2469,
+      "forks": 86,
+      "lang": "TypeScript",
+      "created": "2026-09-29",
+      "pushed": "2026-10-07",
+      "topics": [
+        "cli",
+        "javascript",
+        "mcp",
+        "react",
+        "shaders",
+        "solid"
+      ],
+      "owner": "shader-effects-inc",
+      "avatar": "https://avatars.githubusercontent.com/u/265144305?v=4",
+      "age_days": 9,
+      "stars_per_day": 274.3
+    },
+    {
+      "full_name": "storytold/effectcraft",
+      "url": "https://github.com/storytold/effectcraft",
+      "desc": "",
+      "stars": 1656,
+      "forks": 680,
+      "lang": "Rust",
+      "created": "2026-10-01",
+      "pushed": "2026-10-08",
+      "topics": [],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 7,
+      "stars_per_day": 236.6
+    },
+    {
+      "full_name": "deadinside28/bloodborne_pc",
+      "url": "https://github.com/deadinside28/bloodborne_pc",
+      "desc": "",
+      "stars": 1633,
+      "forks": 168,
+      "lang": "C++",
+      "created": "2026-10-01",
+      "pushed": "2026-10-07",
+      "topics": [],
+      "owner": "deadinside28",
+      "avatar": "https://avatars.githubusercontent.com/u/225147579?v=4",
+      "age_days": 7,
+      "stars_per_day": 233.3
+    },
+    {
+      "full_name": "elstongun/leviathan",
+      "url": "https://github.com/elstongun/leviathan",
+      "desc": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "stars": 665,
+      "forks": 34,
+      "lang": "Rust",
+      "created": "2026-10-05",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "elstongun",
+      "avatar": "https://avatars.githubusercontent.com/u/75282682?v=4",
+      "age_days": 3,
+      "stars_per_day": 221.7
+    },
+    {
+      "full_name": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "stars": 1709,
+      "forks": 38,
+      "lang": "Python",
+      "created": "2026-09-30",
+      "pushed": "2026-10-07",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor"
+      ],
+      "owner": "nanaism",
+      "avatar": "https://avatars.githubusercontent.com/u/72681409?v=4",
+      "age_days": 8,
+      "stars_per_day": 213.6
+    }
+  ],
+  "potential": [
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 245174,
+      "forks": 29369,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-10-03",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 56,
+      "stars_per_day": 4378.1
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 157587,
+      "forks": 8466,
+      "lang": "JavaScript",
+      "created": "2026-06-12",
+      "pushed": "2026-10-05",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules"
+      ],
+      "owner": "DietrichGebert",
+      "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "age_days": 118,
+      "stars_per_day": 1335.5
+    },
+    {
+      "full_name": "nexu-io/open-design",
+      "url": "https://github.com/nexu-io/open-design",
+      "desc": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+      "stars": 99873,
+      "forks": 11531,
+      "lang": "TypeScript",
+      "created": "2026-04-28",
+      "pushed": "2026-10-07",
+      "topics": [
+        "agent-skills",
+        "ai-design",
+        "byok",
+        "claude-code-for-design",
+        "claude-design",
+        "codex-design"
+      ],
+      "owner": "nexu-io",
+      "avatar": "https://avatars.githubusercontent.com/u/263625318?v=4",
+      "age_days": 163,
+      "stars_per_day": 612.7
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "url": "https://github.com/odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "stars": 91852,
+      "forks": 1387,
+      "lang": "Python",
+      "created": "2026-05-31",
+      "pushed": "2026-10-07",
+      "topics": [],
+      "owner": "odysseus-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/305418735?v=4",
+      "age_days": 130,
+      "stars_per_day": 706.6
+    },
+    {
+      "full_name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "stars": 79230,
+      "forks": 5314,
+      "lang": "JavaScript",
+      "created": "2026-04-15",
+      "pushed": "2026-10-08",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex"
+      ],
+      "owner": "tt-a1i",
+      "avatar": "https://avatars.githubusercontent.com/u/53142663?v=4",
+      "age_days": 176,
+      "stars_per_day": 450.2
+    },
+    {
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 55106,
+      "forks": 3158,
+      "lang": "Python",
+      "created": "2026-05-13",
+      "pushed": "2026-10-06",
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
+      "owner": "ayghri",
+      "avatar": "https://avatars.githubusercontent.com/u/32200675?v=4",
+      "age_days": 148,
+      "stars_per_day": 372.3
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "stars": 50282,
+      "forks": 4031,
+      "lang": "HTML",
+      "created": "2026-09-07",
+      "pushed": "2026-10-07",
+      "topics": [],
+      "owner": "eternity4719",
+      "avatar": "https://avatars.githubusercontent.com/u/230156667?v=4",
+      "age_days": 31,
+      "stars_per_day": 1622.0
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 48757,
+      "forks": 9914,
+      "lang": "JavaScript",
+      "created": "2026-06-22",
+      "pushed": "2026-10-07",
+      "topics": [
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis"
+      ],
+      "owner": "bilawalsidhu",
+      "avatar": "https://avatars.githubusercontent.com/u/106619546?v=4",
+      "age_days": 108,
+      "stars_per_day": 451.5
+    },
+    {
+      "full_name": "Yuan1z0825/nature-skills",
+      "url": "https://github.com/Yuan1z0825/nature-skills",
+      "desc": "符合nature论文学术表达和科研绘图的Skill",
+      "stars": 46369,
+      "forks": 2418,
+      "lang": "Python",
+      "created": "2026-04-24",
+      "pushed": "2026-10-07",
+      "topics": [
+        "codex-skills",
+        "nature",
+        "nature-skills"
+      ],
+      "owner": "Yuan1z0825",
+      "avatar": "https://avatars.githubusercontent.com/u/140061814?v=4",
+      "age_days": 167,
+      "stars_per_day": 277.7
+    },
+    {
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 44958,
+      "forks": 2885,
+      "lang": "HTML",
+      "created": "2026-04-16",
+      "pushed": "2026-10-08",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio"
+      ],
+      "owner": "cathrynlavery",
+      "avatar": "https://avatars.githubusercontent.com/u/50469282?v=4",
+      "age_days": 175,
+      "stars_per_day": 256.9
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 44239,
+      "forks": 3196,
+      "lang": "Go",
+      "created": "2026-05-18",
+      "pushed": "2026-10-05",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "owner": "alibaba",
+      "avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
+      "age_days": 143,
+      "stars_per_day": 309.4
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": 40328,
+      "forks": 4434,
+      "lang": "C",
+      "created": "2026-07-01",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "JustVugg",
+      "avatar": "https://avatars.githubusercontent.com/u/13022503?v=4",
+      "age_days": 99,
+      "stars_per_day": 407.4
+    },
+    {
+      "full_name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": 40062,
+      "forks": 5583,
+      "lang": "PowerShell",
+      "created": "2026-05-13",
+      "pushed": "2026-09-22",
+      "topics": [],
+      "owner": "zhaoxuya520",
+      "avatar": "https://avatars.githubusercontent.com/u/147215175?v=4",
+      "age_days": 148,
+      "stars_per_day": 270.7
+    },
+    {
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "desc": "A reliable coding agent for complex software engineering tasks.",
+      "stars": 35749,
+      "forks": 2440,
+      "lang": "Go",
+      "created": "2026-04-21",
+      "pushed": "2026-10-08",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent"
+      ],
+      "owner": "esengine",
+      "avatar": "https://avatars.githubusercontent.com/u/18465053?v=4",
+      "age_days": 170,
+      "stars_per_day": 210.3
+    },
+    {
+      "full_name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 34076,
+      "forks": 3578,
+      "lang": "Python",
+      "created": "2026-05-01",
+      "pushed": "2026-10-05",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "book-to-skill",
+        "context-engineering",
+        "document-processing",
+        "edtech"
+      ],
+      "owner": "virgiliojr94",
+      "avatar": "https://avatars.githubusercontent.com/u/23645449?v=4",
+      "age_days": 160,
+      "stars_per_day": 213.0
+    },
+    {
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "stars": 34035,
+      "forks": 3253,
+      "lang": "JavaScript",
+      "created": "2026-04-25",
+      "pushed": "2026-10-03",
+      "topics": [
+        "agents",
+        "ai-image-generation",
+        "chatgpt",
+        "dsh-plugin",
+        "gpt-image-2",
+        "image-prompts"
+      ],
+      "owner": "freestylefly",
+      "avatar": "https://avatars.githubusercontent.com/u/43960064?v=4",
+      "age_days": 166,
+      "stars_per_day": 205.0
+    },
+    {
+      "full_name": "BigPizzaV3/CodexPlusPlus",
+      "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+      "desc": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
+      "stars": 31869,
+      "forks": 2033,
+      "lang": "Rust",
+      "created": "2026-05-06",
+      "pushed": "2026-10-07",
+      "topics": [],
+      "owner": "BigPizzaV3",
+      "avatar": "https://avatars.githubusercontent.com/u/237402563?v=4",
+      "age_days": 155,
+      "stars_per_day": 205.6
+    },
+    {
+      "full_name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 31689,
+      "forks": 4423,
+      "lang": "TypeScript",
+      "created": "2026-04-21",
+      "pushed": "2026-10-08",
+      "topics": [],
+      "owner": "tashfeenahmed",
+      "avatar": "https://avatars.githubusercontent.com/u/9307356?v=4",
+      "age_days": 170,
+      "stars_per_day": 186.4
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "stars": 31436,
+      "forks": 2771,
+      "lang": "Python",
+      "created": "2026-09-18",
+      "pushed": "2026-10-07",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert"
+      ],
+      "owner": "NandhaKishorM",
+      "avatar": "https://avatars.githubusercontent.com/u/48623612?v=4",
+      "age_days": 20,
+      "stars_per_day": 1571.8
+    },
+    {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "stars": 30088,
+      "forks": 1425,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-10-03",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh"
+      ],
+      "owner": "anywhere-labs",
+      "avatar": "https://avatars.githubusercontent.com/u/286827603?v=4",
+      "age_days": 56,
+      "stars_per_day": 537.3
+    }
+  ],
+  "active": [
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 456905,
+      "forks": 48434,
+      "lang": "TypeScript",
+      "created": "2014-12-24",
+      "pushed": "2026-10-07",
+      "topics": [
+        "careers",
+        "certification",
+        "community",
+        "curriculum",
+        "d3",
+        "education"
+      ],
+      "owner": "freeCodeCamp",
+      "avatar": "https://avatars.githubusercontent.com/u/9892522?v=4",
+      "age_days": 4306,
+      "stars_per_day": 106.1
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": 391596,
+      "forks": 82288,
+      "lang": "TypeScript",
+      "created": "2025-11-24",
+      "pushed": "2026-10-08",
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data"
+      ],
+      "owner": "openclaw",
+      "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "age_days": 318,
+      "stars_per_day": 1231.4
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "stars": 369112,
+      "forks": 45044,
+      "lang": "TypeScript",
+      "created": "2017-03-15",
+      "pushed": "2026-10-07",
+      "topics": [
+        "angular-roadmap",
+        "backend-roadmap",
+        "blockchain-roadmap",
+        "computer-science",
+        "dba-roadmap",
+        "developer-roadmap"
+      ],
+      "owner": "nilbuild",
+      "avatar": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "age_days": 3494,
+      "stars_per_day": 105.6
+    },
+    {
+      "full_name": "vinta/awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "stars": 325902,
+      "forks": 28894,
+      "lang": "Python",
+      "created": "2014-06-27",
+      "pushed": "2026-10-07",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "python",
+        "python-frameworks",
+        "python-libraries",
+        "python-tools"
+      ],
+      "owner": "vinta",
+      "avatar": "https://avatars.githubusercontent.com/u/652070?v=4",
+      "age_days": 4486,
+      "stars_per_day": 72.6
+    },
+    {
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "stars": 324660,
+      "forks": 15189,
+      "lang": "Other",
+      "created": "2015-06-01",
+      "pushed": "2026-10-06",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud",
+        "free-software",
+        "hosting",
+        "privacy"
+      ],
+      "owner": "awesome-selfhosted",
+      "avatar": "https://avatars.githubusercontent.com/u/24270415?v=4",
+      "age_days": 4147,
+      "stars_per_day": 78.3
+    },
+    {
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "stars": 296390,
+      "forks": 26456,
+      "lang": "Shell",
+      "created": "2025-10-09",
+      "pushed": "2026-10-06",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills"
+      ],
+      "owner": "obra",
+      "avatar": "https://avatars.githubusercontent.com/u/45416?v=4",
+      "age_days": 364,
+      "stars_per_day": 814.3
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 279578,
+      "forks": 23425,
+      "lang": "Shell",
+      "created": "2026-02-03",
+      "pushed": "2026-10-07",
+      "topics": [],
+      "owner": "mattpocock",
+      "avatar": "https://avatars.githubusercontent.com/u/28293365?v=4",
+      "age_days": 247,
+      "stars_per_day": 1131.9
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": 251945,
+      "forks": 54257,
+      "lang": "Python",
+      "created": "2025-07-22",
+      "pushed": "2026-10-08",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude"
+      ],
+      "owner": "NousResearch",
+      "avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "age_days": 443,
+      "stars_per_day": 568.7
+    },
+    {
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "desc": "Linux kernel source tree",
+      "stars": 251406,
+      "forks": 67012,
+      "lang": "C",
+      "created": "2011-09-04",
+      "pushed": "2026-10-07",
+      "topics": [],
+      "owner": "torvalds",
+      "avatar": "https://avatars.githubusercontent.com/u/1024025?v=4",
+      "age_days": 5513,
+      "stars_per_day": 45.6
+    },
+    {
+      "full_name": "react/react",
+      "url": "https://github.com/react/react",
+      "desc": "The library for web and native user interfaces.",
+      "stars": 250921,
+      "forks": 51445,
+      "lang": "JavaScript",
+      "created": "2013-05-24",
+      "pushed": "2026-10-07",
+      "topics": [
+        "declarative",
+        "frontend",
+        "javascript",
+        "library",
+        "react",
+        "ui"
+      ],
+      "owner": "react",
+      "avatar": "https://avatars.githubusercontent.com/u/102812?v=4",
+      "age_days": 4885,
+      "stars_per_day": 51.4
+    },
+    {
+      "full_name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "desc": "All Algorithms implemented in Python",
+      "stars": 225274,
+      "forks": 51156,
+      "lang": "Python",
+      "created": "2016-07-16",
+      "pushed": "2026-10-06",
+      "topics": [
+        "algorithm",
+        "algorithm-competitions",
+        "algorithms-implemented",
+        "algos",
+        "community-driven",
+        "education"
+      ],
+      "owner": "TheAlgorithms",
+      "avatar": "https://avatars.githubusercontent.com/u/20487725?v=4",
+      "age_days": 3736,
+      "stars_per_day": 60.3
+    },
+    {
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "stars": 212209,
+      "forks": 28282,
+      "lang": "TypeScript",
+      "created": "2025-04-30",
+      "pushed": "2026-10-08",
+      "topics": [],
+      "owner": "anomalyco",
+      "avatar": "https://avatars.githubusercontent.com/u/66570915?v=4",
+      "age_days": 526,
+      "stars_per_day": 403.4
+    }
+  ],
+  "movers": [
+    {
+      "full_name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "desc": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "stars": 17080,
+      "forks": 2245,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "topics": [
+        "adobe",
+        "adobe-photoshop-2026",
+        "adobe-photoshop-2026-ai",
+        "art",
+        "image-editing",
+        "image-editing-software"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 8,
+      "stars_per_day": 2135.0,
+      "delta": 10459
+    },
+    {
+      "full_name": "openai/math",
+      "url": "https://github.com/openai/math",
+      "desc": "",
+      "stars": 9431,
+      "forks": 917,
+      "lang": "Lean",
+      "created": "2026-10-06",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "openai",
+      "avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "age_days": 2,
+      "stars_per_day": 4715.5,
+      "delta": 7850
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "stars": 50282,
+      "forks": 4031,
+      "lang": "HTML",
+      "created": "2026-09-07",
+      "pushed": "2026-10-07",
+      "topics": [],
+      "owner": "eternity4719",
+      "avatar": "https://avatars.githubusercontent.com/u/230156667?v=4",
+      "age_days": 31,
+      "stars_per_day": 1622.0,
+      "delta": 3638
+    },
+    {
+      "full_name": "storytold/lightcraft",
+      "url": "https://github.com/storytold/lightcraft",
+      "desc": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "stars": 3042,
+      "forks": 891,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "topics": [
+        "art",
+        "lightroom",
+        "photography",
+        "raw",
+        "raw-editor",
+        "raw-processing"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 8,
+      "stars_per_day": 380.2,
+      "delta": 1805
+    },
+    {
+      "full_name": "storytold/filmcraft",
+      "url": "https://github.com/storytold/filmcraft",
+      "desc": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "stars": 3295,
+      "forks": 1046,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "topics": [
+        "adobe",
+        "art",
+        "rust",
+        "video",
+        "video-editing",
+        "video-editor"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 8,
+      "stars_per_day": 411.9,
+      "delta": 1679
+    },
+    {
+      "full_name": "shader-effects-inc/shaders",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "desc": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+      "stars": 2469,
+      "forks": 86,
+      "lang": "TypeScript",
+      "created": "2026-09-29",
+      "pushed": "2026-10-07",
+      "topics": [
+        "cli",
+        "javascript",
+        "mcp",
+        "react",
+        "shaders",
+        "solid"
+      ],
+      "owner": "shader-effects-inc",
+      "avatar": "https://avatars.githubusercontent.com/u/265144305?v=4",
+      "age_days": 9,
+      "stars_per_day": 274.3,
+      "delta": 1223
+    },
+    {
+      "full_name": "storytold/vectorcraft",
+      "url": "https://github.com/storytold/vectorcraft",
+      "desc": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+      "stars": 2228,
+      "forks": 855,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-10-08",
+      "topics": [
+        "adobe-illustrator",
+        "art",
+        "illustrator",
+        "illustrator-2023",
+        "illustrator-extensions",
+        "illustrator-free"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 8,
+      "stars_per_day": 278.5,
+      "delta": 1195
+    },
+    {
+      "full_name": "alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "stars": 1620,
+      "forks": 189,
+      "lang": "JavaScript",
+      "created": "2026-10-06",
+      "pushed": "2026-10-06",
+      "topics": [],
+      "owner": "alchaincyf",
+      "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4",
+      "age_days": 2,
+      "stars_per_day": 810.0,
+      "delta": 979
+    },
+    {
+      "full_name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 44958,
+      "forks": 2885,
+      "lang": "HTML",
+      "created": "2026-04-16",
+      "pushed": "2026-10-08",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "diagrams",
+        "drawio"
+      ],
+      "owner": "cathrynlavery",
+      "avatar": "https://avatars.githubusercontent.com/u/50469282?v=4",
+      "age_days": 175,
+      "stars_per_day": 256.9,
+      "delta": 935
+    },
+    {
+      "full_name": "storytold/effectcraft",
+      "url": "https://github.com/storytold/effectcraft",
+      "desc": "",
+      "stars": 1656,
+      "forks": 680,
+      "lang": "Rust",
+      "created": "2026-10-01",
+      "pushed": "2026-10-08",
+      "topics": [],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 7,
+      "stars_per_day": 236.6,
+      "delta": 834
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 157587,
+      "forks": 8466,
+      "lang": "JavaScript",
+      "created": "2026-06-12",
+      "pushed": "2026-10-05",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules"
+      ],
+      "owner": "DietrichGebert",
+      "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "age_days": 118,
+      "stars_per_day": 1335.5,
+      "delta": 752
+    },
+    {
+      "full_name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 55106,
+      "forks": 3158,
+      "lang": "Python",
+      "created": "2026-05-13",
+      "pushed": "2026-10-06",
+      "topics": [
+        "adhd",
+        "claude-",
+        "claude-code-plugin",
+        "claude-skills",
+        "developer-tools",
+        "productivity"
+      ],
+      "owner": "ayghri",
+      "avatar": "https://avatars.githubusercontent.com/u/32200675?v=4",
+      "age_days": 148,
+      "stars_per_day": 372.3,
+      "delta": 706
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 26044,
+      "forks": 1564,
+      "lang": "JavaScript",
+      "created": "2026-06-18",
+      "pushed": "2026-09-14",
+      "topics": [],
+      "owner": "cloudflare",
+      "avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "age_days": 112,
+      "stars_per_day": 232.5,
+      "delta": 688
+    },
+    {
+      "full_name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "desc": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "stars": 22323,
+      "forks": 1418,
+      "lang": "Python",
+      "created": "2026-04-27",
+      "pushed": "2026-10-07",
+      "topics": [
+        "agent-evaluation",
+        "ai",
+        "ai-alignment",
+        "ai-evaluation",
+        "ai-governance",
+        "ai-safety"
+      ],
+      "owner": "ifixai-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/279006089?v=4",
+      "age_days": 164,
+      "stars_per_day": 136.1,
+      "delta": 677
+    },
+    {
+      "full_name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "stars": 5203,
+      "forks": 472,
+      "lang": "Python",
+      "created": "2026-09-30",
+      "pushed": "2026-10-07",
+      "topics": [
+        "age-of-empires",
+        "claude-code",
+        "claude-code-plugin",
+        "fal",
+        "game-assets",
+        "game-modding"
+      ],
+      "owner": "rehan-remade",
+      "avatar": "https://avatars.githubusercontent.com/u/173837546?v=4",
+      "age_days": 8,
+      "stars_per_day": 650.4,
+      "delta": 605
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 245174,
+      "forks": 29369,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-10-03",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 56,
+      "stars_per_day": 4378.1,
+      "delta": 568
+    },
+    {
+      "full_name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "stars": 79230,
+      "forks": 5314,
+      "lang": "JavaScript",
+      "created": "2026-04-15",
+      "pushed": "2026-10-08",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex"
+      ],
+      "owner": "tt-a1i",
+      "avatar": "https://avatars.githubusercontent.com/u/53142663?v=4",
+      "age_days": 176,
+      "stars_per_day": 450.2,
+      "delta": 537
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "url": "https://github.com/odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "stars": 91852,
+      "forks": 1387,
+      "lang": "Python",
+      "created": "2026-05-31",
+      "pushed": "2026-10-07",
+      "topics": [],
+      "owner": "odysseus-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/305418735?v=4",
+      "age_days": 130,
+      "stars_per_day": 706.6,
+      "delta": 516
+    },
+    {
+      "full_name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 31689,
+      "forks": 4423,
+      "lang": "TypeScript",
+      "created": "2026-04-21",
+      "pushed": "2026-10-08",
+      "topics": [],
+      "owner": "tashfeenahmed",
+      "avatar": "https://avatars.githubusercontent.com/u/9307356?v=4",
+      "age_days": 170,
+      "stars_per_day": 186.4,
+      "delta": 423
+    },
+    {
+      "full_name": "omlahore/RemoveMacAI",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "desc": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
+      "stars": 3527,
+      "forks": 91,
+      "lang": "Swift",
+      "created": "2026-09-29",
+      "pushed": "2026-10-07",
+      "topics": [
+        "apple-intelligence",
+        "cli",
+        "debloat",
+        "macos",
+        "macos-27",
+        "privacy"
+      ],
+      "owner": "omlahore",
+      "avatar": "https://avatars.githubusercontent.com/u/119071446?v=4",
+      "age_days": 9,
+      "stars_per_day": 391.9,
+      "delta": 422
+    }
+  ],
+  "annotations": {
+    "openai/math": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "storytold/photocraft": {
+      "name": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "tag": "创意/AI生成",
+      "auto": true
+    },
+    "alchaincyf/huashu-art-motion": {
+      "name": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "rehan-remade/universal-modder": {
+      "name": "让 Claude 给任意游戏做 Mod：配套技能、工具和 fal MCP 服务",
+      "tag": "AI Agent"
+    },
+    "CopilotKit/OpenDots": {
+      "name": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "tag": "其他",
+      "auto": true
+    },
+    "storytold/filmcraft": {
+      "name": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "kargulstudio/sales-crm": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "omlahore/RemoveMacAI": {
+      "name": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "storytold/lightcraft": {
+      "name": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "QingYunA/answer-me-with-html": {
+      "name": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "nykooi1/vibe-wise": {
+      "name": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "tag": "其他",
+      "auto": true
+    },
+    "storytold/pdfcraft": {
+      "name": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+      "tag": "其他",
+      "auto": true
+    },
+    "feder-cr/invisible_playwright_mcp": {
+      "name": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "storytold/vectorcraft": {
+      "name": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+      "tag": "创意/AI生成",
+      "auto": true
+    },
+    "facebookincubator/muse-gadget-sdk": {
+      "name": "Open source SDK to build Muse gadgets",
+      "tag": "其他",
+      "auto": true
+    },
+    "shader-effects-inc/shaders": {
+      "name": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "storytold/effectcraft": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "deadinside28/bloodborne_pc": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "elstongun/leviathan": {
+      "name": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "nanaism/yomiyasu": {
+      "name": "日文 AI 写作润色技能：把生硬的机翻日语改写成自然的人话",
+      "tag": "Agent Skill"
+    },
+    "deepseek-ai/deepseek-harness": {
+      "name": "DeepSeek 官方 Agent 框架，主打「一切皆插件」，半年拿到 24 万星",
+      "tag": "AI Agent",
+      "note": "本榜增长最快的项目，生态地位类似 Claude Code 的插件体系"
+    },
+    "DietrichGebert/ponytail": {
+      "name": "让 AI 像最懒的资深工程师那样思考——最好的代码是你从没写过的代码",
+      "tag": "Agent Skill",
+      "note": "理念是让 AI 少写代码、多复用，反向优化 token 消耗"
+    },
+    "nexu-io/open-design": {
+      "name": "开源的 Claude Design 替代品，本地优先的设计桌面应用",
+      "tag": "设计工具"
+    },
+    "odysseus-dev/odysseus": {
+      "name": "可自托管的 AI 工作台",
+      "tag": "自托管"
+    },
+    "tt-a1i/archify": {
+      "name": "画架构图/流程图/时序图/数据流图的 Agent 技能，输出带动效的 HTML",
+      "tag": "Agent Skill"
+    },
+    "ayghri/i-have-adhd": {
+      "name": "治 AI「话太多」的技能：让它别把答案埋在废话里，直接给结论",
+      "tag": "Agent Skill"
+    },
+    "eternity4719/HowToLiveBetter": {
+      "name": "高性价比人生指南：长寿防病、急救、省钱理财、法律红线、失业工伤、医保社保、婚育育儿、创业合规、出国技能，每条标明成本收益与证据等级",
+      "tag": "生活指南",
+      "note": "你正在办跨省医保备案，里面医保社保那一节可能用得上"
+    },
+    "bilawalsidhu/gods-eye-view": {
+      "name": "浏览器里的间谍卫星模拟器，游玩用的是真实开源地理数据",
+      "tag": "地理可视化"
+    },
+    "Yuan1z0825/nature-skills": {
+      "name": "写 Nature 论文用的学术表达和科研绘图技能包",
+      "tag": "Agent Skill"
+    },
+    "cathrynlavery/diagram-design": {
+      "name": "偏杂志排版风格的图表设计技能，输出纯 HTML+SVG，不用 Mermaid",
+      "tag": "Agent Skill"
+    },
+    "alibaba/open-code-review": {
+      "name": "阿里开源的代码审查工具：确定性流水线 + LLM，能精确到行级评论",
+      "tag": "开发工具",
+      "note": "阿里生产环境验证过，工程可靠性有背书"
+    },
+    "JustVugg/colibri": {
+      "name": "纯 C 写的推理引擎，无依赖，把专家权重从磁盘流式加载，让普通机器也能跑超大 MoE 模型",
+      "tag": "本地推理"
+    },
+    "zhaoxuya520/reverse-skill": {
+      "name": "逆向工程/授权渗透测试的技能路由器包，按需加载工具链",
+      "tag": "安全研究",
+      "note": "安全类工具，注意只在授权范围内使用"
+    },
+    "esengine/DeepSeek-Reasonix": {
+      "name": "面向复杂软件工程任务的可靠编程 Agent",
+      "tag": "AI Agent"
+    },
+    "virgiliojr94/book-to-skill": {
+      "name": "把技术书 PDF 转成可随时查阅的 Claude 技能",
+      "tag": "Agent Skill"
+    },
+    "freestylefly/awesome-gpt-image-2": {
+      "name": "GPT Image 2/2.5 的提示词案例库，530+ 案例 + 20+ 工业级模板",
+      "tag": "资源合集"
+    },
+    "BigPizzaV3/CodexPlusPlus": {
+      "name": "Codex 命令行工具的增强版，让它更好用",
+      "tag": "开发工具"
+    },
+    "tashfeenahmed/freellmapi": {
+      "name": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "tag": "模型/推理",
+      "auto": true
+    },
+    "NandhaKishorM/laya": {
+      "name": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "tag": "模型/推理",
+      "auto": true
+    },
+    "anywhere-labs/dsh-desktop": {
+      "name": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "freeCodeCamp/freeCodeCamp": {
+      "name": "免费学编程的课程与代码库",
+      "tag": "学习资源"
+    },
+    "openclaw/openclaw": {
+      "name": "跨平台通用 AI 助手，主打「真能干活」",
+      "tag": "AI Agent"
+    },
+    "nilbuild/developer-roadmap": {
+      "name": "开发者成长路线图，各技术方向该学什么一目了然",
+      "tag": "学习资源"
+    },
+    "vinta/awesome-python": {
+      "name": "Python 工具大全：想做 X，该用哪个库",
+      "tag": "资源合集"
+    },
+    "awesome-selfhosted/awesome-selfhosted": {
+      "name": "可自托管的开源网络服务清单",
+      "tag": "资源合集"
+    },
+    "obra/superpowers": {
+      "name": "An agentic skills framework & software development methodology that works.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "mattpocock/skills": {
+      "name": "一线工程师的真实 Agent 技能库",
+      "tag": "Agent Skill"
+    },
+    "NousResearch/hermes-agent": {
+      "name": "随你一起成长的 Agent",
+      "tag": "AI Agent"
+    },
+    "torvalds/linux": {
+      "name": "Linux 内核源码",
+      "tag": "操作系统"
+    },
+    "react/react": {
+      "name": "React 前端框架源码",
+      "tag": "前端框架"
+    },
+    "TheAlgorithms/Python": {
+      "name": "用 Python 实现的各种算法大全，学算法/刷题常备",
+      "tag": "学习资源",
+      "note": "经典老项目，30 万星级别的基础设施"
+    },
+    "anomalyco/opencode": {
+      "name": "The open source coding agent.",
+      "tag": "AI Agent",
+      "auto": true
+    }
+  }
+}

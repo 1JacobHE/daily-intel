@@ -1,0 +1,126 @@
+{
+  "updated_at": "2026-11-04 23:03:45",
+  "count": 17,
+  "latest": "2026-11-04",
+  "days": [
+    {
+      "date": "2026-11-04",
+      "generated_at": "2026-11-04 23:03:44",
+      "rocket_count": 20,
+      "delta_count": 31,
+      "top_repo": "deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "date": "2026-10-21",
+      "generated_at": "2026-10-21 08:32:47",
+      "rocket_count": 20,
+      "delta_count": 69,
+      "top_repo": "Gathin23/cleanyourtv"
+    },
+    {
+      "date": "2026-10-20",
+      "generated_at": "2026-10-20 11:22:45",
+      "rocket_count": 20,
+      "delta_count": 71,
+      "top_repo": "Gathin23/cleanyourtv"
+    },
+    {
+      "date": "2026-10-19",
+      "generated_at": "2026-10-19 15:12:27",
+      "rocket_count": 20,
+      "delta_count": 37,
+      "top_repo": "Gathin23/tv-vibehack"
+    },
+    {
+      "date": "2026-10-12",
+      "generated_at": "2026-10-12 12:02:47",
+      "rocket_count": 20,
+      "delta_count": 71,
+      "top_repo": "openai/math"
+    },
+    {
+      "date": "2026-10-11",
+      "generated_at": "2026-10-11 08:34:13",
+      "rocket_count": 20,
+      "delta_count": 71,
+      "top_repo": "openai/math"
+    },
+    {
+      "date": "2026-10-10",
+      "generated_at": "2026-10-10 08:31:28",
+      "rocket_count": 20,
+      "delta_count": 65,
+      "top_repo": "openai/math"
+    },
+    {
+      "date": "2026-10-09",
+      "generated_at": "2026-10-09 08:33:25",
+      "rocket_count": 20,
+      "delta_count": 67,
+      "top_repo": "openai/math"
+    },
+    {
+      "date": "2026-10-08",
+      "generated_at": "2026-10-08 08:31:02",
+      "rocket_count": 20,
+      "delta_count": 74,
+      "top_repo": "openai/math"
+    },
+    {
+      "date": "2026-10-07",
+      "generated_at": "2026-10-07 08:30:37",
+      "rocket_count": 20,
+      "delta_count": 69,
+      "top_repo": "openai/math"
+    },
+    {
+      "date": "2026-10-06",
+      "generated_at": "2026-10-06 08:32:25",
+      "rocket_count": 20,
+      "delta_count": 69,
+      "top_repo": "KKKKhazix/AIHOT"
+    },
+    {
+      "date": "2026-10-05",
+      "generated_at": "2026-10-05 08:31:00",
+      "rocket_count": 20,
+      "delta_count": 72,
+      "top_repo": "KKKKhazix/AIHOT"
+    },
+    {
+      "date": "2026-10-04",
+      "generated_at": "2026-10-04 08:30:55",
+      "rocket_count": 20,
+      "delta_count": 69,
+      "top_repo": "KKKKhazix/AIHOT"
+    },
+    {
+      "date": "2026-10-03",
+      "generated_at": "2026-10-03 08:30:44",
+      "rocket_count": 20,
+      "delta_count": 62,
+      "top_repo": "KKKKhazix/AIHOT"
+    },
+    {
+      "date": "2026-10-02",
+      "generated_at": "2026-10-02 18:29:13",
+      "rocket_count": 20,
+      "delta_count": 79,
+      "top_repo": "KKKKhazix/AIHOT"
+    },
+    {
+      "date": "2026-10-01",
+      "generated_at": "2026-10-01 20:20:48",
+      "rocket_count": 20,
+      "delta_count": 4,
+      "top_repo": "KKKKhazix/AIHOT"
+    },
+    {
+      "date": "2026-09-30",
+      "generated_at": "2026-09-30 18:44:19",
+      "rocket_count": 20,
+      "delta_count": 46,
+      "top_repo": "KKKKhazix/AIHOT"
+    }
+  ]
+}

@@ -1,0 +1,3485 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06 08:32",
+  "events": [
+    {
+      "eid": "629df18beb",
+      "ekey": "成交额跌破万亿四季度A股怎么走十",
+      "kind": "event_line",
+      "title": "成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了",
+      "body": "历经前三季度K型分化、科技板块深度调整、指数反复拉锯的结构性博弈后，A股正式迈入四季度关键窗口期。伴随美联储加息扰动逐步落地，外部风险定价充分，以及国内经济基本面稳步托底，叠加三季报业绩验证窗口来临，市场不确定性持续收敛，风格再平衡与主线重塑契机显现。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 80.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "成交额跌破1.5万亿！四季度A股怎么走？十大券商最新策略来了",
+          "src": "东方财富",
+          "time": "2026-10-06 07:00:00",
+          "body": "历经前三季度K型分化、科技板块深度调整、指数反复拉锯的结构性博弈后，A股正式迈入四季度关键窗口期。伴随美联储加息扰动逐步落地，外部风险定价充分，以及国内经济基本面稳步托底，叠加三季报业绩验证窗口来临，市场不确定性持续收敛，风格再平衡与主线重塑契机显现。",
+          "score": 80.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:00:00",
+      "rank_score": 47.0
+    },
+    {
+      "eid": "1db50005c7",
+      "ekey": "土耳其月通胀率降至以下连续四个月",
+      "kind": "event_line",
+      "title": "土耳其9月通胀率降至30%以下 连续四个月回落",
+      "body": "土耳其5日公布的官方数据显示，9月消费者价格指数（CPI）同比上涨29.7%，涨幅连续第四个月回落，为2021年11月以来首次低于30%；环比上涨1.8%，低于市场普遍预期的2%以上。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 77.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "土耳其9月通胀率降至30%以下 连续四个月回落",
+          "src": "东方财富",
+          "time": "2026-10-06 08:16:21",
+          "body": "土耳其5日公布的官方数据显示，9月消费者价格指数（CPI）同比上涨29.7%，涨幅连续第四个月回落，为2021年11月以来首次低于30%；环比上涨1.8%，低于市场普遍预期的2%以上。",
+          "score": 77.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:16:21",
+      "rank_score": 45.8
+    },
+    {
+      "eid": "67ae4338e7",
+      "ekey": "据国家管网集团",
+      "kind": "topic_line",
+      "title": "宁夏原油外输管网累计输油突破2亿吨",
+      "body": "今天（10月6日），据国家管网集团消息，宁夏原油外输管网累计输送原油突破2亿吨。这条已安全运行48年的能源通道，持续为我国西部地区优化油气资源配置、推进区域经济高质量发展提供坚强支撑。宁夏原油外输管网以惠安堡—中宁、惠安堡—银川、石空—兰州原油管道为主体骨架，横跨甘肃、宁夏，总里程564公里。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 76.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "宁夏原油外输管网累计输油突破2亿吨",
+          "src": "东方财富",
+          "time": "2026-10-06 07:19:28",
+          "body": "今天（10月6日），据国家管网集团消息，宁夏原油外输管网累计输送原油突破2亿吨。这条已安全运行48年的能源通道，持续为我国西部地区优化油气资源配置、推进区域经济高质量发展提供坚强支撑。宁夏原油外输管网以惠安堡—中宁、惠安堡—银川、石空—兰州原油管道为主体骨架，横跨甘肃、宁夏，总里程564公里。",
+          "score": 76.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:19:28",
+      "rank_score": 45.4
+    },
+    {
+      "eid": "9edef009c2",
+      "ekey": "特斯拉",
+      "kind": "topic_line",
+      "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元",
+      "body": "全球首富埃隆·马斯克的身家时隔三个月再次突破万亿美元。根据彭博亿万富豪指数，马斯克的财富周一增加650亿美元，达到1.04万亿美元，得益于其持有的SpaceX和特斯拉股份价值回升。10月以来，SpaceX股价上涨13%，特斯拉上涨6.7%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 75.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元",
+          "src": "东方财富",
+          "time": "2026-10-06 07:30:01",
+          "body": "全球首富埃隆·马斯克的身家时隔三个月再次突破万亿美元。根据彭博亿万富豪指数，马斯克的财富周一增加650亿美元，达到1.04万亿美元，得益于其持有的SpaceX和特斯拉股份价值回升。10月以来，SpaceX股价上涨13%，特斯拉上涨6.7%。",
+          "score": 75.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:30:01",
+      "rank_score": 45.2
+    },
+    {
+      "eid": "e9a7006a0f",
+      "ekey": "AI投资能否对美国经济形成新支撑",
+      "kind": "event_line",
+      "title": "AI投资能否对美国经济形成新支撑",
+      "body": "当前，人工智能相关投资正在逐步成为美国经济新的增长点。2026年上半年，美国人工智能相关投资由资本市场概念叙事落地为服务器、芯片、软件、基础设施等实物投入，对总需求产生现实拉动。但现有统计数据尚难准确将人工智能投入拉动效应从软件、计算机设备和非住宅建筑之中单独剥离，当前增长红利高度集中于头部科技企业和基础设施建设环节，尚无证据显示其已形成覆盖全经济的生产率提升。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件",
+        "半导体/AI芯片",
+        "算力/数据中心"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 71.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "AI投资能否对美国经济形成新支撑",
+          "src": "东方财富",
+          "time": "2026-10-06 07:31:31",
+          "body": "当前，人工智能相关投资正在逐步成为美国经济新的增长点。2026年上半年，美国人工智能相关投资由资本市场概念叙事落地为服务器、芯片、软件、基础设施等实物投入，对总需求产生现实拉动。但现有统计数据尚难准确将人工智能投入拉动效应从软件、计算机设备和非住宅建筑之中单独剥离，当前增长红利高度集中于头部科技企业和基础设施建设环节，尚无证据显示其已形成覆盖全经济的生产率提升。",
+          "score": 71.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:31:31",
+      "rank_score": 43.6
+    },
+    {
+      "eid": "fdb12d08c0",
+      "ekey": "中小银行|以来再有部分银行",
+      "kind": "topic_line",
+      "title": "3年期年化2%利率再现江湖！本轮大额存单重启发行潮仍在扩散，中小银行利率续刷新高",
+      "body": "10月以来再有部分银行继续上新长期限大型存单。比如，邯郸银行通过官方微信公众号发文称，为更好满足客户多元化资金配置需求，提升金融服务能力，该行于10月1日起新增三款个人大额存单产品。“本产品20万元起存。具体挂牌利率为，1个月年利率1.0%、9个月年利率1.255、18个月年利率1.4%。”9月30日晚间，锡商银行通过微信号发布了大额存单产品额度上新的公告。在公告中，锡商银行表示，该行新发年利率2%、20万元起存、转让期限90天的3年期大额存单产品，“额度有限，先到限先得”。（财联社）",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 71.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "3年期年化2%利率再现江湖！本轮大额存单重启发行潮仍在扩散，中小银行利率续刷新高",
+          "src": "同花顺",
+          "time": "2026-10-05 15:30:38",
+          "body": "10月以来再有部分银行继续上新长期限大型存单。比如，邯郸银行通过官方微信公众号发文称，为更好满足客户多元化资金配置需求，提升金融服务能力，该行于10月1日起新增三款个人大额存单产品。“本产品20万元起存。具体挂牌利率为，1个月年利率1.0%、9个月年利率1.255、18个月年利率1.4%。”9月30日晚间，锡商银行通过微信号发布了大额存单产品额度上新的公告。在公告中，锡商银行表示，该行新发年利率2%、20万元起存、转让期限90天的3年期大额存单产品，“额度有限，先到限先得”。（财联社）",
+          "score": 71.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 15:30:38",
+      "rank_score": 43.4
+    },
+    {
+      "eid": "5f0e6d57ca",
+      "ekey": "年将生物#俄乌",
+      "kind": "topic_line",
+      "title": "俄罗斯计划到2030年将生物经济产品的产量增加96％",
+      "body": "俄罗斯工业和贸易部部长安东·阿里汗诺夫在“生物产业”会议的间隙向记者表示，俄罗斯计划到2030年将生物经济产品的产量增加96％。俄罗斯副总理杰尼斯·曼图罗夫10月5日早些时候表示，俄罗斯到2036年的生物经济发展战略已经获得批准。阿里汗诺夫说：“到2030年，计划将生物经济产品的产量增加96％，使国内生物技术产品在消费结构中的比例达到55％，技术独立水平达到40％”，2025年俄罗斯生物经济市场的规模约为4800亿卢布。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒",
+        "医药/生物"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 69.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "俄乌",
+      "topicLabel": "俄乌局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "俄罗斯计划到2030年将生物经济产品的产量增加96％",
+          "src": "东方财富",
+          "time": "2026-10-06 04:19:09",
+          "body": "俄罗斯工业和贸易部部长安东·阿里汗诺夫在“生物产业”会议的间隙向记者表示，俄罗斯计划到2030年将生物经济产品的产量增加96％。俄罗斯副总理杰尼斯·曼图罗夫10月5日早些时候表示，俄罗斯到2036年的生物经济发展战略已经获得批准。阿里汗诺夫说：“到2030年，计划将生物经济产品的产量增加96％，使国内生物技术产品在消费结构中的比例达到55％，技术独立水平达到40％”，2025年俄罗斯生物经济市场的规模约为4800亿卢布。",
+          "score": 69.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 04:19:09",
+      "rank_score": 42.8
+    },
+    {
+      "eid": "72ab34df9f",
+      "ekey": "周二你需要知道的隔夜全球要闻纳指",
+      "kind": "event_line",
+      "title": "周二你需要知道的隔夜全球要闻：纳指创下历史新高 SpaceX股价大涨超7%；也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+      "body": "1、也门胡塞武装10月5日夜间发表声明称，为回应沙特过去24小时对也门发动的军事行动，胡塞武装当天实施三轮军事行动。2、也门政府军5日称，在激烈战斗后，政府军已从胡塞武装手中收复塔伊兹省的红海港口城市穆哈。3、美国国务卿鲁比奥在接受采访时表示，美国轰炸机撤出英国皇家空军费尔福德基地与此前发生的安全威胁事件没有直接关联。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [
+        "航运/物流",
+        "军工/国防"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 69.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "周二你需要知道的隔夜全球要闻：纳指创下历史新高 SpaceX股价大涨超7%；也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+          "src": "东方财富",
+          "time": "2026-10-06 06:12:05",
+          "body": "1、也门胡塞武装10月5日夜间发表声明称，为回应沙特过去24小时对也门发动的军事行动，胡塞武装当天实施三轮军事行动。2、也门政府军5日称，在激烈战斗后，政府军已从胡塞武装手中收复塔伊兹省的红海港口城市穆哈。3、美国国务卿鲁比奥在接受采访时表示，美国轰炸机撤出英国皇家空军费尔福德基地与此前发生的安全威胁事件没有直接关联。",
+          "score": 69.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 06:12:05",
+      "rank_score": 42.6
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "纳指、英伟达齐创新高",
+      "body": "当地时间10月5日，美股三大指数集体收涨，纳斯达克指数创下收盘历史新高，英伟达股价刷新历史新高。当天盘中，美股走势一度因美国国债收益率走高而形成分化，随后市场消化了最新的经济数据，资金继续向人工智能龙头集中。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 67.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "纳指、英伟达齐创新高",
+          "src": "东方财富",
+          "time": "2026-10-06 08:28:00",
+          "body": "当地时间10月5日，美股三大指数集体收涨，纳斯达克指数创下收盘历史新高，英伟达股价刷新历史新高。当天盘中，美股走势一度因美国国债收益率走高而形成分化，随后市场消化了最新的经济数据，资金继续向人工智能龙头集中。",
+          "score": 67.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:28:00",
+      "rank_score": 42.0
+    },
+    {
+      "eid": "1cb74fed07",
+      "ekey": "美股三大指数集体收涨纳指涨超创收",
+      "kind": "event_line",
+      "title": "美股三大指数集体收涨 纳指涨超1%创收盘新高",
+      "body": "美股三大指数集体收涨，纳指涨1.05%，创收盘新高，道指涨0.18%，标普500指数涨0.67%。大型科技股普遍上涨，SpaceX涨超7%，英伟达、特斯拉、博通涨超2%，微软、Meta、谷歌涨超1%。板块上，加密货币、油气、医药零售涨幅居前，诺瓦瓦克斯医药涨超20%，Moderna涨近7%，斯伦贝谢涨超3%，Coinbase、Circle涨超2%。美股Vaxcyte收涨30%，公司的肺炎球菌疫苗达到后期临床试验目标。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "医药/生物",
+        "半导体/AI芯片",
+        "消费/白酒"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 67.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股三大指数集体收涨 纳指涨超1%创收盘新高",
+          "src": "东方财富",
+          "time": "2026-10-06 04:00:45",
+          "body": "美股三大指数集体收涨，纳指涨1.05%，创收盘新高，道指涨0.18%，标普500指数涨0.67%。大型科技股普遍上涨，SpaceX涨超7%，英伟达、特斯拉、博通涨超2%，微软、Meta、谷歌涨超1%。板块上，加密货币、油气、医药零售涨幅居前，诺瓦瓦克斯医药涨超20%，Moderna涨近7%，斯伦贝谢涨超3%，Coinbase、Circle涨超2%。美股Vaxcyte收涨30%，公司的肺炎球菌疫苗达到后期临床试验目标。",
+          "score": 67.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 04:00:45",
+      "rank_score": 42.0
+    },
+    {
+      "eid": "e4a774c9ee",
+      "ekey": "局铜是支撑新能源",
+      "kind": "topic_line",
+      "title": "铜产业要跳出结构性困局",
+      "body": "铜是支撑新能源迭代、算力基建落地、高端装备升级的重要金属，是先进制造业不可或缺的基础材料。经过多年发展，我国已建成全球规模最大的铜冶炼与加工产业体系，产能产量稳居世界首位，产业体量优势十分突出。但规模庞大不等于产业强大，体量优势并未完全转化为竞争优势。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "算力/数据中心",
+        "石油/能源"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 66.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "铜产业要跳出结构性困局",
+          "src": "东方财富",
+          "time": "2026-10-06 07:29:31",
+          "body": "铜是支撑新能源迭代、算力基建落地、高端装备升级的重要金属，是先进制造业不可或缺的基础材料。经过多年发展，我国已建成全球规模最大的铜冶炼与加工产业体系，产能产量稳居世界首位，产业体量优势十分突出。但规模庞大不等于产业强大，体量优势并未完全转化为竞争优势。",
+          "score": 66.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:29:31",
+      "rank_score": 41.6
+    },
+    {
+      "eid": "e0cac503e2",
+      "ekey": "我国海水淡化日处理能力突破万吨",
+      "kind": "event_line",
+      "title": "我国海水淡化日处理能力突破300万吨",
+      "body": "记者从自然资源部了解到，截至目前，我国海水淡化总规模已达到每日307.7万吨。目前，全国已建海水淡化工程总规模为307.7万吨/日，据不完全统计，拟建和在建总规模超过100万吨/日。今年7月，国家发展改革委、自然资源部、水利部联合发布《海水淡化产业发展行动方案》，促进海水淡化规模化利用，力争到2030年，全国海水淡化工程总规模将达到450万吨/日，新增海水淡化工程规模150万吨/日以上。（央视新闻）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 66.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "我国海水淡化日处理能力突破300万吨",
+          "src": "同花顺",
+          "time": "2026-10-06 08:19:27",
+          "body": "记者从自然资源部了解到，截至目前，我国海水淡化总规模已达到每日307.7万吨。目前，全国已建海水淡化工程总规模为307.7万吨/日，据不完全统计，拟建和在建总规模超过100万吨/日。今年7月，国家发展改革委、自然资源部、水利部联合发布《海水淡化产业发展行动方案》，促进海水淡化规模化利用，力争到2030年，全国海水淡化工程总规模将达到450万吨/日，新增海水淡化工程规模150万吨/日以上。（央视新闻）",
+          "score": 66.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:19:27",
+      "rank_score": 41.4
+    },
+    {
+      "eid": "839b272f0b",
+      "ekey": "三星|韩元订单韩美半导体#AI芯片",
+      "kind": "topic_line",
+      "title": "韩美半导体赢得三星电机245亿韩元订单",
+      "body": "韩美半导体赢得三星电机245亿韩元订单。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 65.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "韩美半导体赢得三星电机245亿韩元订单",
+          "src": "东方财富",
+          "time": "2026-10-06 07:13:32",
+          "body": "韩美半导体赢得三星电机245亿韩元订单。",
+          "score": 65.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:13:32",
+      "rank_score": 41.0
+    },
+    {
+      "eid": "d9d13eae0d",
+      "ekey": "国庆假期冷门小城也挤爆了",
+      "kind": "event_line",
+      "title": "国庆假期冷门小城也挤爆了",
+      "body": "在热门景区和一二线大城市之外，近年来，不少过去相对冷门的三四线城市及小县城的旅游热度持续攀升，成为一个又一个宝藏小城。今年国庆假期，多个小城迎来大量客流，冷门小城也被挤爆了。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国庆假期冷门小城也挤爆了",
+          "src": "东方财富",
+          "time": "2026-10-06 07:52:30",
+          "body": "在热门景区和一二线大城市之外，近年来，不少过去相对冷门的三四线城市及小县城的旅游热度持续攀升，成为一个又一个宝藏小城。今年国庆假期，多个小城迎来大量客流，冷门小城也被挤爆了。",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:52:30",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "1d5138aae2",
+      "ekey": "OpenAI|多家阿联酋基金#大模型",
+      "kind": "topic_line",
+      "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
+      "body": "知情人士称，包括MGX在内的多家阿联酋投资基金正在与OpenAI洽谈，可能参与这家人工智能巨头最新一轮300亿美元融资。其中一位知情人士表示，这些基金将组成一个财团参与OpenAI这轮融资。另一位人士称，这些阿联酋基金讨论的合计投资金额最高达到100亿美元。知情人士表示，贝莱德也在商谈参与这轮融资。融资仍在进行中，具体条款可能发生变化。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
+          "src": "东方财富",
+          "time": "2026-10-06 07:50:52",
+          "body": "知情人士称，包括MGX在内的多家阿联酋投资基金正在与OpenAI洽谈，可能参与这家人工智能巨头最新一轮300亿美元融资。其中一位知情人士表示，这些基金将组成一个财团参与OpenAI这轮融资。另一位人士称，这些阿联酋基金讨论的合计投资金额最高达到100亿美元。知情人士表示，贝莱德也在商谈参与这轮融资。融资仍在进行中，具体条款可能发生变化。",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:50:52",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "4d8898be44",
+      "ekey": "美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储10月维持利率不变的概率为77.3%",
+      "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为77.3%，累计加息25个基点的概率为22.7%。美联储到12月维持利率不变的概率为13.4%，累计加息25个基点的概率67.8%，累计加息50个基点的概率为18.8%。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储10月维持利率不变的概率为77.3%",
+          "src": "东方财富",
+          "time": "2026-10-06 06:06:41",
+          "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为77.3%，累计加息25个基点的概率为22.7%。美联储到12月维持利率不变的概率为13.4%，累计加息25个基点的概率67.8%，累计加息50个基点的概率为18.8%。",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 06:06:41",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "58a532436e",
+      "ekey": "利好催化全球半导体|弹走强受海外半导体#AI芯片",
+      "kind": "topic_line",
+      "title": "涨价利好催化全球半导体情绪回潮 港股芯片股再度反弹走强",
+      "body": "受海外半导体板块情绪回潮及产业链新一轮涨价带动，今日港股芯片股整体逆势走强，再度反弹。截至发稿，傅里叶涨超20%，澜起科技涨近5%，华虹宏力等一批个股涨逾3%。短线来看，近期海外半导体板块多头情绪回潮。上周五，英伟达收涨1.34%刷新了5月14日创下的盘中纪录，再度向6万亿美元市值发起冲击。此外，美股费城半导体指数周线五连阳，刷新下半年以来新高。而更为值得关注的是，随着全球芯片产业链开启新一轮涨价，也驱动了市场对行业盈利预期的上修。（财联社）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "涨价利好催化全球半导体情绪回潮 港股芯片股再度反弹走强",
+          "src": "同花顺",
+          "time": "2026-10-05 15:48:07",
+          "body": "受海外半导体板块情绪回潮及产业链新一轮涨价带动，今日港股芯片股整体逆势走强，再度反弹。截至发稿，傅里叶涨超20%，澜起科技涨近5%，华虹宏力等一批个股涨逾3%。短线来看，近期海外半导体板块多头情绪回潮。上周五，英伟达收涨1.34%刷新了5月14日创下的盘中纪录，再度向6万亿美元市值发起冲击。此外，美股费城半导体指数周线五连阳，刷新下半年以来新高。而更为值得关注的是，随着全球芯片产业链开启新一轮涨价，也驱动了市场对行业盈利预期的上修。（财联社）",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 15:48:07",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "aa3d806ddd",
+      "ekey": "实探贴息落地后首个假期楼市平方米",
+      "kind": "event_line",
+      "title": "实探贴息落地后首个假期楼市：120平方米以下房型率先卖光了 三四线城市刚需每月房贷少还数百元",
+      "body": "“还是刚需客户比较多，113平以下的房源都卖完了。”近日，河南新乡市某在售楼盘的置业顾问称。居民购房贷款贴息政策自2026年10月1日起实施，符合相关条件的居民房贷可享受1个百分点的贴息支持。在业内看来，三四线城市绝大多数房源均可享受到贴息，刚需客群是受益主力。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "地产/基建"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 62.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "房地产",
+      "topicLabel": "地产与楼市",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "实探贴息落地后首个假期楼市：120平方米以下房型率先卖光了 三四线城市刚需每月房贷少还数百元",
+          "src": "东方财富",
+          "time": "2026-10-06 07:44:37",
+          "body": "“还是刚需客户比较多，113平以下的房源都卖完了。”近日，河南新乡市某在售楼盘的置业顾问称。居民购房贷款贴息政策自2026年10月1日起实施，符合相关条件的居民房贷可享受1个百分点的贴息支持。在业内看来，三四线城市绝大多数房源均可享受到贴息，刚需客群是受益主力。",
+          "score": 62.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:44:37",
+      "rank_score": 40.0
+    },
+    {
+      "eid": "c2fedc07ad",
+      "ekey": "俄外交部将对日本新的反俄措施采取",
+      "kind": "event_line",
+      "title": "俄外交部：将对日本新的反俄措施采取对等反制",
+      "body": "俄罗斯外交部发言人扎哈罗娃5日在俄外交部网站发表评论说，俄方将对东京的不友好举措采取对等反制，首先针对那些对日本具有重要利益的领域。据《日本经济新闻》网站报道，日本政府2日在内阁会议上决定对俄罗斯实施追加制裁。针对所谓俄罗斯为规避西方制裁而秘密运输原油的“影子船队”中的35艘船舶，日本政府原则上禁止向其提供运营、维修、保险及融资等服务。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源",
+        "券商/大金融"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 62.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "俄外交部：将对日本新的反俄措施采取对等反制",
+          "src": "东方财富",
+          "time": "2026-10-06 01:31:40",
+          "body": "俄罗斯外交部发言人扎哈罗娃5日在俄外交部网站发表评论说，俄方将对东京的不友好举措采取对等反制，首先针对那些对日本具有重要利益的领域。据《日本经济新闻》网站报道，日本政府2日在内阁会议上决定对俄罗斯实施追加制裁。针对所谓俄罗斯为规避西方制裁而秘密运输原油的“影子船队”中的35艘船舶，日本政府原则上禁止向其提供运营、维修、保险及融资等服务。",
+          "score": 62.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 01:31:40",
+      "rank_score": 39.8
+    },
+    {
+      "eid": "fad6afb3e9",
+      "ekey": "美股开盘美股三大指数涨跌不一",
+      "kind": "event_line",
+      "title": "美股开盘：美股三大指数涨跌不一",
+      "body": "美股三大指数涨跌不一，标普500指数涨0.08%，道指跌0.13%，纳指涨0.14%。美股三大指数涨跌不一，标普500指数涨0.08%，道指跌0.13%，纳指涨0.14%。大型科技股方面，英伟达涨1.05%，微软涨1.02%。中概股方面，阿里巴巴涨1.67%，蔚来涨1.48%，京东涨1.36%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 61.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股开盘：美股三大指数涨跌不一",
+          "src": "同花顺",
+          "time": "2026-10-05 21:34:00",
+          "body": "美股三大指数涨跌不一，标普500指数涨0.08%，道指跌0.13%，纳指涨0.14%。美股三大指数涨跌不一，标普500指数涨0.08%，道指跌0.13%，纳指涨0.14%。大型科技股方面，英伟达涨1.05%，微软涨1.02%。中概股方面，阿里巴巴涨1.67%，蔚来涨1.48%，京东涨1.36%。",
+          "score": 61.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 21:34:00",
+      "rank_score": 39.6
+    },
+    {
+      "eid": "2ad7e9bec8",
+      "ekey": "英国海上贸易行动办公室连日来多艘",
+      "kind": "event_line",
+      "title": "英国海上贸易行动办公室：连日来多艘船只在霍尔木兹海峡遭袭",
+      "body": "根据英国海上贸易行动办公室5日发布的多份通报，连日来，有4艘船只在霍尔木兹海峡遭袭，另有1艘油轮被伊朗伊斯兰革命卫队劝返。通报显示，2艘油轮和1艘液化石油气运输船于3日和4日在霍尔木兹海峡被“不明发射物”击中。目前相关方面正在展开调查。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bear",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 61.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "关税贸易",
+      "topicLabel": "关税与制裁",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "英国海上贸易行动办公室：连日来多艘船只在霍尔木兹海峡遭袭",
+          "src": "东方财富",
+          "time": "2026-10-06 08:07:12",
+          "body": "根据英国海上贸易行动办公室5日发布的多份通报，连日来，有4艘船只在霍尔木兹海峡遭袭，另有1艘油轮被伊朗伊斯兰革命卫队劝返。通报显示，2艘油轮和1艘液化石油气运输船于3日和4日在霍尔木兹海峡被“不明发射物”击中。目前相关方面正在展开调查。",
+          "score": 61.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:07:12",
+      "rank_score": 39.4
+    },
+    {
+      "eid": "cf53cc443b",
+      "ekey": "Lucid|第三财季汽车#新能源车",
+      "kind": "topic_line",
+      "title": "Lucid Group第三财季交付3,806辆",
+      "body": "LucidGroup第三财季交付3,806辆；第三财季汽车产量为2954辆，此前市场普遍预估产量为3709辆。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 61.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "新能源车",
+      "topicLabel": "新能源车",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Lucid Group第三财季交付3,806辆",
+          "src": "东方财富",
+          "time": "2026-10-06 04:24:19",
+          "body": "LucidGroup第三财季交付3,806辆；第三财季汽车产量为2954辆，此前市场普遍预估产量为3709辆。",
+          "score": 61.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 04:24:19",
+      "rank_score": 39.4
+    },
+    {
+      "eid": "f60beb844f",
+      "ekey": "美联储#美债",
+      "kind": "topic_line",
+      "title": "美联储周一隔夜逆回购协议（RRP）使用规模为10.04亿美元 上个交易日报15.01亿美元",
+      "body": "美联储周一隔夜逆回购协议（RRP）使用规模为10.04亿美元，上个交易日报15.01亿美元。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储周一隔夜逆回购协议（RRP）使用规模为10.04亿美元 上个交易日报15.01亿美元",
+          "src": "东方财富",
+          "time": "2026-10-06 01:19:21",
+          "body": "美联储周一隔夜逆回购协议（RRP）使用规模为10.04亿美元，上个交易日报15.01亿美元。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 01:19:21",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "54d3a21ee5",
+      "ekey": "SpaceX",
+      "kind": "topic_line",
+      "title": "SpaceX 拟在佛罗里达州建设天然气管道",
+      "body": "SpaceX拟在佛罗里达州建设天然气管道。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "SpaceX 拟在佛罗里达州建设天然气管道",
+          "src": "东方财富",
+          "time": "2026-10-06 02:20:58",
+          "body": "SpaceX拟在佛罗里达州建设天然气管道。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 02:20:58",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "0368e49312",
+      "ekey": "巴拿马型船闸将试行长期通航预约",
+      "kind": "event_line",
+      "title": "巴拿马型船闸将试行长期通航预约",
+      "body": "巴拿马运河管理局5日发布公告说，将通过“长期通航名额分配计划”提前分配2027年1月3日至4月3日期间的长期通航名额，并首次将这一机制从新巴拿马型船闸扩展至巴拿马型船闸试行。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 59.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "巴拿马型船闸将试行长期通航预约",
+          "src": "东方财富",
+          "time": "2026-10-06 05:11:44",
+          "body": "巴拿马运河管理局5日发布公告说，将通过“长期通航名额分配计划”提前分配2027年1月3日至4月3日期间的长期通航名额，并首次将这一机制从新巴拿马型船闸扩展至巴拿马型船闸试行。",
+          "score": 59.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 05:11:44",
+      "rank_score": 38.6
+    },
+    {
+      "eid": "b46ed13ee6",
+      "ekey": "纳斯达克中国金龙指数涨幅扩大近",
+      "kind": "event_line",
+      "title": "纳斯达克中国金龙指数涨幅扩大近2%",
+      "body": "纳斯达克中国金龙指数涨幅扩大近2%，报5620.50点。成分股中，万国数据涨6.57%，世纪互联涨5.36%，脑再生科技涨5.13%，阿里巴巴涨5%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "纳斯达克中国金龙指数涨幅扩大近2%",
+          "src": "东方财富",
+          "time": "2026-10-06 02:54:12",
+          "body": "纳斯达克中国金龙指数涨幅扩大近2%，报5620.50点。成分股中，万国数据涨6.57%，世纪互联涨5.36%，脑再生科技涨5.13%，阿里巴巴涨5%。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 02:54:12",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "ccd40dddba",
+      "ekey": "年轻人爱上房车旅行国庆假期房车消",
+      "kind": "event_line",
+      "title": "年轻人爱上房车旅行！国庆假期房车消费迎来新变化",
+      "body": "今年国庆假期，公路出行占比预计超90%，自驾游成为出行主力，房车消费发生转变，从短期租赁体验，走向直接购置自用。政策加码+配套完善，房车从小众爱好走向更多人消费。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 58.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "年轻人爱上房车旅行！国庆假期房车消费迎来新变化",
+          "src": "东方财富",
+          "time": "2026-10-06 08:25:12",
+          "body": "今年国庆假期，公路出行占比预计超90%，自驾游成为出行主力，房车消费发生转变，从短期租赁体验，走向直接购置自用。政策加码+配套完善，房车从小众爱好走向更多人消费。",
+          "score": 58.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:25:12",
+      "rank_score": 38.2
+    },
+    {
+      "eid": "88c52b25bd",
+      "ekey": "Andreessen|OpenAI#大模型",
+      "kind": "topic_line",
+      "title": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判",
+      "body": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判，同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 58.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判",
+          "src": "东方财富",
+          "time": "2026-10-06 04:51:30",
+          "body": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判，同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
+          "score": 58.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 04:51:30",
+      "rank_score": 38.2
+    },
+    {
+      "eid": "d1a94e1072",
+      "ekey": "万人涌进万人小城考验才刚开始",
+      "kind": "event_line",
+      "title": "10万人涌进5万人小城 考验才刚开始",
+      "body": "“5万人的县城，按车流3.5万辆统计，10月3日涌进超10万人”，这个假期，青海省海北藏族自治州祁连县迎来大量游客，酒店和民宿全部满房。不少没有预订到住宿房间的游客发文致谢，称在订房无望时被当地文旅部门免费安置到有暖气的公益性床位，并给祁连文旅点赞。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 58.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "10万人涌进5万人小城 考验才刚开始",
+          "src": "东方财富",
+          "time": "2026-10-06 02:15:14",
+          "body": "“5万人的县城，按车流3.5万辆统计，10月3日涌进超10万人”，这个假期，青海省海北藏族自治州祁连县迎来大量游客，酒店和民宿全部满房。不少没有预订到住宿房间的游客发文致谢，称在订房无望时被当地文旅部门免费安置到有暖气的公益性床位，并给祁连文旅点赞。",
+          "score": 58.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 02:15:14",
+      "rank_score": 38.2
+    },
+    {
+      "eid": "961eb7a117",
+      "ekey": "美股Vaxcyte现涨",
+      "kind": "event_line",
+      "title": "美股Vaxcyte现涨27%",
+      "body": "美股Vaxcyte现涨27%，早前一度涨近60%，报道称该公司的肺炎球菌疫苗达到后期临床试验目标。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "医药/生物"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股Vaxcyte现涨27%",
+          "src": "东方财富",
+          "time": "2026-10-06 02:59:40",
+          "body": "美股Vaxcyte现涨27%，早前一度涨近60%，报道称该公司的肺炎球菌疫苗达到后期临床试验目标。",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 02:59:40",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "d0d2bafd05",
+      "ekey": "国际油价承压下跌利空又传来中东原",
+      "kind": "event_line",
+      "title": "国际油价承压下跌！利空又传来：中东原油出口量已超战前水平",
+      "body": "周一公布的航运数据显示，尽管仍有船只在穿越霍尔木兹海峡时遭到袭击，但在9月最后一周7天中，有4天中东原油出口量超过了战前水平；由于中东原油出口回升，加上七国集团（G7）宣布释放能源储备，令供应担忧有所缓解，周一，国际油价承压下跌。（财联社）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bear",
+      "sectors": [
+        "石油/能源",
+        "航运/物流"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国际油价承压下跌！利空又传来：中东原油出口量已超战前水平",
+          "src": "同花顺",
+          "time": "2026-10-05 15:27:32",
+          "body": "周一公布的航运数据显示，尽管仍有船只在穿越霍尔木兹海峡时遭到袭击，但在9月最后一周7天中，有4天中东原油出口量超过了战前水平；由于中东原油出口回升，加上七国集团（G7）宣布释放能源储备，令供应担忧有所缓解，周一，国际油价承压下跌。（财联社）",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 15:27:32",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "9c2378aeff",
+      "ekey": "老工业基地的数智蝶变辽宁以工业互",
+      "kind": "event_line",
+      "title": "老工业基地的数智蝶变——辽宁以工业互联网赋能制造业转型升级",
+      "body": "机械臂在数据指令下精准舞动，AI视觉系统实时捕捉着生产线上的每一处微小瑕疵，数字孪生技术把千里之外的工厂运行状态展现眼前……这并非科幻电影中的场景，而是辽宁制造业呈现的生动图景。当前，新一轮科技革命与产业变革深入发展。作为共和国工业长子，辽宁正以工业互联网为关键抓手，推动人工智能与制造业深度融合，让老字号焕发新生、新字号加速崛起。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "老工业基地的数智蝶变——辽宁以工业互联网赋能制造业转型升级",
+          "src": "东方财富",
+          "time": "2026-10-06 07:38:14",
+          "body": "机械臂在数据指令下精准舞动，AI视觉系统实时捕捉着生产线上的每一处微小瑕疵，数字孪生技术把千里之外的工厂运行状态展现眼前……这并非科幻电影中的场景，而是辽宁制造业呈现的生动图景。当前，新一轮科技革命与产业变革深入发展。作为共和国工业长子，辽宁正以工业互联网为关键抓手，推动人工智能与制造业深度融合，让老字号焕发新生、新字号加速崛起。",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:38:14",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "6a8184585c",
+      "ekey": "OpenAI#大模型",
+      "kind": "topic_line",
+      "title": "奥尔特曼：AI红利足以抵消部分风险 “坏事”发生也值得接受",
+      "body": "OpenAI首席执行官萨姆·奥尔特曼最新表示，面对人工智能(AI)技术带来的好处，社会应该接受由此产生的一些“负面事件”，并主张这项技术应该继续向公众广泛开放。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "奥尔特曼：AI红利足以抵消部分风险 “坏事”发生也值得接受",
+          "src": "东方财富",
+          "time": "2026-10-06 06:18:36",
+          "body": "OpenAI首席执行官萨姆·奥尔特曼最新表示，面对人工智能(AI)技术带来的好处，社会应该接受由此产生的一些“负面事件”，并主张这项技术应该继续向公众广泛开放。",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 06:18:36",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "f456e54183",
+      "ekey": "沙特阿美首席执行官原油供应总量已",
+      "kind": "event_line",
+      "title": "沙特阿美首席执行官：原油供应总量已减少近30亿桶",
+      "body": "沙特阿美首席执行官表示，原油供应总量已减少近30亿桶，约相当于原本正常通过霍尔木兹海峡运输的原油及成品油总量的一半。（财联社）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 56.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "沙特阿美首席执行官：原油供应总量已减少近30亿桶",
+          "src": "同花顺",
+          "time": "2026-10-05 16:16:54",
+          "body": "沙特阿美首席执行官表示，原油供应总量已减少近30亿桶，约相当于原本正常通过霍尔木兹海峡运输的原油及成品油总量的一半。（财联社）",
+          "score": 56.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 16:16:54",
+      "rank_score": 37.4
+    },
+    {
+      "eid": "e6803e21b9",
+      "ekey": "苹果",
+      "kind": "topic_line",
+      "title": "乔布斯逝世15周年 特努斯、库克发文缅怀",
+      "body": "2026年10月5日，在史蒂夫·乔布斯逝世15周年之际，苹果CEO约翰·特努斯与苹果前CEO蒂姆·库克先后发文，缅怀这位苹果联合创始人。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "乔布斯逝世15周年 特努斯、库克发文缅怀",
+          "src": "东方财富",
+          "time": "2026-10-06 07:29:10",
+          "body": "2026年10月5日，在史蒂夫·乔布斯逝世15周年之际，苹果CEO约翰·特努斯与苹果前CEO蒂姆·库克先后发文，缅怀这位苹果联合创始人。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:29:10",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "8d61a96bbf",
+      "ekey": "纳指盘中再创历史新高逼近点",
+      "kind": "event_line",
+      "title": "纳指盘中再创历史新高 逼近27400点",
+      "body": "纳指盘中再创历史新高，一度逼近27400点；成分股中，SpaceX涨幅扩大至逾5%，Meta涨超2%，特斯拉、微软涨近2%，英伟达涨超1%再度逼近历史新高。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "纳指盘中再创历史新高 逼近27400点",
+          "src": "同花顺",
+          "time": "2026-10-05 22:33:50",
+          "body": "纳指盘中再创历史新高，一度逼近27400点；成分股中，SpaceX涨幅扩大至逾5%，Meta涨超2%，特斯拉、微软涨近2%，英伟达涨超1%再度逼近历史新高。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 22:33:50",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "5a0109a14a",
+      "ekey": "万亿日元东京电子|东京电子",
+      "kind": "topic_line",
+      "title": "东京电子：本财年营业利润有望达到1万亿日元",
+      "body": "东京电子CFO称，本财年营业利润有望达到1万亿日元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 55.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "东京电子：本财年营业利润有望达到1万亿日元",
+          "src": "东方财富",
+          "time": "2026-10-06 06:51:30",
+          "body": "东京电子CFO称，本财年营业利润有望达到1万亿日元。",
+          "score": 55.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 06:51:30",
+      "rank_score": 37.0
+    },
+    {
+      "eid": "74e6693e83",
+      "ekey": "也门胡塞武装警告国际航司停止运营",
+      "kind": "event_line",
+      "title": "也门胡塞武装警告国际航司停止运营经沙特领空航线",
+      "body": "萨那消息：也门胡塞武装军事发言人叶海亚·萨雷亚5日发布声明，称沙特阿拉伯领空已成为胡塞武装的“行动区域”，警告所有经沙特领空运营相关航线的国际航空公司，暂停相关航班。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 55.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "也门胡塞武装警告国际航司停止运营经沙特领空航线",
+          "src": "东方财富",
+          "time": "2026-10-06 05:12:22",
+          "body": "萨那消息：也门胡塞武装军事发言人叶海亚·萨雷亚5日发布声明，称沙特阿拉伯领空已成为胡塞武装的“行动区域”，警告所有经沙特领空运营相关航线的国际航空公司，暂停相关航班。",
+          "score": 55.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 05:12:22",
+      "rank_score": 37.0
+    },
+    {
+      "eid": "3666c1a68a",
+      "ekey": "国际贵金属期货收涨",
+      "kind": "event_line",
+      "title": "国际贵金属期货收涨",
+      "body": "国际贵金属期货收涨，COMEX黄金期货涨0.13%，报4167.6美元/盎司；COMEX白银期货涨1.63%，报61.4美元/盎司。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "黄金/贵金属"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 54.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国际贵金属期货收涨",
+          "src": "东方财富",
+          "time": "2026-10-06 05:02:56",
+          "body": "国际贵金属期货收涨，COMEX黄金期货涨0.13%，报4167.6美元/盎司；COMEX白银期货涨1.63%，报61.4美元/盎司。",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 05:02:56",
+      "rank_score": 36.8
+    },
+    {
+      "eid": "d6e2bb526f",
+      "ekey": "美元指数日上涨",
+      "kind": "event_line",
+      "title": "美元指数5日上涨",
+      "body": "衡量美元对六种主要货币的美元指数当天上涨0.23%，在汇市尾市收于102.167。截至纽约汇市尾市，1欧元兑换1.1215美元，低于前一交易日的1.1252美元；1英镑兑换1.3219美元，低于前一交易日的1.3239美元。1美元兑换158.00日元，高于前一交易日的157.80日元；1美元兑换0.8307瑞士法郎，高于前一交易日的0.8287瑞士法郎；1美元兑换1.4256加元，低于前一交易日的1.4259加元；1美元兑换10.0403瑞典克朗，高于前一交易日的10.0366瑞典克朗。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 54.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美元指数5日上涨",
+          "src": "东方财富",
+          "time": "2026-10-06 03:28:25",
+          "body": "衡量美元对六种主要货币的美元指数当天上涨0.23%，在汇市尾市收于102.167。截至纽约汇市尾市，1欧元兑换1.1215美元，低于前一交易日的1.1252美元；1英镑兑换1.3219美元，低于前一交易日的1.3239美元。1美元兑换158.00日元，高于前一交易日的157.80日元；1美元兑换0.8307瑞士法郎，高于前一交易日的0.8287瑞士法郎；1美元兑换1.4256加元，低于前一交易日的1.4259加元；1美元兑换10.0403瑞典克朗，高于前一交易日的10.0366瑞典克朗。",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 03:28:25",
+      "rank_score": 36.8
+    },
+    {
+      "eid": "a3d9e1ad83",
+      "ekey": "WTI原油期货结算价为美元桶",
+      "kind": "event_line",
+      "title": "WTI原油期货结算价为89.43美元/桶",
+      "body": "WTI原油期货结算价为89.43美元/桶，下跌1.68美元，跌幅1.84%。布伦特原油期货结算价为每桶100.32美元/桶，下跌1.93美元，跌幅1.89%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "WTI原油期货结算价为89.43美元/桶",
+          "src": "东方财富",
+          "time": "2026-10-06 02:43:19",
+          "body": "WTI原油期货结算价为89.43美元/桶，下跌1.68美元，跌幅1.84%。布伦特原油期货结算价为每桶100.32美元/桶，下跌1.93美元，跌幅1.89%。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 02:43:19",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "750f6b265b",
+      "ekey": "佩斯科夫俄已警告在基辅工作危险各",
+      "kind": "event_line",
+      "title": "佩斯科夫：俄已警告在基辅工作危险 各国自行决定使馆运作",
+      "body": "当地时间10月5日，俄罗斯总统新闻秘书佩斯科夫在例行新闻简报会上表示，俄外交部与国防部已警告各国在基辅工作危险，但决定权在各国自己。无论各国如何决定其驻基辅使馆运作，俄军将继续执行任务。他指出，是乌克兰方面扩大了针对俄民用经济目标的袭击清单，俄方正在对此进行报复。对此，乌克兰方面暂无回应。10月3日，俄罗斯外交部发表声明，再次警告外国公民和外交官不要留在基辅及乌克兰的军事设施附近。（央视新闻）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "俄乌",
+      "topicLabel": "俄乌局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "佩斯科夫：俄已警告在基辅工作危险 各国自行决定使馆运作",
+          "src": "同花顺",
+          "time": "2026-10-05 18:55:52",
+          "body": "当地时间10月5日，俄罗斯总统新闻秘书佩斯科夫在例行新闻简报会上表示，俄外交部与国防部已警告各国在基辅工作危险，但决定权在各国自己。无论各国如何决定其驻基辅使馆运作，俄军将继续执行任务。他指出，是乌克兰方面扩大了针对俄民用经济目标的袭击清单，俄方正在对此进行报复。对此，乌克兰方面暂无回应。10月3日，俄罗斯外交部发表声明，再次警告外国公民和外交官不要留在基辅及乌克兰的军事设施附近。（央视新闻）",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 18:55:52",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "c5c4b23621",
+      "ekey": "Anthropic|Meta",
+      "kind": "topic_line",
+      "title": "Meta Platforms和微软据称正努力让员工摆脱对Anthropic Claude的依赖",
+      "body": "MetaPlatforms和微软据称正努力让员工摆脱对AnthropicClaude的依赖。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Meta Platforms和微软据称正努力让员工摆脱对Anthropic Claude的依赖",
+          "src": "东方财富",
+          "time": "2026-10-06 02:20:41",
+          "body": "MetaPlatforms和微软据称正努力让员工摆脱对AnthropicClaude的依赖。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 02:20:41",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "8e78dd8092",
+      "ekey": "纳斯达克综合指数涨超",
+      "kind": "event_line",
+      "title": "纳斯达克综合指数涨超1%",
+      "body": "美股继续走高，纳斯达克综合指数涨超1%，标普500指数现涨0.7%，道指涨0.2%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "纳斯达克综合指数涨超1%",
+          "src": "东方财富",
+          "time": "2026-10-06 01:46:00",
+          "body": "美股继续走高，纳斯达克综合指数涨超1%，标普500指数现涨0.7%，道指涨0.2%。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 01:46:00",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "20f4792588",
+      "ekey": "深圳盐田港单船装卸量刷新中国港口",
+      "kind": "event_line",
+      "title": "深圳盐田港单船装卸量刷新中国港口纪录",
+      "body": "转自：证券时报人民财讯10月6日电，据“深圳发布”消息，国庆假期，深圳盐田港作业不停歇。继今年7月刷新单船作业纪录后，10月2日，双子星联盟AE1欧洲航线新汉堡快航轮（HAMB...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "航运/物流",
+        "券商/大金融"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "深圳盐田港单船装卸量刷新中国港口纪录",
+          "src": "新浪财经",
+          "time": "2026-10-06 08:20:00",
+          "body": "转自：证券时报人民财讯10月6日电，据“深圳发布”消息，国庆假期，深圳盐田港作业不停歇。继今年7月刷新单船作业纪录后，10月2日，双子星联盟AE1欧洲航线新汉堡快航轮（HAMB...",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:20:00",
+      "rank_score": 36.2
+    },
+    {
+      "eid": "46429a90f9",
+      "ekey": "也门胡塞武装称对沙特境内多个目标",
+      "kind": "event_line",
+      "title": "也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+      "body": "也门胡塞武装10月5日夜间发表声明称，为回应沙特过去24小时对也门发动的军事行动，胡塞武装当天实施三轮军事行动，使用大量弹道导弹、巡航导弹和无人机，分别袭击沙特利雅得哈立德国王国际机场、拉比格阿美炼油厂，以及艾卜哈机场、海米斯穆谢特基地、阿西尔省阿基法军营和纳季兰、吉赞省的多个敏感目标。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+          "src": "东方财富",
+          "time": "2026-10-06 04:54:00",
+          "body": "也门胡塞武装10月5日夜间发表声明称，为回应沙特过去24小时对也门发动的军事行动，胡塞武装当天实施三轮军事行动，使用大量弹道导弹、巡航导弹和无人机，分别袭击沙特利雅得哈立德国王国际机场、拉比格阿美炼油厂，以及艾卜哈机场、海米斯穆谢特基地、阿西尔省阿基法军营和纳季兰、吉赞省的多个敏感目标。",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 04:54:00",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "e91e20451f",
+      "ekey": "等来秋高气爽星城文旅热力全开山河",
+      "kind": "event_line",
+      "title": "等来秋高气爽，星城文旅热力全开｜山河焕彩 家国同欢",
+      "body": "长沙晚报全媒体记者 刘丹 国庆假期第五天，文旅热力全开。根据手机信令大数据建模统计，全省当日接待游客1328.02万人次。其中外省游客330.58万人次，占比为24...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "等来秋高气爽，星城文旅热力全开｜山河焕彩 家国同欢",
+          "src": "新浪财经",
+          "time": "2026-10-06 07:19:00",
+          "body": "长沙晚报全媒体记者 刘丹 国庆假期第五天，文旅热力全开。根据手机信令大数据建模统计，全省当日接待游客1328.02万人次。其中外省游客330.58万人次，占比为24...",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:19:00",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "7ab55a8647",
+      "ekey": "财政部",
+      "kind": "topic_line",
+      "title": "俄财政部将大幅增加外汇和黄金购买量",
+      "body": "俄罗斯财政部当地时间10月5日发布消息，将于10月7日至11月6日将该国外汇和黄金购买量提高至9月的五倍，为此拨款2794.2亿卢布，日均购买量约127亿卢布。此次购买依据预算规则进行，旨在将额外油气收入纳入国家福利基金。（央视新闻）",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "黄金/贵金属"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "俄财政部将大幅增加外汇和黄金购买量",
+          "src": "同花顺",
+          "time": "2026-10-05 20:50:15",
+          "body": "俄罗斯财政部当地时间10月5日发布消息，将于10月7日至11月6日将该国外汇和黄金购买量提高至9月的五倍，为此拨款2794.2亿卢布，日均购买量约127亿卢布。此次购买依据预算规则进行，旨在将额外油气收入纳入国家福利基金。（央视新闻）",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 20:50:15",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "2b0f197ca2",
+      "ekey": "央行",
+      "kind": "topic_line",
+      "title": "印尼拟允许商品交易所用美元交易",
+      "body": "印尼金融服务管理局和印尼央行正就允许即将成立的商品交易所使用美元进行交易展开讨论，该交易所首席监管官Sarjito周一表示。根据印尼法律，国内所有交易原则上必须使用本国货币印尼盾。（财联社）",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T2",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "印尼拟允许商品交易所用美元交易",
+          "src": "同花顺",
+          "time": "2026-10-05 16:56:31",
+          "body": "印尼金融服务管理局和印尼央行正就允许即将成立的商品交易所使用美元进行交易展开讨论，该交易所首席监管官Sarjito周一表示。根据印尼法律，国内所有交易原则上必须使用本国货币印尼盾。（财联社）",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 16:56:31",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "d9a0476edd",
+      "ekey": "南亚科月销售额亿元台币同比增长",
+      "kind": "event_line",
+      "title": "南亚科9月销售额450.9亿元台币 同比增长576.6％",
+      "body": "南亚科9月销售额450.9亿元台币，同比增长576.6％。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "南亚科9月销售额450.9亿元台币 同比增长576.6％",
+          "src": "东方财富",
+          "time": "2026-10-06 08:20:39",
+          "body": "南亚科9月销售额450.9亿元台币，同比增长576.6％。",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:20:39",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "35c25be379",
+      "ekey": "麦当劳在美遭集体诉讼被指用AI系",
+      "kind": "event_line",
+      "title": "麦当劳在美遭集体诉讼 被指用 AI 系统非法操纵菜单价格",
+      "body": "据路透社报道，麦当劳已在芝加哥联邦法院被提起诉讼，这是一起拟议的全国性集体诉讼。原告指控这家快餐企业借助一套人工智能定价系统，非法协调其特许经营店和直营餐厅的菜单价格。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "麦当劳在美遭集体诉讼 被指用 AI 系统非法操纵菜单价格",
+          "src": "东方财富",
+          "time": "2026-10-06 08:05:15",
+          "body": "据路透社报道，麦当劳已在芝加哥联邦法院被提起诉讼，这是一起拟议的全国性集体诉讼。原告指控这家快餐企业借助一套人工智能定价系统，非法协调其特许经营店和直营餐厅的菜单价格。",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:05:15",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "eb91371ae3",
+      "ekey": "人工智能如何真正赋能思政课堂",
+      "kind": "event_line",
+      "title": "人工智能如何真正赋能思政课堂",
+      "body": "从智能备课到虚拟仿真，人工智能（AI），正在加速融入高校思政课堂。在一些高校，近来的思政课堂上多了几张新“面孔”——“AI马克思”“AI恩格斯”，他们可以与学生对话交流，学生也可以向他们提问、与他们辩论。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "人工智能如何真正赋能思政课堂",
+          "src": "东方财富",
+          "time": "2026-10-06 07:46:14",
+          "body": "从智能备课到虚拟仿真，人工智能（AI），正在加速融入高校思政课堂。在一些高校，近来的思政课堂上多了几张新“面孔”——“AI马克思”“AI恩格斯”，他们可以与学生对话交流，学生也可以向他们提问、与他们辩论。",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 07:46:14",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "352eccf652",
+      "ekey": "韩国月外汇储备报亿美元",
+      "kind": "event_line",
+      "title": "韩国9月外汇储备报4405.6亿美元",
+      "body": "韩国9月外汇储备报4405.6亿美元，前值4422.8亿美元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "韩国9月外汇储备报4405.6亿美元",
+          "src": "东方财富",
+          "time": "2026-10-06 05:00:45",
+          "body": "韩国9月外汇储备报4405.6亿美元，前值4422.8亿美元。",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 05:00:45",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "87921d4397",
+      "ekey": "Stifel将年末标普指数目标点",
+      "kind": "event_line",
+      "title": "Stifel将2026年末标普500指数目标点位从上调",
+      "body": "Stifel将2026年末标普500指数目标点位从7800点上调至7900点。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Stifel将2026年末标普500指数目标点位从上调",
+          "src": "同花顺",
+          "time": "2026-10-05 22:22:16",
+          "body": "Stifel将2026年末标普500指数目标点位从7800点上调至7900点。",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 22:22:16",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "7634b2f338",
+      "ekey": "挪威拟临时禁止在特定场所使用AI",
+      "kind": "event_line",
+      "title": "挪威拟临时禁止在特定场所使用AI眼镜",
+      "body": "挪威政府5日宣布，拟临时禁止在特定场所使用配备摄像头的人工智能(AI)眼镜，以保护民众隐私、避免他们在不知情的情况下被拍摄。（财联社）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "挪威拟临时禁止在特定场所使用AI眼镜",
+          "src": "同花顺",
+          "time": "2026-10-05 21:15:38",
+          "body": "挪威政府5日宣布，拟临时禁止在特定场所使用配备摄像头的人工智能(AI)眼镜，以保护民众隐私、避免他们在不知情的情况下被拍摄。（财联社）",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 21:15:38",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "491c8b15c0",
+      "ekey": "国庆假期阳城六宝火出圈",
+      "kind": "event_line",
+      "title": "国庆假期，阳城“六宝”火出圈！",
+      "body": "这个国庆假期阳城的文旅市场有点“热”！县科技和商务局抢抓节庆消费黄金窗口深入实施四进行动推动珐华、茱萸、枣糕蜜酒、蚕丝、杂粮六大阳城特优名品进景区、进酒店进商超...",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "黄金/贵金属",
+        "消费/白酒"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T2",
+      "score": 51.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国庆假期，阳城“六宝”火出圈！",
+          "src": "新浪财经",
+          "time": "2026-10-06 08:07:41",
+          "body": "这个国庆假期阳城的文旅市场有点“热”！县科技和商务局抢抓节庆消费黄金窗口深入实施四进行动推动珐华、茱萸、枣糕蜜酒、蚕丝、杂粮六大阳城特优名品进景区、进酒店进商超...",
+          "score": 51.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:07:41",
+      "rank_score": 35.6
+    },
+    {
+      "eid": "039479c120",
+      "ekey": "阿布扎比国家石油公司与GulfG",
+      "kind": "event_line",
+      "title": "阿布扎比国家石油公司与Gulf Group签署协议",
+      "body": "阿布扎比国家石油公司与Gulf Group签署协议，将向泰国供应最多200万吨液化天然气。贸易将在2027年开始，合同期限为多年。（财联社）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 51.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "阿布扎比国家石油公司与Gulf Group签署协议",
+          "src": "同花顺",
+          "time": "2026-10-05 19:19:31",
+          "body": "阿布扎比国家石油公司与Gulf Group签署协议，将向泰国供应最多200万吨液化天然气。贸易将在2027年开始，合同期限为多年。（财联社）",
+          "score": 51.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 19:19:31",
+      "rank_score": 35.6
+    },
+    {
+      "eid": "113c07db73",
+      "ekey": "万股股份|万股股份腾讯控股",
+      "kind": "topic_line",
+      "title": "腾讯控股回购23.8万股股份",
+      "body": "腾讯控股于10月5日斥资1.002亿港元回购23.8万股股份。（财联社）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 51.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "腾讯控股回购23.8万股股份",
+          "src": "同花顺",
+          "time": "2026-10-05 17:47:31",
+          "body": "腾讯控股于10月5日斥资1.002亿港元回购23.8万股股份。（财联社）",
+          "score": 51.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-05 17:47:31",
+      "rank_score": 35.6
+    },
+    {
+      "eid": "0e69603d88",
+      "ekey": "惠誉维持凯雷集团",
+      "kind": "topic_line",
+      "title": "惠誉维持凯雷集团“A-”评级 展望稳定",
+      "body": "惠誉维持凯雷集团“A-”评级，展望稳定。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 51.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "惠誉维持凯雷集团“A-”评级 展望稳定",
+          "src": "东方财富",
+          "time": "2026-10-06 05:54:41",
+          "body": "惠誉维持凯雷集团“A-”评级，展望稳定。",
+          "score": 51.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 05:54:41",
+      "rank_score": 35.4
+    },
+    {
+      "eid": "172c70503d",
+      "ekey": "梁巍压紧压实工作责任守牢安全稳定",
+      "kind": "event_line",
+      "title": "梁巍：压紧压实工作责任 守牢安全稳定底线",
+      "body": "（来源：汤旺发布）     10月5日晚，县委书记梁巍主持召开全县重点工作部署调度会，分析研判当前形势，对安全生产、旅游服务保障、森林防火等工作进行再安排、再调度...",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 51.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "梁巍：压紧压实工作责任 守牢安全稳定底线",
+          "src": "新浪财经",
+          "time": "2026-10-06 08:04:00",
+          "body": "（来源：汤旺发布）     10月5日晚，县委书记梁巍主持召开全县重点工作部署调度会，分析研判当前形势，对安全生产、旅游服务保障、森林防火等工作进行再安排、再调度...",
+          "score": 51.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 08:04:00",
+      "rank_score": 35.4
+    }
+  ],
+  "topics": [
+    {
+      "topic": "大模型",
+      "label": "大模型与 AI 应用",
+      "count": 7,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 7.0,
+      "eids": [
+        "e9a7006a0f",
+        "1d5138aae2",
+        "88c52b25bd",
+        "6a8184585c",
+        "35c25be379",
+        "eb91371ae3",
+        "7634b2f338"
+      ],
+      "lead": "AI投资能否对美国经济形成新支撑",
+      "events": [
+        {
+          "eid": "e9a7006a0f",
+          "ekey": "AI投资能否对美国经济形成新支撑",
+          "kind": "event_line",
+          "title": "AI投资能否对美国经济形成新支撑",
+          "body": "当前，人工智能相关投资正在逐步成为美国经济新的增长点。2026年上半年，美国人工智能相关投资由资本市场概念叙事落地为服务器、芯片、软件、基础设施等实物投入，对总需求产生现实拉动。但现有统计数据尚难准确将人工智能投入拉动效应从软件、计算机设备和非住宅建筑之中单独剥离，当前增长红利高度集中于头部科技企业和基础设施建设环节，尚无证据显示其已形成覆盖全经济的生产率提升。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "AI应用/软件",
+            "半导体/AI芯片",
+            "算力/数据中心"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 71.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "AI投资能否对美国经济形成新支撑",
+              "src": "东方财富",
+              "time": "2026-10-06 07:31:31",
+              "body": "当前，人工智能相关投资正在逐步成为美国经济新的增长点。2026年上半年，美国人工智能相关投资由资本市场概念叙事落地为服务器、芯片、软件、基础设施等实物投入，对总需求产生现实拉动。但现有统计数据尚难准确将人工智能投入拉动效应从软件、计算机设备和非住宅建筑之中单独剥离，当前增长红利高度集中于头部科技企业和基础设施建设环节，尚无证据显示其已形成覆盖全经济的生产率提升。",
+              "score": 71.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 07:31:31",
+          "rank_score": 43.6
+        },
+        {
+          "eid": "1d5138aae2",
+          "ekey": "OpenAI|多家阿联酋基金#大模型",
+          "kind": "topic_line",
+          "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
+          "body": "知情人士称，包括MGX在内的多家阿联酋投资基金正在与OpenAI洽谈，可能参与这家人工智能巨头最新一轮300亿美元融资。其中一位知情人士表示，这些基金将组成一个财团参与OpenAI这轮融资。另一位人士称，这些阿联酋基金讨论的合计投资金额最高达到100亿美元。知情人士表示，贝莱德也在商谈参与这轮融资。融资仍在进行中，具体条款可能发生变化。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 63.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
+              "src": "东方财富",
+              "time": "2026-10-06 07:50:52",
+              "body": "知情人士称，包括MGX在内的多家阿联酋投资基金正在与OpenAI洽谈，可能参与这家人工智能巨头最新一轮300亿美元融资。其中一位知情人士表示，这些基金将组成一个财团参与OpenAI这轮融资。另一位人士称，这些阿联酋基金讨论的合计投资金额最高达到100亿美元。知情人士表示，贝莱德也在商谈参与这轮融资。融资仍在进行中，具体条款可能发生变化。",
+              "score": 63.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 07:50:52",
+          "rank_score": 40.4
+        },
+        {
+          "eid": "88c52b25bd",
+          "ekey": "Andreessen|OpenAI#大模型",
+          "kind": "topic_line",
+          "title": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判",
+          "body": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判，同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 58.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判",
+              "src": "东方财富",
+              "time": "2026-10-06 04:51:30",
+              "body": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判，同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
+              "score": 58.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 04:51:30",
+          "rank_score": 38.2
+        },
+        {
+          "eid": "6a8184585c",
+          "ekey": "OpenAI#大模型",
+          "kind": "topic_line",
+          "title": "奥尔特曼：AI红利足以抵消部分风险 “坏事”发生也值得接受",
+          "body": "OpenAI首席执行官萨姆·奥尔特曼最新表示，面对人工智能(AI)技术带来的好处，社会应该接受由此产生的一些“负面事件”，并主张这项技术应该继续向公众广泛开放。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 56.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "奥尔特曼：AI红利足以抵消部分风险 “坏事”发生也值得接受",
+              "src": "东方财富",
+              "time": "2026-10-06 06:18:36",
+              "body": "OpenAI首席执行官萨姆·奥尔特曼最新表示，面对人工智能(AI)技术带来的好处，社会应该接受由此产生的一些“负面事件”，并主张这项技术应该继续向公众广泛开放。",
+              "score": 56.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 06:18:36",
+          "rank_score": 37.6
+        },
+        {
+          "eid": "35c25be379",
+          "ekey": "麦当劳在美遭集体诉讼被指用AI系",
+          "kind": "event_line",
+          "title": "麦当劳在美遭集体诉讼 被指用 AI 系统非法操纵菜单价格",
+          "body": "据路透社报道，麦当劳已在芝加哥联邦法院被提起诉讼，这是一起拟议的全国性集体诉讼。原告指控这家快餐企业借助一套人工智能定价系统，非法协调其特许经营店和直营餐厅的菜单价格。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 52.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "麦当劳在美遭集体诉讼 被指用 AI 系统非法操纵菜单价格",
+              "src": "东方财富",
+              "time": "2026-10-06 08:05:15",
+              "body": "据路透社报道，麦当劳已在芝加哥联邦法院被提起诉讼，这是一起拟议的全国性集体诉讼。原告指控这家快餐企业借助一套人工智能定价系统，非法协调其特许经营店和直营餐厅的菜单价格。",
+              "score": 52.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 08:05:15",
+          "rank_score": 35.8
+        },
+        {
+          "eid": "eb91371ae3",
+          "ekey": "人工智能如何真正赋能思政课堂",
+          "kind": "event_line",
+          "title": "人工智能如何真正赋能思政课堂",
+          "body": "从智能备课到虚拟仿真，人工智能（AI），正在加速融入高校思政课堂。在一些高校，近来的思政课堂上多了几张新“面孔”——“AI马克思”“AI恩格斯”，他们可以与学生对话交流，学生也可以向他们提问、与他们辩论。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 52.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "人工智能如何真正赋能思政课堂",
+              "src": "东方财富",
+              "time": "2026-10-06 07:46:14",
+              "body": "从智能备课到虚拟仿真，人工智能（AI），正在加速融入高校思政课堂。在一些高校，近来的思政课堂上多了几张新“面孔”——“AI马克思”“AI恩格斯”，他们可以与学生对话交流，学生也可以向他们提问、与他们辩论。",
+              "score": 52.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 07:46:14",
+          "rank_score": 35.8
+        },
+        {
+          "eid": "7634b2f338",
+          "ekey": "挪威拟临时禁止在特定场所使用AI",
+          "kind": "event_line",
+          "title": "挪威拟临时禁止在特定场所使用AI眼镜",
+          "body": "挪威政府5日宣布，拟临时禁止在特定场所使用配备摄像头的人工智能(AI)眼镜，以保护民众隐私、避免他们在不知情的情况下被拍摄。（财联社）",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T2",
+          "score": 52.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "挪威拟临时禁止在特定场所使用AI眼镜",
+              "src": "同花顺",
+              "time": "2026-10-05 21:15:38",
+              "body": "挪威政府5日宣布，拟临时禁止在特定场所使用配备摄像头的人工智能(AI)眼镜，以保护民众隐私、避免他们在不知情的情况下被拍摄。（财联社）",
+              "score": 52.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-05 21:15:38",
+          "rank_score": 35.8
+        }
+      ]
+    },
+    {
+      "topic": "中东",
+      "label": "中东局势",
+      "count": 5,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 5.0,
+      "eids": [
+        "72ab34df9f",
+        "d0d2bafd05",
+        "f456e54183",
+        "74e6693e83",
+        "46429a90f9"
+      ],
+      "lead": "周二你需要知道的隔夜全球要闻：纳指创下历史新高 SpaceX股价大涨超7%；也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+      "events": [
+        {
+          "eid": "72ab34df9f",
+          "ekey": "周二你需要知道的隔夜全球要闻纳指",
+          "kind": "event_line",
+          "title": "周二你需要知道的隔夜全球要闻：纳指创下历史新高 SpaceX股价大涨超7%；也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+          "body": "1、也门胡塞武装10月5日夜间发表声明称，为回应沙特过去24小时对也门发动的军事行动，胡塞武装当天实施三轮军事行动。2、也门政府军5日称，在激烈战斗后，政府军已从胡塞武装手中收复塔伊兹省的红海港口城市穆哈。3、美国国务卿鲁比奥在接受采访时表示，美国轰炸机撤出英国皇家空军费尔福德基地与此前发生的安全威胁事件没有直接关联。",
+          "dim": "military",
+          "dimName": "军事地缘",
+          "impact": "bull",
+          "sectors": [
+            "航运/物流",
+            "军工/国防"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 69.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "中东",
+          "topicLabel": "中东局势",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "周二你需要知道的隔夜全球要闻：纳指创下历史新高 SpaceX股价大涨超7%；也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+              "src": "东方财富",
+              "time": "2026-10-06 06:12:05",
+              "body": "1、也门胡塞武装10月5日夜间发表声明称，为回应沙特过去24小时对也门发动的军事行动，胡塞武装当天实施三轮军事行动。2、也门政府军5日称，在激烈战斗后，政府军已从胡塞武装手中收复塔伊兹省的红海港口城市穆哈。3、美国国务卿鲁比奥在接受采访时表示，美国轰炸机撤出英国皇家空军费尔福德基地与此前发生的安全威胁事件没有直接关联。",
+              "score": 69.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 06:12:05",
+          "rank_score": 42.6
+        },
+        {
+          "eid": "d0d2bafd05",
+          "ekey": "国际油价承压下跌利空又传来中东原",
+          "kind": "event_line",
+          "title": "国际油价承压下跌！利空又传来：中东原油出口量已超战前水平",
+          "body": "周一公布的航运数据显示，尽管仍有船只在穿越霍尔木兹海峡时遭到袭击，但在9月最后一周7天中，有4天中东原油出口量超过了战前水平；由于中东原油出口回升，加上七国集团（G7）宣布释放能源储备，令供应担忧有所缓解，周一，国际油价承压下跌。（财联社）",
+          "dim": "military",
+          "dimName": "军事地缘",
+          "impact": "bear",
+          "sectors": [
+            "石油/能源",
+            "航运/物流"
+          ],
+          "ctypeName": "经济数据",
+          "tier": "T2",
+          "score": 57.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "中东",
+          "topicLabel": "中东局势",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "国际油价承压下跌！利空又传来：中东原油出口量已超战前水平",
+              "src": "同花顺",
+              "time": "2026-10-05 15:27:32",
+              "body": "周一公布的航运数据显示，尽管仍有船只在穿越霍尔木兹海峡时遭到袭击，但在9月最后一周7天中，有4天中东原油出口量超过了战前水平；由于中东原油出口回升，加上七国集团（G7）宣布释放能源储备，令供应担忧有所缓解，周一，国际油价承压下跌。（财联社）",
+              "score": 57.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-05 15:27:32",
+          "rank_score": 38.0
+        },
+        {
+          "eid": "f456e54183",
+          "ekey": "沙特阿美首席执行官原油供应总量已",
+          "kind": "event_line",
+          "title": "沙特阿美首席执行官：原油供应总量已减少近30亿桶",
+          "body": "沙特阿美首席执行官表示，原油供应总量已减少近30亿桶，约相当于原本正常通过霍尔木兹海峡运输的原油及成品油总量的一半。（财联社）",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "neutral",
+          "sectors": [
+            "石油/能源"
+          ],
+          "ctypeName": "海外宏观",
+          "tier": "T2",
+          "score": 56.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "中东",
+          "topicLabel": "中东局势",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "沙特阿美首席执行官：原油供应总量已减少近30亿桶",
+              "src": "同花顺",
+              "time": "2026-10-05 16:16:54",
+              "body": "沙特阿美首席执行官表示，原油供应总量已减少近30亿桶，约相当于原本正常通过霍尔木兹海峡运输的原油及成品油总量的一半。（财联社）",
+              "score": 56.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-05 16:16:54",
+          "rank_score": 37.4
+        },
+        {
+          "eid": "74e6693e83",
+          "ekey": "也门胡塞武装警告国际航司停止运营",
+          "kind": "event_line",
+          "title": "也门胡塞武装警告国际航司停止运营经沙特领空航线",
+          "body": "萨那消息：也门胡塞武装军事发言人叶海亚·萨雷亚5日发布声明，称沙特阿拉伯领空已成为胡塞武装的“行动区域”，警告所有经沙特领空运营相关航线的国际航空公司，暂停相关航班。",
+          "dim": "military",
+          "dimName": "军事地缘",
+          "impact": "neutral",
+          "sectors": [],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 55.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "中东",
+          "topicLabel": "中东局势",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "也门胡塞武装警告国际航司停止运营经沙特领空航线",
+              "src": "东方财富",
+              "time": "2026-10-06 05:12:22",
+              "body": "萨那消息：也门胡塞武装军事发言人叶海亚·萨雷亚5日发布声明，称沙特阿拉伯领空已成为胡塞武装的“行动区域”，警告所有经沙特领空运营相关航线的国际航空公司，暂停相关航班。",
+              "score": 55.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 05:12:22",
+          "rank_score": 37.0
+        },
+        {
+          "eid": "46429a90f9",
+          "ekey": "也门胡塞武装称对沙特境内多个目标",
+          "kind": "event_line",
+          "title": "也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+          "body": "也门胡塞武装10月5日夜间发表声明称，为回应沙特过去24小时对也门发动的军事行动，胡塞武装当天实施三轮军事行动，使用大量弹道导弹、巡航导弹和无人机，分别袭击沙特利雅得哈立德国王国际机场、拉比格阿美炼油厂，以及艾卜哈机场、海米斯穆谢特基地、阿西尔省阿基法军营和纳季兰、吉赞省的多个敏感目标。",
+          "dim": "military",
+          "dimName": "军事地缘",
+          "impact": "neutral",
+          "sectors": [
+            "军工/国防"
+          ],
+          "ctypeName": "政策发布",
+          "tier": "T1.5",
+          "score": 52.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "中东",
+          "topicLabel": "中东局势",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
+              "src": "东方财富",
+              "time": "2026-10-06 04:54:00",
+              "body": "也门胡塞武装10月5日夜间发表声明称，为回应沙特过去24小时对也门发动的军事行动，胡塞武装当天实施三轮军事行动，使用大量弹道导弹、巡航导弹和无人机，分别袭击沙特利雅得哈立德国王国际机场、拉比格阿美炼油厂，以及艾卜哈机场、海米斯穆谢特基地、阿西尔省阿基法军营和纳季兰、吉赞省的多个敏感目标。",
+              "score": 52.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 04:54:00",
+          "rank_score": 36.0
+        }
+      ]
+    },
+    {
+      "topic": "股指行情",
+      "label": "全球股指行情",
+      "count": 4,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 4.0,
+      "eids": [
+        "1cb74fed07",
+        "fad6afb3e9",
+        "8d61a96bbf",
+        "87921d4397"
+      ],
+      "lead": "美股三大指数集体收涨 纳指涨超1%创收盘新高",
+      "events": [
+        {
+          "eid": "1cb74fed07",
+          "ekey": "美股三大指数集体收涨纳指涨超创收",
+          "kind": "event_line",
+          "title": "美股三大指数集体收涨 纳指涨超1%创收盘新高",
+          "body": "美股三大指数集体收涨，纳指涨1.05%，创收盘新高，道指涨0.18%，标普500指数涨0.67%。大型科技股普遍上涨，SpaceX涨超7%，英伟达、特斯拉、博通涨超2%，微软、Meta、谷歌涨超1%。板块上，加密货币、油气、医药零售涨幅居前，诺瓦瓦克斯医药涨超20%，Moderna涨近7%，斯伦贝谢涨超3%，Coinbase、Circle涨超2%。美股Vaxcyte收涨30%，公司的肺炎球菌疫苗达到后期临床试验目标。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "医药/生物",
+            "半导体/AI芯片",
+            "消费/白酒"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 67.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股三大指数集体收涨 纳指涨超1%创收盘新高",
+              "src": "东方财富",
+              "time": "2026-10-06 04:00:45",
+              "body": "美股三大指数集体收涨，纳指涨1.05%，创收盘新高，道指涨0.18%，标普500指数涨0.67%。大型科技股普遍上涨，SpaceX涨超7%，英伟达、特斯拉、博通涨超2%，微软、Meta、谷歌涨超1%。板块上，加密货币、油气、医药零售涨幅居前，诺瓦瓦克斯医药涨超20%，Moderna涨近7%，斯伦贝谢涨超3%，Coinbase、Circle涨超2%。美股Vaxcyte收涨30%，公司的肺炎球菌疫苗达到后期临床试验目标。",
+              "score": 67.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 04:00:45",
+          "rank_score": 42.0
+        },
+        {
+          "eid": "fad6afb3e9",
+          "ekey": "美股开盘美股三大指数涨跌不一",
+          "kind": "event_line",
+          "title": "美股开盘：美股三大指数涨跌不一",
+          "body": "美股三大指数涨跌不一，标普500指数涨0.08%，道指跌0.13%，纳指涨0.14%。美股三大指数涨跌不一，标普500指数涨0.08%，道指跌0.13%，纳指涨0.14%。大型科技股方面，英伟达涨1.05%，微软涨1.02%。中概股方面，阿里巴巴涨1.67%，蔚来涨1.48%，京东涨1.36%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T2",
+          "score": 61.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股开盘：美股三大指数涨跌不一",
+              "src": "同花顺",
+              "time": "2026-10-05 21:34:00",
+              "body": "美股三大指数涨跌不一，标普500指数涨0.08%，道指跌0.13%，纳指涨0.14%。美股三大指数涨跌不一，标普500指数涨0.08%，道指跌0.13%，纳指涨0.14%。大型科技股方面，英伟达涨1.05%，微软涨1.02%。中概股方面，阿里巴巴涨1.67%，蔚来涨1.48%，京东涨1.36%。",
+              "score": 61.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-05 21:34:00",
+          "rank_score": 39.6
+        },
+        {
+          "eid": "8d61a96bbf",
+          "ekey": "纳指盘中再创历史新高逼近点",
+          "kind": "event_line",
+          "title": "纳指盘中再创历史新高 逼近27400点",
+          "body": "纳指盘中再创历史新高，一度逼近27400点；成分股中，SpaceX涨幅扩大至逾5%，Meta涨超2%，特斯拉、微软涨近2%，英伟达涨超1%再度逼近历史新高。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "汽车/智能驾驶"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T2",
+          "score": 55.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "纳指盘中再创历史新高 逼近27400点",
+              "src": "同花顺",
+              "time": "2026-10-05 22:33:50",
+              "body": "纳指盘中再创历史新高，一度逼近27400点；成分股中，SpaceX涨幅扩大至逾5%，Meta涨超2%，特斯拉、微软涨近2%，英伟达涨超1%再度逼近历史新高。",
+              "score": 55.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-05 22:33:50",
+          "rank_score": 37.2
+        },
+        {
+          "eid": "87921d4397",
+          "ekey": "Stifel将年末标普指数目标点",
+          "kind": "event_line",
+          "title": "Stifel将2026年末标普500指数目标点位从上调",
+          "body": "Stifel将2026年末标普500指数目标点位从7800点上调至7900点。",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "bull",
+          "sectors": [],
+          "ctypeName": "市场动作",
+          "tier": "T2",
+          "score": 52.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "Stifel将2026年末标普500指数目标点位从上调",
+              "src": "同花顺",
+              "time": "2026-10-05 22:22:16",
+              "body": "Stifel将2026年末标普500指数目标点位从7800点上调至7900点。",
+              "score": 52.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-05 22:22:16",
+          "rank_score": 35.8
+        }
+      ]
+    },
+    {
+      "topic": "AI芯片",
+      "label": "AI 芯片与算力",
+      "count": 3,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 3.0,
+      "eids": [
+        "22fa1242af",
+        "839b272f0b",
+        "58a532436e"
+      ],
+      "lead": "纳指、英伟达齐创新高",
+      "events": [
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "纳指、英伟达齐创新高",
+          "body": "当地时间10月5日，美股三大指数集体收涨，纳斯达克指数创下收盘历史新高，英伟达股价刷新历史新高。当天盘中，美股走势一度因美国国债收益率走高而形成分化，随后市场消化了最新的经济数据，资金继续向人工智能龙头集中。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 67.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "纳指、英伟达齐创新高",
+              "src": "东方财富",
+              "time": "2026-10-06 08:28:00",
+              "body": "当地时间10月5日，美股三大指数集体收涨，纳斯达克指数创下收盘历史新高，英伟达股价刷新历史新高。当天盘中，美股走势一度因美国国债收益率走高而形成分化，随后市场消化了最新的经济数据，资金继续向人工智能龙头集中。",
+              "score": 67.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 08:28:00",
+          "rank_score": 42.0
+        },
+        {
+          "eid": "839b272f0b",
+          "ekey": "三星|韩元订单韩美半导体#AI芯片",
+          "kind": "topic_line",
+          "title": "韩美半导体赢得三星电机245亿韩元订单",
+          "body": "韩美半导体赢得三星电机245亿韩元订单。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "公司事件",
+          "tier": "T1.5",
+          "score": 65.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "韩美半导体赢得三星电机245亿韩元订单",
+              "src": "东方财富",
+              "time": "2026-10-06 07:13:32",
+              "body": "韩美半导体赢得三星电机245亿韩元订单。",
+              "score": 65.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 07:13:32",
+          "rank_score": 41.0
+        },
+        {
+          "eid": "58a532436e",
+          "ekey": "利好催化全球半导体|弹走强受海外半导体#AI芯片",
+          "kind": "topic_line",
+          "title": "涨价利好催化全球半导体情绪回潮 港股芯片股再度反弹走强",
+          "body": "受海外半导体板块情绪回潮及产业链新一轮涨价带动，今日港股芯片股整体逆势走强，再度反弹。截至发稿，傅里叶涨超20%，澜起科技涨近5%，华虹宏力等一批个股涨逾3%。短线来看，近期海外半导体板块多头情绪回潮。上周五，英伟达收涨1.34%刷新了5月14日创下的盘中纪录，再度向6万亿美元市值发起冲击。此外，美股费城半导体指数周线五连阳，刷新下半年以来新高。而更为值得关注的是，随着全球芯片产业链开启新一轮涨价，也驱动了市场对行业盈利预期的上修。（财联社）",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T2",
+          "score": 63.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "涨价利好催化全球半导体情绪回潮 港股芯片股再度反弹走强",
+              "src": "同花顺",
+              "time": "2026-10-05 15:48:07",
+              "body": "受海外半导体板块情绪回潮及产业链新一轮涨价带动，今日港股芯片股整体逆势走强，再度反弹。截至发稿，傅里叶涨超20%，澜起科技涨近5%，华虹宏力等一批个股涨逾3%。短线来看，近期海外半导体板块多头情绪回潮。上周五，英伟达收涨1.34%刷新了5月14日创下的盘中纪录，再度向6万亿美元市值发起冲击。此外，美股费城半导体指数周线五连阳，刷新下半年以来新高。而更为值得关注的是，随着全球芯片产业链开启新一轮涨价，也驱动了市场对行业盈利预期的上修。（财联社）",
+              "score": 63.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-05 15:48:07",
+          "rank_score": 40.2
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "input_articles": 60,
+    "events": 60,
+    "merged_away": 0,
+    "redundancy": 1.0,
+    "multi_source_events": 0,
+    "roundup_articles": 3,
+    "story_links": 0,
+    "method": "rule_based",
+    "topic_blocks": 4,
+    "compared_with": "2026-10-05 08:31:03",
+    "new_events": 59,
+    "rising_events": 0
+  },
+  "provenance": {
+    "method": "rule_based_clustering",
+    "status": "derived",
+    "detail": "事件合并与主题归组由标题相似度 + 实体重叠规则判定，非 LLM 语义判断；热度按独立来源数计算（48h 内每源一次，24h 减半）"
+  }
+}

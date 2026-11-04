@@ -1,0 +1,3554 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07 08:30",
+  "events": [
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "SpaceX计划通过阿波罗主导的融资筹集400亿美元 以采购英伟达芯片",
+      "body": "SpaceX计划通过阿波罗主导的融资筹集400亿美元，以采购英伟达芯片。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": true,
+      "heat_delta": 1.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": true,
+      "member_count": 2,
+      "members": [
+        {
+          "title": "SpaceX计划通过阿波罗主导的融资筹集400亿美元 以采购英伟达芯片",
+          "src": "东方财富",
+          "time": "2026-10-07 06:31:40",
+          "body": "SpaceX计划通过阿波罗主导的融资筹集400亿美元，以采购英伟达芯片。",
+          "score": 63.5
+        },
+        {
+          "title": "SpaceX计划融资400亿美元采购英伟达芯片",
+          "src": "同花顺",
+          "time": "2026-10-07 07:27:53",
+          "body": "SpaceX计划通过阿波罗主导的融资筹集400亿美元，以采购英伟达芯片。（财联社）",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [
+        "共享实体 英伟达 + 同主题 AI芯片，相似度 0.34"
+      ],
+      "related": [],
+      "time": "2026-10-07 06:31:40",
+      "rank_score": 61.4
+    },
+    {
+      "eid": "b3c9be99c4",
+      "ekey": "美股三大指数集体收涨纳指标普指数",
+      "kind": "event_line",
+      "title": "美股三大指数集体收涨 纳指、标普500指数创收盘新高",
+      "body": "美股三大指数集体收涨，道指涨0.49%，纳指涨0.45%，标普500指数涨0.58%，纳指、标普500指数创收盘新高，热门科技股多数上涨，博通涨超3%，亚马逊涨近2%。光通信、通讯设备、储能概念股涨幅居前，诺基亚涨超7%，康宁涨超6%，迈威尔科技涨超5%，思科涨超4%。存储概念、百货公司跌幅居前，迪拉德百货跌超10%，希捷科技跌超9%，西部数据、SK海力士跌超6%，闪迪跌超2%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "新能源/锂电"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 77.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股三大指数集体收涨 纳指、标普500指数创收盘新高",
+          "src": "东方财富",
+          "time": "2026-10-07 04:00:40",
+          "body": "美股三大指数集体收涨，道指涨0.49%，纳指涨0.45%，标普500指数涨0.58%，纳指、标普500指数创收盘新高，热门科技股多数上涨，博通涨超3%，亚马逊涨近2%。光通信、通讯设备、储能概念股涨幅居前，诺基亚涨超7%，康宁涨超6%，迈威尔科技涨超5%，思科涨超4%。存储概念、百货公司跌幅居前，迪拉德百货跌超10%，希捷科技跌超9%，西部数据、SK海力士跌超6%，闪迪跌超2%。",
+          "score": 77.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 04:00:40",
+      "rank_score": 46.0
+    },
+    {
+      "eid": "088ed53f32",
+      "ekey": "商务部#关税贸易",
+      "kind": "topic_line",
+      "title": "美国8月贸易逆差继续升高",
+      "body": "美国商务部6日发布的数据显示，受进口显著增加影响，美国8月商品和服务贸易逆差环比增加13.7%，升至1056亿美元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 77.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "关税贸易",
+      "topicLabel": "关税与制裁",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国8月贸易逆差继续升高",
+          "src": "东方财富",
+          "time": "2026-10-07 00:46:51",
+          "body": "美国商务部6日发布的数据显示，受进口显著增加影响，美国8月商品和服务贸易逆差环比增加13.7%，升至1056亿美元。",
+          "score": 77.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 00:46:51",
+      "rank_score": 46.0
+    },
+    {
+      "eid": "3c1e31b7a2",
+      "ekey": "AI新云厂商Lambda拟融资亿",
+      "kind": "event_line",
+      "title": "AI新云厂商Lambda拟融资40亿美元 计划在IPO前完成这轮最终融资 本轮融资前估值定为145亿美元 目标2027年上市",
+      "body": "AI新云厂商Lambda拟融资40亿美元，计划在IPO前完成这轮最终融资，本轮融资前估值定为145亿美元，目标2027年上市。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 70.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "AI新云厂商Lambda拟融资40亿美元 计划在IPO前完成这轮最终融资 本轮融资前估值定为145亿美元 目标2027年上市",
+          "src": "东方财富",
+          "time": "2026-10-07 00:49:06",
+          "body": "AI新云厂商Lambda拟融资40亿美元，计划在IPO前完成这轮最终融资，本轮融资前估值定为145亿美元，目标2027年上市。",
+          "score": 70.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 00:49:06",
+      "rank_score": 43.2
+    },
+    {
+      "eid": "c6906c27cc",
+      "ekey": "俄国防部俄军月接收超万件各型装备",
+      "kind": "event_line",
+      "title": "俄国防部：俄军9月接收超1万件各型装备",
+      "body": "俄罗斯国防部6日发布消息称，俄军9月共接收超1万件各型装备。包括苏-57和苏-35S战斗机，T-90M、T-80BVM和T-72B3M主战坦克。俄国防部表示，新交付的坦克均加装了额外防护系统，相关系统在研发过程中参考了俄方在特别军事行动区域获得的实战经验。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 70.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "俄国防部：俄军9月接收超1万件各型装备",
+          "src": "东方财富",
+          "time": "2026-10-07 03:23:49",
+          "body": "俄罗斯国防部6日发布消息称，俄军9月共接收超1万件各型装备。包括苏-57和苏-35S战斗机，T-90M、T-80BVM和T-72B3M主战坦克。俄国防部表示，新交付的坦克均加装了额外防护系统，相关系统在研发过程中参考了俄方在特别军事行动区域获得的实战经验。",
+          "score": 70.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 03:23:49",
+      "rank_score": 43.0
+    },
+    {
+      "eid": "3e1ec2abf5",
+      "ekey": "国庆假期港车北上澳车北上超万辆次",
+      "kind": "event_line",
+      "title": "国庆假期“港车北上”“澳车北上”超8万辆次 同比增长11.1%",
+      "body": "今天《新闻联播》主要内容有：假期客流集中返程 多措并举保有序出行；2030年我国新型电池产业规模将实现稳步增长；联合国人权理事会协商一致通过中国提出的人人享有无障碍决议；国庆档票房今天突破10亿元；也门媒体称政府军在多地推进 胡塞武装称仍控制近期攻下的区域；联军称在荷台达省打击胡塞武装 胡塞武装称打击沙特境内机场和能源设施等目标；沙巴土三国同意立即在沙特部署军力；俄称必对日本反俄措施进行对等反制；法国财政状况引担忧 欧元大幅走低；英航客机数分钟急坠超8000米 紧急返航。（财联社）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [
+        "石油/能源",
+        "新能源/锂电"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 70.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国庆假期“港车北上”“澳车北上”超8万辆次 同比增长11.1%",
+          "src": "同花顺",
+          "time": "2026-10-06 19:59:53",
+          "body": "今天《新闻联播》主要内容有：假期客流集中返程 多措并举保有序出行；2030年我国新型电池产业规模将实现稳步增长；联合国人权理事会协商一致通过中国提出的人人享有无障碍决议；国庆档票房今天突破10亿元；也门媒体称政府军在多地推进 胡塞武装称仍控制近期攻下的区域；联军称在荷台达省打击胡塞武装 胡塞武装称打击沙特境内机场和能源设施等目标；沙巴土三国同意立即在沙特部署军力；俄称必对日本反俄措施进行对等反制；法国财政状况引担忧 欧元大幅走低；英航客机数分钟急坠超8000米 紧急返航。（财联社）",
+          "score": 70.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 19:59:53",
+      "rank_score": 43.0
+    },
+    {
+      "eid": "c3c1c1bf8d",
+      "ekey": "多家外资机构最新观点对华配置升级",
+      "kind": "event_line",
+      "title": "多家外资机构最新观点：对华配置升级",
+      "body": "国庆长假期间，市场并不平静。10年期美债收益率一度升破5.34%，创24年新高。但高利率阴云之下，外资对中国资产的关注度却不降反升。美银最新报告显示，全球主动型多头基金对中国股票的配置已从“低配”升至“基准中性”，结束了长达四年的低配状态。富达国际、威灵顿投资等全球资管巨头亦相继发声，试图在复杂宏观中寻觅中国“新一代赢家”。多家外资机构军表达了对中国市场的关注。高盛认为中国资产是分散化配置的好地方，且A股优于H股；瑞银证券预计2026年A股盈利增长15%；贝莱德对中国股票维持中性，但明确关注AI硬件、电力电网设备与物理AI；景顺看好中国科技生态。此前花旗、渣打亦将中国股票上调至“超配”。（证券时报）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "电力/公用",
+        "AI应用/软件",
+        "券商/大金融"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 67.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "多家外资机构最新观点：对华配置升级",
+          "src": "同花顺",
+          "time": "2026-10-06 16:33:46",
+          "body": "国庆长假期间，市场并不平静。10年期美债收益率一度升破5.34%，创24年新高。但高利率阴云之下，外资对中国资产的关注度却不降反升。美银最新报告显示，全球主动型多头基金对中国股票的配置已从“低配”升至“基准中性”，结束了长达四年的低配状态。富达国际、威灵顿投资等全球资管巨头亦相继发声，试图在复杂宏观中寻觅中国“新一代赢家”。多家外资机构军表达了对中国市场的关注。高盛认为中国资产是分散化配置的好地方，且A股优于H股；瑞银证券预计2026年A股盈利增长15%；贝莱德对中国股票维持中性，但明确关注AI硬件、电力电网设备与物理AI；景顺看好中国科技生态。此前花旗、渣打亦将中国股票上调至“超配”。（证券时报）",
+          "score": 67.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 16:33:46",
+      "rank_score": 42.0
+    },
+    {
+      "eid": "4ffc57e931",
+      "ekey": "关税和能源|美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储戴利表示可能需要进一步收紧政策",
+      "body": "美联储戴利表示可能需要进一步收紧政策，对人工智能、关税和能源成本可能持续更长时间表示担忧，这些因素可能会导致通胀保持高位，美联储可能在1-3年内看到冲击减弱。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bear",
+      "sectors": [
+        "AI应用/软件",
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 67.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储戴利表示可能需要进一步收紧政策",
+          "src": "东方财富",
+          "time": "2026-10-07 00:00:49",
+          "body": "美联储戴利表示可能需要进一步收紧政策，对人工智能、关税和能源成本可能持续更长时间表示担忧，这些因素可能会导致通胀保持高位，美联储可能在1-3年内看到冲击减弱。",
+          "score": 67.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 00:00:49",
+      "rank_score": 41.8
+    },
+    {
+      "eid": "435ceffda5",
+      "ekey": "AMD|财务业绩超威半导体#AI芯片",
+      "kind": "topic_line",
+      "title": "超威半导体今日宣布 将于2026年11月3日（周二）美股收盘后 正式公布2026财年第三季度财务业绩",
+      "body": "超威半导体（纳斯达克代码：AMD）今日宣布，将于2026年11月3日（周二）美股收盘后，正式公布2026财年第三季度财务业绩。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 64.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "超威半导体今日宣布 将于2026年11月3日（周二）美股收盘后 正式公布2026财年第三季度财务业绩",
+          "src": "东方财富",
+          "time": "2026-10-07 04:18:51",
+          "body": "超威半导体（纳斯达克代码：AMD）今日宣布，将于2026年11月3日（周二）美股收盘后，正式公布2026财年第三季度财务业绩。",
+          "score": 64.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 04:18:51",
+      "rank_score": 40.8
+    },
+    {
+      "eid": "36107d5c79",
+      "ekey": "韩国KOSPI指数开盘下跌报点日",
+      "kind": "event_line",
+      "title": "韩国KOSPI指数开盘下跌1.11%报6864.25点 日经225指数低开0.14%报70582.11点",
+      "body": "韩国KOSPI指数开盘下跌1.11%报6864.25点；日经225指数低开0.14%报70582.11点。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "韩国KOSPI指数开盘下跌1.11%报6864.25点 日经225指数低开0.14%报70582.11点",
+          "src": "东方财富",
+          "time": "2026-10-07 08:01:32",
+          "body": "韩国KOSPI指数开盘下跌1.11%报6864.25点；日经225指数低开0.14%报70582.11点。",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 08:01:32",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "美股期货盘前续走强 英伟达、纳指有望再创新高",
+      "body": "周二（9月1日）美股盘前，受美债收益率和国际油价走低影响，三大股指期货集体走高。截至发稿，道琼斯指数期货涨0.67%，标普500指数期货涨0.5%，纳斯达克100指数期货涨0.65%，一度涨近0.7%刷新历史纪录。前一天，英伟达、纳斯达克综合指数和纳斯达克100指数均收于历史新高。分析师认为，得益于AI相关股票的带动，标普成分股第三季度盈利有望同比增长超30%。个股方面，英伟达、SpaceX、特斯拉、AMD盘前涨超1%，Constellation Energy涨近9%，公司与谷歌达成核能交易。西部数据、希捷科技、SK海力士等存储股走低。（财联社）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件",
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股期货盘前续走强 英伟达、纳指有望再创新高",
+          "src": "同花顺",
+          "time": "2026-10-06 20:23:31",
+          "body": "周二（9月1日）美股盘前，受美债收益率和国际油价走低影响，三大股指期货集体走高。截至发稿，道琼斯指数期货涨0.67%，标普500指数期货涨0.5%，纳斯达克100指数期货涨0.65%，一度涨近0.7%刷新历史纪录。前一天，英伟达、纳斯达克综合指数和纳斯达克100指数均收于历史新高。分析师认为，得益于AI相关股票的带动，标普成分股第三季度盈利有望同比增长超30%。个股方面，英伟达、SpaceX、特斯拉、AMD盘前涨超1%，Constellation Energy涨近9%，公司与谷歌达成核能交易。西部数据、希捷科技、SK海力士等存储股走低。（财联社）",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 20:23:31",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "4d8898be44",
+      "ekey": "美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储10月维持利率不变的概率为79.5%",
+      "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为79.5%，累计加息25个基点的概率为20.5%。美联储到12月维持利率不变的概率为15.5%，累计加息25个基点的概率68%，累计加息50个基点的概率为16.5%。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储10月维持利率不变的概率为79.5%",
+          "src": "东方财富",
+          "time": "2026-10-07 06:02:13",
+          "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为79.5%，累计加息25个基点的概率为20.5%。美联储到12月维持利率不变的概率为15.5%，累计加息25个基点的概率68%，累计加息50个基点的概率为16.5%。",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 06:02:13",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "48fcb7b6fb",
+      "ekey": "Anthropic|特定机构开展网络#大模型",
+      "kind": "topic_line",
+      "title": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试",
+      "body": "Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力。根据周二发布的声明，这家总部位于旧金山的公司将允许经过验证的机构使用其能力最强的模型，包括ClaudeOpus5.5、ClaudeSonnet5.5、ClaudeMythos5.1，以及未来推出的新模型。声明称，获得权限的机构可以对旨在保护电网、银行和航班运行系统等关键基础设施的安全系统进行“高风险攻击性测试”。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件",
+        "券商/大金融",
+        "电力/公用"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试",
+          "src": "东方财富",
+          "time": "2026-10-07 04:45:59",
+          "body": "Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力。根据周二发布的声明，这家总部位于旧金山的公司将允许经过验证的机构使用其能力最强的模型，包括ClaudeOpus5.5、ClaudeSonnet5.5、ClaudeMythos5.1，以及未来推出的新模型。声明称，获得权限的机构可以对旨在保护电网、银行和航班运行系统等关键基础设施的安全系统进行“高风险攻击性测试”。",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 04:45:59",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "2f69ec7067",
+      "ekey": "布伦特原油期货涨幅扩大至报美元桶",
+      "kind": "event_line",
+      "title": "布伦特原油期货涨幅扩大至1% 报101.58美元/桶",
+      "body": "布伦特原油期货涨幅扩大至1%，报101.58美元/桶。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 62.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "布伦特原油期货涨幅扩大至1% 报101.58美元/桶",
+          "src": "东方财富",
+          "time": "2026-10-07 08:26:10",
+          "body": "布伦特原油期货涨幅扩大至1%，报101.58美元/桶。",
+          "score": 62.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 08:26:10",
+      "rank_score": 39.8
+    },
+    {
+      "eid": "c0bd930166",
+      "ekey": "日韩股市低开",
+      "kind": "event_line",
+      "title": "日韩股市低开",
+      "body": "日经225指数跌0.14%，韩国KOSPI指数跌1.11%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 62.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "日韩股市低开",
+          "src": "东方财富",
+          "time": "2026-10-07 08:18:38",
+          "body": "日经225指数跌0.14%，韩国KOSPI指数跌1.11%。",
+          "score": 62.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 08:18:38",
+      "rank_score": 39.8
+    },
+    {
+      "eid": "d6d78783f8",
+      "ekey": "道据北部湾港股份",
+      "kind": "topic_line",
+      "title": "北部湾港成功开辟重庆铝土矿进口直达通道",
+      "body": "据北部湾港股份7日消息，10月1日，载有16.8万吨几内亚进口铝土矿的船舶顺利靠泊防城港，并高效完成靠泊接卸、堆存、铁路疏运全链条作业，首批货物于10月3日通过铁路发运至重庆万州，有力保障博赛矿业万州生产基地原料稳定供应。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 62.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "北部湾港成功开辟重庆铝土矿进口直达通道",
+          "src": "东方财富",
+          "time": "2026-10-07 08:07:24",
+          "body": "据北部湾港股份7日消息，10月1日，载有16.8万吨几内亚进口铝土矿的船舶顺利靠泊防城港，并高效完成靠泊接卸、堆存、铁路疏运全链条作业，首批货物于10月3日通过铁路发运至重庆万州，有力保障博赛矿业万州生产基地原料稳定供应。",
+          "score": 62.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 08:07:24",
+      "rank_score": 39.8
+    },
+    {
+      "eid": "65dbd758dd",
+      "ekey": "伦敦股市日上涨",
+      "kind": "event_line",
+      "title": "伦敦股市6日上涨",
+      "body": "英国伦敦股市《金融时报》100种股票平均价格指数6日报收于10541.69点，较前一交易日上涨43.75点，涨幅为0.42%。欧洲三大股指当天全线上涨。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 61.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "伦敦股市6日上涨",
+          "src": "东方财富",
+          "time": "2026-10-07 02:47:16",
+          "body": "英国伦敦股市《金融时报》100种股票平均价格指数6日报收于10541.69点，较前一交易日上涨43.75点，涨幅为0.42%。欧洲三大股指当天全线上涨。",
+          "score": 61.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 02:47:16",
+      "rank_score": 39.6
+    },
+    {
+      "eid": "602135fc1d",
+      "ekey": "美股开盘美股三大指数集体高开",
+      "kind": "event_line",
+      "title": "美股开盘：美股三大指数集体高开",
+      "body": "美股三大指数集体高开，标普500指数涨0.46%，道指涨0.38%，纳指涨0.57%。大型科技股方面，超威半导体涨2.50%，英伟达涨1.37%，微软涨1.01%，SpaceX涨1.01%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 61.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股开盘：美股三大指数集体高开",
+          "src": "同花顺",
+          "time": "2026-10-06 21:30:59",
+          "body": "美股三大指数集体高开，标普500指数涨0.46%，道指涨0.38%，纳指涨0.57%。大型科技股方面，超威半导体涨2.50%，英伟达涨1.37%，微软涨1.01%，SpaceX涨1.01%。",
+          "score": 61.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 21:30:59",
+      "rank_score": 39.6
+    },
+    {
+      "eid": "4528bd6c17",
+      "ekey": "WTI原油期货向上触及美元桶日内",
+      "kind": "event_line",
+      "title": "WTI原油期货向上触及90美元/桶 日内涨0.63%",
+      "body": "WTI原油期货向上触及90美元/桶，日内涨0.63%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 60.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "WTI原油期货向上触及90美元/桶 日内涨0.63%",
+          "src": "东方财富",
+          "time": "2026-10-07 07:34:03",
+          "body": "WTI原油期货向上触及90美元/桶，日内涨0.63%。",
+          "score": 60.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 07:34:03",
+      "rank_score": 39.2
+    },
+    {
+      "eid": "f60beb844f",
+      "ekey": "美联储#美债",
+      "kind": "topic_line",
+      "title": "美联储周二隔夜逆回购协议（RRP）使用规模为4.14亿美元 上个交易日报10.04亿美元",
+      "body": "美联储周二隔夜逆回购协议（RRP）使用规模为4.14亿美元，上个交易日报10.04亿美元。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储周二隔夜逆回购协议（RRP）使用规模为4.14亿美元 上个交易日报10.04亿美元",
+          "src": "东方财富",
+          "time": "2026-10-07 01:16:54",
+          "body": "美联储周二隔夜逆回购协议（RRP）使用规模为4.14亿美元，上个交易日报10.04亿美元。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 01:16:54",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "a5b9550283",
+      "ekey": "国庆假期前五天广东高速公路日均车",
+      "kind": "event_line",
+      "title": "国庆假期前五天 广东高速公路日均车流量超1000万车次",
+      "body": "国庆假期临近尾声，返程高峰已到来！记者从广东省交通运输厅获悉，10月1日至5日，全省高速公路网车流量约5002.95万车次，日均车流量1000.59万车次，同比增长5.58%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国庆假期前五天 广东高速公路日均车流量超1000万车次",
+          "src": "东方财富",
+          "time": "2026-10-07 00:30:19",
+          "body": "国庆假期临近尾声，返程高峰已到来！记者从广东省交通运输厅获悉，10月1日至5日，全省高速公路网车流量约5002.95万车次，日均车流量1000.59万车次，同比增长5.58%。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 00:30:19",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "36542585bb",
+      "ekey": "匈牙利与克罗地亚商讨扩大天然气互",
+      "kind": "event_line",
+      "title": "匈牙利与克罗地亚商讨扩大天然气互联管道输送能力",
+      "body": "匈牙利与克罗地亚商讨扩大天然气互联管道输送能力。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "匈牙利与克罗地亚商讨扩大天然气互联管道输送能力",
+          "src": "东方财富",
+          "time": "2026-10-07 00:32:11",
+          "body": "匈牙利与克罗地亚商讨扩大天然气互联管道输送能力。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 00:32:11",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "ea301f47d6",
+      "ekey": "Paramount",
+      "kind": "topic_line",
+      "title": "派拉蒙完成对华纳兄弟探索公司收购",
+      "body": "当地时间10月6日，派拉蒙（Paramount）宣布完成对华纳兄弟探索公司（Warner Bros. Discovery）的收购。合并后的公司天空之舞（Skydance）将由亿万富翁大卫·埃里森（David Ellison）及新任联合首席执行官伊农·克雷兹（Ynon Kreiz）领导。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "派拉蒙完成对华纳兄弟探索公司收购",
+          "src": "东方财富",
+          "time": "2026-10-07 01:32:59",
+          "body": "当地时间10月6日，派拉蒙（Paramount）宣布完成对华纳兄弟探索公司（Warner Bros. Discovery）的收购。合并后的公司天空之舞（Skydance）将由亿万富翁大卫·埃里森（David Ellison）及新任联合首席执行官伊农·克雷兹（Ynon Kreiz）领导。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 01:32:59",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "3bf43cd704",
+      "ekey": "机构看好港股新股市场继续火热月之",
+      "kind": "event_line",
+      "title": "机构看好港股新股市场继续火热 月之暗面、可灵AI或成下一批重磅IPO",
+      "body": "今年以来，港股IPO活动明显回暖，并呈现加速态势。而随着内地企业赴港上市步伐加快，以及人工智能等新兴科技公司加速推进资本化，市场对港股新股市场的后续表现依旧乐观。据香港本地媒体报道，综合多家会计师事务所及市场人士观点来看，普遍预期四季度港股IPO势头有望持续，乐观情景下全年募资总额有望冲击创纪录的4800亿港元。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "机构看好港股新股市场继续火热 月之暗面、可灵AI或成下一批重磅IPO",
+          "src": "东方财富",
+          "time": "2026-10-07 00:15:00",
+          "body": "今年以来，港股IPO活动明显回暖，并呈现加速态势。而随着内地企业赴港上市步伐加快，以及人工智能等新兴科技公司加速推进资本化，市场对港股新股市场的后续表现依旧乐观。据香港本地媒体报道，综合多家会计师事务所及市场人士观点来看，普遍预期四季度港股IPO势头有望持续，乐观情景下全年募资总额有望冲击创纪录的4800亿港元。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 00:15:00",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "fdea006f6d",
+      "ekey": "华尔街交易和投行业务迎来丰收年奖",
+      "kind": "event_line",
+      "title": "华尔街交易和投行业务迎来丰收年 奖金预计将创纪录新高",
+      "body": "华尔街交易和投行业务增长强劲，今年行业利润有望突破900亿美元，刷新历史，奖金规模预计也将达到纪录高位。纽约州审计长Thomas DiNapoli的一份报告显示，按2026年上半年的增长势头估算，行业全年利润将轻松超过去年的651亿美元纪录。其办公室统计的是纽约证券交易所会员公司的经纪交易业务利润。DiNapoli表示，如果不出现重大经济冲击，这样的盈利表现应会在新年给整个行业的金融从业者带来创纪录的奖金，不过他没有给出具体金额。（财联社）",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "华尔街交易和投行业务迎来丰收年 奖金预计将创纪录新高",
+          "src": "同花顺",
+          "time": "2026-10-06 18:22:51",
+          "body": "华尔街交易和投行业务增长强劲，今年行业利润有望突破900亿美元，刷新历史，奖金规模预计也将达到纪录高位。纽约州审计长Thomas DiNapoli的一份报告显示，按2026年上半年的增长势头估算，行业全年利润将轻松超过去年的651亿美元纪录。其办公室统计的是纽约证券交易所会员公司的经纪交易业务利润。DiNapoli表示，如果不出现重大经济冲击，这样的盈利表现应会在新年给整个行业的金融从业者带来创纪录的奖金，不过他没有给出具体金额。（财联社）",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 18:22:51",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "e6803e21b9",
+      "ekey": "苹果",
+      "kind": "topic_line",
+      "title": "苹果将于北京时间11月3日公布第四财季财报 财报电话会将于11月3日上午6时举行",
+      "body": "苹果将于北京时间11月3日公布第四财季财报，财报电话会将于11月3日上午6时举行。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 58.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "苹果将于北京时间11月3日公布第四财季财报 财报电话会将于11月3日上午6时举行",
+          "src": "东方财富",
+          "time": "2026-10-07 05:51:32",
+          "body": "苹果将于北京时间11月3日公布第四财季财报，财报电话会将于11月3日上午6时举行。",
+          "score": 58.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 05:51:32",
+      "rank_score": 38.2
+    },
+    {
+      "eid": "56b6abf631",
+      "ekey": "深圳传音控股|股份深圳传音控股",
+      "kind": "topic_line",
+      "title": "深圳传音控股有限公司在港交所发售0.866亿股H股股份",
+      "body": "深圳传音控股有限公司在港交所发售0.866亿股H股股份，最高发售价不超过38.8港元，预计10月15日上市交易。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "深圳传音控股有限公司在港交所发售0.866亿股H股股份",
+          "src": "东方财富",
+          "time": "2026-10-07 06:11:57",
+          "body": "深圳传音控股有限公司在港交所发售0.866亿股H股股份，最高发售价不超过38.8港元，预计10月15日上市交易。",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 06:11:57",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "525dc8a712",
+      "ekey": "区内的寰达新能源",
+      "kind": "topic_line",
+      "title": "坚守黄金周 攻坚黄金期",
+      "body": "来源：内蒙古新闻网-《内蒙古日报 国庆假期，土右旗新型工业园区内的寰达新能源年产35万吨天然气液化项目施工现场，罐体焊接、设备安装、管网铺设多个作业面同步推进...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源",
+        "黄金/贵金属",
+        "新能源/锂电"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "坚守黄金周 攻坚黄金期",
+          "src": "新浪财经",
+          "time": "2026-10-07 07:37:00",
+          "body": "来源：内蒙古新闻网-《内蒙古日报 国庆假期，土右旗新型工业园区内的寰达新能源年产35万吨天然气液化项目施工现场，罐体焊接、设备安装、管网铺设多个作业面同步推进...",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 07:37:00",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "4d8898be44",
+      "ekey": "美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储施密德表示 通货膨胀令人沮丧 必须解决",
+      "body": "美联储施密德表示，通货膨胀令人沮丧，必须解决；在抑制通胀方面仍有很长的路要走；人工智能现在是通胀的主要推动力之一。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 57.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储施密德表示 通货膨胀令人沮丧 必须解决",
+          "src": "东方财富",
+          "time": "2026-10-07 01:24:51",
+          "body": "美联储施密德表示，通货膨胀令人沮丧，必须解决；在抑制通胀方面仍有很长的路要走；人工智能现在是通胀的主要推动力之一。",
+          "score": 57.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 01:24:51",
+      "rank_score": 37.8
+    },
+    {
+      "eid": "9dc9340f7f",
+      "ekey": "力量发展金红石项目正式投产康宁医",
+      "kind": "event_line",
+      "title": "力量发展金红石项目正式投产，康宁医院三季度门诊均次开支增约一成",
+      "body": "力量发展金红石项目已于2026年10月1日正式投入生产。公告称，项目达产后有望成为新的收入增长来源。完全投产后，合计年处理原矿达致约1100万吨，年产能约33–36万吨重矿砂矿。且品位优质，含30%–45%金红石(二氧化钛含量95%)，是生产钛白粉及航空航天级海绵钛的核心原料，属于国内紧缺矿产资源。康宁医院前9月住院平均每床日总开支为333元，同比下降1.2%；门诊均次总开支为298元，同比增长7.6%，三季度门诊均次总开支为303元，同比增长9.8%。（财联社）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 57.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "力量发展金红石项目正式投产，康宁医院三季度门诊均次开支增约一成",
+          "src": "同花顺",
+          "time": "2026-10-06 21:25:30",
+          "body": "力量发展金红石项目已于2026年10月1日正式投入生产。公告称，项目达产后有望成为新的收入增长来源。完全投产后，合计年处理原矿达致约1100万吨，年产能约33–36万吨重矿砂矿。且品位优质，含30%–45%金红石(二氧化钛含量95%)，是生产钛白粉及航空航天级海绵钛的核心原料，属于国内紧缺矿产资源。康宁医院前9月住院平均每床日总开支为333元，同比下降1.2%；门诊均次总开支为298元，同比增长7.6%，三季度门诊均次总开支为303元，同比增长9.8%。（财联社）",
+          "score": 57.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 21:25:30",
+      "rank_score": 37.8
+    },
+    {
+      "eid": "d21f6db624",
+      "ekey": "穆迪评级上调家头部券商评级",
+      "kind": "event_line",
+      "title": "穆迪评级上调4家头部券商评级",
+      "body": "穆迪评级近日将4家券商的长期发行人评级从Baa1上调至A3。这4家券商分别是：中金公司、中金国际、中信证券以及国泰海通证券。此外，稍早前几日，国际评级机构标普上调了中国证券业的评级。穆迪评级表示，对上述券商的评级行动反映了穆迪认为这些公司在必要时获得官方支持的可能性有所上升。这些公司对于中国实现国家经济和金融政策目标的战略重要性日益提升，而且在中国资本市场的运行与发展中发挥着重要作用。多家头部券商对此做出回应。中信证券表示，将以本次评级上调为契机，进一步拓宽境外融资渠道、降低跨境资金成本，持续提升国际公信力与品牌影响力，加快一流投资银行和投资机构建设，持续赋能实体经济，助力金融强国建设。（证券时报）",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 57.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "穆迪评级上调4家头部券商评级",
+          "src": "同花顺",
+          "time": "2026-10-06 19:34:50",
+          "body": "穆迪评级近日将4家券商的长期发行人评级从Baa1上调至A3。这4家券商分别是：中金公司、中金国际、中信证券以及国泰海通证券。此外，稍早前几日，国际评级机构标普上调了中国证券业的评级。穆迪评级表示，对上述券商的评级行动反映了穆迪认为这些公司在必要时获得官方支持的可能性有所上升。这些公司对于中国实现国家经济和金融政策目标的战略重要性日益提升，而且在中国资本市场的运行与发展中发挥着重要作用。多家头部券商对此做出回应。中信证券表示，将以本次评级上调为契机，进一步拓宽境外融资渠道、降低跨境资金成本，持续提升国际公信力与品牌影响力，加快一流投资银行和投资机构建设，持续赋能实体经济，助力金融强国建设。（证券时报）",
+          "score": 57.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 19:34:50",
+      "rank_score": 37.8
+    },
+    {
+      "eid": "42c09e1579",
+      "ekey": "OpenAI|亚马逊#大模型",
+      "kind": "topic_line",
+      "title": "美国西南航空与OpenAI和亚马逊云科技（AWS）展开合作 美国西南航空上线ChatGPT插件",
+      "body": "美国西南航空与OpenAI和亚马逊云科技（AWS）展开合作，美国西南航空上线ChatGPT插件，可直接在ChatGPT内查询、选购西南航空航班。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国西南航空与OpenAI和亚马逊云科技（AWS）展开合作 美国西南航空上线ChatGPT插件",
+          "src": "东方财富",
+          "time": "2026-10-07 00:15:31",
+          "body": "美国西南航空与OpenAI和亚马逊云科技（AWS）展开合作，美国西南航空上线ChatGPT插件，可直接在ChatGPT内查询、选购西南航空航班。",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 00:15:31",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "e6803e21b9",
+      "ekey": "苹果",
+      "kind": "topic_line",
+      "title": "苹果将推出与LG联合研发的智能门铃、智能门锁与智能温控器",
+      "body": "苹果公司即将推出的智能家居新品中，将包含一批与LG电子通过合作联合研发的智能门铃、智能温控器及其他配套配件。这批和LG联合开发的产品还将涵盖智能插芯门锁、室内安防摄像头、室外安防摄像头以及带泛光照明的摄像头，所有产品将使用LG品牌对外发售。苹果自家的全新设备，包括升级款HomePodmini和新款电视机顶盒，定于10月13日正式发布，而这批LG联名配件预计还需要数月时间才能正式面向消费者上市。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 56.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "苹果将推出与LG联合研发的智能门铃、智能门锁与智能温控器",
+          "src": "东方财富",
+          "time": "2026-10-07 05:22:50",
+          "body": "苹果公司即将推出的智能家居新品中，将包含一批与LG电子通过合作联合研发的智能门铃、智能温控器及其他配套配件。这批和LG联合开发的产品还将涵盖智能插芯门锁、室内安防摄像头、室外安防摄像头以及带泛光照明的摄像头，所有产品将使用LG品牌对外发售。苹果自家的全新设备，包括升级款HomePodmini和新款电视机顶盒，定于10月13日正式发布，而这批LG联名配件预计还需要数月时间才能正式面向消费者上市。",
+          "score": 56.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 05:22:50",
+      "rank_score": 37.4
+    },
+    {
+      "eid": "e392a62d0c",
+      "ekey": "COMEX黄金期货收涨COMEX",
+      "kind": "event_line",
+      "title": "COMEX黄金期货收涨0.86% COMEX白银期货涨0.65%",
+      "body": "【行情】COMEX黄金期货收涨0.86%，报4192.7美元/盎司；COMEX白银期货涨0.65%，报61.7美元/盎司。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "黄金/贵金属"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 56.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "COMEX黄金期货收涨0.86% COMEX白银期货涨0.65%",
+          "src": "东方财富",
+          "time": "2026-10-07 05:01:07",
+          "body": "【行情】COMEX黄金期货收涨0.86%，报4192.7美元/盎司；COMEX白银期货涨0.65%，报61.7美元/盎司。",
+          "score": 56.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 05:01:07",
+      "rank_score": 37.4
+    },
+    {
+      "eid": "70e4ade49b",
+      "ekey": "虑对中国电动汽车#关税贸易",
+      "kind": "topic_line",
+      "title": "英国考虑对中国电动汽车提高关税，外交部回应",
+      "body": "2026年10月6日外交部发言人郭嘉昆答记者问。《金融时报》记者：据报道，英国政府正在考虑对来自中国的电动汽车提高进口关税。中方对此有何评论？郭嘉昆：有关具体问题请询中方主管部门。经贸关系的本质是发挥各自比较优势，实现互利共赢。中国电动汽车产业的发展，为包括英国在内的全球消费者提供了有竞争力的选择，也为绿色低碳转型作出了积极贡献，是供不应求的优质产能。（财联社）",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒",
+        "券商/大金融",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 56.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "关税贸易",
+      "topicLabel": "关税与制裁",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "英国考虑对中国电动汽车提高关税，外交部回应",
+          "src": "同花顺",
+          "time": "2026-10-06 19:42:51",
+          "body": "2026年10月6日外交部发言人郭嘉昆答记者问。《金融时报》记者：据报道，英国政府正在考虑对来自中国的电动汽车提高进口关税。中方对此有何评论？郭嘉昆：有关具体问题请询中方主管部门。经贸关系的本质是发挥各自比较优势，实现互利共赢。中国电动汽车产业的发展，为包括英国在内的全球消费者提供了有竞争力的选择，也为绿色低碳转型作出了积极贡献，是供不应求的优质产能。（财联社）",
+          "score": 56.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 19:42:51",
+      "rank_score": 37.4
+    },
+    {
+      "eid": "0658b81a91",
+      "ekey": "美联储",
+      "kind": "topic_line",
+      "title": "周三（10月7日）重点关注财经事件和经济数据",
+      "body": "①待定中国9月外汇储备；②07:00美联储洛根发表讲话；③14:00德国8月季调后工业产出月率；④14:00英国9月Halifax季调后房价指数月率；⑤14:45法国8月贸易帐。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "地产/基建"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "周三（10月7日）重点关注财经事件和经济数据",
+          "src": "东方财富",
+          "time": "2026-10-07 06:48:49",
+          "body": "①待定中国9月外汇储备；②07:00美联储洛根发表讲话；③14:00德国8月季调后工业产出月率；④14:00英国9月Halifax季调后房价指数月率；⑤14:45法国8月贸易帐。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 06:48:49",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "217f2c905d",
+      "ekey": "以强化日本半导体|供应链日本半导体#AI芯片",
+      "kind": "topic_line",
+      "title": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
+      "body": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂，以强化日本半导体供应链。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 54.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
+          "src": "东方财富",
+          "time": "2026-10-07 04:08:11",
+          "body": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂，以强化日本半导体供应链。",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 04:08:11",
+      "rank_score": 36.8
+    },
+    {
+      "eid": "995a902546",
+      "ekey": "美元指数日下跌",
+      "kind": "event_line",
+      "title": "美元指数6日下跌",
+      "body": "衡量美元对六种主要货币的美元指数当天下跌0.33%，在汇市尾市收于101.833。截至纽约汇市尾市，1欧元兑换1.1261美元，高于前一交易日的1.1215美元；1英镑兑换1.3277美元，高于前一交易日的1.3219美元。1美元兑换158.12日元，高于前一交易日的158.00日元；1美元兑换0.8313瑞士法郎，高于前一交易日的0.8307瑞士法郎；1美元兑换1.4209加元，低于前一交易日的1.4256加元；1美元兑换9.9861瑞典克朗，低于前一交易日的10.0403瑞典克朗。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 54.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美元指数6日下跌",
+          "src": "东方财富",
+          "time": "2026-10-07 03:27:42",
+          "body": "衡量美元对六种主要货币的美元指数当天下跌0.33%，在汇市尾市收于101.833。截至纽约汇市尾市，1欧元兑换1.1261美元，高于前一交易日的1.1215美元；1英镑兑换1.3277美元，高于前一交易日的1.3219美元。1美元兑换158.12日元，高于前一交易日的158.00日元；1美元兑换0.8313瑞士法郎，高于前一交易日的0.8307瑞士法郎；1美元兑换1.4209加元，低于前一交易日的1.4256加元；1美元兑换9.9861瑞典克朗，低于前一交易日的10.0403瑞典克朗。",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 03:27:42",
+      "rank_score": 36.8
+    },
+    {
+      "eid": "8f9d47e58c",
+      "ekey": "周三你需要知道的隔夜全球要闻纳指",
+      "kind": "event_line",
+      "title": "周三你需要知道的隔夜全球要闻：纳指、标普500指数创收盘新高；胡塞武装称挫败沙特多次进攻；派拉蒙完成以1100亿美元收购华纳兄弟探索的交易",
+      "body": "1、也门胡塞武装当地时间10月6日发表声明说，他们挫败了沙特方面多次试图向曼德海峡方向推进的兵力集结，并迫使其撤退。2、美国总统特朗普表示，俄乌冲突正越来越接近结束。3、当地时间6日夜间，在也门首都萨那至少听到两声爆炸以及战斗机飞过的声音。另据胡塞武装消息，6日夜间，沙特空袭了也门萨那、阿姆郎省、焦夫省、萨达省。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "周三你需要知道的隔夜全球要闻：纳指、标普500指数创收盘新高；胡塞武装称挫败沙特多次进攻；派拉蒙完成以1100亿美元收购华纳兄弟探索的交易",
+          "src": "东方财富",
+          "time": "2026-10-07 06:23:17",
+          "body": "1、也门胡塞武装当地时间10月6日发表声明说，他们挫败了沙特方面多次试图向曼德海峡方向推进的兵力集结，并迫使其撤退。2、美国总统特朗普表示，俄乌冲突正越来越接近结束。3、当地时间6日夜间，在也门首都萨那至少听到两声爆炸以及战斗机飞过的声音。另据胡塞武装消息，6日夜间，沙特空袭了也门萨那、阿姆郎省、焦夫省、萨达省。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 06:23:17",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "115cb4e547",
+      "ekey": "美国至月日当周API原油库存减少",
+      "kind": "event_line",
+      "title": "美国至10月2日当周API原油库存减少210万桶",
+      "body": "【数据】美国至10月2日当周API原油库存减少210万桶，前值增加101.9万桶。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国至10月2日当周API原油库存减少210万桶",
+          "src": "东方财富",
+          "time": "2026-10-07 04:53:21",
+          "body": "【数据】美国至10月2日当周API原油库存减少210万桶，前值增加101.9万桶。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 04:53:21",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "a3d9e1ad83",
+      "ekey": "WTI原油期货结算价为美元桶",
+      "kind": "event_line",
+      "title": "WTI原油期货结算价为89.44美元/桶",
+      "body": "WTI原油期货结算价为89.44美元/桶，上涨1美分，涨幅0.01%。布伦特原油期货结算价为100.58美元/桶，上涨26美分，涨幅0.26%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "WTI原油期货结算价为89.44美元/桶",
+          "src": "东方财富",
+          "time": "2026-10-07 02:32:42",
+          "body": "WTI原油期货结算价为89.44美元/桶，上涨1美分，涨幅0.01%。布伦特原油期货结算价为100.58美元/桶，上涨26美分，涨幅0.26%。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 02:32:42",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "0240a32597",
+      "ekey": "商务部|欧盟#关税贸易",
+      "kind": "topic_line",
+      "title": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问",
+      "body": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问。问：据媒体报道，10月5日法国和德国向欧委会提交非正式文件，要求欧盟强化使用贸易防御措施，并推出多项保护主义新工具。请问中方对此有何评论？答：中方注意到有关报道。中方始终认为，相互依赖不是风险，利益交融不是威胁，开放合作才是发展的正道。保护主义提升不了竞争力，脱钩断链只会损人不利己。希望法国和德国作为全球重要经济体，能够坚持开放合作和自由贸易，遵守世贸规则，不要鼓动欧盟动辄使用保护主义工具，更不要将经贸问题政治化和泛安全化，避免以错误方式走错误道路并最终反噬自己。（财联社）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "关税贸易",
+      "topicLabel": "关税与制裁",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问",
+          "src": "同花顺",
+          "time": "2026-10-06 20:20:07",
+          "body": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问。问：据媒体报道，10月5日法国和德国向欧委会提交非正式文件，要求欧盟强化使用贸易防御措施，并推出多项保护主义新工具。请问中方对此有何评论？答：中方注意到有关报道。中方始终认为，相互依赖不是风险，利益交融不是威胁，开放合作才是发展的正道。保护主义提升不了竞争力，脱钩断链只会损人不利己。希望法国和德国作为全球重要经济体，能够坚持开放合作和自由贸易，遵守世贸规则，不要鼓动欧盟动辄使用保护主义工具，更不要将经贸问题政治化和泛安全化，避免以错误方式走错误道路并最终反噬自己。（财联社）",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 20:20:07",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "ebdb3fc762",
+      "ekey": "月日至日港车北上澳车北上创同期新",
+      "kind": "event_line",
+      "title": "10月1日至5日“港车北上”“澳车北上”创同期新高",
+      "body": "据央视新闻，记者从拱北海关获悉，10月1日至5日，经港珠澳大桥口岸通行的“港车北上”“澳车北上”车辆达8.04万辆次，同比增长11.1%。其中，“港车北上”6.01万辆次，同比增长24%，创历年国庆假期同期新高。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "10月1日至5日“港车北上”“澳车北上”创同期新高",
+          "src": "东方财富",
+          "time": "2026-10-07 08:17:49",
+          "body": "据央视新闻，记者从拱北海关获悉，10月1日至5日，经港珠澳大桥口岸通行的“港车北上”“澳车北上”车辆达8.04万辆次，同比增长11.1%。其中，“港车北上”6.01万辆次，同比增长24%，创历年国庆假期同期新高。",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 08:17:49",
+      "rank_score": 36.2
+    },
+    {
+      "eid": "a8be8ae9b1",
+      "ekey": "全球能源",
+      "kind": "topic_line",
+      "title": "受燃油危机冲击 匈牙利货运经营面临挑战",
+      "body": "据央视新闻，受美以对伊朗发动大规模军事行动影响，全球能源运输要道霍尔木兹海峡航运严重受阻，国际油价剧烈波动，导致部分欧洲国家面临着燃油短缺的困境，一些欧洲国家物流公司的经营也面临重重困难。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源",
+        "航运/物流"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "受燃油危机冲击 匈牙利货运经营面临挑战",
+          "src": "东方财富",
+          "time": "2026-10-07 08:14:09",
+          "body": "据央视新闻，受美以对伊朗发动大规模军事行动影响，全球能源运输要道霍尔木兹海峡航运严重受阻，国际油价剧烈波动，导致部分欧洲国家面临着燃油短缺的困境，一些欧洲国家物流公司的经营也面临重重困难。",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 08:14:09",
+      "rank_score": 36.2
+    },
+    {
+      "eid": "fc516d82e7",
+      "ekey": "央行|美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "假期要闻汇总：非农数据意外“爆冷” 美联储10月加息概率骤降",
+      "body": "【假期要闻汇总】国庆节假期影响市场的重要资讯有：央行10月8日将开展12000亿元买断式逆回购操作，期限为3个月；财政部部长蓝佛安称要研究制定针对性强的增量政策，更加注重扩大国内有效需求；普京说中美俄领导人可能在APEC峰会期间举行三方会晤，外交部回应；商务部就法德要求欧盟强化贸易防御等保护主义工具答记者问；特朗普宣布成立“超级智能特别工作组”；美国非农意外“爆冷”，美联储10月加息概率骤降；华为官宣和美国高通达成重磅协议；本年度诺贝尔奖陆续揭晓，多家公司布局相关赛道。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "假期要闻汇总：非农数据意外“爆冷” 美联储10月加息概率骤降",
+          "src": "东方财富",
+          "time": "2026-10-07 07:30:08",
+          "body": "【假期要闻汇总】国庆节假期影响市场的重要资讯有：央行10月8日将开展12000亿元买断式逆回购操作，期限为3个月；财政部部长蓝佛安称要研究制定针对性强的增量政策，更加注重扩大国内有效需求；普京说中美俄领导人可能在APEC峰会期间举行三方会晤，外交部回应；商务部就法德要求欧盟强化贸易防御等保护主义工具答记者问；特朗普宣布成立“超级智能特别工作组”；美国非农意外“爆冷”，美联储10月加息概率骤降；华为官宣和美国高通达成重磅协议；本年度诺贝尔奖陆续揭晓，多家公司布局相关赛道。",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 07:30:08",
+      "rank_score": 36.2
+    },
+    {
+      "eid": "7246389c12",
+      "ekey": "WTI原油期货价格跌",
+      "kind": "event_line",
+      "title": "WTI原油期货价格跌2.29%",
+      "body": "WTI原油期货价格跌2.29%，报87.385美元/桶；布伦特原油期货价格跌2.10%，报98.209美元/桶。（财联社）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "WTI原油期货价格跌2.29%",
+          "src": "同花顺",
+          "time": "2026-10-06 17:35:24",
+          "body": "WTI原油期货价格跌2.29%，报87.385美元/桶；布伦特原油期货价格跌2.10%，报98.209美元/桶。（财联社）",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 17:35:24",
+      "rank_score": 36.2
+    },
+    {
+      "eid": "04424602b6",
+      "ekey": "券商集体入驻第三方AI平台Age",
+      "kind": "event_line",
+      "title": "券商集体入驻第三方AI平台 Agent时代卡位战打响",
+      "body": "从接入DeepSeek，到上线Skills，再到近期密集入驻第三方AI平台，证券行业拥抱外部AI生态的速度，比大多数人预想的要快。据记者不完全统计，目前已有超过10家券商接入第三方AI平台，覆盖Kimi、WorkBuddy、千问、火山引擎等。有意思的是，多家大型券商不是“二选一”，而是同时接入多个平台。“不同平台各有能力侧重，我们会按场景择优选用。”中信证券信息技术相关人士说。一年前还在比拼自研大模型，如今为何纷纷把自家AI能力“搬进”第三方平台？在业内人士看来，拓展新用户触点是首要考量——通过Skills或智能体输出投研、行情等能力，券商可以触达更多潜在客户。对金融机构而言，流量竞争已是一个绕不开的战场，而接入头部平台的成熟生态，是最简单直接的路径之一。（中国基金报）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件",
+        "券商/大金融"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "券商集体入驻第三方AI平台 Agent时代卡位战打响",
+          "src": "同花顺",
+          "time": "2026-10-06 16:58:40",
+          "body": "从接入DeepSeek，到上线Skills，再到近期密集入驻第三方AI平台，证券行业拥抱外部AI生态的速度，比大多数人预想的要快。据记者不完全统计，目前已有超过10家券商接入第三方AI平台，覆盖Kimi、WorkBuddy、千问、火山引擎等。有意思的是，多家大型券商不是“二选一”，而是同时接入多个平台。“不同平台各有能力侧重，我们会按场景择优选用。”中信证券信息技术相关人士说。一年前还在比拼自研大模型，如今为何纷纷把自家AI能力“搬进”第三方平台？在业内人士看来，拓展新用户触点是首要考量——通过Skills或智能体输出投研、行情等能力，券商可以触达更多潜在客户。对金融机构而言，流量竞争已是一个绕不开的战场，而接入头部平台的成熟生态，是最简单直接的路径之一。（中国基金报）",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 16:58:40",
+      "rank_score": 36.2
+    },
+    {
+      "eid": "f70c40a659",
+      "ekey": "张海鹏多元融合释放乡村发展动能",
+      "kind": "event_line",
+      "title": "张海鹏：多元融合释放乡村发展动能",
+      "body": "（来源：经济日报）转自：经济日报随着乡村产业蓬勃发展，农村新产业、新业态、新模式快速成长。农业与文化、旅游、康养等产业深度融合，推动现代农业产业体系...",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒",
+        "农业/种业"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "张海鹏：多元融合释放乡村发展动能",
+          "src": "新浪财经",
+          "time": "2026-10-07 07:36:04",
+          "body": "（来源：经济日报）转自：经济日报随着乡村产业蓬勃发展，农村新产业、新业态、新模式快速成长。农业与文化、旅游、康养等产业深度融合，推动现代农业产业体系...",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 07:36:04",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "6c2d3e67f6",
+      "ekey": "日韩股市开盘下跌",
+      "kind": "event_line",
+      "title": "日韩股市开盘下跌",
+      "body": "10月7日，韩国KOSPI指数开盘下跌1.11%，报6864.25点；日经225指数低开0.14%，报70582.11点。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "日韩股市开盘下跌",
+          "src": "同花顺",
+          "time": "2026-10-07 08:04:32",
+          "body": "10月7日，韩国KOSPI指数开盘下跌1.11%，报6864.25点；日经225指数低开0.14%，报70582.11点。",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 08:04:32",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "d0dad4f224",
+      "ekey": "国际原油期货日内跌幅扩大WTI原",
+      "kind": "event_line",
+      "title": "国际原油期货日内跌幅扩大 WTI原油跌超2%",
+      "body": "国际原油期货日内跌幅扩大，WTI原油跌超2%。截至目前，WTI原油期货价格跌2%，报87.62美元/桶；布伦特原油期货价格跌1.48%，报98.835美元/桶。（财联社）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国际原油期货日内跌幅扩大 WTI原油跌超2%",
+          "src": "同花顺",
+          "time": "2026-10-06 17:14:25",
+          "body": "国际原油期货日内跌幅扩大，WTI原油跌超2%。截至目前，WTI原油期货价格跌2%，报87.62美元/桶；布伦特原油期货价格跌1.48%，报98.835美元/桶。（财联社）",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 17:14:25",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "06a1115ccd",
+      "ekey": "外地客户涌入深圳买房有深圳房产中",
+      "kind": "event_line",
+      "title": "外地客户涌入深圳买房 有深圳房产中介销售额暴增200%",
+      "body": "记者走访发现，国庆假期期间，深圳的二手房市场活跃度明显提升。周先生是湖南人，趁着国庆假期带着家人来深圳旅游，顺便看看房子。随着深圳非核心区域放开限购，越来越多像周先生这样的非深户开始将置业目光投向深圳。记者了解到，非深户在深圳非核心区域购房，无需社保或个税即可购买2套。（央视财经）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "地产/基建",
+        "消费/白酒"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "外地客户涌入深圳买房 有深圳房产中介销售额暴增200%",
+          "src": "同花顺",
+          "time": "2026-10-06 22:39:46",
+          "body": "记者走访发现，国庆假期期间，深圳的二手房市场活跃度明显提升。周先生是湖南人，趁着国庆假期带着家人来深圳旅游，顺便看看房子。随着深圳非核心区域放开限购，越来越多像周先生这样的非深户开始将置业目光投向深圳。记者了解到，非深户在深圳非核心区域购房，无需社保或个税即可购买2套。（央视财经）",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 22:39:46",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "320c9c0fe4",
+      "ekey": "保加利亚总理有商船在保加利亚黑海",
+      "kind": "event_line",
+      "title": "保加利亚总理：有商船在保加利亚黑海专属经济区遭袭沉没",
+      "body": "保加利亚总理拉德夫当地时间10月6日主持召开会议，处理两艘轮船在黑海保加利亚专属经济区内遭无人机袭击事件。拉德夫表示，当天凌晨3时左右，两艘商船遭到无人机袭击，两船均受损。拉德夫称，这是一起发生在保加利亚专属经济区内绝对不可接受的袭击事件，严重违反国际法及海洋法。他强调，当前局势正导致黑海航行变得异常困难。（央视新闻）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 52.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "保加利亚总理：有商船在保加利亚黑海专属经济区遭袭沉没",
+          "src": "同花顺",
+          "time": "2026-10-06 18:40:38",
+          "body": "保加利亚总理拉德夫当地时间10月6日主持召开会议，处理两艘轮船在黑海保加利亚专属经济区内遭无人机袭击事件。拉德夫表示，当天凌晨3时左右，两艘商船遭到无人机袭击，两船均受损。拉德夫称，这是一起发生在保加利亚专属经济区内绝对不可接受的袭击事件，严重违反国际法及海洋法。他强调，当前局势正导致黑海航行变得异常困难。（央视新闻）",
+          "score": 52.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 18:40:38",
+      "rank_score": 35.8
+    },
+    {
+      "eid": "7f57090708",
+      "ekey": "特朗普",
+      "kind": "topic_line",
+      "title": "美国总统特朗普表示 战争结束后，油价将会下跌",
+      "body": "美国总统特朗普表示，战争结束后，油价将会下跌。被问及是否需要暂停联邦汽油税时特朗普称正在考虑此事。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bear",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 51.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国总统特朗普表示 战争结束后，油价将会下跌",
+          "src": "东方财富",
+          "time": "2026-10-07 03:17:17",
+          "body": "美国总统特朗普表示，战争结束后，油价将会下跌。被问及是否需要暂停联邦汽油税时特朗普称正在考虑此事。",
+          "score": 51.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 03:17:17",
+      "rank_score": 35.6
+    },
+    {
+      "eid": "9587eacb02",
+      "ekey": "Nuri",
+      "kind": "topic_line",
+      "title": "韩国称将于当地时间中午12点25分发射“世界号”（Nuri）火箭",
+      "body": "韩国称将于当地时间中午12点25分发射“世界号”（Nuri）火箭。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 51.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "韩国称将于当地时间中午12点25分发射“世界号”（Nuri）火箭",
+          "src": "东方财富",
+          "time": "2026-10-07 08:07:03",
+          "body": "韩国称将于当地时间中午12点25分发射“世界号”（Nuri）火箭。",
+          "score": 51.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 08:07:03",
+      "rank_score": 35.4
+    },
+    {
+      "eid": "7ff7706e7e",
+      "ekey": "信息署短期能源|桶美国能源",
+      "kind": "topic_line",
+      "title": "美国能源信息署：预计2026年WTI原油价格为88.21美元/桶 布伦特原油价格96.32美元/桶",
+      "body": "美国能源信息署短期能源报告显示，预计2026年WTI原油价格为88.21美元/桶，此前预期为84.65美元/桶，预计2027年WTI原油价格为79.74美元/桶，此前预期为69.74美元/桶。预计2026年布伦特原油价格96.32美元/桶，此前预计91美元/桶，预计2027年布伦特原油价格83.74美元/桶，此前预期为73.74美元/桶。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 51.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国能源信息署：预计2026年WTI原油价格为88.21美元/桶 布伦特原油价格96.32美元/桶",
+          "src": "东方财富",
+          "time": "2026-10-07 00:02:05",
+          "body": "美国能源信息署短期能源报告显示，预计2026年WTI原油价格为88.21美元/桶，此前预期为84.65美元/桶，预计2027年WTI原油价格为79.74美元/桶，此前预期为69.74美元/桶。预计2026年布伦特原油价格96.32美元/桶，此前预计91美元/桶，预计2027年布伦特原油价格83.74美元/桶，此前预期为73.74美元/桶。",
+          "score": 51.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 00:02:05",
+      "rank_score": 35.4
+    },
+    {
+      "eid": "5b8f3ba117",
+      "ekey": "巴基斯坦试射国产增程版法塔赫陆基",
+      "kind": "event_line",
+      "title": "巴基斯坦试射国产增程版“法塔赫-4”陆基巡航导弹",
+      "body": "据巴基斯坦三军新闻局10月6日消息，巴基斯坦当天成功进行了一次国产增程版“法塔赫-4”陆基巡航导弹的试射。巴基斯坦三军新闻局称，该系统配备先进航空电子设备和最先进的导航辅助设备，能够以高精度和高杀伤力打击目标。此次试射还验证了为提高精度和增强生存能力而集成的各子系统的额外技术参数。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 51.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "巴基斯坦试射国产增程版“法塔赫-4”陆基巡航导弹",
+          "src": "东方财富",
+          "time": "2026-10-06 23:48:50",
+          "body": "据巴基斯坦三军新闻局10月6日消息，巴基斯坦当天成功进行了一次国产增程版“法塔赫-4”陆基巡航导弹的试射。巴基斯坦三军新闻局称，该系统配备先进航空电子设备和最先进的导航辅助设备，能够以高精度和高杀伤力打击目标。此次试射还验证了为提高精度和增强生存能力而集成的各子系统的额外技术参数。",
+          "score": 51.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 23:48:50",
+      "rank_score": 35.4
+    },
+    {
+      "eid": "ff28b99e31",
+      "ekey": "现货白银价格涨超",
+      "kind": "event_line",
+      "title": "现货白银价格涨超1%",
+      "body": "现货黄金价格涨0.94%，报4179.32美元/盎司；现货白银价格涨1.05%，报61.68美元/盎司。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "黄金/贵金属"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 51.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "现货白银价格涨超1%",
+          "src": "同花顺",
+          "time": "2026-10-06 20:14:50",
+          "body": "现货黄金价格涨0.94%，报4179.32美元/盎司；现货白银价格涨1.05%，报61.68美元/盎司。",
+          "score": 51.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-06 20:14:50",
+      "rank_score": 35.4
+    },
+    {
+      "eid": "4d8898be44",
+      "ekey": "美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储施密德表示：尽管长期收益率上升 但美联储在短期利率方面仍需努力",
+      "body": "美联储施密德表示，尽管长期收益率上升，但美联储在短期利率方面仍需努力。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 50.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储施密德表示：尽管长期收益率上升 但美联储在短期利率方面仍需努力",
+          "src": "东方财富",
+          "time": "2026-10-07 01:51:10",
+          "body": "美联储施密德表示，尽管长期收益率上升，但美联储在短期利率方面仍需努力。",
+          "score": 50.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 01:51:10",
+      "rank_score": 35.2
+    },
+    {
+      "eid": "31e6604ddb",
+      "ekey": "因士兵涉嫌抢劫杀人驻冲绳美军实施",
+      "kind": "event_line",
+      "title": "因士兵涉嫌抢劫杀人 驻冲绳美军实施外出限制",
+      "body": "据日本方面6日消息，在一名驻冲绳美军士兵因涉嫌抢劫杀人被捕后，驻冲绳美军最高负责人、冲绳地区协调官沃森6日下令，自9日起对所有驻冲绳美军人员实施为期30天的外出限制，每日零时至凌晨5时禁止外出。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 50.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": false,
+      "risingHeat": false,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "因士兵涉嫌抢劫杀人 驻冲绳美军实施外出限制",
+          "src": "东方财富",
+          "time": "2026-10-07 01:01:57",
+          "body": "据日本方面6日消息，在一名驻冲绳美军士兵因涉嫌抢劫杀人被捕后，驻冲绳美军最高负责人、冲绳地区协调官沃森6日下令，自9日起对所有驻冲绳美军人员实施为期30天的外出限制，每日零时至凌晨5时禁止外出。",
+          "score": 50.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-10-07 01:01:57",
+      "rank_score": 35.2
+    }
+  ],
+  "topics": [
+    {
+      "topic": "美联储利率",
+      "label": "美联储动向",
+      "count": 6,
+      "sources": [
+        "东方财富"
+      ],
+      "heat": 6.0,
+      "eids": [
+        "4ffc57e931",
+        "4d8898be44",
+        "f60beb844f",
+        "4d8898be44",
+        "fc516d82e7",
+        "4d8898be44"
+      ],
+      "lead": "美联储戴利表示可能需要进一步收紧政策",
+      "events": [
+        {
+          "eid": "4ffc57e931",
+          "ekey": "关税和能源|美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "美联储戴利表示可能需要进一步收紧政策",
+          "body": "美联储戴利表示可能需要进一步收紧政策，对人工智能、关税和能源成本可能持续更长时间表示担忧，这些因素可能会导致通胀保持高位，美联储可能在1-3年内看到冲击减弱。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bear",
+          "sectors": [
+            "AI应用/软件",
+            "石油/能源"
+          ],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 67.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储戴利表示可能需要进一步收紧政策",
+              "src": "东方财富",
+              "time": "2026-10-07 00:00:49",
+              "body": "美联储戴利表示可能需要进一步收紧政策，对人工智能、关税和能源成本可能持续更长时间表示担忧，这些因素可能会导致通胀保持高位，美联储可能在1-3年内看到冲击减弱。",
+              "score": 67.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 00:00:49",
+          "rank_score": 41.8
+        },
+        {
+          "eid": "4d8898be44",
+          "ekey": "美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "美联储10月维持利率不变的概率为79.5%",
+          "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为79.5%，累计加息25个基点的概率为20.5%。美联储到12月维持利率不变的概率为15.5%，累计加息25个基点的概率68%，累计加息50个基点的概率为16.5%。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bear",
+          "sectors": [],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 63.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储10月维持利率不变的概率为79.5%",
+              "src": "东方财富",
+              "time": "2026-10-07 06:02:13",
+              "body": "据CME“美联储观察”：美联储到10月维持利率不变的概率为79.5%，累计加息25个基点的概率为20.5%。美联储到12月维持利率不变的概率为15.5%，累计加息25个基点的概率68%，累计加息50个基点的概率为16.5%。",
+              "score": 63.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 06:02:13",
+          "rank_score": 40.2
+        },
+        {
+          "eid": "f60beb844f",
+          "ekey": "美联储#美债",
+          "kind": "topic_line",
+          "title": "美联储周二隔夜逆回购协议（RRP）使用规模为4.14亿美元 上个交易日报10.04亿美元",
+          "body": "美联储周二隔夜逆回购协议（RRP）使用规模为4.14亿美元，上个交易日报10.04亿美元。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bull",
+          "sectors": [],
+          "ctypeName": "政策发布",
+          "tier": "T1.5",
+          "score": 60.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储周二隔夜逆回购协议（RRP）使用规模为4.14亿美元 上个交易日报10.04亿美元",
+              "src": "东方财富",
+              "time": "2026-10-07 01:16:54",
+              "body": "美联储周二隔夜逆回购协议（RRP）使用规模为4.14亿美元，上个交易日报10.04亿美元。",
+              "score": 60.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 01:16:54",
+          "rank_score": 39.0
+        },
+        {
+          "eid": "4d8898be44",
+          "ekey": "美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "美联储施密德表示 通货膨胀令人沮丧 必须解决",
+          "body": "美联储施密德表示，通货膨胀令人沮丧，必须解决；在抑制通胀方面仍有很长的路要走；人工智能现在是通胀的主要推动力之一。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 57.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储施密德表示 通货膨胀令人沮丧 必须解决",
+              "src": "东方财富",
+              "time": "2026-10-07 01:24:51",
+              "body": "美联储施密德表示，通货膨胀令人沮丧，必须解决；在抑制通胀方面仍有很长的路要走；人工智能现在是通胀的主要推动力之一。",
+              "score": 57.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 01:24:51",
+          "rank_score": 37.8
+        },
+        {
+          "eid": "fc516d82e7",
+          "ekey": "央行|美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "假期要闻汇总：非农数据意外“爆冷” 美联储10月加息概率骤降",
+          "body": "【假期要闻汇总】国庆节假期影响市场的重要资讯有：央行10月8日将开展12000亿元买断式逆回购操作，期限为3个月；财政部部长蓝佛安称要研究制定针对性强的增量政策，更加注重扩大国内有效需求；普京说中美俄领导人可能在APEC峰会期间举行三方会晤，外交部回应；商务部就法德要求欧盟强化贸易防御等保护主义工具答记者问；特朗普宣布成立“超级智能特别工作组”；美国非农意外“爆冷”，美联储10月加息概率骤降；华为官宣和美国高通达成重磅协议；本年度诺贝尔奖陆续揭晓，多家公司布局相关赛道。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "neutral",
+          "sectors": [],
+          "ctypeName": "政策发布",
+          "tier": "T1.5",
+          "score": 53.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "假期要闻汇总：非农数据意外“爆冷” 美联储10月加息概率骤降",
+              "src": "东方财富",
+              "time": "2026-10-07 07:30:08",
+              "body": "【假期要闻汇总】国庆节假期影响市场的重要资讯有：央行10月8日将开展12000亿元买断式逆回购操作，期限为3个月；财政部部长蓝佛安称要研究制定针对性强的增量政策，更加注重扩大国内有效需求；普京说中美俄领导人可能在APEC峰会期间举行三方会晤，外交部回应；商务部就法德要求欧盟强化贸易防御等保护主义工具答记者问；特朗普宣布成立“超级智能特别工作组”；美国非农意外“爆冷”，美联储10月加息概率骤降；华为官宣和美国高通达成重磅协议；本年度诺贝尔奖陆续揭晓，多家公司布局相关赛道。",
+              "score": 53.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 07:30:08",
+          "rank_score": 36.2
+        },
+        {
+          "eid": "4d8898be44",
+          "ekey": "美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "美联储施密德表示：尽管长期收益率上升 但美联储在短期利率方面仍需努力",
+          "body": "美联储施密德表示，尽管长期收益率上升，但美联储在短期利率方面仍需努力。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "neutral",
+          "sectors": [],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 50.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储施密德表示：尽管长期收益率上升 但美联储在短期利率方面仍需努力",
+              "src": "东方财富",
+              "time": "2026-10-07 01:51:10",
+              "body": "美联储施密德表示，尽管长期收益率上升，但美联储在短期利率方面仍需努力。",
+              "score": 50.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 01:51:10",
+          "rank_score": 35.2
+        }
+      ]
+    },
+    {
+      "topic": "AI芯片",
+      "label": "AI 芯片与算力",
+      "count": 4,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 5.0,
+      "eids": [
+        "22fa1242af",
+        "435ceffda5",
+        "22fa1242af",
+        "217f2c905d"
+      ],
+      "lead": "SpaceX计划通过阿波罗主导的融资筹集400亿美元 以采购英伟达芯片",
+      "events": [
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "SpaceX计划通过阿波罗主导的融资筹集400亿美元 以采购英伟达芯片",
+          "body": "SpaceX计划通过阿波罗主导的融资筹集400亿美元，以采购英伟达芯片。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 63.5,
+          "heat": 2.0,
+          "source_count": 2,
+          "sources": [
+            "东方财富",
+            "同花顺"
+          ],
+          "isNew": false,
+          "isRising": true,
+          "heat_delta": 1.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": true,
+          "member_count": 2,
+          "members": [
+            {
+              "title": "SpaceX计划通过阿波罗主导的融资筹集400亿美元 以采购英伟达芯片",
+              "src": "东方财富",
+              "time": "2026-10-07 06:31:40",
+              "body": "SpaceX计划通过阿波罗主导的融资筹集400亿美元，以采购英伟达芯片。",
+              "score": 63.5
+            },
+            {
+              "title": "SpaceX计划融资400亿美元采购英伟达芯片",
+              "src": "同花顺",
+              "time": "2026-10-07 07:27:53",
+              "body": "SpaceX计划通过阿波罗主导的融资筹集400亿美元，以采购英伟达芯片。（财联社）",
+              "score": 54.5
+            }
+          ],
+          "merge_reasons": [
+            "共享实体 英伟达 + 同主题 AI芯片，相似度 0.34"
+          ],
+          "related": [],
+          "time": "2026-10-07 06:31:40",
+          "rank_score": 61.4
+        },
+        {
+          "eid": "435ceffda5",
+          "ekey": "AMD|财务业绩超威半导体#AI芯片",
+          "kind": "topic_line",
+          "title": "超威半导体今日宣布 将于2026年11月3日（周二）美股收盘后 正式公布2026财年第三季度财务业绩",
+          "body": "超威半导体（纳斯达克代码：AMD）今日宣布，将于2026年11月3日（周二）美股收盘后，正式公布2026财年第三季度财务业绩。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 64.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "超威半导体今日宣布 将于2026年11月3日（周二）美股收盘后 正式公布2026财年第三季度财务业绩",
+              "src": "东方财富",
+              "time": "2026-10-07 04:18:51",
+              "body": "超威半导体（纳斯达克代码：AMD）今日宣布，将于2026年11月3日（周二）美股收盘后，正式公布2026财年第三季度财务业绩。",
+              "score": 64.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 04:18:51",
+          "rank_score": 40.8
+        },
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "美股期货盘前续走强 英伟达、纳指有望再创新高",
+          "body": "周二（9月1日）美股盘前，受美债收益率和国际油价走低影响，三大股指期货集体走高。截至发稿，道琼斯指数期货涨0.67%，标普500指数期货涨0.5%，纳斯达克100指数期货涨0.65%，一度涨近0.7%刷新历史纪录。前一天，英伟达、纳斯达克综合指数和纳斯达克100指数均收于历史新高。分析师认为，得益于AI相关股票的带动，标普成分股第三季度盈利有望同比增长超30%。个股方面，英伟达、SpaceX、特斯拉、AMD盘前涨超1%，Constellation Energy涨近9%，公司与谷歌达成核能交易。西部数据、希捷科技、SK海力士等存储股走低。（财联社）",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件",
+            "石油/能源"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T2",
+          "score": 63.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股期货盘前续走强 英伟达、纳指有望再创新高",
+              "src": "同花顺",
+              "time": "2026-10-06 20:23:31",
+              "body": "周二（9月1日）美股盘前，受美债收益率和国际油价走低影响，三大股指期货集体走高。截至发稿，道琼斯指数期货涨0.67%，标普500指数期货涨0.5%，纳斯达克100指数期货涨0.65%，一度涨近0.7%刷新历史纪录。前一天，英伟达、纳斯达克综合指数和纳斯达克100指数均收于历史新高。分析师认为，得益于AI相关股票的带动，标普成分股第三季度盈利有望同比增长超30%。个股方面，英伟达、SpaceX、特斯拉、AMD盘前涨超1%，Constellation Energy涨近9%，公司与谷歌达成核能交易。西部数据、希捷科技、SK海力士等存储股走低。（财联社）",
+              "score": 63.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 20:23:31",
+          "rank_score": 40.4
+        },
+        {
+          "eid": "217f2c905d",
+          "ekey": "以强化日本半导体|供应链日本半导体#AI芯片",
+          "kind": "topic_line",
+          "title": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
+          "body": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂，以强化日本半导体供应链。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 54.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
+              "src": "东方财富",
+              "time": "2026-10-07 04:08:11",
+              "body": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂，以强化日本半导体供应链。",
+              "score": 54.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 04:08:11",
+          "rank_score": 36.8
+        }
+      ]
+    },
+    {
+      "topic": "大模型",
+      "label": "大模型与 AI 应用",
+      "count": 5,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 5.0,
+      "eids": [
+        "3c1e31b7a2",
+        "48fcb7b6fb",
+        "3bf43cd704",
+        "42c09e1579",
+        "04424602b6"
+      ],
+      "lead": "AI新云厂商Lambda拟融资40亿美元 计划在IPO前完成这轮最终融资 本轮融资前估值定为145亿美元 目标2027年上市",
+      "events": [
+        {
+          "eid": "3c1e31b7a2",
+          "ekey": "AI新云厂商Lambda拟融资亿",
+          "kind": "event_line",
+          "title": "AI新云厂商Lambda拟融资40亿美元 计划在IPO前完成这轮最终融资 本轮融资前估值定为145亿美元 目标2027年上市",
+          "body": "AI新云厂商Lambda拟融资40亿美元，计划在IPO前完成这轮最终融资，本轮融资前估值定为145亿美元，目标2027年上市。",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "公司事件",
+          "tier": "T1.5",
+          "score": 70.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "AI新云厂商Lambda拟融资40亿美元 计划在IPO前完成这轮最终融资 本轮融资前估值定为145亿美元 目标2027年上市",
+              "src": "东方财富",
+              "time": "2026-10-07 00:49:06",
+              "body": "AI新云厂商Lambda拟融资40亿美元，计划在IPO前完成这轮最终融资，本轮融资前估值定为145亿美元，目标2027年上市。",
+              "score": 70.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 00:49:06",
+          "rank_score": 43.2
+        },
+        {
+          "eid": "48fcb7b6fb",
+          "ekey": "Anthropic|特定机构开展网络#大模型",
+          "kind": "topic_line",
+          "title": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试",
+          "body": "Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力。根据周二发布的声明，这家总部位于旧金山的公司将允许经过验证的机构使用其能力最强的模型，包括ClaudeOpus5.5、ClaudeSonnet5.5、ClaudeMythos5.1，以及未来推出的新模型。声明称，获得权限的机构可以对旨在保护电网、银行和航班运行系统等关键基础设施的安全系统进行“高风险攻击性测试”。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件",
+            "券商/大金融",
+            "电力/公用"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 63.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试",
+              "src": "东方财富",
+              "time": "2026-10-07 04:45:59",
+              "body": "Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力。根据周二发布的声明，这家总部位于旧金山的公司将允许经过验证的机构使用其能力最强的模型，包括ClaudeOpus5.5、ClaudeSonnet5.5、ClaudeMythos5.1，以及未来推出的新模型。声明称，获得权限的机构可以对旨在保护电网、银行和航班运行系统等关键基础设施的安全系统进行“高风险攻击性测试”。",
+              "score": 63.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 04:45:59",
+          "rank_score": 40.2
+        },
+        {
+          "eid": "3bf43cd704",
+          "ekey": "机构看好港股新股市场继续火热月之",
+          "kind": "event_line",
+          "title": "机构看好港股新股市场继续火热 月之暗面、可灵AI或成下一批重磅IPO",
+          "body": "今年以来，港股IPO活动明显回暖，并呈现加速态势。而随着内地企业赴港上市步伐加快，以及人工智能等新兴科技公司加速推进资本化，市场对港股新股市场的后续表现依旧乐观。据香港本地媒体报道，综合多家会计师事务所及市场人士观点来看，普遍预期四季度港股IPO势头有望持续，乐观情景下全年募资总额有望冲击创纪录的4800亿港元。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "公司事件",
+          "tier": "T1.5",
+          "score": 58.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "机构看好港股新股市场继续火热 月之暗面、可灵AI或成下一批重磅IPO",
+              "src": "东方财富",
+              "time": "2026-10-07 00:15:00",
+              "body": "今年以来，港股IPO活动明显回暖，并呈现加速态势。而随着内地企业赴港上市步伐加快，以及人工智能等新兴科技公司加速推进资本化，市场对港股新股市场的后续表现依旧乐观。据香港本地媒体报道，综合多家会计师事务所及市场人士观点来看，普遍预期四季度港股IPO势头有望持续，乐观情景下全年募资总额有望冲击创纪录的4800亿港元。",
+              "score": 58.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 00:15:00",
+          "rank_score": 38.4
+        },
+        {
+          "eid": "42c09e1579",
+          "ekey": "OpenAI|亚马逊#大模型",
+          "kind": "topic_line",
+          "title": "美国西南航空与OpenAI和亚马逊云科技（AWS）展开合作 美国西南航空上线ChatGPT插件",
+          "body": "美国西南航空与OpenAI和亚马逊云科技（AWS）展开合作，美国西南航空上线ChatGPT插件，可直接在ChatGPT内查询、选购西南航空航班。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 56.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美国西南航空与OpenAI和亚马逊云科技（AWS）展开合作 美国西南航空上线ChatGPT插件",
+              "src": "东方财富",
+              "time": "2026-10-07 00:15:31",
+              "body": "美国西南航空与OpenAI和亚马逊云科技（AWS）展开合作，美国西南航空上线ChatGPT插件，可直接在ChatGPT内查询、选购西南航空航班。",
+              "score": 56.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 00:15:31",
+          "rank_score": 37.6
+        },
+        {
+          "eid": "04424602b6",
+          "ekey": "券商集体入驻第三方AI平台Age",
+          "kind": "event_line",
+          "title": "券商集体入驻第三方AI平台 Agent时代卡位战打响",
+          "body": "从接入DeepSeek，到上线Skills，再到近期密集入驻第三方AI平台，证券行业拥抱外部AI生态的速度，比大多数人预想的要快。据记者不完全统计，目前已有超过10家券商接入第三方AI平台，覆盖Kimi、WorkBuddy、千问、火山引擎等。有意思的是，多家大型券商不是“二选一”，而是同时接入多个平台。“不同平台各有能力侧重，我们会按场景择优选用。”中信证券信息技术相关人士说。一年前还在比拼自研大模型，如今为何纷纷把自家AI能力“搬进”第三方平台？在业内人士看来，拓展新用户触点是首要考量——通过Skills或智能体输出投研、行情等能力，券商可以触达更多潜在客户。对金融机构而言，流量竞争已是一个绕不开的战场，而接入头部平台的成熟生态，是最简单直接的路径之一。（中国基金报）",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件",
+            "券商/大金融"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T2",
+          "score": 53.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "券商集体入驻第三方AI平台 Agent时代卡位战打响",
+              "src": "同花顺",
+              "time": "2026-10-06 16:58:40",
+              "body": "从接入DeepSeek，到上线Skills，再到近期密集入驻第三方AI平台，证券行业拥抱外部AI生态的速度，比大多数人预想的要快。据记者不完全统计，目前已有超过10家券商接入第三方AI平台，覆盖Kimi、WorkBuddy、千问、火山引擎等。有意思的是，多家大型券商不是“二选一”，而是同时接入多个平台。“不同平台各有能力侧重，我们会按场景择优选用。”中信证券信息技术相关人士说。一年前还在比拼自研大模型，如今为何纷纷把自家AI能力“搬进”第三方平台？在业内人士看来，拓展新用户触点是首要考量——通过Skills或智能体输出投研、行情等能力，券商可以触达更多潜在客户。对金融机构而言，流量竞争已是一个绕不开的战场，而接入头部平台的成熟生态，是最简单直接的路径之一。（中国基金报）",
+              "score": 53.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 16:58:40",
+          "rank_score": 36.2
+        }
+      ]
+    },
+    {
+      "topic": "股指行情",
+      "label": "全球股指行情",
+      "count": 3,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 3.0,
+      "eids": [
+        "b3c9be99c4",
+        "36107d5c79",
+        "602135fc1d"
+      ],
+      "lead": "美股三大指数集体收涨 纳指、标普500指数创收盘新高",
+      "events": [
+        {
+          "eid": "b3c9be99c4",
+          "ekey": "美股三大指数集体收涨纳指标普指数",
+          "kind": "event_line",
+          "title": "美股三大指数集体收涨 纳指、标普500指数创收盘新高",
+          "body": "美股三大指数集体收涨，道指涨0.49%，纳指涨0.45%，标普500指数涨0.58%，纳指、标普500指数创收盘新高，热门科技股多数上涨，博通涨超3%，亚马逊涨近2%。光通信、通讯设备、储能概念股涨幅居前，诺基亚涨超7%，康宁涨超6%，迈威尔科技涨超5%，思科涨超4%。存储概念、百货公司跌幅居前，迪拉德百货跌超10%，希捷科技跌超9%，西部数据、SK海力士跌超6%，闪迪跌超2%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "新能源/锂电"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 77.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股三大指数集体收涨 纳指、标普500指数创收盘新高",
+              "src": "东方财富",
+              "time": "2026-10-07 04:00:40",
+              "body": "美股三大指数集体收涨，道指涨0.49%，纳指涨0.45%，标普500指数涨0.58%，纳指、标普500指数创收盘新高，热门科技股多数上涨，博通涨超3%，亚马逊涨近2%。光通信、通讯设备、储能概念股涨幅居前，诺基亚涨超7%，康宁涨超6%，迈威尔科技涨超5%，思科涨超4%。存储概念、百货公司跌幅居前，迪拉德百货跌超10%，希捷科技跌超9%，西部数据、SK海力士跌超6%，闪迪跌超2%。",
+              "score": 77.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 04:00:40",
+          "rank_score": 46.0
+        },
+        {
+          "eid": "36107d5c79",
+          "ekey": "韩国KOSPI指数开盘下跌报点日",
+          "kind": "event_line",
+          "title": "韩国KOSPI指数开盘下跌1.11%报6864.25点 日经225指数低开0.14%报70582.11点",
+          "body": "韩国KOSPI指数开盘下跌1.11%报6864.25点；日经225指数低开0.14%报70582.11点。",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "bear",
+          "sectors": [],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 63.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "韩国KOSPI指数开盘下跌1.11%报6864.25点 日经225指数低开0.14%报70582.11点",
+              "src": "东方财富",
+              "time": "2026-10-07 08:01:32",
+              "body": "韩国KOSPI指数开盘下跌1.11%报6864.25点；日经225指数低开0.14%报70582.11点。",
+              "score": 63.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 08:01:32",
+          "rank_score": 40.4
+        },
+        {
+          "eid": "602135fc1d",
+          "ekey": "美股开盘美股三大指数集体高开",
+          "kind": "event_line",
+          "title": "美股开盘：美股三大指数集体高开",
+          "body": "美股三大指数集体高开，标普500指数涨0.46%，道指涨0.38%，纳指涨0.57%。大型科技股方面，超威半导体涨2.50%，英伟达涨1.37%，微软涨1.01%，SpaceX涨1.01%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T2",
+          "score": 61.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股开盘：美股三大指数集体高开",
+              "src": "同花顺",
+              "time": "2026-10-06 21:30:59",
+              "body": "美股三大指数集体高开，标普500指数涨0.46%，道指涨0.38%，纳指涨0.57%。大型科技股方面，超威半导体涨2.50%，英伟达涨1.37%，微软涨1.01%，SpaceX涨1.01%。",
+              "score": 61.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 21:30:59",
+          "rank_score": 39.6
+        }
+      ]
+    },
+    {
+      "topic": "关税贸易",
+      "label": "关税与制裁",
+      "count": 3,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 3.0,
+      "eids": [
+        "088ed53f32",
+        "70e4ade49b",
+        "0240a32597"
+      ],
+      "lead": "美国8月贸易逆差继续升高",
+      "events": [
+        {
+          "eid": "088ed53f32",
+          "ekey": "商务部#关税贸易",
+          "kind": "topic_line",
+          "title": "美国8月贸易逆差继续升高",
+          "body": "美国商务部6日发布的数据显示，受进口显著增加影响，美国8月商品和服务贸易逆差环比增加13.7%，升至1056亿美元。",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "neutral",
+          "sectors": [],
+          "ctypeName": "经济数据",
+          "tier": "T1.5",
+          "score": 77.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "关税贸易",
+          "topicLabel": "关税与制裁",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美国8月贸易逆差继续升高",
+              "src": "东方财富",
+              "time": "2026-10-07 00:46:51",
+              "body": "美国商务部6日发布的数据显示，受进口显著增加影响，美国8月商品和服务贸易逆差环比增加13.7%，升至1056亿美元。",
+              "score": 77.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-07 00:46:51",
+          "rank_score": 46.0
+        },
+        {
+          "eid": "70e4ade49b",
+          "ekey": "虑对中国电动汽车#关税贸易",
+          "kind": "topic_line",
+          "title": "英国考虑对中国电动汽车提高关税，外交部回应",
+          "body": "2026年10月6日外交部发言人郭嘉昆答记者问。《金融时报》记者：据报道，英国政府正在考虑对来自中国的电动汽车提高进口关税。中方对此有何评论？郭嘉昆：有关具体问题请询中方主管部门。经贸关系的本质是发挥各自比较优势，实现互利共赢。中国电动汽车产业的发展，为包括英国在内的全球消费者提供了有竞争力的选择，也为绿色低碳转型作出了积极贡献，是供不应求的优质产能。（财联社）",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "neutral",
+          "sectors": [
+            "消费/白酒",
+            "券商/大金融",
+            "汽车/智能驾驶"
+          ],
+          "ctypeName": "海外宏观",
+          "tier": "T2",
+          "score": 56.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "关税贸易",
+          "topicLabel": "关税与制裁",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "英国考虑对中国电动汽车提高关税，外交部回应",
+              "src": "同花顺",
+              "time": "2026-10-06 19:42:51",
+              "body": "2026年10月6日外交部发言人郭嘉昆答记者问。《金融时报》记者：据报道，英国政府正在考虑对来自中国的电动汽车提高进口关税。中方对此有何评论？郭嘉昆：有关具体问题请询中方主管部门。经贸关系的本质是发挥各自比较优势，实现互利共赢。中国电动汽车产业的发展，为包括英国在内的全球消费者提供了有竞争力的选择，也为绿色低碳转型作出了积极贡献，是供不应求的优质产能。（财联社）",
+              "score": 56.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 19:42:51",
+          "rank_score": 37.4
+        },
+        {
+          "eid": "0240a32597",
+          "ekey": "商务部|欧盟#关税贸易",
+          "kind": "topic_line",
+          "title": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问",
+          "body": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问。问：据媒体报道，10月5日法国和德国向欧委会提交非正式文件，要求欧盟强化使用贸易防御措施，并推出多项保护主义新工具。请问中方对此有何评论？答：中方注意到有关报道。中方始终认为，相互依赖不是风险，利益交融不是威胁，开放合作才是发展的正道。保护主义提升不了竞争力，脱钩断链只会损人不利己。希望法国和德国作为全球重要经济体，能够坚持开放合作和自由贸易，遵守世贸规则，不要鼓动欧盟动辄使用保护主义工具，更不要将经贸问题政治化和泛安全化，避免以错误方式走错误道路并最终反噬自己。（财联社）",
+          "dim": "military",
+          "dimName": "军事地缘",
+          "impact": "neutral",
+          "sectors": [],
+          "ctypeName": "政策发布",
+          "tier": "T1",
+          "score": 53.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": false,
+          "risingHeat": false,
+          "topic": "关税贸易",
+          "topicLabel": "关税与制裁",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问",
+              "src": "同花顺",
+              "time": "2026-10-06 20:20:07",
+              "body": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问。问：据媒体报道，10月5日法国和德国向欧委会提交非正式文件，要求欧盟强化使用贸易防御措施，并推出多项保护主义新工具。请问中方对此有何评论？答：中方注意到有关报道。中方始终认为，相互依赖不是风险，利益交融不是威胁，开放合作才是发展的正道。保护主义提升不了竞争力，脱钩断链只会损人不利己。希望法国和德国作为全球重要经济体，能够坚持开放合作和自由贸易，遵守世贸规则，不要鼓动欧盟动辄使用保护主义工具，更不要将经贸问题政治化和泛安全化，避免以错误方式走错误道路并最终反噬自己。（财联社）",
+              "score": 53.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-10-06 20:20:07",
+          "rank_score": 36.4
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "input_articles": 60,
+    "events": 59,
+    "merged_away": 1,
+    "redundancy": 1.02,
+    "multi_source_events": 1,
+    "roundup_articles": 5,
+    "story_links": 0,
+    "method": "rule_based",
+    "topic_blocks": 5,
+    "compared_with": "2026-10-06 08:32:36",
+    "new_events": 50,
+    "rising_events": 1
+  },
+  "provenance": {
+    "method": "rule_based_clustering",
+    "status": "derived",
+    "detail": "事件合并与主题归组由标题相似度 + 实体重叠规则判定，非 LLM 语义判断；热度按独立来源数计算（48h 内每源一次，24h 减半）"
+  }
+}

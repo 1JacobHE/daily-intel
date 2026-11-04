@@ -1,0 +1,718 @@
+{
+  "week": "2026-W40",
+  "date_range": [
+    "2026-10-04",
+    "2026-09-28"
+  ],
+  "generated_at": "2026-10-04 08:30",
+  "github_persistent": [
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 148565,
+      "stars_last": 153401,
+      "stars_growth": 4836,
+      "trend": "flat"
+    },
+    {
+      "full_name": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 49555,
+      "stars_last": 52590,
+      "stars_growth": 3035,
+      "trend": "flat"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 269881,
+      "stars_last": 272242,
+      "stars_growth": 2361,
+      "trend": "flat"
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 240725,
+      "stars_last": 242886,
+      "stars_growth": 2161,
+      "trend": "flat"
+    },
+    {
+      "full_name": "tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 74773,
+      "stars_last": 76757,
+      "stars_growth": 1984,
+      "trend": "flat"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 45318,
+      "stars_last": 47035,
+      "stars_growth": 1717,
+      "trend": "flat"
+    },
+    {
+      "full_name": "feder-cr/dots",
+      "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 862,
+      "stars_last": 2573,
+      "stars_growth": 1711,
+      "trend": "down"
+    },
+    {
+      "full_name": "KKKKhazix/AIHOT",
+      "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 3817,
+      "stars_last": 5405,
+      "stars_growth": 1588,
+      "trend": "flat"
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 87738,
+      "stars_last": 89135,
+      "stars_growth": 1397,
+      "trend": "flat"
+    },
+    {
+      "full_name": "ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 52284,
+      "stars_last": 53173,
+      "stars_growth": 889,
+      "trend": "flat"
+    },
+    {
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "lang": "Other",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 322832,
+      "stars_last": 323669,
+      "stars_growth": 837,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 250210,
+      "stars_last": 250984,
+      "stars_growth": 774,
+      "trend": "flat"
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 38569,
+      "stars_last": 39338,
+      "stars_growth": 769,
+      "trend": "flat"
+    },
+    {
+      "full_name": "kaankiziltug/logo-design-skill",
+      "desc": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "lang": "HTML",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 950,
+      "stars_last": 1700,
+      "stars_growth": 750,
+      "trend": "up"
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 42765,
+      "stars_last": 43513,
+      "stars_growth": 748,
+      "trend": "flat"
+    },
+    {
+      "full_name": "vinta/awesome-python",
+      "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 324200,
+      "stars_last": 324948,
+      "stars_growth": 748,
+      "trend": "flat"
+    },
+    {
+      "full_name": "wy51ai/floorplan-3d",
+      "desc": "",
+      "lang": "HTML",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 769,
+      "stars_last": 1361,
+      "stars_growth": 592,
+      "trend": "down"
+    },
+    {
+      "full_name": "zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "lang": "PowerShell",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 38943,
+      "stars_last": 39528,
+      "stars_growth": 585,
+      "trend": "flat"
+    },
+    {
+      "full_name": "yihui-dev/awesome-opus5-5-videos",
+      "desc": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "lang": "Other",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 1004,
+      "stars_last": 1570,
+      "stars_growth": 566,
+      "trend": "down"
+    },
+    {
+      "full_name": "nexu-io/open-design",
+      "desc": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 98851,
+      "stars_last": 99314,
+      "stars_growth": 463,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 390816,
+      "stars_last": 391247,
+      "stars_growth": 431,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Yuan1z0825/nature-skills",
+      "desc": "符合nature论文学术表达和科研绘图的Skill",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 45347,
+      "stars_last": 45760,
+      "stars_growth": 413,
+      "trend": "flat"
+    },
+    {
+      "full_name": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 42831,
+      "stars_last": 43238,
+      "stars_growth": 407,
+      "trend": "flat"
+    },
+    {
+      "full_name": "virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 33104,
+      "stars_last": 33487,
+      "stars_growth": 383,
+      "trend": "flat"
+    },
+    {
+      "full_name": "torvalds/linux",
+      "desc": "Linux kernel source tree",
+      "lang": "C",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 250620,
+      "stars_last": 250973,
+      "stars_growth": 353,
+      "trend": "flat"
+    },
+    {
+      "full_name": "dzhng/jevgrep",
+      "desc": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 1844,
+      "stars_last": 2172,
+      "stars_growth": 328,
+      "trend": "down"
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 368552,
+      "stars_last": 368802,
+      "stars_growth": 250,
+      "trend": "flat"
+    },
+    {
+      "full_name": "firelex/jeff",
+      "desc": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 1134,
+      "stars_last": 1350,
+      "stars_growth": 216,
+      "trend": "down"
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 456549,
+      "stars_last": 456707,
+      "stars_growth": 158,
+      "trend": "flat"
+    },
+    {
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-09-30",
+      "last_date": "2026-10-04",
+      "stars_first": 33788,
+      "stars_last": 33895,
+      "stars_growth": 107,
+      "trend": "flat"
+    }
+  ],
+  "news_mainlines": [
+    {
+      "topicLabel": "军事地缘",
+      "title": "美国总统特朗普：将很快用委内瑞拉石油填满战略石油储备",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-09-30",
+          "title": "美伊僵局未破，霍尔木兹海峡封锁超 200 天，布伦特油价站上 100 美元",
+          "heat": 0.6,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-02",
+          "title": "特朗普：参议院必须通过“不再调时法案”",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-03",
+          "title": "据韩国媒体报道 韩国产业通商资源部官员表示 美国总统特朗普提到的84亿美元石油项目并非韩美协议的一部分",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "AI 与科技",
+      "title": "知情人士：博通着手筹集600亿美元，为Anthropic采购芯片提供资金",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-01",
+          "title": "博通拟向Anthropic提供最高420亿美元融资 后者明年或成博通最大芯片设计客户",
+          "heat": 0.6,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-02",
+          "title": "知情人士：博通着手筹集600亿美元，为Anthropic采购芯片提供资金",
+          "heat": 2.0,
+          "sources": 2
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "“国补”来了！2500亿元资金已全部下达",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-01",
+          "title": "财政部部长蓝佛安《求是》撰文：精准有效实施更加积极的财政政策",
+          "heat": 0.6,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-04",
+          "title": "2500亿元！消费品以旧换新资金已全部下达",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "美联储12月加息概率为72.6%",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-01",
+          "title": "美联储卡什卡利：如果我们继续加息，将给经济的不同领域带来不同的压力",
+          "heat": 0.6,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-03",
+          "title": "美联储加息预期降温 纳指高开1.2%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "AI 与科技",
+      "title": "谷歌宣布Spanner Queues正式全面开放",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-01",
+          "title": "Alphabet盘前股价上涨2.6%",
+          "heat": 0.6,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-03",
+          "title": "谷歌宣布Spanner Queues正式全面开放",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "达拉斯联储行长称需再升息至少50个基点，美债收益率上扬或助经济降温",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-02",
+          "title": "达拉斯联储行长称需再升息至少50个基点，美债收益率上扬或助经济降温",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-03",
+          "title": "达拉斯联储行长称需再升息至少50个基点，美债收益率上扬或助经济降温",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "欧洲央行管委内格尔表示：德国经济今年可能增长约1%",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-02",
+          "title": "欧洲央行管委雷恩：能源价格正在接近欧洲央行设定的“不利”情景",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-03",
+          "title": "欧洲央行管委内格尔表示：德国经济今年可能增长约1%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "机构：AI芯片需求带动晶圆代工2.0市场增长",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-02",
+          "title": "机构：AI芯片需求带动晶圆代工2.0市场增长",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-03",
+          "title": "机构：AI芯片需求带动晶圆代工2.0市场增长",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "高盛将宁德时代和正力新能列为中国电池行业重点标的",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-02",
+          "title": "高盛将宁德时代和正力新能列为中国电池行业重点标的",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-03",
+          "title": "高盛将宁德时代和正力新能列为中国电池行业重点标的",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "“欧盟制造”边界之争折射欧洲产业政策难题",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-10-02",
+          "title": "欧盟发言人：欧盟完全拒绝任何柴油出口禁令 禁令“对任何人都没有好处”",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-03",
+          "title": "意大利将2026年GDP增长预测从4月预测的0.6%上调至0.8% 将请求欧盟在2027年给予相当于GDP0.6%的赤字空间",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "地产与楼市",
+      "title": "居民购房贷款贴息 10月1日起正式实施，六大行「免申即享」",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-09-30",
+          "title": "全国首推居民购房贷款贴息，10月1日起实施",
+          "heat": 0.6,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-01",
+          "title": "居民购房贷款贴息 10月1日起正式实施，六大行「免申即享」",
+          "heat": 0.6,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "刚果（金）埃博拉疫情已致超4000人死亡",
+      "days": 2,
+      "kind": "event_line",
+      "points": [
+        {
+          "date": "2026-10-02",
+          "title": "刚果（金）埃博拉疫情已致超4000人死亡",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-10-03",
+          "title": "刚果（金）埃博拉疫情已致超4000人死亡",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "repos_tracked": 71,
+    "repos_multi_day": 58,
+    "mainlines": 15
+  },
+  "provenance": {
+    "method": "aggregate_over_archives",
+    "status": "derived",
+    "detail": "对近 7 天归档做叠加统计：GitHub 用「上榜天数+星数净增」，要闻主线复用跨天事件串联结果"
+  }
+}
