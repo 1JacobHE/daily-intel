@@ -2,45 +2,6 @@
   "date": "2026-11-04",
   "news": [
     {
-      "title": "凯莱英：拟5亿元至7亿元回购公司股份",
-      "body": "凯莱英(002821.SZ)公告称，公司拟使用自有资金及自筹资金(含股票回购专项贷款资金等)以集中竞价方式回购公司A股股份，回购资金总额不低于5亿元且不超过7亿元，回购价格不超过246元/股。回购股份将用于后续实施员工持股计划或股权激励及注销减少注册资本。",
-      "time": "2026-11-04 20:22:17",
-      "stocks": [
-        "0.002821",
-        "116.06821"
-      ],
-      "src": "东方财富",
-      "id": "202611043922148895",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 10,
-        "nov": 8,
-        "cred": 8,
-        "reson": 5,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 77,
-      "struct_score": 82.0,
-      "final_score": 79.5,
-      "raw_score": 79.5,
-      "sum_score": 159.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
       "title": "欧元区10月通胀率升至4.0%",
       "body": "欧盟统计局4日公布的初步数据显示，受能源价格持续大幅上涨影响，欧元区10月通胀率按年率计算为4.0%，较9月的3.8%上升0.2个百分点。10月欧元区能源价格同比上涨20.8%，高于9月的18.9%；核心通胀率为2.5%，与9月持平。主要经济体中，德国通胀率从3.3%降至2.8%，法国从3.4%升至3.8%，意大利从4.2%升至5.6%，西班牙从5.0%回落至4.9%。德国央行行长纳格尔称，尽管目前通胀尚未出现明显的第二轮效应，但欧洲央行12月很可能需要加息。",
       "time": "2026-11-04 20:40:55",
@@ -74,6 +35,46 @@
       "tier": "T2",
       "threshold": 52,
       "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "纳斯达克金龙中国指数涨超4％ 万国数据涨逾9% 阿里巴巴涨超6%",
+      "body": "纳斯达克金龙中国指数涨超4％，世纪互联涨超16％，晶科能源涨近13％，禾赛科技涨超10%，万国数据涨逾9%，阿里巴巴涨超6%。",
+      "time": "2026-11-04 23:12:48",
+      "stocks": [
+        "999.507057"
+      ],
+      "src": "东方财富",
+      "id": "202611043922323875",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "has_stock": 1,
+      "ctype": "market",
+      "ctypeName": "市场动作",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 4,
+        "reson": 8,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 67,
+      "struct_score": 82.0,
+      "final_score": 74.5,
+      "raw_score": 74.5,
+      "sum_score": 149.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
@@ -120,124 +121,6 @@
       "plain_quote": false
     },
     {
-      "title": "半导体ETF罕见批量涨停 是反转还是超跌修复？",
-      "body": "11月4日午后，A股主要指数持续拉升，半导体成为当天最强主线，科创综指收涨9.90%，创业板指收涨6.40%，上证指数涨2.16%；沪深两市成交额2.05万亿元，较前一交易日放量超3300亿元，重返2万亿元关口。ETF方面，科创半导体与科创芯片方向ETF掀涨停潮，包揽涨幅榜全部席位。",
-      "time": "2026-11-04 20:29:15",
-      "stocks": [
-        "90.BK0459",
-        "90.BK0815"
-      ],
-      "src": "东方财富",
-      "id": "202611043922164316",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 5,
-      "impact": "bull",
-      "sectors": [
-        "半导体/AI芯片"
-      ],
-      "has_stock": 1,
-      "ctype": "market",
-      "ctypeName": "市场动作",
-      "axes": {
-        "sig": 7,
-        "nov": 5,
-        "cred": 4,
-        "reson": 8,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 67,
-      "struct_score": 82.0,
-      "final_score": 74.5,
-      "raw_score": 74.5,
-      "sum_score": 149.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "三环集团：拟5亿元至10亿元回购公司股份",
-      "body": "三环集团(300408.SZ)公告称，公司拟使用自有资金或自筹资金以集中竞价方式回购部分A股股份，回购资金总额不低于5亿元且不超过10亿元，回购价格不超过100元/股，用于维护公司价值及股东权益。",
-      "time": "2026-11-04 20:22:22",
-      "stocks": [
-        "0.300408",
-        "116.06951"
-      ],
-      "src": "东方财富",
-      "id": "202611043922148928",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 7,
-        "nov": 5,
-        "cred": 8,
-        "reson": 5,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 62,
-      "struct_score": 82.0,
-      "final_score": 72.0,
-      "raw_score": 72.0,
-      "sum_score": 144.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "*ST英飞：拟1元出售新普互联及英飞拓系统100%股权",
-      "body": "*ST英飞(002528.SZ)公告称，公司拟向三亚佳讯远纾管理咨询有限公司出售新普互联(北京)科技有限公司100%股权和英飞拓(杭州)信息系统技术有限公司100%股权，交易对价为1元。本次交易通过公开竞价方式确定受让方，标的资产估值均为0元。交易完成后，两家标的公司不再纳入公司合并报表范围。本次交易构成重大资产重组，不构成关联交易及重组上市。",
-      "time": "2026-11-04 20:18:52",
-      "stocks": [
-        "0.002528"
-      ],
-      "src": "东方财富",
-      "id": "202611043922146855",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 2,
-      "impact": "neutral",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 7,
-        "nov": 5,
-        "cred": 8,
-        "reson": 1,
-        "act": 7
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 62,
-      "struct_score": 82.0,
-      "final_score": 72.0,
-      "raw_score": 72.0,
-      "sum_score": 144.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
       "title": "印尼将继续严格控制采矿生产",
       "body": "印度尼西亚预计将继续严格控制煤炭、镍等主要矿产资源的工作计划和预算（RKAB）生产配额，以避免产量过剩，并防止国际市场价格下跌。印尼能源部长表示，镍价正在因产量过剩而下跌。政府数据显示，镍产量已达到今年目标的113%，而下游镍铁加工和消纳量目前仅完成目标的66%。",
       "time": "2026-11-04 20:56:38",
@@ -274,44 +157,6 @@
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "杰瑞股份：子公司获ADNOC三项目授标函总金额26.97亿美元",
-      "body": "杰瑞股份公告，全资子公司杰瑞油气工程收到阿布扎比国家石油公司陆上公司三份项目授标函，涉及Ruwais Diyab天然气田全面开发项目、Bab/North East Bab油田陆上设施建设项目、Bu Hasa油田陆上设施建设项目，总金额约26.97亿美元（约合人民币181.164亿元）。其中项目一金额17.04亿美元（含可选订单3.100亿美元），项目二金额6亿美元，项目三金额3.93亿美元（含可选订单1.740亿美元）。目前尚未签署正式合同，项目对公司2026年度财务状况及经营业绩不会构成重大影响。",
-      "time": "2026-11-04 19:37:25",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681471268",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 1,
-      "impact": "neutral",
-      "sectors": [
-        "石油/能源"
-      ],
-      "has_stock": 0,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 10,
-        "nov": 8,
-        "cred": 8,
-        "reson": 8,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 78,
-      "struct_score": 64.0,
-      "final_score": 71.0,
-      "raw_score": 71.0,
-      "sum_score": 142.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
@@ -386,44 +231,6 @@
       "noise_notes": [],
       "content_score": 68,
       "struct_score": 72.0,
-      "final_score": 70.0,
-      "raw_score": 70.0,
-      "sum_score": 140.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "*ST威领：股东上海领亿所持685万股将被司法拍卖",
-      "body": "*ST威领(002667.SZ)公告称，公司股东上海领亿所持685万股无限售流通股将被司法拍卖，占其所持股份的36.68%，占公司总股本的2.63%。若拍卖全部成交，上海领亿持股比例将由7.16%降至4.53%。拍卖将于12月4日至5日在淘宝网司法拍卖平台进行，竞买人过户后六个月内不得减持。",
-      "time": "2026-11-04 20:35:03",
-      "stocks": [
-        "0.002667"
-      ],
-      "src": "东方财富",
-      "id": "202611043922169462",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 2,
-      "impact": "bear",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 7,
-        "nov": 5,
-        "cred": 8,
-        "reson": 1,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 58,
-      "struct_score": 82.0,
       "final_score": 70.0,
       "raw_score": 70.0,
       "sum_score": 140.0,
@@ -673,6 +480,83 @@
       "plain_quote": false
     },
     {
+      "title": "苹果、微软、谷歌、亚马逊集体大涨5%-8% 四家公司单日增加市值超1.13万亿美元",
+      "body": "美股大型科技股延续强势表现，苹果、微软、谷歌和亚马逊股价均大幅上涨。其中，苹果涨6.50%，单日增加市值约3134亿美元；微软涨6.41%，增加约2481亿美元；谷歌-A股涨5.06%、C股涨5.11%，两类股票合计增加市值约3490亿美元；亚马逊涨8.14%，增加约2207亿美元。四家公司单日合计增加市值约1.13万亿美元，亚马逊涨幅居首。",
+      "time": "2026-11-04 23:07:50",
+      "stocks": [
+        "105.AAPL",
+        "105.MSFT"
+      ],
+      "src": "东方财富",
+      "id": "202611043922321278",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 4,
+      "impact": "bull",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "market",
+      "ctypeName": "市场动作",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 4,
+        "reson": 5,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 52,
+      "struct_score": 82.0,
+      "final_score": 67.0,
+      "raw_score": 67.0,
+      "sum_score": 134.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "山鹰国际：浙江省海盐经济开发区管理委员会拟向公司及子公司提供不超过8亿元的阶段性流动性支持",
+      "body": "山鹰国际公告，公司于2026年11月4日收到浙江省海盐经济开发区管理委员会出具的《支持工作函》，为满足公司短期流动性需要，稳定地方就业、保障产业链供应链循环、推动绿色循环经济发展，浙江省海盐经济开发区管理委员会就支持公司有关事项作出意向性说明，拟向公司及公司全资子公司浙江山鹰纸业有限公司提供不超过人民币8亿元的阶段性流动性支持，专项用于补充生产经营流动资金、保障原材料采购与职工薪酬发放、维护公司基地稳定生产。",
+      "time": "2026-11-04 23:11:59",
+      "stocks": [
+        "1.600567"
+      ],
+      "src": "东方财富",
+      "id": "202611043922324129",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 3,
+      "impact": "bull",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 4,
+        "nov": 5,
+        "cred": 8,
+        "reson": 5,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 53,
+      "struct_score": 79.0,
+      "final_score": 66.0,
+      "raw_score": 66.0,
+      "sum_score": 132.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
       "title": "孚日股份：股东安信投资增持750.29万股，持股比例升至12%",
       "body": "孚日股份公告，持股5%以上股东高密安信投资管理股份有限公司基于对公司未来持续稳定发展的坚定信心及长期投资价值的高度认可，于2026年11月4日通过深圳证券交易所交易系统集中竞价交易方式增持公司股份750.29万股，占公司总股本的0.79%。本次增持前，安信投资持有公司股份1.06亿股，占公司总股本的11.21%；本次增持后，持有公司股份1.14亿股，占公司总股本的12%，触及1%整数倍。本次变动不会导致公司控制权发生变更。",
       "time": "2026-11-04 20:21:42",
@@ -749,39 +633,40 @@
       "plain_quote": false
     },
     {
-      "title": "润邦股份：持股5%以上股东深圳毕升增持触及1%整数倍，持股比例增至6.01%",
-      "body": "润邦股份公告，持股5%以上股东深圳毕升私募证券基金管理有限公司于2026年10月22日至2026年11月4日通过深圳证券交易所集中竞价交易方式累计增持公司股份894.31万股，占公司总股本的1.01%，持有公司股份比例由5.01%增加至6.01%，变动触及1%的整数倍。本次增持不会导致公司控制权发生变更，不会对公司的持续经营产生重大影响。",
-      "time": "2026-11-04 19:37:14",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681471261",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 2,
-      "impact": "bull",
-      "sectors": [
-        "券商/大金融"
+      "title": "苹果、微软、谷歌、亚马逊单日市值合计增加超1万亿美元",
+      "body": "苹果涨5.87%，单日增加市值约2816亿美元；微软涨6.24%，增加约2397亿美元；谷歌A股涨4.09%，增加约2790亿美元；亚马逊涨7.79%，增加约2095亿美元。四家公司合计增加市值约1.01万亿美元。",
+      "time": "2026-11-04 23:01:44",
+      "stocks": [
+        "105.AAPL",
+        "105.GOOGL"
       ],
-      "has_stock": 0,
-      "ctype": "company",
-      "ctypeName": "公司事件",
+      "src": "东方财富",
+      "id": "202611043922318172",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 3,
+      "impact": "neutral",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
       "axes": {
-        "sig": 10,
+        "sig": 4,
         "nov": 5,
-        "cred": 8,
-        "reson": 4,
-        "act": 4
+        "cred": 4,
+        "reson": 5,
+        "act": 5
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 68,
-      "struct_score": 64.0,
-      "final_score": 66.0,
-      "raw_score": 66.0,
-      "sum_score": 132.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
+      "content_score": 48,
+      "struct_score": 82.0,
+      "final_score": 65.0,
+      "raw_score": 65.0,
+      "sum_score": 130.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
@@ -940,41 +825,40 @@
       "plain_quote": false
     },
     {
-      "title": "Truist Securities上调超威半导体目标价",
-      "body": "TruistSecurities将超威半导体目标价从594美元上调至605美元。",
-      "time": "2026-11-04 20:19:31",
-      "stocks": [
-        "105.AMD"
-      ],
-      "src": "东方财富",
-      "id": "202611043922147954",
-      "dim": "tech",
-      "dimName": "AI 与科技",
+      "title": "纳斯达克中国金龙指数涨超4%",
+      "body": "纳斯达克中国金龙指数涨超4%，其中世纪互联涨16.11%，晶科能源涨12.84%，阿特斯涨11.53%，大全新能源涨10.83%，宝尊电商涨10.64%。",
+      "time": "2026-11-04 23:06:09",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681476615",
+      "dim": "risk",
+      "dimName": "市场资金面",
       "dim_score": 1,
-      "impact": "bull",
+      "impact": "neutral",
       "sectors": [
-        "半导体/AI芯片"
+        "石油/能源",
+        "新能源/锂电"
       ],
-      "has_stock": 1,
-      "ctype": "view",
-      "ctypeName": "行业观点",
+      "has_stock": 0,
+      "ctype": "market",
+      "ctypeName": "市场动作",
       "axes": {
-        "sig": 6,
+        "sig": 7,
         "nov": 5,
         "cred": 4,
-        "reson": 4,
-        "act": 8
+        "reson": 10,
+        "act": 4
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 60,
-      "struct_score": 69.0,
+      "content_score": 65,
+      "struct_score": 64.0,
       "final_score": 64.5,
       "raw_score": 64.5,
       "sum_score": 129.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
@@ -1055,80 +939,6 @@
       "plain_quote": false
     },
     {
-      "title": "中矿资源：实控人一致行动人王治伟拟增持4000万元至6000万元公司股份",
-      "body": "中矿资源公告，公司部分实际控制人之一致行动人、副总裁王治伟计划自2026年11月9日起6个月内，以自有资金通过集中竞价交易方式增持公司股份，增持金额不低于人民币4000万元且不高于人民币6000万元。王治伟与公司实际控制人之一、董事长、总裁王平卫为父子关系，本次增持前未持有公司股份。王治伟承诺增持计划实施期间及法定期限内不减持所持公司股份，并将在实施期限内完成增持计划。",
-      "time": "2026-11-04 19:37:08",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681471259",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 2,
-      "impact": "neutral",
-      "sectors": [],
-      "has_stock": 0,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 10,
-        "nov": 8,
-        "cred": 8,
-        "reson": 1,
-        "act": 1
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 65,
-      "struct_score": 64.0,
-      "final_score": 64.5,
-      "raw_score": 64.5,
-      "sum_score": 129.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "国联民生：国联期货拟换股吸收合并民生期货",
-      "body": "国联民生公告，为有效化解同业竞争，国联期货拟换股吸收合并民生期货，即民生证券原持有的民生期货100%股权全部转换为国联期货的股份，国联期货同步实现对民生期货的吸收合并。本次交易完成后，民生证券将持有国联期货52.57%股份，国联期货将成为公司的间接控股子公司。",
-      "time": "2026-11-04 19:32:49",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681471155",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "neutral",
-      "sectors": [
-        "券商/大金融"
-      ],
-      "has_stock": 0,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 10,
-        "nov": 5,
-        "cred": 8,
-        "reson": 4,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 68,
-      "struct_score": 61.0,
-      "final_score": 64.5,
-      "raw_score": 64.5,
-      "sum_score": 129.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
       "title": "国际油价持续走低 美油、布油均跌超3.3%",
       "body": "国际油价持续走低，WTI原油期货价格跌3.37%，报92.848美元/桶；布伦特原油期货价格跌3.32%，报100.159美元/桶。",
       "time": "2026-11-04 22:15:29",
@@ -1161,46 +971,6 @@
       "final_score": 64.0,
       "raw_score": 64.0,
       "sum_score": 128.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "伯恩斯坦上调台积电目标价",
-      "body": "伯恩斯坦将台积电目标价从554美元上调至600美元。",
-      "time": "2026-11-04 20:35:27",
-      "stocks": [
-        "106.TSM"
-      ],
-      "src": "东方财富",
-      "id": "202611043922168036",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [
-        "半导体/AI芯片"
-      ],
-      "has_stock": 1,
-      "ctype": "view",
-      "ctypeName": "行业观点",
-      "axes": {
-        "sig": 3,
-        "nov": 5,
-        "cred": 4,
-        "reson": 4,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 57,
-      "struct_score": 69.0,
-      "final_score": 63.0,
-      "raw_score": 63.0,
-      "sum_score": 126.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -1281,6 +1051,44 @@
       "final_score": 62.5,
       "raw_score": 62.5,
       "sum_score": 125.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "比特币、以太坊过去24小时分别大涨4%、6%",
+      "body": "行情显示，比特币涨至80592.2美元，过去24小时内涨4.14%；行情显示，以太坊涨至2436.34美元，过去24小时内涨6.43%。",
+      "time": "2026-11-04 23:10:59",
+      "stocks": [
+        "90.BK0830"
+      ],
+      "src": "东方财富",
+      "id": "202611043922323645",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
+      "impact": "bull",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 4,
+        "nov": 5,
+        "cred": 4,
+        "reson": 2,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 42,
+      "struct_score": 82.0,
+      "final_score": 62.0,
+      "raw_score": 62.0,
+      "sum_score": 124.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -1716,49 +1524,6 @@
       "plain_quote": false
     },
     {
-      "title": "统一股份：控股子公司与宁德时代签订冷却液战略合作协议",
-      "body": "统一股份(600506.SH)公告称，公司控股子公司统一石化与宁德时代签订《冷却液战略合作协议》，双方将围绕冷却液全生命周期合作模式、可靠性要求、新能源汽车后市场业务及质量共建等方面展开合作。",
-      "time": "2026-11-04 20:24:56",
-      "stocks": [
-        "1.600506",
-        "0.300750"
-      ],
-      "src": "东方财富",
-      "id": "202611043922149473",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "bull",
-      "sectors": [
-        "新能源/锂电",
-        "石油/能源",
-        "汽车/智能驾驶"
-      ],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 3,
-        "nov": 5,
-        "cred": 4,
-        "reson": 6,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 49,
-      "struct_score": 73.0,
-      "final_score": 61.0,
-      "raw_score": 61.0,
-      "sum_score": 122.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
       "title": "波兰央行将主要利率维持在3.75%",
       "body": "波兰央行将主要利率维持在3.75%，符合市场预期。",
       "time": "2026-11-04 21:57:11",
@@ -1784,55 +1549,6 @@
       "noise_notes": [],
       "content_score": 58,
       "struct_score": 63.0,
-      "final_score": 60.5,
-      "raw_score": 60.5,
-      "sum_score": 121.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "利好来了！多家券商官宣！近600亿资金已到位",
-      "body": "多家券商积极响应政策号召，中标本次互换便利操作，券商中国记者不完全统计，券商已中标的互换便利总金额已经达到575亿元。",
-      "time": "2026-11-04 20:31:06",
-      "stocks": [
-        "1.601995",
-        "116.03908"
-      ],
-      "src": "东方财富",
-      "id": "202611043922153923",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [
-        "券商/大金融"
-      ],
-      "has_stock": 1,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 3,
-        "nov": 5,
-        "cred": 8,
-        "reson": 8,
-        "act": 10
-      },
-      "axes_raw": {
-        "sig": 7,
-        "nov": 5,
-        "cred": 8,
-        "reson": 8,
-        "act": 10
-      },
-      "noise_notes": [
-        "宣发类内容，无事实增量（sig 压至 3）"
-      ],
-      "content_score": 54,
-      "struct_score": 67.0,
       "final_score": 60.5,
       "raw_score": 60.5,
       "sum_score": 121.0,
@@ -1918,25 +1634,24 @@
       "plain_quote": false
     },
     {
-      "title": "现货黄金向上触及4050美元/盎司",
-      "body": "现货黄金向上触及4050美元/盎司，日内上涨3.06%。",
-      "time": "2026-11-04 20:33:32",
+      "title": "Lambda将在阿拉巴马州建设价值330亿美元的数据中心",
+      "body": "Lambda将在阿拉巴马州建设价值330亿美元的数据中心。",
+      "time": "2026-11-04 23:14:14",
       "stocks": [
-        "90.BK0732",
-        "90.BK1617"
+        "90.BK0922"
       ],
       "src": "东方财富",
-      "id": "202611043922166727",
-      "dim": "risk",
-      "dimName": "市场资金面",
+      "id": "202611043922325892",
+      "dim": "tech",
+      "dimName": "AI 与科技",
       "dim_score": 1,
-      "impact": "bull",
+      "impact": "neutral",
       "sectors": [
-        "黄金/贵金属"
+        "算力/数据中心"
       ],
       "has_stock": 1,
-      "ctype": "overseas",
-      "ctypeName": "海外宏观",
+      "ctype": "tech",
+      "ctypeName": "技术进展",
       "axes": {
         "sig": 4,
         "nov": 5,
@@ -1946,14 +1661,52 @@
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 46,
-      "struct_score": 72.0,
+      "content_score": 43,
+      "struct_score": 75.0,
       "final_score": 59.0,
       "raw_score": 59.0,
       "sum_score": 118.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "商务部在上海召开进博会参展跨国企业圆桌会",
+      "body": "11月4日，商务部副部长凌激在上海主持召开进博会参展跨国企业圆桌会，鹏瑞利、欧姆龙、蔡司、赛诺菲、波音、福特等100余家跨国企业及外国商协会负责人参会。凌激表示，“十五五”时期中国将全面推进产业智能化绿色化融合化发展，人工智能赋能千行百业将催生巨大增量市场，将保障外资企业平等参与政府采购等合法权益，不断完善优化出口管制体系，营造市场化、法治化、国际化一流营商环境，希望跨国企业用好进博会等开放平台。与会企业表示，中国是企业全球市场不可或缺的组成部分，将坚定扩大在华投资，融入中国产业链供应链创新链。（商务部）",
+      "time": "2026-11-04 23:11:59",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681476643",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "has_stock": 0,
+      "ctype": "policy",
+      "ctypeName": "政策发布",
+      "axes": {
+        "sig": 6,
+        "nov": 5,
+        "cred": 6,
+        "reson": 8,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 62,
+      "struct_score": 55.0,
+      "final_score": 58.5,
+      "raw_score": 58.5,
+      "sum_score": 117.0,
+      "tier": "T1",
+      "threshold": 46,
+      "tier_note": "官方机构发布（同花顺 → T1）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
@@ -2185,6 +1938,44 @@
       "plain_quote": false
     },
     {
+      "title": "雷蒙德·詹姆斯上调超微电脑目标价",
+      "body": "雷蒙德·詹姆斯将超微电脑目标价从48美元上调至65美元。",
+      "time": "2026-11-04 20:43:41",
+      "stocks": [
+        "105.SMCI"
+      ],
+      "src": "东方财富",
+      "id": "202611043922175855",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
+      "impact": "bull",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 3,
+        "nov": 5,
+        "cred": 4,
+        "reson": 2,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 41,
+      "struct_score": 69.0,
+      "final_score": 55.0,
+      "raw_score": 55.0,
+      "sum_score": 110.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
       "title": "伯恩斯坦上调苹果目标价",
       "body": "伯恩斯坦将苹果目标价从370美元上调至380美元。",
       "time": "2026-11-04 20:39:00",
@@ -2218,6 +2009,44 @@
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "【媒体关注·吕梁日报】大山好物有了“金名片”——岚县农特产品借“壹品岚州”品牌闯市场",
+      "body": "（来源：岚县新闻）9月19日，岚县携马铃薯、小米、沙棘、食用菌等“壹品岚州”区域公用品牌旗下特色农产品，精彩亮相在上海举办的2026新华指数庆丰收秋季发布暨农业战略风向...",
+      "time": "2026-11-04 22:50:20",
+      "stocks": [],
+      "src": "新浪财经",
+      "id": "905275620",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "农业/种业"
+      ],
+      "has_stock": 0,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 3,
+        "nov": 8,
+        "cred": 4,
+        "reson": 8,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 55,
+      "struct_score": 55.0,
+      "final_score": 55.0,
+      "raw_score": 55.0,
+      "sum_score": 110.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "新浪财经（T2）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
@@ -2265,6 +2094,121 @@
       "plain_quote": false
     },
     {
+      "title": "【关注】十六届岚县县委第一轮巡察完成进驻",
+      "body": "（来源：岚县新闻）按照县委巡察工作领导小组统一安排，截至11月4日，4个巡察组全面完成进驻工作，对县现代农业发展服务中心、县妇女联合会、县能源局、县科学技术协会...",
+      "time": "2026-11-04 22:50:20",
+      "stocks": [],
+      "src": "新浪财经",
+      "id": "905275616",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源",
+        "农业/种业"
+      ],
+      "has_stock": 0,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 3,
+        "nov": 5,
+        "cred": 4,
+        "reson": 10,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 53,
+      "struct_score": 55.0,
+      "final_score": 54.0,
+      "raw_score": 54.0,
+      "sum_score": 108.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "新浪财经（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "胡塞武装：对沙特哈立德国王国际机场等目标进行打击",
+      "body": "当地时间4日傍晚，也门胡塞武装发表声明称，对沙特境内目标发动多次军事行动。声明称，胡塞武装使用弹道导弹打击沙特首都利雅得的哈立德国王国际机场，导弹直接命中目标，并造成机场严重损失。声明警告称，哈立德国王国际机场目前并不安全。",
+      "time": "2026-11-04 23:09:24",
+      "stocks": [
+        "90.BK1480"
+      ],
+      "src": "东方财富",
+      "id": "202611043922322137",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "dim_score": 3,
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "has_stock": 1,
+      "ctype": "overseas",
+      "ctypeName": "海外宏观",
+      "axes": {
+        "sig": 0,
+        "nov": 5,
+        "cred": 4,
+        "reson": 4,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 34,
+      "struct_score": 73.0,
+      "final_score": 53.5,
+      "raw_score": 53.5,
+      "sum_score": 107.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "纳斯达克中国金龙指数涨3.43% 报5719.37点",
+      "body": "纳斯达克中国金龙指数涨3.43%，报5719.37点。",
+      "time": "2026-11-04 22:33:16",
+      "stocks": [],
+      "src": "东方财富",
+      "id": "202611043922301945",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [],
+      "has_stock": 0,
+      "ctype": "market",
+      "ctypeName": "市场动作",
+      "axes": {
+        "sig": 4,
+        "nov": 5,
+        "cred": 4,
+        "reson": 6,
+        "act": 1
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 41,
+      "struct_score": 66.0,
+      "final_score": 53.5,
+      "raw_score": 53.5,
+      "sum_score": 107.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
       "title": "高通称SpaceX将使用Dragonwing用于5G网络",
       "body": "高通称SpaceX将使用Dragonwing用于5G网络，加速Starlink。",
       "time": "2026-11-04 21:36:09",
@@ -2293,6 +2237,42 @@
       "noise_notes": [],
       "content_score": 38,
       "struct_score": 69.0,
+      "final_score": 53.5,
+      "raw_score": 53.5,
+      "sum_score": 107.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "法国CAC指数涨幅扩大至2%",
+      "body": "法国CAC指数涨幅扩大至2%，至8,181.03点。",
+      "time": "2026-11-04 21:34:51",
+      "stocks": [],
+      "src": "东方财富",
+      "id": "202611043922230929",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [],
+      "has_stock": 0,
+      "ctype": "market",
+      "ctypeName": "市场动作",
+      "axes": {
+        "sig": 4,
+        "nov": 5,
+        "cred": 4,
+        "reson": 6,
+        "act": 1
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 41,
+      "struct_score": 66.0,
       "final_score": 53.5,
       "raw_score": 53.5,
       "sum_score": 107.0,
@@ -2343,7 +2323,7 @@
   "provenance": {
     "source": "东方财富快讯 / 新浪财经 / 同花顺快讯（公开接口）",
     "source_type": "public_news_api",
-    "fetched_at": "2026-11-04 22:59:19",
+    "fetched_at": "2026-11-04 23:20:48",
     "auth": "none",
     "sources_ok": [
       "东方财富(80)",
@@ -2352,25 +2332,67 @@
     ],
     "sources_fail": [],
     "scoring": {
-      "total": 195,
+      "total": 196,
       "prefiltered": 4,
-      "passed": 70,
+      "passed": 67,
       "by_type": {
-        "海外宏观": 12,
+        "市场动作": 32,
+        "技术进展": 14,
+        "公司事件": 29,
         "行业观点": 66,
-        "市场动作": 27,
-        "政策发布": 26,
-        "公司事件": 41,
-        "技术进展": 12,
-        "经济数据": 7
+        "经济数据": 8,
+        "海外宏观": 15,
+        "政策发布": 28
       },
       "by_tier": {
         "T1.5": 80,
         "T2": 110,
-        "T1": 1
+        "T1": 2
       },
       "noise_hits": 41,
       "failed": [
+        {
+          "title": "美国10月ISM非制造业PMI为54.5",
+          "score": 39.5,
+          "threshold": 50,
+          "type": "经济数据"
+        },
+        {
+          "title": "中东欧四国总统峰会在斯洛伐克举行",
+          "score": 42,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "据报道 美国众议院议长约翰逊将不会竞选众议院少数党领袖",
+          "score": 39.5,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "以太坊涨至2406.66美元 过去24小时内涨5.15%",
+          "score": 44.5,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "房地美股价跌24% 房利美股价下跌25%",
+          "score": 42,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "美国供应管理学会10月份非制造业指数降至54.5 预期54.8",
+          "score": 38.5,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "国内部分商品期货夜盘收盘 主力合约多数下跌",
+          "score": 49.5,
+          "threshold": 50,
+          "type": "市场动作"
+        },
         {
           "title": "佩斯科夫：目前尚无普京与特朗普通话的计划",
           "score": 39.0,
@@ -2522,28 +2544,64 @@
           "type": "行业观点"
         },
         {
-          "title": "欧元兑美元上涨0.7%至1.1270",
-          "score": 44.5,
-          "threshold": 50,
+          "title": "广西北海：跨海特大桥建设正酣",
+          "score": 42.5,
+          "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "上海银行董事长等高管增持该行股票214万股 增持金额约2000万",
-          "score": 42,
-          "threshold": 50,
+          "title": "江苏宿迁：义诊暖人心",
+          "score": 42.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "河南清丰：生姜丰收",
+          "score": 42.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "王滨，代理广东省惠州市市长",
+          "score": 40.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "正午阳光董事长侯鸿亮：剧集行业确实到了一个临界点，市场会回暖但行业不会简单回到过",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "【通知公告】太原市小店区2026年拟任人民陪审员人选公示",
+          "score": 34.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "【综合快讯】小店基层动态更新啦！",
+          "score": 42.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "【通知公告】小店区寒衣节文明祭扫公告",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "【学习贯彻党的二十届五中全会精神】我县召开2027年重点项目谋划论证会",
+          "score": 47.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "山东的农户请留步！你的销售难题，党报来帮你办",
+          "score": 38.5,
+          "threshold": 52,
           "type": "公司事件"
-        },
-        {
-          "title": "纽约期金突破4060美元/盎司",
-          "score": 43.0,
-          "threshold": 50,
-          "type": "行业观点"
-        },
-        {
-          "title": "特朗普称对伊朗“不需要使用核武器”",
-          "score": 43.5,
-          "threshold": 50,
-          "type": "海外宏观"
         },
         {
           "title": "七十载广交会何以常办常新",
@@ -2558,6 +2616,12 @@
           "type": "公司事件"
         },
         {
+          "title": "让我们相约，这个秋假南京见",
+          "score": 42.5,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
           "title": "【山西日报关注武乡】图片新闻",
           "score": 38.5,
           "threshold": 52,
@@ -2568,6 +2632,12 @@
           "score": 46.5,
           "threshold": 52,
           "type": "行业观点"
+        },
+        {
+          "title": "第二期零基础 AI 漫剧创业公益培训班｜雄安研学同步开启招生",
+          "score": 42,
+          "threshold": 52,
+          "type": "技术进展"
         },
         {
           "title": "青海一高职教师论文两次被同事冒用：用于申学位，删改后投稿期刊",
@@ -2726,82 +2796,34 @@
           "type": "行业观点"
         },
         {
-          "title": "【关注敦煌论坛】2026年文化遗产保护典范和敦煌学研究高地建设媒体见面会举行",
-          "score": 41.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "事关自贸港建设！海南三部门联合发布→",
-          "score": 47.5,
+          "title": "伊朗革命卫队称击落一架美军MQ-1无人机",
+          "score": 49.5,
           "threshold": 52,
           "type": "政策发布"
         },
         {
-          "title": "从“丰收在田”到“丰收在手”",
+          "title": "花旗预计黄金0-3个月内的目标价为每盎司4500美元",
+          "score": 42,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
+          "title": "美股纳斯达克100指数期货涨超2%",
+          "score": 50.5,
+          "threshold": 52,
+          "type": "市场动作"
+        },
+        {
+          "title": "胡塞武装称对沙特哈立德国王国际机场等目标进行打击",
           "score": 42.5,
           "threshold": 52,
-          "type": "公司事件"
+          "type": "海外宏观"
         },
         {
-          "title": "幼儿园改养老院，为何这么难",
-          "score": 36.5,
+          "title": "期市夜盘收盘，国内期货主力合约多数下跌",
+          "score": 46.5,
           "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "白沙举办创建全国文明城市培训",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "百名“凌燕”入驻国家会展中心，开启第九年进博服务征程",
-          "score": 43.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "洛宁县重点项目谋划会议召开",
-          "score": 48.5,
-          "threshold": 52,
-          "type": "政策发布"
-        },
-        {
-          "title": "家属称罗大美生前借出200万难收回罗大美生前备忘录曝出借款明细",
-          "score": 41.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "小邻长释放大效能大桥镇以“睦邻制”激活基层治理末梢活力",
-          "score": 47.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "输送一度电要多久？探访疆电外送“超级心脏”",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "从两大经贸展会读懂“顺差在中国，利益在各方”",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "多部门部署加强消费基础设施建设",
-          "score": 51.5,
-          "threshold": 52,
-          "type": "政策发布"
-        },
-        {
-          "title": "央地合作 推进海洋经济高质量发展",
-          "score": 42.5,
-          "threshold": 52,
-          "type": "行业观点"
+          "type": "市场动作"
         },
         {
           "title": "美国10月标普全球服务业PMI终值 56.1，预期57.9，前值57.9",
@@ -2948,6 +2970,18 @@
           "type": "海外宏观"
         },
         {
+          "title": "特朗普称对伊朗“不需要使用核武器”",
+          "score": 50.0,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
+          "title": "统一股份：控股子公司与宁德时代签订冷却液战略合作协议",
+          "score": 47.5,
+          "threshold": 52,
+          "type": "公司事件"
+        },
+        {
           "title": "三环集团：拟以5亿元-10亿元回购公司股份",
           "score": 42,
           "threshold": 52,
@@ -3066,48 +3100,18 @@
           "score": 33.0,
           "threshold": 52,
           "type": "行业观点"
-        },
-        {
-          "title": "炜冈科技：截至10月31日已回购65.18万股",
-          "score": 42,
-          "threshold": 52,
-          "type": "公司事件"
-        },
-        {
-          "title": "太辰光：拟以6000万元-1亿元回购公司股份",
-          "score": 42,
-          "threshold": 52,
-          "type": "公司事件"
-        },
-        {
-          "title": "瑞穗将AMD目标价从705美元下调至610美元",
-          "score": 36.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "汇宇制药：子公司5款产品获科索沃、英国上市许可",
-          "score": 38.0,
-          "threshold": 52,
-          "type": "公司事件"
-        },
-        {
-          "title": "广钢气体：董事长邓韬提议以2亿元-4亿元回购公司股份",
-          "score": 42,
-          "threshold": 52,
-          "type": "公司事件"
         }
       ]
     },
     "total_fetched": 210,
-    "after_dedupe": 191,
+    "after_dedupe": 192,
     "picked": 60,
-    "passed_threshold": 70,
+    "passed_threshold": 67,
     "dim_dist": {
-      "军事地缘": 4,
-      "宏观经济/政策": 13,
-      "AI 与科技": 19,
-      "市场资金面": 24
+      "军事地缘": 5,
+      "宏观经济/政策": 11,
+      "AI 与科技": 22,
+      "市场资金面": 22
     }
   }
 }

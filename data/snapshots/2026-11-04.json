@@ -1,14 +1,14 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04 23:03:44",
+  "generated_at": "2026-11-04 23:20:42",
   "fresh_days": 10,
   "repos": [
     {
       "full_name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
-      "stars": 272174,
-      "forks": 33136,
+      "stars": 272197,
+      "forks": 33140,
       "lang": "TypeScript",
       "created": "2026-08-13",
       "pushed": "2026-11-04",
@@ -21,13 +21,13 @@
       "owner": "deepseek-ai",
       "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "age_days": 83,
-      "stars_per_day": 3279.2
+      "stars_per_day": 3279.5
     },
     {
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 184258,
+      "stars": 184270,
       "forks": 10166,
       "lang": "JavaScript",
       "created": "2026-06-12",
@@ -43,7 +43,7 @@
       "owner": "DietrichGebert",
       "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
       "age_days": 145,
-      "stars_per_day": 1270.7
+      "stars_per_day": 1270.8
     },
     {
       "full_name": "odysseus-dev/odysseus",
@@ -64,7 +64,7 @@
       "full_name": "storytold/photocraft",
       "url": "https://github.com/storytold/photocraft",
       "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "stars": 76821,
+      "stars": 76823,
       "forks": 13609,
       "lang": "Rust",
       "created": "2026-09-30",
@@ -86,8 +86,8 @@
       "full_name": "eternity4719/HowToLiveBetter",
       "url": "https://github.com/eternity4719/HowToLiveBetter",
       "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "stars": 73380,
-      "forks": 6446,
+      "stars": 73388,
+      "forks": 6447,
       "lang": "HTML",
       "created": "2026-09-07",
       "pushed": "2026-11-04",
@@ -95,14 +95,14 @@
       "owner": "eternity4719",
       "avatar": "https://avatars.githubusercontent.com/u/230156667?v=4",
       "age_days": 58,
-      "stars_per_day": 1265.2
+      "stars_per_day": 1265.3
     },
     {
       "full_name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 62672,
-      "forks": 12278,
+      "stars": 62676,
+      "forks": 12280,
       "lang": "JavaScript",
       "created": "2026-06-22",
       "pushed": "2026-11-04",
@@ -117,14 +117,14 @@
       "owner": "bilawalsidhu",
       "avatar": "https://avatars.githubusercontent.com/u/106619546?v=4",
       "age_days": 135,
-      "stars_per_day": 464.2
+      "stars_per_day": 464.3
     },
     {
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
       "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
       "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "stars": 60381,
-      "forks": 1637,
+      "stars": 60402,
+      "forks": 1638,
       "lang": "JavaScript",
       "created": "2026-09-24",
       "pushed": "2026-11-04",
@@ -139,14 +139,14 @@
       "owner": "Ebony-Vinyl",
       "avatar": "https://avatars.githubusercontent.com/u/245557608?v=4",
       "age_days": 41,
-      "stars_per_day": 1472.7
+      "stars_per_day": 1473.2
     },
     {
       "full_name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 60038,
-      "forks": 3498,
+      "stars": 60040,
+      "forks": 3499,
       "lang": "Python",
       "created": "2026-05-13",
       "pushed": "2026-10-19",
@@ -167,8 +167,8 @@
       "full_name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 58632,
-      "forks": 3820,
+      "stars": 58643,
+      "forks": 3822,
       "lang": "JavaScript",
       "created": "2026-06-18",
       "pushed": "2026-09-14",
@@ -176,14 +176,14 @@
       "owner": "cloudflare",
       "avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
       "age_days": 139,
-      "stars_per_day": 421.8
+      "stars_per_day": 421.9
     },
     {
       "full_name": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "stars": 51804,
-      "forks": 6569,
+      "stars": 51810,
+      "forks": 6571,
       "lang": "Python",
       "created": "2026-10-17",
       "pushed": "2026-11-04",
@@ -198,13 +198,13 @@
       "owner": "Gathin23",
       "avatar": "https://avatars.githubusercontent.com/u/94786511?v=4",
       "age_days": 18,
-      "stars_per_day": 2878.0
+      "stars_per_day": 2878.3
     },
     {
       "full_name": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": 51066,
+      "stars": 51072,
       "forks": 4867,
       "lang": "C++",
       "created": "2026-08-03",
@@ -220,13 +220,13 @@
       "owner": "boykopovar",
       "avatar": "https://avatars.githubusercontent.com/u/184076081?v=4",
       "age_days": 93,
-      "stars_per_day": 549.1
+      "stars_per_day": 549.2
     },
     {
       "full_name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 49413,
+      "stars": 49414,
       "forks": 3625,
       "lang": "Go",
       "created": "2026-05-18",
@@ -248,8 +248,8 @@
       "full_name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-      "stars": 47591,
-      "forks": 5501,
+      "stars": 47595,
+      "forks": 5504,
       "lang": "C",
       "created": "2026-07-01",
       "pushed": "2026-11-04",
@@ -278,8 +278,8 @@
       "full_name": "Niko1221/Strata",
       "url": "https://github.com/Niko1221/Strata",
       "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-      "stars": 39750,
-      "forks": 4327,
+      "stars": 39757,
+      "forks": 4328,
       "lang": "C++",
       "created": "2026-09-24",
       "pushed": "2026-11-02",
@@ -287,13 +287,13 @@
       "owner": "Niko1221",
       "avatar": "https://avatars.githubusercontent.com/u/86886444?v=4",
       "age_days": 41,
-      "stars_per_day": 969.5
+      "stars_per_day": 969.7
     },
     {
       "full_name": "NandhaKishorM/laya",
       "url": "https://github.com/NandhaKishorM/laya",
       "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "stars": 34999,
+      "stars": 34998,
       "forks": 3129,
       "lang": "Python",
       "created": "2026-09-18",
@@ -309,13 +309,13 @@
       "owner": "NandhaKishorM",
       "avatar": "https://avatars.githubusercontent.com/u/48623612?v=4",
       "age_days": 47,
-      "stars_per_day": 744.7
+      "stars_per_day": 744.6
     },
     {
       "full_name": "anywhere-labs/dsh-desktop",
       "url": "https://github.com/anywhere-labs/dsh-desktop",
       "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "stars": 34847,
+      "stars": 34849,
       "forks": 1575,
       "lang": "TypeScript",
       "created": "2026-08-13",
@@ -331,14 +331,14 @@
       "owner": "anywhere-labs",
       "avatar": "https://avatars.githubusercontent.com/u/286827603?v=4",
       "age_days": 83,
-      "stars_per_day": 419.8
+      "stars_per_day": 419.9
     },
     {
       "full_name": "vorssaint/vorssaint-utils",
       "url": "https://github.com/vorssaint/vorssaint-utils",
       "desc": "Free and open-source macOS menu bar toolkit.",
-      "stars": 32883,
-      "forks": 1605,
+      "stars": 32884,
+      "forks": 1606,
       "lang": "Swift",
       "created": "2026-06-12",
       "pushed": "2026-11-03",
@@ -359,7 +359,7 @@
       "full_name": "baidu/Unlimited-OCR",
       "url": "https://github.com/baidu/Unlimited-OCR",
       "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "stars": 30542,
+      "stars": 30541,
       "forks": 3259,
       "lang": "Python",
       "created": "2026-06-18",
@@ -374,8 +374,8 @@
       "full_name": "yetone/magpie",
       "url": "https://github.com/yetone/magpie",
       "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "stars": 29613,
-      "forks": 2548,
+      "stars": 29618,
+      "forks": 2549,
       "lang": "Go",
       "created": "2026-09-23",
       "pushed": "2026-11-04",
@@ -390,13 +390,13 @@
       "owner": "yetone",
       "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
       "age_days": 42,
-      "stars_per_day": 705.1
+      "stars_per_day": 705.2
     },
     {
       "full_name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
       "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "stars": 27927,
+      "stars": 27929,
       "forks": 3227,
       "lang": "TypeScript",
       "created": "2026-07-29",
@@ -433,7 +433,7 @@
       "full_name": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "desc": "A privacy-first app that strips AI watermarks from content you own.",
-      "stars": 26248,
+      "stars": 26251,
       "forks": 2994,
       "lang": "Python",
       "created": "2026-08-11",
@@ -470,7 +470,7 @@
       "full_name": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "stars": 25093,
+      "stars": 25094,
       "forks": 909,
       "lang": "Rust",
       "created": "2026-05-24",
@@ -492,7 +492,7 @@
       "full_name": "wheresryan22/anatomy",
       "url": "https://github.com/wheresryan22/anatomy",
       "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "stars": 24748,
+      "stars": 24753,
       "forks": 2065,
       "lang": "JavaScript",
       "created": "2026-10-08",
@@ -506,7 +506,7 @@
       "owner": "wheresryan22",
       "avatar": "https://avatars.githubusercontent.com/u/96392276?v=4",
       "age_days": 27,
-      "stars_per_day": 916.6
+      "stars_per_day": 916.8
     },
     {
       "full_name": "browser-use/jev-ultrafast",
@@ -527,7 +527,7 @@
       "full_name": "firecrawl/anydoc",
       "url": "https://github.com/firecrawl/anydoc",
       "desc": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "stars": 23345,
+      "stars": 23346,
       "forks": 1512,
       "lang": "Rust",
       "created": "2026-08-03",
@@ -542,7 +542,7 @@
       "full_name": "google-research/harness2",
       "url": "https://github.com/google-research/harness2",
       "desc": "",
-      "stars": 22607,
+      "stars": 22613,
       "forks": 2251,
       "lang": "Python",
       "created": "2026-10-06",
@@ -551,13 +551,13 @@
       "owner": "google-research",
       "avatar": "https://avatars.githubusercontent.com/u/43830688?v=4",
       "age_days": 29,
-      "stars_per_day": 779.6
+      "stars_per_day": 779.8
     },
     {
       "full_name": "lexmount/moli",
       "url": "https://github.com/lexmount/moli",
       "desc": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-      "stars": 22560,
+      "stars": 22562,
       "forks": 623,
       "lang": "Rust",
       "created": "2026-08-10",
@@ -579,8 +579,8 @@
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "stars": 22378,
-      "forks": 6659,
+      "stars": 22380,
+      "forks": 6662,
       "lang": "JavaScript",
       "created": "2026-08-13",
       "pushed": "2026-11-04",
@@ -600,7 +600,7 @@
       "full_name": "KnifeLemon/Filee",
       "url": "https://github.com/KnifeLemon/Filee",
       "desc": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-      "stars": 21795,
+      "stars": 21808,
       "forks": 1313,
       "lang": "C#",
       "created": "2026-09-29",
@@ -616,13 +616,13 @@
       "owner": "KnifeLemon",
       "avatar": "https://avatars.githubusercontent.com/u/13937016?v=4",
       "age_days": 36,
-      "stars_per_day": 605.4
+      "stars_per_day": 605.8
     },
     {
       "full_name": "zhishile/codex-auth-helper",
       "url": "https://github.com/zhishile/codex-auth-helper",
       "desc": "Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。",
-      "stars": 20335,
+      "stars": 20338,
       "forks": 827,
       "lang": "CSS",
       "created": "2026-06-02",
@@ -637,7 +637,7 @@
       "full_name": "latent-spaces/brag",
       "url": "https://github.com/latent-spaces/brag",
       "desc": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
-      "stars": 20266,
+      "stars": 20269,
       "forks": 1572,
       "lang": "Python",
       "created": "2026-06-16",
@@ -653,13 +653,13 @@
       "owner": "latent-spaces",
       "avatar": "https://avatars.githubusercontent.com/u/292754346?v=4",
       "age_days": 141,
-      "stars_per_day": 143.7
+      "stars_per_day": 143.8
     },
     {
       "full_name": "img2threejs/img2threejs",
       "url": "https://github.com/img2threejs/img2threejs",
       "desc": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-      "stars": 20250,
+      "stars": 20252,
       "forks": 1708,
       "lang": "Python",
       "created": "2026-07-15",
@@ -681,7 +681,7 @@
       "full_name": "storytold/pdfcraft",
       "url": "https://github.com/storytold/pdfcraft",
       "desc": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
-      "stars": 19519,
+      "stars": 19521,
       "forks": 7300,
       "lang": "Rust",
       "created": "2026-09-30",
@@ -703,8 +703,8 @@
       "full_name": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "desc": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
-      "stars": 19233,
-      "forks": 2554,
+      "stars": 19238,
+      "forks": 2555,
       "lang": "JavaScript",
       "created": "2026-07-18",
       "pushed": "2026-11-04",
@@ -719,13 +719,13 @@
       "owner": "DuarteSantos8",
       "avatar": "https://avatars.githubusercontent.com/u/171949022?v=4",
       "age_days": 109,
-      "stars_per_day": 176.4
+      "stars_per_day": 176.5
     },
     {
       "full_name": "xerj-org/xerj",
       "url": "https://github.com/xerj-org/xerj",
       "desc": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
-      "stars": 19033,
+      "stars": 19036,
       "forks": 1464,
       "lang": "Rust",
       "created": "2026-06-30",
@@ -747,7 +747,7 @@
       "full_name": "andrewyng/openworker",
       "url": "https://github.com/andrewyng/openworker",
       "desc": "",
-      "stars": 18889,
+      "stars": 18890,
       "forks": 2688,
       "lang": "Python",
       "created": "2026-07-20",
@@ -762,8 +762,8 @@
       "full_name": "robbietilton/Compositor",
       "url": "https://github.com/robbietilton/Compositor",
       "desc": "The Photoshop alternative for Mac",
-      "stars": 18431,
-      "forks": 1827,
+      "stars": 18433,
+      "forks": 1828,
       "lang": "Swift",
       "created": "2026-09-16",
       "pushed": "2026-11-03",
@@ -771,14 +771,14 @@
       "owner": "robbietilton",
       "avatar": "https://avatars.githubusercontent.com/u/1269226?v=4",
       "age_days": 49,
-      "stars_per_day": 376.1
+      "stars_per_day": 376.2
     },
     {
       "full_name": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "desc": "Towards a More Autonomous Agent System",
-      "stars": 18308,
-      "forks": 2007,
+      "stars": 18324,
+      "forks": 2012,
       "lang": "TypeScript",
       "created": "2026-10-31",
       "pushed": "2026-11-03",
@@ -786,14 +786,14 @@
       "owner": "deepseek-ai",
       "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "age_days": 4,
-      "stars_per_day": 4577.0
+      "stars_per_day": 4581.0
     },
     {
       "full_name": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
-      "stars": 10374,
-      "forks": 1711,
+      "stars": 10414,
+      "forks": 1716,
       "lang": "Rust",
       "created": "2026-10-31",
       "pushed": "2026-11-04",
@@ -801,14 +801,14 @@
       "owner": "storytold",
       "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
       "age_days": 4,
-      "stars_per_day": 2593.5
+      "stars_per_day": 2603.5
     },
     {
       "full_name": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stars": 8202,
-      "forks": 407,
+      "stars": 8229,
+      "forks": 408,
       "lang": "JavaScript",
       "created": "2026-10-29",
       "pushed": "2026-11-01",
@@ -816,14 +816,14 @@
       "owner": "heydamir",
       "avatar": "https://avatars.githubusercontent.com/u/97800728?v=4",
       "age_days": 6,
-      "stars_per_day": 1367.0
+      "stars_per_day": 1371.5
     },
     {
       "full_name": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stars": 6495,
-      "forks": 1362,
+      "stars": 6506,
+      "forks": 1373,
       "lang": "Kotlin",
       "created": "2026-10-29",
       "pushed": "2026-11-04",
@@ -838,14 +838,14 @@
       "owner": "wangzan101",
       "avatar": "https://avatars.githubusercontent.com/u/102038245?v=4",
       "age_days": 6,
-      "stars_per_day": 1082.5
+      "stars_per_day": 1084.3
     },
     {
       "full_name": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stars": 5908,
-      "forks": 1505,
+      "stars": 5911,
+      "forks": 1507,
       "lang": "TypeScript",
       "created": "2026-10-27",
       "pushed": "2026-11-04",
@@ -860,13 +860,13 @@
       "owner": "anhao",
       "avatar": "https://avatars.githubusercontent.com/u/9844218?v=4",
       "age_days": 8,
-      "stars_per_day": 738.5
+      "stars_per_day": 738.9
     },
     {
       "full_name": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-      "stars": 4727,
+      "stars": 4730,
       "forks": 381,
       "lang": "C",
       "created": "2026-10-29",
@@ -881,14 +881,14 @@
       "owner": "valentderah",
       "avatar": "https://avatars.githubusercontent.com/u/41872026?v=4",
       "age_days": 6,
-      "stars_per_day": 787.8
+      "stars_per_day": 788.3
     },
     {
       "full_name": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
       "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-      "stars": 4543,
-      "forks": 604,
+      "stars": 4553,
+      "forks": 606,
       "lang": "JavaScript",
       "created": "2026-10-30",
       "pushed": "2026-10-31",
@@ -903,13 +903,13 @@
       "owner": "patch-gg",
       "avatar": "https://avatars.githubusercontent.com/u/337959018?v=4",
       "age_days": 5,
-      "stars_per_day": 908.6
+      "stars_per_day": 910.6
     },
     {
       "full_name": "BryceYuuu/RUN",
       "url": "https://github.com/BryceYuuu/RUN",
       "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "stars": 3551,
+      "stars": 3559,
       "forks": 257,
       "lang": "Python",
       "created": "2026-10-29",
@@ -918,13 +918,13 @@
       "owner": "BryceYuuu",
       "avatar": "https://avatars.githubusercontent.com/u/153735320?v=4",
       "age_days": 6,
-      "stars_per_day": 591.8
+      "stars_per_day": 593.2
     },
     {
       "full_name": "Djihads80/Eglantine",
       "url": "https://github.com/Djihads80/Eglantine",
       "desc": "VERY experimental Nintendo Switch 2 emulator",
-      "stars": 3378,
+      "stars": 3384,
       "forks": 388,
       "lang": "C++",
       "created": "2026-10-29",
@@ -933,14 +933,14 @@
       "owner": "Djihads80",
       "avatar": "https://avatars.githubusercontent.com/u/76681596?v=4",
       "age_days": 6,
-      "stars_per_day": 563.0
+      "stars_per_day": 564.0
     },
     {
       "full_name": "haydenschmitty/floorplan",
       "url": "https://github.com/haydenschmitty/floorplan",
       "desc": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "stars": 2781,
-      "forks": 202,
+      "stars": 2783,
+      "forks": 203,
       "lang": "JavaScript",
       "created": "2026-10-27",
       "pushed": "2026-11-02",
@@ -955,7 +955,7 @@
       "owner": "haydenschmitty",
       "avatar": "https://avatars.githubusercontent.com/u/348570593?v=4",
       "age_days": 8,
-      "stars_per_day": 347.6
+      "stars_per_day": 347.9
     },
     {
       "full_name": "modelflare-ai/AnyModelBot",
@@ -965,7 +965,7 @@
       "forks": 27,
       "lang": "Python",
       "created": "2026-10-27",
-      "pushed": "2026-11-03",
+      "pushed": "2026-11-04",
       "topics": [
         "ai-agent",
         "ai-assistant",
@@ -980,26 +980,11 @@
       "stars_per_day": 336.9
     },
     {
-      "full_name": "paipiange/nvzhuang",
-      "url": "https://github.com/paipiange/nvzhuang",
-      "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "stars": 2188,
-      "forks": 554,
-      "lang": "Go",
-      "created": "2026-10-29",
-      "pushed": "2026-11-03",
-      "topics": [],
-      "owner": "paipiange",
-      "avatar": "https://avatars.githubusercontent.com/u/133310917?v=4",
-      "age_days": 6,
-      "stars_per_day": 364.7
-    },
-    {
       "full_name": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "stars": 2175,
-      "forks": 437,
+      "stars": 2203,
+      "forks": 444,
       "lang": "TypeScript",
       "created": "2026-11-03",
       "pushed": "2026-11-04",
@@ -1014,13 +999,28 @@
       "owner": "KKKKhazix",
       "avatar": "https://avatars.githubusercontent.com/u/239590580?v=4",
       "age_days": 1,
-      "stars_per_day": 2175.0
+      "stars_per_day": 2203.0
+    },
+    {
+      "full_name": "paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "stars": 2188,
+      "forks": 554,
+      "lang": "HTML",
+      "created": "2026-10-29",
+      "pushed": "2026-11-04",
+      "topics": [],
+      "owner": "paipiange",
+      "avatar": "https://avatars.githubusercontent.com/u/133310917?v=4",
+      "age_days": 6,
+      "stars_per_day": 364.7
     },
     {
       "full_name": "Verlintas/NOIR",
       "url": "https://github.com/Verlintas/NOIR",
       "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-      "stars": 1912,
+      "stars": 1919,
       "forks": 157,
       "lang": "Kotlin",
       "created": "2026-10-31",
@@ -1036,13 +1036,13 @@
       "owner": "Verlintas",
       "avatar": "https://avatars.githubusercontent.com/u/310443301?v=4",
       "age_days": 4,
-      "stars_per_day": 478.0
+      "stars_per_day": 479.8
     },
     {
       "full_name": "elvarofficial/teardown",
       "url": "https://github.com/elvarofficial/teardown",
       "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "stars": 1836,
+      "stars": 1841,
       "forks": 276,
       "lang": "JavaScript",
       "created": "2026-10-30",
@@ -1051,7 +1051,7 @@
       "owner": "elvarofficial",
       "avatar": "https://avatars.githubusercontent.com/u/350203459?v=4",
       "age_days": 5,
-      "stars_per_day": 367.2
+      "stars_per_day": 368.2
     },
     {
       "full_name": "lexifina/global-law",
@@ -1079,8 +1079,8 @@
       "full_name": "benjitaylor/skills",
       "url": "https://github.com/benjitaylor/skills",
       "desc": "Skills for AI coding agents.",
-      "stars": 1777,
-      "forks": 125,
+      "stars": 1784,
+      "forks": 126,
       "lang": "TypeScript",
       "created": "2026-10-26",
       "pushed": "2026-11-04",
@@ -1088,7 +1088,7 @@
       "owner": "benjitaylor",
       "avatar": "https://avatars.githubusercontent.com/u/30378142?v=4",
       "age_days": 9,
-      "stars_per_day": 197.4
+      "stars_per_day": 198.2
     },
     {
       "full_name": "aschmelyun/print-my-profile-pic",
@@ -1124,7 +1124,7 @@
       "full_name": "caru-ini/stack-diagram",
       "url": "https://github.com/caru-ini/stack-diagram",
       "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "stars": 1719,
+      "stars": 1721,
       "forks": 75,
       "lang": "TypeScript",
       "created": "2026-11-01",
@@ -1140,7 +1140,7 @@
       "owner": "caru-ini",
       "avatar": "https://avatars.githubusercontent.com/u/166897461?v=4",
       "age_days": 3,
-      "stars_per_day": 573.0
+      "stars_per_day": 573.7
     },
     {
       "full_name": "physicsdolphin/nv-uefi-unlocker",
@@ -1161,7 +1161,7 @@
       "full_name": "Motionsites-AI/claude-skill",
       "url": "https://github.com/Motionsites-AI/claude-skill",
       "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "stars": 1623,
+      "stars": 1624,
       "forks": 162,
       "lang": "Python",
       "created": "2026-10-26",
@@ -1170,13 +1170,13 @@
       "owner": "Motionsites-AI",
       "avatar": "https://avatars.githubusercontent.com/u/348156401?v=4",
       "age_days": 9,
-      "stars_per_day": 180.3
+      "stars_per_day": 180.4
     },
     {
       "full_name": "D3voz/openjutsu",
       "url": "https://github.com/D3voz/openjutsu",
       "desc": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
-      "stars": 1580,
+      "stars": 1581,
       "forks": 242,
       "lang": "TypeScript",
       "created": "2026-10-26",
@@ -1192,7 +1192,7 @@
       "owner": "D3voz",
       "avatar": "https://avatars.githubusercontent.com/u/139697969?v=4",
       "age_days": 9,
-      "stars_per_day": 175.6
+      "stars_per_day": 175.7
     },
     {
       "full_name": "smithjohn78390/tongjiang-lab",
@@ -1220,7 +1220,7 @@
       "full_name": "Pika-Labs/Pika-H3-Flex",
       "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
       "desc": "Pika H3 Flex: video and audio generation inference",
-      "stars": 1554,
+      "stars": 1553,
       "forks": 31,
       "lang": "Python",
       "created": "2026-10-29",
@@ -1229,7 +1229,7 @@
       "owner": "Pika-Labs",
       "avatar": "https://avatars.githubusercontent.com/u/272671295?v=4",
       "age_days": 6,
-      "stars_per_day": 259.0
+      "stars_per_day": 258.8
     },
     {
       "full_name": "Arjun-Ingole/hop",
@@ -1251,7 +1251,7 @@
       "url": "https://github.com/kevinraymond/florilegium",
       "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
       "stars": 1423,
-      "forks": 40,
+      "forks": 39,
       "lang": "TeX",
       "created": "2026-10-30",
       "pushed": "2026-11-04",
@@ -1272,7 +1272,7 @@
       "full_name": "mromidev/claude-animated-shorts",
       "url": "https://github.com/mromidev/claude-animated-shorts",
       "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "stars": 1412,
+      "stars": 1419,
       "forks": 330,
       "lang": "TypeScript",
       "created": "2026-11-01",
@@ -1281,14 +1281,14 @@
       "owner": "mromidev",
       "avatar": "https://avatars.githubusercontent.com/u/233344575?v=4",
       "age_days": 3,
-      "stars_per_day": 470.7
+      "stars_per_day": 473.0
     },
     {
       "full_name": "HRuiCcc/RuiC-PoseAtlas",
       "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
       "desc": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "stars": 1194,
-      "forks": 290,
+      "stars": 1196,
+      "forks": 291,
       "lang": "JavaScript",
       "created": "2026-10-28",
       "pushed": "2026-11-01",
@@ -1303,13 +1303,13 @@
       "owner": "HRuiCcc",
       "avatar": "https://avatars.githubusercontent.com/u/319719670?v=4",
       "age_days": 7,
-      "stars_per_day": 170.6
+      "stars_per_day": 170.9
     },
     {
       "full_name": "BookracyFOS/bookracy",
       "url": "https://github.com/BookracyFOS/bookracy",
       "desc": "Free, open-source book search, reader and library.",
-      "stars": 1182,
+      "stars": 1183,
       "forks": 68,
       "lang": "TypeScript",
       "created": "2026-10-26",
@@ -1318,13 +1318,13 @@
       "owner": "BookracyFOS",
       "avatar": "https://avatars.githubusercontent.com/u/348335024?v=4",
       "age_days": 9,
-      "stars_per_day": 131.3
+      "stars_per_day": 131.4
     },
     {
       "full_name": "NiazMorshed2007/reanimate",
       "url": "https://github.com/NiazMorshed2007/reanimate",
       "desc": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
-      "stars": 1143,
+      "stars": 1145,
       "forks": 108,
       "lang": "JavaScript",
       "created": "2026-10-29",
@@ -1340,13 +1340,13 @@
       "owner": "NiazMorshed2007",
       "avatar": "https://avatars.githubusercontent.com/u/77217706?v=4",
       "age_days": 6,
-      "stars_per_day": 190.5
+      "stars_per_day": 190.8
     },
     {
       "full_name": "govijr/terminal-mac",
       "url": "https://github.com/govijr/terminal-mac",
       "desc": "Entire MacOS running in your terminal.",
-      "stars": 1126,
+      "stars": 1141,
       "forks": 75,
       "lang": "Swift",
       "created": "2026-11-03",
@@ -1362,7 +1362,7 @@
       "owner": "govijr",
       "avatar": "https://avatars.githubusercontent.com/u/111436589?v=4",
       "age_days": 1,
-      "stars_per_day": 1126.0
+      "stars_per_day": 1141.0
     },
     {
       "full_name": "deepopen-com/deepopen-3d-webs",
@@ -1402,8 +1402,8 @@
       "full_name": "wquguru/cicada",
       "url": "https://github.com/wquguru/cicada",
       "desc": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
-      "stars": 989,
-      "forks": 202,
+      "stars": 998,
+      "forks": 204,
       "lang": "Swift",
       "created": "2026-11-01",
       "pushed": "2026-11-03",
@@ -1418,13 +1418,13 @@
       "owner": "wquguru",
       "avatar": "https://avatars.githubusercontent.com/u/209866177?v=4",
       "age_days": 3,
-      "stars_per_day": 329.7
+      "stars_per_day": 332.7
     },
     {
       "full_name": "RikiyaT/lm_understand-logs",
       "url": "https://github.com/RikiyaT/lm_understand-logs",
       "desc": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "stars": 868,
+      "stars": 870,
       "forks": 107,
       "lang": "Python",
       "created": "2026-10-29",
@@ -1433,7 +1433,7 @@
       "owner": "RikiyaT",
       "avatar": "https://avatars.githubusercontent.com/u/122655264?v=4",
       "age_days": 6,
-      "stars_per_day": 144.7
+      "stars_per_day": 145.0
     },
     {
       "full_name": "kargulstudio/calender-app-design",
@@ -1515,45 +1515,45 @@
     }
   ],
   "deltas": {
-    "deepseek-ai/deepseek-harness": 16387,
-    "DietrichGebert/ponytail": 14617,
+    "deepseek-ai/deepseek-harness": 16410,
+    "DietrichGebert/ponytail": 14629,
     "odysseus-dev/odysseus": 976,
-    "storytold/photocraft": 7160,
-    "eternity4719/HowToLiveBetter": 6304,
-    "bilawalsidhu/gods-eye-view": 4137,
-    "Ebony-Vinyl/dsh-our-free-model": 29530,
-    "ayghri/i-have-adhd": 2006,
-    "cloudflare/security-audit-skill": 24442,
-    "Gathin23/cleanyourtv": 40063,
-    "boykopovar/AnyPS5": 5534,
-    "alibaba/open-code-review": 1681,
-    "JustVugg/colibri": 4523,
+    "storytold/photocraft": 7162,
+    "eternity4719/HowToLiveBetter": 6312,
+    "bilawalsidhu/gods-eye-view": 4141,
+    "Ebony-Vinyl/dsh-our-free-model": 29551,
+    "ayghri/i-have-adhd": 2008,
+    "cloudflare/security-audit-skill": 24453,
+    "Gathin23/cleanyourtv": 40069,
+    "boykopovar/AnyPS5": 5540,
+    "alibaba/open-code-review": 1682,
+    "JustVugg/colibri": 4527,
     "zhaoxuya520/reverse-skill": 1304,
-    "Niko1221/Strata": 10542,
-    "NandhaKishorM/laya": 1292,
-    "anywhere-labs/dsh-desktop": 2854,
-    "vorssaint/vorssaint-utils": 4356,
-    "baidu/Unlimited-OCR": 2590,
-    "hypit-ai/hypit": 3636,
+    "Niko1221/Strata": 10549,
+    "NandhaKishorM/laya": 1291,
+    "anywhere-labs/dsh-desktop": 2856,
+    "vorssaint/vorssaint-utils": 4357,
+    "baidu/Unlimited-OCR": 2589,
+    "hypit-ai/hypit": 3638,
     "xai-org/grok-build": 203,
-    "guillaumemeyer/watermarks-remover": 1696,
+    "guillaumemeyer/watermarks-remover": 1699,
     "deepseek-ai/DeepInfer": 13109,
-    "AprilNEA/OpenLogi": 1225,
+    "AprilNEA/OpenLogi": 1226,
     "browser-use/jev-ultrafast": 823,
-    "firecrawl/anydoc": 349,
-    "lexmount/moli": 2680,
-    "awesome-dsh-plugin/awesome-dsh-plugin": 2650,
-    "zhishile/codex-auth-helper": 967,
-    "img2threejs/img2threejs": 1729,
-    "andrewyng/openworker": 241
+    "firecrawl/anydoc": 350,
+    "lexmount/moli": 2682,
+    "awesome-dsh-plugin/awesome-dsh-plugin": 2652,
+    "zhishile/codex-auth-helper": 970,
+    "img2threejs/img2threejs": 1731,
+    "andrewyng/openworker": 242
   },
   "prev_date": "2026-10-21",
   "provenance": {
     "source": "api.github.com/search/repositories",
     "source_type": "official_api",
-    "auth": "anonymous",
-    "rate_limit": "10 req/min (unauthenticated)",
-    "fetched_at": "2026-11-04 23:03:06",
+    "auth": "token (GITHUB_TOKEN)",
+    "rate_limit": "30 req/min (token)",
+    "fetched_at": "2026-11-04 23:20:34",
     "metrics": {
       "rocket": {
         "status": "observed",

@@ -1,24 +1,27 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04 22:59",
+  "generated_at": "2026-11-04 23:20",
   "events": [
     {
-      "eid": "9e8c4ab8a9",
-      "ekey": "亿元回购公司股份",
-      "kind": "topic_line",
-      "title": "凯莱英：拟5亿元至7亿元回购公司股份",
-      "body": "凯莱英(002821.SZ)公告称，公司拟使用自有资金及自筹资金(含股票回购专项贷款资金等)以集中竞价方式回购公司A股股份，回购资金总额不低于5亿元且不超过7亿元，回购价格不超过246元/股。回购股份将用于后续实施员工持股计划或股权激励及注销减少注册资本。",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
+      "eid": "3f07a46421",
+      "ekey": "纳斯达克中国金龙指数指数涨超",
+      "kind": "event_line",
+      "title": "纳斯达克中国金龙指数指数涨超3%",
+      "body": "纳斯达克中国金龙指数涨3.37%，报5716.36点，成分股全线上涨。亿航智能涨6.31%领涨，哔哩哔哩涨5.31%，阿里巴巴涨4.63%，百度涨3.61%，京东涨3.49%，拼多多涨3.31%，贝壳涨3.07%，理想汽车涨3.04%，蔚来涨2.98%，小鹏集团涨2.64%，网易涨2.49%，携程涨2.13%，富途控股涨1.12%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
       "impact": "bull",
-      "sectors": [],
-      "ctypeName": "公司事件",
+      "sectors": [
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
       "tier": "T1.5",
-      "score": 79.5,
-      "heat": 1.0,
-      "source_count": 1,
+      "score": 64.5,
+      "heat": 2.0,
+      "source_count": 2,
       "sources": [
-        "东方财富"
+        "东方财富",
+        "同花顺"
       ],
       "isNew": true,
       "isRising": false,
@@ -28,29 +31,38 @@
       "topic": null,
       "topicLabel": "",
       "merged": true,
-      "member_count": 2,
+      "member_count": 3,
       "members": [
         {
-          "title": "凯莱英：拟5亿元至7亿元回购公司股份",
+          "title": "纳斯达克中国金龙指数指数涨超3%",
           "src": "东方财富",
-          "time": "2026-11-04 20:22:17",
-          "body": "凯莱英(002821.SZ)公告称，公司拟使用自有资金及自筹资金(含股票回购专项贷款资金等)以集中竞价方式回购公司A股股份，回购资金总额不低于5亿元且不超过7亿元，回购价格不超过246元/股。回购股份将用于后续实施员工持股计划或股权激励及注销减少注册资本。",
-          "score": 79.5
+          "time": "2026-11-04 22:48:18",
+          "body": "纳斯达克中国金龙指数涨3.37%，报5716.36点，成分股全线上涨。亿航智能涨6.31%领涨，哔哩哔哩涨5.31%，阿里巴巴涨4.63%，百度涨3.61%，京东涨3.49%，拼多多涨3.31%，贝壳涨3.07%，理想汽车涨3.04%，蔚来涨2.98%，小鹏集团涨2.64%，网易涨2.49%，携程涨2.13%，富途控股涨1.12%。",
+          "score": 64.5
         },
         {
-          "title": "三环集团：拟5亿元至10亿元回购公司股份",
+          "title": "纳斯达克中国金龙指数涨超4%",
+          "src": "同花顺",
+          "time": "2026-11-04 23:06:09",
+          "body": "纳斯达克中国金龙指数涨超4%，其中世纪互联涨16.11%，晶科能源涨12.84%，阿特斯涨11.53%，大全新能源涨10.83%，宝尊电商涨10.64%。",
+          "score": 64.5
+        },
+        {
+          "title": "纳斯达克中国金龙指数涨3.43% 报5719.37点",
           "src": "东方财富",
-          "time": "2026-11-04 20:22:22",
-          "body": "三环集团(300408.SZ)公告称，公司拟使用自有资金或自筹资金以集中竞价方式回购部分A股股份，回购资金总额不低于5亿元且不超过10亿元，回购价格不超过100元/股，用于维护公司价值及股东权益。",
-          "score": 72.0
+          "time": "2026-11-04 22:33:16",
+          "body": "纳斯达克中国金龙指数涨3.43%，报5719.37点。",
+          "score": 53.5
         }
       ],
       "merge_reasons": [
-        "标题相似度 0.59 ≥ 0.52"
+        "标题相似度 0.83 ≥ 0.52",
+        "标题相似度 0.64 ≥ 0.52",
+        "标题相似度 0.75 ≥ 0.52"
       ],
       "related": [],
-      "time": "2026-11-04 20:22:17",
-      "rank_score": 46.8
+      "time": "2026-11-04 22:48:18",
+      "rank_score": 61.8
     },
     {
       "eid": "99ce5c0644",
@@ -96,6 +108,49 @@
       "rank_score": 46.2
     },
     {
+      "eid": "cb1e91fd1c",
+      "ekey": "晶科能源|禾赛科技",
+      "kind": "topic_line",
+      "title": "纳斯达克金龙中国指数涨超4％ 万国数据涨逾9% 阿里巴巴涨超6%",
+      "body": "纳斯达克金龙中国指数涨超4％，世纪互联涨超16％，晶科能源涨近13％，禾赛科技涨超10%，万国数据涨逾9%，阿里巴巴涨超6%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 74.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "纳斯达克金龙中国指数涨超4％ 万国数据涨逾9% 阿里巴巴涨超6%",
+          "src": "东方财富",
+          "time": "2026-11-04 23:12:48",
+          "body": "纳斯达克金龙中国指数涨超4％，世纪互联涨超16％，晶科能源涨近13％，禾赛科技涨超10%，万国数据涨逾9%，阿里巴巴涨超6%。",
+          "score": 74.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 23:12:48",
+      "rank_score": 44.8
+    },
+    {
       "eid": "e9bf7d6f03",
       "ekey": "英伟达|费城半导体#AI芯片",
       "kind": "topic_line",
@@ -139,90 +194,6 @@
       "rank_score": 44.8
     },
     {
-      "eid": "d8280e5727",
-      "ekey": "半导体ETF罕见批量涨停是反转还",
-      "kind": "event_line",
-      "title": "半导体ETF罕见批量涨停 是反转还是超跌修复？",
-      "body": "11月4日午后，A股主要指数持续拉升，半导体成为当天最强主线，科创综指收涨9.90%，创业板指收涨6.40%，上证指数涨2.16%；沪深两市成交额2.05万亿元，较前一交易日放量超3300亿元，重返2万亿元关口。ETF方面，科创半导体与科创芯片方向ETF掀涨停潮，包揽涨幅榜全部席位。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "bull",
-      "sectors": [
-        "半导体/AI芯片"
-      ],
-      "ctypeName": "市场动作",
-      "tier": "T1.5",
-      "score": 74.5,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": "AI芯片",
-      "topicLabel": "AI 芯片与算力",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "半导体ETF罕见批量涨停 是反转还是超跌修复？",
-          "src": "东方财富",
-          "time": "2026-11-04 20:29:15",
-          "body": "11月4日午后，A股主要指数持续拉升，半导体成为当天最强主线，科创综指收涨9.90%，创业板指收涨6.40%，上证指数涨2.16%；沪深两市成交额2.05万亿元，较前一交易日放量超3300亿元，重返2万亿元关口。ETF方面，科创半导体与科创芯片方向ETF掀涨停潮，包揽涨幅榜全部席位。",
-          "score": 74.5
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 20:29:15",
-      "rank_score": 44.8
-    },
-    {
-      "eid": "63fcea50f8",
-      "ekey": "ST英飞拟元出售新普互联及英飞拓",
-      "kind": "event_line",
-      "title": "*ST英飞：拟1元出售新普互联及英飞拓系统100%股权",
-      "body": "*ST英飞(002528.SZ)公告称，公司拟向三亚佳讯远纾管理咨询有限公司出售新普互联(北京)科技有限公司100%股权和英飞拓(杭州)信息系统技术有限公司100%股权，交易对价为1元。本次交易通过公开竞价方式确定受让方，标的资产估值均为0元。交易完成后，两家标的公司不再纳入公司合并报表范围。本次交易构成重大资产重组，不构成关联交易及重组上市。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "neutral",
-      "sectors": [],
-      "ctypeName": "公司事件",
-      "tier": "T1.5",
-      "score": 72.0,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "*ST英飞：拟1元出售新普互联及英飞拓系统100%股权",
-          "src": "东方财富",
-          "time": "2026-11-04 20:18:52",
-          "body": "*ST英飞(002528.SZ)公告称，公司拟向三亚佳讯远纾管理咨询有限公司出售新普互联(北京)科技有限公司100%股权和英飞拓(杭州)信息系统技术有限公司100%股权，交易对价为1元。本次交易通过公开竞价方式确定受让方，标的资产估值均为0元。交易完成后，两家标的公司不再纳入公司合并报表范围。本次交易构成重大资产重组，不构成关联交易及重组上市。",
-          "score": 72.0
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 20:18:52",
-      "rank_score": 43.8
-    },
-    {
       "eid": "cdf80f74b9",
       "ekey": "印尼将继续严格控制采矿生产",
       "kind": "event_line",
@@ -264,49 +235,6 @@
       "related": [],
       "time": "2026-11-04 20:56:38",
       "rank_score": 43.6
-    },
-    {
-      "eid": "7b64edf0a7",
-      "ekey": "亿美元杰瑞股份|杰瑞股份",
-      "kind": "topic_line",
-      "title": "杰瑞股份：子公司获ADNOC三项目授标函总金额26.97亿美元",
-      "body": "杰瑞股份公告，全资子公司杰瑞油气工程收到阿布扎比国家石油公司陆上公司三份项目授标函，涉及Ruwais Diyab天然气田全面开发项目、Bab/North East Bab油田陆上设施建设项目、Bu Hasa油田陆上设施建设项目，总金额约26.97亿美元（约合人民币181.164亿元）。其中项目一金额17.04亿美元（含可选订单3.100亿美元），项目二金额6亿美元，项目三金额3.93亿美元（含可选订单1.740亿美元）。目前尚未签署正式合同，项目对公司2026年度财务状况及经营业绩不会构成重大影响。",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "impact": "neutral",
-      "sectors": [
-        "石油/能源"
-      ],
-      "ctypeName": "公司事件",
-      "tier": "T2",
-      "score": 71.0,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "同花顺"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "杰瑞股份：子公司获ADNOC三项目授标函总金额26.97亿美元",
-          "src": "同花顺",
-          "time": "2026-11-04 19:37:25",
-          "body": "杰瑞股份公告，全资子公司杰瑞油气工程收到阿布扎比国家石油公司陆上公司三份项目授标函，涉及Ruwais Diyab天然气田全面开发项目、Bab/North East Bab油田陆上设施建设项目、Bu Hasa油田陆上设施建设项目，总金额约26.97亿美元（约合人民币181.164亿元）。其中项目一金额17.04亿美元（含可选订单3.100亿美元），项目二金额6亿美元，项目三金额3.93亿美元（含可选订单1.740亿美元）。目前尚未签署正式合同，项目对公司2026年度财务状况及经营业绩不会构成重大影响。",
-          "score": 71.0
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 19:37:25",
-      "rank_score": 43.4
     },
     {
       "eid": "87f95b4b70",
@@ -390,47 +318,6 @@
       "merge_reasons": [],
       "related": [],
       "time": "2026-11-04 20:41:17",
-      "rank_score": 43.0
-    },
-    {
-      "eid": "f1117448b8",
-      "ekey": "ST威领股东上海领亿所持万股将被",
-      "kind": "event_line",
-      "title": "*ST威领：股东上海领亿所持685万股将被司法拍卖",
-      "body": "*ST威领(002667.SZ)公告称，公司股东上海领亿所持685万股无限售流通股将被司法拍卖，占其所持股份的36.68%，占公司总股本的2.63%。若拍卖全部成交，上海领亿持股比例将由7.16%降至4.53%。拍卖将于12月4日至5日在淘宝网司法拍卖平台进行，竞买人过户后六个月内不得减持。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "bear",
-      "sectors": [],
-      "ctypeName": "公司事件",
-      "tier": "T1.5",
-      "score": 70.0,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "*ST威领：股东上海领亿所持685万股将被司法拍卖",
-          "src": "东方财富",
-          "time": "2026-11-04 20:35:03",
-          "body": "*ST威领(002667.SZ)公告称，公司股东上海领亿所持685万股无限售流通股将被司法拍卖，占其所持股份的36.68%，占公司总股本的2.63%。若拍卖全部成交，上海领亿持股比例将由7.16%降至4.53%。拍卖将于12月4日至5日在淘宝网司法拍卖平台进行，竞买人过户后六个月内不得减持。",
-          "score": 70.0
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 20:35:03",
       "rank_score": 43.0
     },
     {
@@ -691,6 +578,88 @@
       "rank_score": 42.0
     },
     {
+      "eid": "ed8d85f3a9",
+      "ekey": "亚马逊|微软",
+      "kind": "topic_line",
+      "title": "苹果、微软、谷歌、亚马逊集体大涨5%-8% 四家公司单日增加市值超1.13万亿美元",
+      "body": "美股大型科技股延续强势表现，苹果、微软、谷歌和亚马逊股价均大幅上涨。其中，苹果涨6.50%，单日增加市值约3134亿美元；微软涨6.41%，增加约2481亿美元；谷歌-A股涨5.06%、C股涨5.11%，两类股票合计增加市值约3490亿美元；亚马逊涨8.14%，增加约2207亿美元。四家公司单日合计增加市值约1.13万亿美元，亚马逊涨幅居首。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 67.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "苹果、微软、谷歌、亚马逊集体大涨5%-8% 四家公司单日增加市值超1.13万亿美元",
+          "src": "东方财富",
+          "time": "2026-11-04 23:07:50",
+          "body": "美股大型科技股延续强势表现，苹果、微软、谷歌和亚马逊股价均大幅上涨。其中，苹果涨6.50%，单日增加市值约3134亿美元；微软涨6.41%，增加约2481亿美元；谷歌-A股涨5.06%、C股涨5.11%，两类股票合计增加市值约3490亿美元；亚马逊涨8.14%，增加约2207亿美元。四家公司单日合计增加市值约1.13万亿美元，亚马逊涨幅居首。",
+          "score": 67.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 23:07:50",
+      "rank_score": 41.8
+    },
+    {
+      "eid": "732d8b85bd",
+      "ekey": "山鹰国际浙江省海盐经济开发区管理",
+      "kind": "event_line",
+      "title": "山鹰国际：浙江省海盐经济开发区管理委员会拟向公司及子公司提供不超过8亿元的阶段性流动性支持",
+      "body": "山鹰国际公告，公司于2026年11月4日收到浙江省海盐经济开发区管理委员会出具的《支持工作函》，为满足公司短期流动性需要，稳定地方就业、保障产业链供应链循环、推动绿色循环经济发展，浙江省海盐经济开发区管理委员会就支持公司有关事项作出意向性说明，拟向公司及公司全资子公司浙江山鹰纸业有限公司提供不超过人民币8亿元的阶段性流动性支持，专项用于补充生产经营流动资金、保障原材料采购与职工薪酬发放、维护公司基地稳定生产。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 66.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "山鹰国际：浙江省海盐经济开发区管理委员会拟向公司及子公司提供不超过8亿元的阶段性流动性支持",
+          "src": "东方财富",
+          "time": "2026-11-04 23:11:59",
+          "body": "山鹰国际公告，公司于2026年11月4日收到浙江省海盐经济开发区管理委员会出具的《支持工作函》，为满足公司短期流动性需要，稳定地方就业、保障产业链供应链循环、推动绿色循环经济发展，浙江省海盐经济开发区管理委员会就支持公司有关事项作出意向性说明，拟向公司及公司全资子公司浙江山鹰纸业有限公司提供不超过人民币8亿元的阶段性流动性支持，专项用于补充生产经营流动资金、保障原材料采购与职工薪酬发放、维护公司基地稳定生产。",
+          "score": 66.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 23:11:59",
+      "rank_score": 41.4
+    },
+    {
       "eid": "28b459c6d4",
       "ekey": "孚日股份|安信投资管理股份",
       "kind": "topic_line",
@@ -777,24 +746,22 @@
       "rank_score": 41.4
     },
     {
-      "eid": "541141c160",
-      "ekey": "润邦股份|深圳毕升私募证券",
+      "eid": "ed8d85f3a9",
+      "ekey": "亚马逊|微软",
       "kind": "topic_line",
-      "title": "润邦股份：持股5%以上股东深圳毕升增持触及1%整数倍，持股比例增至6.01%",
-      "body": "润邦股份公告，持股5%以上股东深圳毕升私募证券基金管理有限公司于2026年10月22日至2026年11月4日通过深圳证券交易所集中竞价交易方式累计增持公司股份894.31万股，占公司总股本的1.01%，持有公司股份比例由5.01%增加至6.01%，变动触及1%的整数倍。本次增持不会导致公司控制权发生变更，不会对公司的持续经营产生重大影响。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "bull",
-      "sectors": [
-        "券商/大金融"
-      ],
-      "ctypeName": "公司事件",
-      "tier": "T2",
-      "score": 66.0,
+      "title": "苹果、微软、谷歌、亚马逊单日市值合计增加超1万亿美元",
+      "body": "苹果涨5.87%，单日增加市值约2816亿美元；微软涨6.24%，增加约2397亿美元；谷歌A股涨4.09%，增加约2790亿美元；亚马逊涨7.79%，增加约2095亿美元。四家公司合计增加市值约1.01万亿美元。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 65.0,
       "heat": 1.0,
       "source_count": 1,
       "sources": [
-        "同花顺"
+        "东方财富"
       ],
       "isNew": true,
       "isRising": false,
@@ -807,17 +774,17 @@
       "member_count": 1,
       "members": [
         {
-          "title": "润邦股份：持股5%以上股东深圳毕升增持触及1%整数倍，持股比例增至6.01%",
-          "src": "同花顺",
-          "time": "2026-11-04 19:37:14",
-          "body": "润邦股份公告，持股5%以上股东深圳毕升私募证券基金管理有限公司于2026年10月22日至2026年11月4日通过深圳证券交易所集中竞价交易方式累计增持公司股份894.31万股，占公司总股本的1.01%，持有公司股份比例由5.01%增加至6.01%，变动触及1%的整数倍。本次增持不会导致公司控制权发生变更，不会对公司的持续经营产生重大影响。",
-          "score": 66.0
+          "title": "苹果、微软、谷歌、亚马逊单日市值合计增加超1万亿美元",
+          "src": "东方财富",
+          "time": "2026-11-04 23:01:44",
+          "body": "苹果涨5.87%，单日增加市值约2816亿美元；微软涨6.24%，增加约2397亿美元；谷歌A股涨4.09%，增加约2790亿美元；亚马逊涨7.79%，增加约2095亿美元。四家公司合计增加市值约1.01万亿美元。",
+          "score": 65.0
         }
       ],
       "merge_reasons": [],
       "related": [],
-      "time": "2026-11-04 19:37:14",
-      "rank_score": 41.4
+      "time": "2026-11-04 23:01:44",
+      "rank_score": 41.0
     },
     {
       "eid": "e51f0e883c",
@@ -904,49 +871,6 @@
       "rank_score": 41.0
     },
     {
-      "eid": "3f07a46421",
-      "ekey": "纳斯达克中国金龙指数指数涨超",
-      "kind": "event_line",
-      "title": "纳斯达克中国金龙指数指数涨超3%",
-      "body": "纳斯达克中国金龙指数涨3.37%，报5716.36点，成分股全线上涨。亿航智能涨6.31%领涨，哔哩哔哩涨5.31%，阿里巴巴涨4.63%，百度涨3.61%，京东涨3.49%，拼多多涨3.31%，贝壳涨3.07%，理想汽车涨3.04%，蔚来涨2.98%，小鹏集团涨2.64%，网易涨2.49%，携程涨2.13%，富途控股涨1.12%。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "bull",
-      "sectors": [
-        "汽车/智能驾驶"
-      ],
-      "ctypeName": "市场动作",
-      "tier": "T1.5",
-      "score": 64.5,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "纳斯达克中国金龙指数指数涨超3%",
-          "src": "东方财富",
-          "time": "2026-11-04 22:48:18",
-          "body": "纳斯达克中国金龙指数涨3.37%，报5716.36点，成分股全线上涨。亿航智能涨6.31%领涨，哔哩哔哩涨5.31%，阿里巴巴涨4.63%，百度涨3.61%，京东涨3.49%，拼多多涨3.31%，贝壳涨3.07%，理想汽车涨3.04%，蔚来涨2.98%，小鹏集团涨2.64%，网易涨2.49%，携程涨2.13%，富途控股涨1.12%。",
-          "score": 64.5
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 22:48:18",
-      "rank_score": 40.8
-    },
-    {
       "eid": "1417b55b69",
       "ekey": "商务部",
       "kind": "topic_line",
@@ -985,49 +909,6 @@
       "merge_reasons": [],
       "related": [],
       "time": "2026-11-04 22:11:06",
-      "rank_score": 40.8
-    },
-    {
-      "eid": "84f694de93",
-      "ekey": "Truist|上调超威半导体#AI芯片",
-      "kind": "topic_line",
-      "title": "Truist Securities上调超威半导体目标价",
-      "body": "TruistSecurities将超威半导体目标价从594美元上调至605美元。",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "impact": "bull",
-      "sectors": [
-        "半导体/AI芯片"
-      ],
-      "ctypeName": "行业观点",
-      "tier": "T1.5",
-      "score": 64.5,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": "AI芯片",
-      "topicLabel": "AI 芯片与算力",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "Truist Securities上调超威半导体目标价",
-          "src": "东方财富",
-          "time": "2026-11-04 20:19:31",
-          "body": "TruistSecurities将超威半导体目标价从594美元上调至605美元。",
-          "score": 64.5
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 20:19:31",
       "rank_score": 40.8
     },
     {
@@ -1116,90 +997,6 @@
       "rank_score": 40.8
     },
     {
-      "eid": "643913f4d4",
-      "ekey": "万元公司股份",
-      "kind": "topic_line",
-      "title": "中矿资源：实控人一致行动人王治伟拟增持4000万元至6000万元公司股份",
-      "body": "中矿资源公告，公司部分实际控制人之一致行动人、副总裁王治伟计划自2026年11月9日起6个月内，以自有资金通过集中竞价交易方式增持公司股份，增持金额不低于人民币4000万元且不高于人民币6000万元。王治伟与公司实际控制人之一、董事长、总裁王平卫为父子关系，本次增持前未持有公司股份。王治伟承诺增持计划实施期间及法定期限内不减持所持公司股份，并将在实施期限内完成增持计划。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "neutral",
-      "sectors": [],
-      "ctypeName": "公司事件",
-      "tier": "T2",
-      "score": 64.5,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "同花顺"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "中矿资源：实控人一致行动人王治伟拟增持4000万元至6000万元公司股份",
-          "src": "同花顺",
-          "time": "2026-11-04 19:37:08",
-          "body": "中矿资源公告，公司部分实际控制人之一致行动人、副总裁王治伟计划自2026年11月9日起6个月内，以自有资金通过集中竞价交易方式增持公司股份，增持金额不低于人民币4000万元且不高于人民币6000万元。王治伟与公司实际控制人之一、董事长、总裁王平卫为父子关系，本次增持前未持有公司股份。王治伟承诺增持计划实施期间及法定期限内不减持所持公司股份，并将在实施期限内完成增持计划。",
-          "score": 64.5
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 19:37:08",
-      "rank_score": 40.8
-    },
-    {
-      "eid": "5960b1623d",
-      "ekey": "即民生证券",
-      "kind": "topic_line",
-      "title": "国联民生：国联期货拟换股吸收合并民生期货",
-      "body": "国联民生公告，为有效化解同业竞争，国联期货拟换股吸收合并民生期货，即民生证券原持有的民生期货100%股权全部转换为国联期货的股份，国联期货同步实现对民生期货的吸收合并。本次交易完成后，民生证券将持有国联期货52.57%股份，国联期货将成为公司的间接控股子公司。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "neutral",
-      "sectors": [
-        "券商/大金融"
-      ],
-      "ctypeName": "公司事件",
-      "tier": "T2",
-      "score": 64.5,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "同花顺"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "国联民生：国联期货拟换股吸收合并民生期货",
-          "src": "同花顺",
-          "time": "2026-11-04 19:32:49",
-          "body": "国联民生公告，为有效化解同业竞争，国联期货拟换股吸收合并民生期货，即民生证券原持有的民生期货100%股权全部转换为国联期货的股份，国联期货同步实现对民生期货的吸收合并。本次交易完成后，民生证券将持有国联期货52.57%股份，国联期货将成为公司的间接控股子公司。",
-          "score": 64.5
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 19:32:49",
-      "rank_score": 40.8
-    },
-    {
       "eid": "e4c9a4f60e",
       "ekey": "国际油价持续走低美油布油均跌超",
       "kind": "event_line",
@@ -1241,49 +1038,6 @@
       "related": [],
       "time": "2026-11-04 22:15:29",
       "rank_score": 40.6
-    },
-    {
-      "eid": "34e4cab095",
-      "ekey": "台积电",
-      "kind": "topic_line",
-      "title": "伯恩斯坦上调台积电目标价",
-      "body": "伯恩斯坦将台积电目标价从554美元上调至600美元。",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "impact": "bull",
-      "sectors": [
-        "半导体/AI芯片"
-      ],
-      "ctypeName": "行业观点",
-      "tier": "T1.5",
-      "score": 63.0,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "伯恩斯坦上调台积电目标价",
-          "src": "东方财富",
-          "time": "2026-11-04 20:35:27",
-          "body": "伯恩斯坦将台积电目标价从554美元上调至600美元。",
-          "score": 63.0
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 20:35:27",
-      "rank_score": 40.2
     },
     {
       "eid": "a79c163fb0",
@@ -1372,6 +1126,47 @@
       "related": [],
       "time": "2026-11-04 20:56:07",
       "rank_score": 40.0
+    },
+    {
+      "eid": "d56cd08d25",
+      "ekey": "比特币以太坊过去小时分别大涨",
+      "kind": "event_line",
+      "title": "比特币、以太坊过去24小时分别大涨4%、6%",
+      "body": "行情显示，比特币涨至80592.2美元，过去24小时内涨4.14%；行情显示，以太坊涨至2436.34美元，过去24小时内涨6.43%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 62.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "比特币、以太坊过去24小时分别大涨4%、6%",
+          "src": "东方财富",
+          "time": "2026-11-04 23:10:59",
+          "body": "行情显示，比特币涨至80592.2美元，过去24小时内涨4.14%；行情显示，以太坊涨至2436.34美元，过去24小时内涨6.43%。",
+          "score": 62.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 23:10:59",
+      "rank_score": 39.8
     },
     {
       "eid": "ff0a8b7787",
@@ -1851,51 +1646,6 @@
       "rank_score": 39.4
     },
     {
-      "eid": "91d4e222e0",
-      "ekey": "公司控股|合作协议统一股份",
-      "kind": "topic_line",
-      "title": "统一股份：控股子公司与宁德时代签订冷却液战略合作协议",
-      "body": "统一股份(600506.SH)公告称，公司控股子公司统一石化与宁德时代签订《冷却液战略合作协议》，双方将围绕冷却液全生命周期合作模式、可靠性要求、新能源汽车后市场业务及质量共建等方面展开合作。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "bull",
-      "sectors": [
-        "新能源/锂电",
-        "石油/能源",
-        "汽车/智能驾驶"
-      ],
-      "ctypeName": "公司事件",
-      "tier": "T1.5",
-      "score": 61.0,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "统一股份：控股子公司与宁德时代签订冷却液战略合作协议",
-          "src": "东方财富",
-          "time": "2026-11-04 20:24:56",
-          "body": "统一股份(600506.SH)公告称，公司控股子公司统一石化与宁德时代签订《冷却液战略合作协议》，双方将围绕冷却液全生命周期合作模式、可靠性要求、新能源汽车后市场业务及质量共建等方面展开合作。",
-          "score": 61.0
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 20:24:56",
-      "rank_score": 39.4
-    },
-    {
       "eid": "2b0f197ca2",
       "ekey": "央行",
       "kind": "topic_line",
@@ -1934,49 +1684,6 @@
       "merge_reasons": [],
       "related": [],
       "time": "2026-11-04 21:57:11",
-      "rank_score": 39.2
-    },
-    {
-      "eid": "3cba504205",
-      "ekey": "利好来了多家券商官宣近亿资金已到",
-      "kind": "event_line",
-      "title": "利好来了！多家券商官宣！近600亿资金已到位",
-      "body": "多家券商积极响应政策号召，中标本次互换便利操作，券商中国记者不完全统计，券商已中标的互换便利总金额已经达到575亿元。",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "impact": "bull",
-      "sectors": [
-        "券商/大金融"
-      ],
-      "ctypeName": "政策发布",
-      "tier": "T1.5",
-      "score": 60.5,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "利好来了！多家券商官宣！近600亿资金已到位",
-          "src": "东方财富",
-          "time": "2026-11-04 20:31:06",
-          "body": "多家券商积极响应政策号召，中标本次互换便利操作，券商中国记者不完全统计，券商已中标的互换便利总金额已经达到575亿元。",
-          "score": 60.5
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-04 20:31:06",
       "rank_score": 39.2
     },
     {
@@ -2064,18 +1771,18 @@
       "rank_score": 39.0
     },
     {
-      "eid": "07b9708f87",
-      "ekey": "现货黄金向上触及美元盎司",
+      "eid": "d4ea6be584",
+      "ekey": "Lambda将在阿拉巴马州建设价",
       "kind": "event_line",
-      "title": "现货黄金向上触及4050美元/盎司",
-      "body": "现货黄金向上触及4050美元/盎司，日内上涨3.06%。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "bull",
+      "title": "Lambda将在阿拉巴马州建设价值330亿美元的数据中心",
+      "body": "Lambda将在阿拉巴马州建设价值330亿美元的数据中心。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
       "sectors": [
-        "黄金/贵金属"
+        "算力/数据中心"
       ],
-      "ctypeName": "海外宏观",
+      "ctypeName": "技术进展",
       "tier": "T1.5",
       "score": 59.0,
       "heat": 1.0,
@@ -2094,17 +1801,60 @@
       "member_count": 1,
       "members": [
         {
-          "title": "现货黄金向上触及4050美元/盎司",
+          "title": "Lambda将在阿拉巴马州建设价值330亿美元的数据中心",
           "src": "东方财富",
-          "time": "2026-11-04 20:33:32",
-          "body": "现货黄金向上触及4050美元/盎司，日内上涨3.06%。",
+          "time": "2026-11-04 23:14:14",
+          "body": "Lambda将在阿拉巴马州建设价值330亿美元的数据中心。",
           "score": 59.0
         }
       ],
       "merge_reasons": [],
       "related": [],
-      "time": "2026-11-04 20:33:32",
+      "time": "2026-11-04 23:14:14",
       "rank_score": 38.6
+    },
+    {
+      "eid": "1417b55b69",
+      "ekey": "商务部",
+      "kind": "topic_line",
+      "title": "商务部在上海召开进博会参展跨国企业圆桌会",
+      "body": "11月4日，商务部副部长凌激在上海主持召开进博会参展跨国企业圆桌会，鹏瑞利、欧姆龙、蔡司、赛诺菲、波音、福特等100余家跨国企业及外国商协会负责人参会。凌激表示，“十五五”时期中国将全面推进产业智能化绿色化融合化发展，人工智能赋能千行百业将催生巨大增量市场，将保障外资企业平等参与政府采购等合法权益，不断完善优化出口管制体系，营造市场化、法治化、国际化一流营商环境，希望跨国企业用好进博会等开放平台。与会企业表示，中国是企业全球市场不可或缺的组成部分，将坚定扩大在华投资，融入中国产业链供应链创新链。（商务部）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "商务部在上海召开进博会参展跨国企业圆桌会",
+          "src": "同花顺",
+          "time": "2026-11-04 23:11:59",
+          "body": "11月4日，商务部副部长凌激在上海主持召开进博会参展跨国企业圆桌会，鹏瑞利、欧姆龙、蔡司、赛诺菲、波音、福特等100余家跨国企业及外国商协会负责人参会。凌激表示，“十五五”时期中国将全面推进产业智能化绿色化融合化发展，人工智能赋能千行百业将催生巨大增量市场，将保障外资企业平等参与政府采购等合法权益，不断完善优化出口管制体系，营造市场化、法治化、国际化一流营商环境，希望跨国企业用好进博会等开放平台。与会企业表示，中国是企业全球市场不可或缺的组成部分，将坚定扩大在华投资，融入中国产业链供应链创新链。（商务部）",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 23:11:59",
+      "rank_score": 38.4
     },
     {
       "eid": "72fb14d1ae",
@@ -2316,6 +2066,47 @@
       "rank_score": 37.2
     },
     {
+      "eid": "e58edc3486",
+      "ekey": "雷蒙德詹姆斯上调超微电脑目标价",
+      "kind": "event_line",
+      "title": "雷蒙德·詹姆斯上调超微电脑目标价",
+      "body": "雷蒙德·詹姆斯将超微电脑目标价从48美元上调至65美元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 55.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "雷蒙德·詹姆斯上调超微电脑目标价",
+          "src": "东方财富",
+          "time": "2026-11-04 20:43:41",
+          "body": "雷蒙德·詹姆斯将超微电脑目标价从48美元上调至65美元。",
+          "score": 55.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 20:43:41",
+      "rank_score": 37.0
+    },
+    {
       "eid": "e6803e21b9",
       "ekey": "苹果",
       "kind": "topic_line",
@@ -2354,6 +2145,49 @@
       "merge_reasons": [],
       "related": [],
       "time": "2026-11-04 20:39:00",
+      "rank_score": 37.0
+    },
+    {
+      "eid": "2be4465777",
+      "ekey": "小米",
+      "kind": "topic_line",
+      "title": "【媒体关注·吕梁日报】大山好物有了“金名片”——岚县农特产品借“壹品岚州”品牌闯市场",
+      "body": "（来源：岚县新闻）9月19日，岚县携马铃薯、小米、沙棘、食用菌等“壹品岚州”区域公用品牌旗下特色农产品，精彩亮相在上海举办的2026新华指数庆丰收秋季发布暨农业战略风向...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "农业/种业"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 55.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "【媒体关注·吕梁日报】大山好物有了“金名片”——岚县农特产品借“壹品岚州”品牌闯市场",
+          "src": "新浪财经",
+          "time": "2026-11-04 22:50:20",
+          "body": "（来源：岚县新闻）9月19日，岚县携马铃薯、小米、沙棘、食用菌等“壹品岚州”区域公用品牌旗下特色农产品，精彩亮相在上海举办的2026新华指数庆丰收秋季发布暨农业战略风向...",
+          "score": 55.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 22:50:20",
       "rank_score": 37.0
     },
     {
@@ -2401,6 +2235,93 @@
       "rank_score": 36.6
     },
     {
+      "eid": "68cd7ad577",
+      "ekey": "关注十六届岚县县委第一轮巡察完成",
+      "kind": "event_line",
+      "title": "【关注】十六届岚县县委第一轮巡察完成进驻",
+      "body": "（来源：岚县新闻）按照县委巡察工作领导小组统一安排，截至11月4日，4个巡察组全面完成进驻工作，对县现代农业发展服务中心、县妇女联合会、县能源局、县科学技术协会...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源",
+        "农业/种业"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "【关注】十六届岚县县委第一轮巡察完成进驻",
+          "src": "新浪财经",
+          "time": "2026-11-04 22:50:20",
+          "body": "（来源：岚县新闻）按照县委巡察工作领导小组统一安排，截至11月4日，4个巡察组全面完成进驻工作，对县现代农业发展服务中心、县妇女联合会、县能源局、县科学技术协会...",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 22:50:20",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "0130a97a80",
+      "ekey": "胡塞武装对沙特哈立德国王国际机场",
+      "kind": "event_line",
+      "title": "胡塞武装：对沙特哈立德国王国际机场等目标进行打击",
+      "body": "当地时间4日傍晚，也门胡塞武装发表声明称，对沙特境内目标发动多次军事行动。声明称，胡塞武装使用弹道导弹打击沙特首都利雅得的哈立德国王国际机场，导弹直接命中目标，并造成机场严重损失。声明警告称，哈立德国王国际机场目前并不安全。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "中东",
+      "topicLabel": "中东局势",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "胡塞武装：对沙特哈立德国王国际机场等目标进行打击",
+          "src": "东方财富",
+          "time": "2026-11-04 23:09:24",
+          "body": "当地时间4日傍晚，也门胡塞武装发表声明称，对沙特境内目标发动多次军事行动。声明称，胡塞武装使用弹道导弹打击沙特首都利雅得的哈立德国王国际机场，导弹直接命中目标，并造成机场严重损失。声明警告称，哈立德国王国际机场目前并不安全。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 23:09:24",
+      "rank_score": 36.4
+    },
+    {
       "eid": "6241b9fede",
       "ekey": "高通",
       "kind": "topic_line",
@@ -2439,6 +2360,47 @@
       "merge_reasons": [],
       "related": [],
       "time": "2026-11-04 21:36:09",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "c3b527d50c",
+      "ekey": "法国CAC指数涨幅扩大至",
+      "kind": "event_line",
+      "title": "法国CAC指数涨幅扩大至2%",
+      "body": "法国CAC指数涨幅扩大至2%，至8,181.03点。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "法国CAC指数涨幅扩大至2%",
+          "src": "东方财富",
+          "time": "2026-11-04 21:34:51",
+          "body": "法国CAC指数涨幅扩大至2%，至8,181.03点。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-04 21:34:51",
       "rank_score": 36.4
     },
     {
@@ -2487,18 +2449,16 @@
     {
       "topic": "AI芯片",
       "label": "AI 芯片与算力",
-      "count": 7,
+      "count": 5,
       "sources": [
         "东方财富"
       ],
-      "heat": 7.0,
+      "heat": 5.0,
       "eids": [
         "e9bf7d6f03",
-        "d8280e5727",
         "520319dee5",
         "1505d22d6e",
         "37f70404cb",
-        "84f694de93",
         "a9f7ece835"
       ],
       "lead": "费城半导体指数跌幅扩大至2%",
@@ -2544,49 +2504,6 @@
           "merge_reasons": [],
           "related": [],
           "time": "2026-11-04 22:34:19",
-          "rank_score": 44.8
-        },
-        {
-          "eid": "d8280e5727",
-          "ekey": "半导体ETF罕见批量涨停是反转还",
-          "kind": "event_line",
-          "title": "半导体ETF罕见批量涨停 是反转还是超跌修复？",
-          "body": "11月4日午后，A股主要指数持续拉升，半导体成为当天最强主线，科创综指收涨9.90%，创业板指收涨6.40%，上证指数涨2.16%；沪深两市成交额2.05万亿元，较前一交易日放量超3300亿元，重返2万亿元关口。ETF方面，科创半导体与科创芯片方向ETF掀涨停潮，包揽涨幅榜全部席位。",
-          "dim": "risk",
-          "dimName": "市场资金面",
-          "impact": "bull",
-          "sectors": [
-            "半导体/AI芯片"
-          ],
-          "ctypeName": "市场动作",
-          "tier": "T1.5",
-          "score": 74.5,
-          "heat": 1.0,
-          "source_count": 1,
-          "sources": [
-            "东方财富"
-          ],
-          "isNew": true,
-          "isRising": false,
-          "heat_delta": 0.0,
-          "fresh6h": true,
-          "risingHeat": true,
-          "topic": "AI芯片",
-          "topicLabel": "AI 芯片与算力",
-          "merged": false,
-          "member_count": 1,
-          "members": [
-            {
-              "title": "半导体ETF罕见批量涨停 是反转还是超跌修复？",
-              "src": "东方财富",
-              "time": "2026-11-04 20:29:15",
-              "body": "11月4日午后，A股主要指数持续拉升，半导体成为当天最强主线，科创综指收涨9.90%，创业板指收涨6.40%，上证指数涨2.16%；沪深两市成交额2.05万亿元，较前一交易日放量超3300亿元，重返2万亿元关口。ETF方面，科创半导体与科创芯片方向ETF掀涨停潮，包揽涨幅榜全部席位。",
-              "score": 74.5
-            }
-          ],
-          "merge_reasons": [],
-          "related": [],
-          "time": "2026-11-04 20:29:15",
           "rank_score": 44.8
         },
         {
@@ -2721,49 +2638,6 @@
           "rank_score": 42.0
         },
         {
-          "eid": "84f694de93",
-          "ekey": "Truist|上调超威半导体#AI芯片",
-          "kind": "topic_line",
-          "title": "Truist Securities上调超威半导体目标价",
-          "body": "TruistSecurities将超威半导体目标价从594美元上调至605美元。",
-          "dim": "tech",
-          "dimName": "AI 与科技",
-          "impact": "bull",
-          "sectors": [
-            "半导体/AI芯片"
-          ],
-          "ctypeName": "行业观点",
-          "tier": "T1.5",
-          "score": 64.5,
-          "heat": 1.0,
-          "source_count": 1,
-          "sources": [
-            "东方财富"
-          ],
-          "isNew": true,
-          "isRising": false,
-          "heat_delta": 0.0,
-          "fresh6h": true,
-          "risingHeat": true,
-          "topic": "AI芯片",
-          "topicLabel": "AI 芯片与算力",
-          "merged": false,
-          "member_count": 1,
-          "members": [
-            {
-              "title": "Truist Securities上调超威半导体目标价",
-              "src": "东方财富",
-              "time": "2026-11-04 20:19:31",
-              "body": "TruistSecurities将超威半导体目标价从594美元上调至605美元。",
-              "score": 64.5
-            }
-          ],
-          "merge_reasons": [],
-          "related": [],
-          "time": "2026-11-04 20:19:31",
-          "rank_score": 40.8
-        },
-        {
           "eid": "a9f7ece835",
           "ekey": "美股AI算力租赁商CoreWea",
           "kind": "event_line",
@@ -2813,16 +2687,16 @@
   ],
   "stat": {
     "input_articles": 60,
-    "events": 58,
-    "merged_away": 2,
-    "redundancy": 1.03,
-    "multi_source_events": 0,
+    "events": 57,
+    "merged_away": 3,
+    "redundancy": 1.05,
+    "multi_source_events": 1,
     "roundup_articles": 0,
     "story_links": 0,
     "method": "rule_based",
     "topic_blocks": 1,
     "compared_with": "2026-10-21 08:32:52",
-    "new_events": 57,
+    "new_events": 56,
     "rising_events": 0
   },
   "provenance": {

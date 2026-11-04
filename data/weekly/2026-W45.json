@@ -4,7 +4,7 @@
     "2026-11-04",
     "2026-10-29"
   ],
-  "generated_at": "2026-11-04 22:59",
+  "generated_at": "2026-11-04 23:20",
   "github_persistent": [
     {
       "full_name": "deepseek-ai/dsh-superagent-prototype",
@@ -16,8 +16,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 18301,
-      "stars_last": 18301,
+      "stars_first": 18324,
+      "stars_last": 18324,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -31,8 +31,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 10361,
-      "stars_last": 10361,
+      "stars_first": 10414,
+      "stars_last": 10414,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -46,8 +46,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 2164,
-      "stars_last": 2164,
+      "stars_first": 2203,
+      "stars_last": 2203,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -61,8 +61,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 8195,
-      "stars_last": 8195,
+      "stars_first": 8229,
+      "stars_last": 8229,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -76,8 +76,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 1121,
-      "stars_last": 1121,
+      "stars_first": 1141,
+      "stars_last": 1141,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -91,8 +91,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 6492,
-      "stars_last": 6492,
+      "stars_first": 6506,
+      "stars_last": 6506,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -106,8 +106,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 4541,
-      "stars_last": 4541,
+      "stars_first": 4553,
+      "stars_last": 4553,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -121,8 +121,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 4726,
-      "stars_last": 4726,
+      "stars_first": 4730,
+      "stars_last": 4730,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -136,8 +136,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 5907,
-      "stars_last": 5907,
+      "stars_first": 5911,
+      "stars_last": 5911,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -151,8 +151,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 3549,
-      "stars_last": 3549,
+      "stars_first": 3559,
+      "stars_last": 3559,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -166,8 +166,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 1719,
-      "stars_last": 1719,
+      "stars_first": 1721,
+      "stars_last": 1721,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -181,8 +181,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 3372,
-      "stars_last": 3372,
+      "stars_first": 3384,
+      "stars_last": 3384,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -196,8 +196,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 1911,
-      "stars_last": 1911,
+      "stars_first": 1919,
+      "stars_last": 1919,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -211,8 +211,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 1411,
-      "stars_last": 1411,
+      "stars_first": 1419,
+      "stars_last": 1419,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -226,15 +226,15 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 1836,
-      "stars_last": 1836,
+      "stars_first": 1841,
+      "stars_last": 1841,
       "stars_growth": 0,
       "trend": "flat"
     },
     {
       "full_name": "paipiange/nvzhuang",
       "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "lang": "Go",
+      "lang": "HTML",
       "days_on_board": 1,
       "boards": [
         "火箭榜"
@@ -256,8 +256,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 2780,
-      "stars_last": 2780,
+      "stars_first": 2783,
+      "stars_last": 2783,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -286,8 +286,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 988,
-      "stars_last": 988,
+      "stars_first": 998,
+      "stars_last": 998,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -316,8 +316,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 272171,
-      "stars_last": 272171,
+      "stars_first": 272197,
+      "stars_last": 272197,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -331,8 +331,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 184255,
-      "stars_last": 184255,
+      "stars_first": 184270,
+      "stars_last": 184270,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -361,8 +361,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 76821,
-      "stars_last": 76821,
+      "stars_first": 76823,
+      "stars_last": 76823,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -376,8 +376,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 73379,
-      "stars_last": 73379,
+      "stars_first": 73388,
+      "stars_last": 73388,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -391,8 +391,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 62671,
-      "stars_last": 62671,
+      "stars_first": 62676,
+      "stars_last": 62676,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -406,8 +406,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 60366,
-      "stars_last": 60366,
+      "stars_first": 60402,
+      "stars_last": 60402,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -421,8 +421,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 60038,
-      "stars_last": 60038,
+      "stars_first": 60040,
+      "stars_last": 60040,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -436,8 +436,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 58627,
-      "stars_last": 58627,
+      "stars_first": 58643,
+      "stars_last": 58643,
       "stars_growth": 0,
       "trend": "flat"
     },
@@ -451,8 +451,8 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-04",
-      "stars_first": 51803,
-      "stars_last": 51803,
+      "stars_first": 51810,
+      "stars_last": 51810,
       "stars_growth": 0,
       "trend": "flat"
     }

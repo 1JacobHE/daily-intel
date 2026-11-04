@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 22:59",
+  "generated_at": "2026-11-04 23:20",
   "days_covered": [
     "2026-09-30",
     "2026-10-01",
@@ -19,7 +19,7 @@
     "2026-10-21",
     "2026-11-04"
   ],
-  "events_tracked": 841,
+  "events_tracked": 851,
   "multi_day_events": 45,
   "timelines": [
     {
@@ -10127,7 +10127,7 @@
         {
           "date": "2026-11-04",
           "heat": 1.0,
-          "title": "高通股价盘前上涨4%",
+          "title": "高通称SpaceX将使用Dragonwing用于5G网络",
           "source_count": 1,
           "sources": [],
           "impact": null,
@@ -10185,6 +10185,84 @@
           "impact": null,
           "sectors": [],
           "eid": "c6f990aa4f"
+        }
+      ]
+    },
+    {
+      "ekey": "晶科能源|禾赛科技",
+      "kind": "topic_line",
+      "title": "纳斯达克金龙中国指数涨超4％ 万国数据涨逾9% 阿里巴巴涨超6%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "纳斯达克金龙中国指数涨超4％ 万国数据涨逾9% 阿里巴巴涨超6%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "cb1e91fd1c"
+        }
+      ]
+    },
+    {
+      "ekey": "亚马逊|微软",
+      "kind": "topic_line",
+      "title": "苹果、微软、谷歌、亚马逊集体大涨5%-8% 四家公司单日增加市值超1.13万亿美元",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "苹果、微软、谷歌、亚马逊集体大涨5%-8% 四家公司单日增加市值超1.13万亿美元",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "ed8d85f3a9"
+        }
+      ]
+    },
+    {
+      "ekey": "小米",
+      "kind": "topic_line",
+      "title": "【媒体关注·吕梁日报】大山好物有了“金名片”——岚县农特产品借“壹品岚州”品牌闯市场",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "【媒体关注·吕梁日报】大山好物有了“金名片”——岚县农特产品借“壹品岚州”品牌闯市场",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "2be4465777"
         }
       ]
     },
@@ -11401,6 +11479,32 @@
           "impact": null,
           "sectors": [],
           "eid": "8f84a08635"
+        }
+      ]
+    },
+    {
+      "ekey": "纳斯达克中国金龙指数指数涨超",
+      "kind": "event_line",
+      "title": "纳斯达克中国金龙指数指数涨超3%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 2.0,
+      "heat_peak": 2.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 2.0,
+          "title": "纳斯达克中国金龙指数指数涨超3%",
+          "source_count": 2,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3f07a46421"
         }
       ]
     },
@@ -21597,32 +21701,6 @@
       ]
     },
     {
-      "ekey": "纳斯达克中国金龙指数指数涨超",
-      "kind": "event_line",
-      "title": "纳斯达克中国金龙指数指数涨超3%",
-      "topic": null,
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-11-04",
-          "heat": 1.0,
-          "title": "纳斯达克中国金龙指数指数涨超3%",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "3f07a46421"
-        }
-      ]
-    },
-    {
       "ekey": "美股三大指数集体高开",
       "kind": "event_line",
       "title": "美股三大指数集体高开",
@@ -21983,6 +22061,188 @@
           "impact": null,
           "sectors": [],
           "eid": "bd3746331b"
+        }
+      ]
+    },
+    {
+      "ekey": "山鹰国际浙江省海盐经济开发区管理",
+      "kind": "event_line",
+      "title": "山鹰国际：浙江省海盐经济开发区管理委员会拟向公司及子公司提供不超过8亿元的阶段性流动性支持",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "山鹰国际：浙江省海盐经济开发区管理委员会拟向公司及子公司提供不超过8亿元的阶段性流动性支持",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "732d8b85bd"
+        }
+      ]
+    },
+    {
+      "ekey": "比特币以太坊过去小时分别大涨",
+      "kind": "event_line",
+      "title": "比特币、以太坊过去24小时分别大涨4%、6%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "比特币、以太坊过去24小时分别大涨4%、6%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "d56cd08d25"
+        }
+      ]
+    },
+    {
+      "ekey": "Lambda将在阿拉巴马州建设价",
+      "kind": "event_line",
+      "title": "Lambda将在阿拉巴马州建设价值330亿美元的数据中心",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "Lambda将在阿拉巴马州建设价值330亿美元的数据中心",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "d4ea6be584"
+        }
+      ]
+    },
+    {
+      "ekey": "雷蒙德詹姆斯上调超微电脑目标价",
+      "kind": "event_line",
+      "title": "雷蒙德·詹姆斯上调超微电脑目标价",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "雷蒙德·詹姆斯上调超微电脑目标价",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "e58edc3486"
+        }
+      ]
+    },
+    {
+      "ekey": "关注十六届岚县县委第一轮巡察完成",
+      "kind": "event_line",
+      "title": "【关注】十六届岚县县委第一轮巡察完成进驻",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "【关注】十六届岚县县委第一轮巡察完成进驻",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "68cd7ad577"
+        }
+      ]
+    },
+    {
+      "ekey": "胡塞武装对沙特哈立德国王国际机场",
+      "kind": "event_line",
+      "title": "胡塞武装：对沙特哈立德国王国际机场等目标进行打击",
+      "topic": "中东",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "胡塞武装：对沙特哈立德国王国际机场等目标进行打击",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "0130a97a80"
+        }
+      ]
+    },
+    {
+      "ekey": "法国CAC指数涨幅扩大至",
+      "kind": "event_line",
+      "title": "法国CAC指数涨幅扩大至2%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "法国CAC指数涨幅扩大至2%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "c3b527d50c"
         }
       ]
     },
