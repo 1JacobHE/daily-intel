@@ -69,6 +69,11 @@
     "tag": "AI Agent",
     "auto": true
   },
+  "Minireel/HGhub": {
+    "name": "YellowFruit third-party client",
+    "tag": "开发工具",
+    "auto": true
+  },
   "elvarofficial/teardown": {
     "name": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
     "tag": "AI Agent",
@@ -91,11 +96,6 @@
   },
   "wquguru/cicada": {
     "name": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
-    "tag": "其他",
-    "auto": true
-  },
-  "Arjun-Ingole/hop": {
-    "name": "Install Linux next to Windows without a USB stick",
     "tag": "其他",
     "auto": true
   },
