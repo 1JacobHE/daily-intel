@@ -4,7 +4,7 @@
     "2026-11-05",
     "2026-10-30"
   ],
-  "generated_at": "2026-11-05 09:49",
+  "generated_at": "2026-11-05 09:53",
   "github_persistent": [
     {
       "full_name": "storytold/craft-anything",
@@ -17,8 +17,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 10374,
-      "stars_last": 11961,
-      "stars_growth": 1587,
+      "stars_last": 11978,
+      "stars_growth": 1604,
       "trend": "flat"
     },
     {
@@ -32,8 +32,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 429636,
-      "stars_last": 431026,
-      "stars_growth": 1390,
+      "stars_last": 431041,
+      "stars_growth": 1405,
       "trend": "flat"
     },
     {
@@ -47,8 +47,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 58632,
-      "stars_last": 59468,
-      "stars_growth": 836,
+      "stars_last": 59472,
+      "stars_growth": 840,
       "trend": "flat"
     },
     {
@@ -62,8 +62,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 312570,
-      "stars_last": 313370,
-      "stars_growth": 800,
+      "stars_last": 313374,
+      "stars_growth": 804,
       "trend": "flat"
     },
     {
@@ -77,8 +77,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 8202,
-      "stars_last": 8702,
-      "stars_growth": 500,
+      "stars_last": 8704,
+      "stars_growth": 502,
       "trend": "flat"
     },
     {
@@ -92,8 +92,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 272174,
-      "stars_last": 272620,
-      "stars_growth": 446,
+      "stars_last": 272622,
+      "stars_growth": 448,
       "trend": "flat"
     },
     {
@@ -107,8 +107,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 1126,
-      "stars_last": 1557,
-      "stars_growth": 431,
+      "stars_last": 1560,
+      "stars_growth": 434,
       "trend": "down"
     },
     {
@@ -122,8 +122,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 60381,
-      "stars_last": 60796,
-      "stars_growth": 415,
+      "stars_last": 60802,
+      "stars_growth": 421,
       "trend": "flat"
     },
     {
@@ -137,8 +137,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 2175,
-      "stars_last": 2578,
-      "stars_growth": 403,
+      "stars_last": 2580,
+      "stars_growth": 405,
       "trend": "flat"
     },
     {
@@ -152,8 +152,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 3378,
-      "stars_last": 3722,
-      "stars_growth": 344,
+      "stars_last": 3724,
+      "stars_growth": 346,
       "trend": "up"
     },
     {
@@ -167,8 +167,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 184258,
-      "stars_last": 184578,
-      "stars_growth": 320,
+      "stars_last": 184577,
+      "stars_growth": 319,
       "trend": "flat"
     },
     {
@@ -182,8 +182,23 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 18308,
-      "stars_last": 18619,
-      "stars_growth": 311,
+      "stars_last": 18622,
+      "stars_growth": 314,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "lang": "C++",
+      "days_on_board": 2,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-05",
+      "stars_first": 39750,
+      "stars_last": 39990,
+      "stars_growth": 240,
       "trend": "flat"
     },
     {
@@ -202,21 +217,6 @@
       "trend": "flat"
     },
     {
-      "full_name": "Niko1221/Strata",
-      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-      "lang": "C++",
-      "days_on_board": 2,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-05",
-      "stars_first": 39750,
-      "stars_last": 39985,
-      "stars_growth": 235,
-      "trend": "flat"
-    },
-    {
       "full_name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
       "lang": "Shell",
@@ -227,8 +227,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 312238,
-      "stars_last": 312467,
-      "stars_growth": 229,
+      "stars_last": 312473,
+      "stars_growth": 235,
       "trend": "flat"
     },
     {
@@ -242,8 +242,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 4543,
-      "stars_last": 4736,
-      "stars_growth": 193,
+      "stars_last": 4742,
+      "stars_growth": 199,
       "trend": "up"
     },
     {
@@ -262,21 +262,6 @@
       "trend": "flat"
     },
     {
-      "full_name": "wangzan101/Mika",
-      "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "lang": "Kotlin",
-      "days_on_board": 2,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-05",
-      "stars_first": 6495,
-      "stars_last": 6667,
-      "stars_growth": 172,
-      "trend": "up"
-    },
-    {
       "full_name": "wquguru/cicada",
       "desc": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
       "lang": "Swift",
@@ -287,9 +272,24 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 989,
-      "stars_last": 1161,
-      "stars_growth": 172,
+      "stars_last": 1163,
+      "stars_growth": 174,
       "trend": "down"
+    },
+    {
+      "full_name": "wangzan101/Mika",
+      "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "lang": "Kotlin",
+      "days_on_board": 2,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-05",
+      "stars_first": 6495,
+      "stars_last": 6668,
+      "stars_growth": 173,
+      "trend": "up"
     },
     {
       "full_name": "yetone/magpie",
@@ -302,8 +302,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 29613,
-      "stars_last": 29778,
-      "stars_growth": 165,
+      "stars_last": 29781,
+      "stars_growth": 168,
       "trend": "flat"
     },
     {
@@ -317,8 +317,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 4727,
-      "stars_last": 4872,
-      "stars_growth": 145,
+      "stars_last": 4873,
+      "stars_growth": 146,
       "trend": "flat"
     },
     {
@@ -332,8 +332,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 1912,
-      "stars_last": 2046,
-      "stars_growth": 134,
+      "stars_last": 2049,
+      "stars_growth": 137,
       "trend": "flat"
     },
     {
@@ -362,8 +362,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 51066,
-      "stars_last": 51192,
-      "stars_growth": 126,
+      "stars_last": 51193,
+      "stars_growth": 127,
       "trend": "flat"
     },
     {
@@ -407,8 +407,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 76821,
-      "stars_last": 76933,
-      "stars_growth": 112,
+      "stars_last": 76935,
+      "stars_growth": 114,
       "trend": "flat"
     },
     {
@@ -437,8 +437,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
       "stars_first": 1836,
-      "stars_last": 1918,
-      "stars_growth": 82,
+      "stars_last": 1919,
+      "stars_growth": 83,
       "trend": "down"
     },
     {
