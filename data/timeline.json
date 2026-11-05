@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 09:49",
+  "generated_at": "2026-11-05 09:53",
   "days_covered": [
     "2026-09-30",
     "2026-10-01",
@@ -21,7 +21,7 @@
     "2026-11-05"
   ],
   "events_tracked": 894,
-  "multi_day_events": 46,
+  "multi_day_events": 47,
   "timelines": [
     {
       "ekey": "美联储#美联储利率",
@@ -627,69 +627,6 @@
       ]
     },
     {
-      "ekey": "国家统计局",
-      "kind": "topic_line",
-      "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
-      "topic": null,
-      "topicLabel": "",
-      "dim": "宏观经济",
-      "days": 4,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-11-05",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "up",
-      "series": [
-        {
-          "date": "2026-10-01",
-          "heat": 0.6,
-          "title": "9月制造业 PMI 50.1% 重返扩张区间，连续两月回升",
-          "source_count": 1,
-          "sources": [
-            "未知"
-          ],
-          "impact": "bullish",
-          "sectors": [
-            "顺周期",
-            "基建",
-            "制造业",
-            "大宗商品"
-          ],
-          "eid": "f499263e1a"
-        },
-        {
-          "date": "2026-10-19",
-          "heat": 1.0,
-          "title": "陆利平：经济政策正从短期刺激转向长期制度建设",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "f499263e1a"
-        },
-        {
-          "date": "2026-10-21",
-          "heat": 1.0,
-          "title": "多家上市公司加码3D打印业务",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "f499263e1a"
-        },
-        {
-          "date": "2026-11-05",
-          "heat": 1.0,
-          "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "f499263e1a"
-        }
-      ]
-    },
-    {
       "ekey": "OpenAI#大模型",
       "kind": "topic_line",
       "title": "OpenAI布局人形机器人赛道，机器人ETF鹏华涨超4%",
@@ -854,6 +791,59 @@
           "impact": null,
           "sectors": [],
           "eid": "088ed53f32"
+        }
+      ]
+    },
+    {
+      "ekey": "国家统计局",
+      "kind": "topic_line",
+      "title": "多家上市公司加码3D打印业务",
+      "topic": null,
+      "topicLabel": "",
+      "dim": "宏观经济",
+      "days": 3,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-21",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "up",
+      "series": [
+        {
+          "date": "2026-10-01",
+          "heat": 0.6,
+          "title": "9月制造业 PMI 50.1% 重返扩张区间，连续两月回升",
+          "source_count": 1,
+          "sources": [
+            "未知"
+          ],
+          "impact": "bullish",
+          "sectors": [
+            "顺周期",
+            "基建",
+            "制造业",
+            "大宗商品"
+          ],
+          "eid": "f499263e1a"
+        },
+        {
+          "date": "2026-10-19",
+          "heat": 1.0,
+          "title": "陆利平：经济政策正从短期刺激转向长期制度建设",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f499263e1a"
+        },
+        {
+          "date": "2026-10-21",
+          "heat": 1.0,
+          "title": "多家上市公司加码3D打印业务",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f499263e1a"
         }
       ]
     },
@@ -1688,6 +1678,42 @@
           "impact": null,
           "sectors": [],
           "eid": "c0e5a4835d"
+        }
+      ]
+    },
+    {
+      "ekey": "三星|三星电子#股指行情",
+      "kind": "topic_line",
+      "title": "韩国KOSPI指数日内大跌5%",
+      "topic": "股指行情",
+      "topicLabel": null,
+      "dim": null,
+      "days": 2,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-10-21",
+          "heat": 1.0,
+          "title": "韩国KOSPI指数日内涨幅扩大至3% SK海力士涨6%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f8897a9df2"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "韩国KOSPI指数日内大跌5%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f8897a9df2"
         }
       ]
     },
@@ -9414,32 +9440,6 @@
       ]
     },
     {
-      "ekey": "三星|三星电子#股指行情",
-      "kind": "topic_line",
-      "title": "韩国KOSPI指数日内涨幅扩大至3% SK海力士涨6%",
-      "topic": "股指行情",
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-10-21",
-          "heat": 1.0,
-          "title": "韩国KOSPI指数日内涨幅扩大至3% SK海力士涨6%",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "f8897a9df2"
-        }
-      ]
-    },
-    {
       "ekey": "亿元回购公司股份",
       "kind": "topic_line",
       "title": "凯莱英：拟5亿元至7亿元回购公司股份",
@@ -10220,32 +10220,6 @@
       ]
     },
     {
-      "ekey": "天山股份|美光#大模型",
-      "kind": "topic_line",
-      "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
-      "topic": "大模型",
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-11-05",
-          "heat": 1.0,
-          "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "cedfdaf472"
-        }
-      ]
-    },
-    {
       "ekey": "微盟集团#大模型",
       "kind": "topic_line",
       "title": "微盟集团涨超15% 宣布接入支付宝AI开放平台",
@@ -10424,6 +10398,32 @@
           "impact": null,
           "sectors": [],
           "eid": "c9b90e0f0e"
+        }
+      ]
+    },
+    {
+      "ekey": "品高股份|润建股份#AI芯片",
+      "kind": "topic_line",
+      "title": "算力租赁概念震荡反弹 润建股份4天2板",
+      "topic": "AI芯片",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "算力租赁概念震荡反弹 润建股份4天2板",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "bbdff40731"
         }
       ]
     },
@@ -10610,32 +10610,6 @@
       ]
     },
     {
-      "ekey": "试验从华中科技",
-      "kind": "topic_line",
-      "title": "我国实现世界首次舱外激光“微创”试验",
-      "topic": null,
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-11-05",
-          "heat": 1.0,
-          "title": "我国实现世界首次舱外激光“微创”试验",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "cbb915b26d"
-        }
-      ]
-    },
-    {
       "ekey": "三星",
       "kind": "topic_line",
       "title": "韩国综指跌幅扩大至3%",
@@ -10740,32 +10714,6 @@
       ]
     },
     {
-      "ekey": "灿能电力|金盘科技",
-      "kind": "topic_line",
-      "title": "电网设备板块异动拉升 顺钠股份直线涨停",
-      "topic": null,
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-11-05",
-          "heat": 1.0,
-          "title": "电网设备板块异动拉升 顺钠股份直线涨停",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "3f2bd0d647"
-        }
-      ]
-    },
-    {
       "ekey": "多只半导体|易方达等多只半导体#AI芯片",
       "kind": "topic_line",
       "title": "多只半导体设备ETF涨超6%",
@@ -10840,6 +10788,32 @@
           "impact": null,
           "sectors": [],
           "eid": "08210a9eb3"
+        }
+      ]
+    },
+    {
+      "ekey": "美国科技#大模型",
+      "kind": "topic_line",
+      "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "ba5946ddb9"
         }
       ]
     },
@@ -22678,6 +22652,32 @@
       ]
     },
     {
+      "ekey": "深成指创业板指均涨逾",
+      "kind": "event_line",
+      "title": "深成指、创业板指均涨逾1%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "深成指、创业板指均涨逾1%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "d6a17eb44e"
+        }
+      ]
+    },
+    {
       "ekey": "中期选举后油价大跌金价站上美元金",
       "kind": "event_line",
       "title": "中期选举后油价大跌、金价站上4000美元！金价放大器黄金股ETF永赢表现亮眼，开盘涨超3.8%",
@@ -22908,32 +22908,6 @@
           "impact": null,
           "sectors": [],
           "eid": "9133387e32"
-        }
-      ]
-    },
-    {
-      "ekey": "五部门加快布局稀贵金属循环利用项",
-      "kind": "event_line",
-      "title": "五部门加快布局稀贵金属循环利用项目 这个板块有望迎来全新机遇",
-      "topic": null,
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-11-05",
-      "last_seen": "2026-11-05",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-11-05",
-          "heat": 1.0,
-          "title": "五部门加快布局稀贵金属循环利用项目 这个板块有望迎来全新机遇",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "a710b3a990"
         }
       ]
     },
@@ -23354,10 +23328,10 @@
       ]
     },
     {
-      "ekey": "工业AI应用场景加快落地机器视觉",
+      "ekey": "两市融资余额增加亿元",
       "kind": "event_line",
-      "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
-      "topic": "大模型",
+      "title": "两市融资余额增加13.29亿元",
+      "topic": null,
       "topicLabel": null,
       "dim": null,
       "days": 1,
@@ -23370,12 +23344,12 @@
         {
           "date": "2026-11-05",
           "heat": 1.0,
-          "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
+          "title": "两市融资余额增加13.29亿元",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "38975a3ed7"
+          "eid": "26cbd5463e"
         }
       ]
     },
@@ -23402,6 +23376,32 @@
           "impact": null,
           "sectors": [],
           "eid": "a47eaf74cd"
+        }
+      ]
+    },
+    {
+      "ekey": "多省份发文推进落实带薪休假",
+      "kind": "event_line",
+      "title": "多省份发文推进落实带薪休假",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "多省份发文推进落实带薪休假",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "c85054e31a"
         }
       ]
     },
