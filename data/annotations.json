@@ -19,11 +19,6 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "govijr/terminal-mac": {
-    "name": "Entire MacOS running in your terminal.",
-    "tag": "开发工具",
-    "auto": true
-  },
   "wangzan101/Mika": {
     "name": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "tag": "AI Agent",
@@ -32,6 +27,11 @@
   "patch-gg/pixelfx": {
     "name": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "tag": "AI Agent",
+    "auto": true
+  },
+  "govijr/terminal-mac": {
+    "name": "Entire MacOS running in your terminal.",
+    "tag": "开发工具",
     "auto": true
   },
   "valentderah/totk-pc-recomp": {
@@ -44,6 +44,11 @@
     "tag": "创意/AI生成",
     "auto": true
   },
+  "Djihads80/Eglantine": {
+    "name": "VERY experimental Nintendo Switch 2 emulator",
+    "tag": "其他",
+    "auto": true
+  },
   "BryceYuuu/RUN": {
     "name": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
     "tag": "其他",
@@ -52,11 +57,6 @@
   "caru-ini/stack-diagram": {
     "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
     "tag": "AI Agent",
-    "auto": true
-  },
-  "Djihads80/Eglantine": {
-    "name": "VERY experimental Nintendo Switch 2 emulator",
-    "tag": "其他",
     "auto": true
   },
   "Verlintas/NOIR": {
@@ -74,14 +74,14 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "paipiange/nvzhuang": {
-    "name": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-    "tag": "创意/AI生成",
-    "auto": true
-  },
   "haydenschmitty/floorplan": {
     "name": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
     "tag": "其他",
+    "auto": true
+  },
+  "paipiange/nvzhuang": {
+    "name": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "tag": "创意/AI生成",
     "auto": true
   },
   "modelflare-ai/AnyModelBot": {
@@ -194,6 +194,11 @@
     "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
     "tag": "开发工具"
   },
+  "public-apis/public-apis": {
+    "name": "免费 API 大合集，做项目找数据源先看这个",
+    "tag": "资源合集",
+    "note": "48 万星，程序员必备清单"
+  },
   "freeCodeCamp/freeCodeCamp": {
     "name": "免费学编程的课程与代码库",
     "tag": "学习资源"
@@ -211,14 +216,6 @@
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
   },
-  "awesome-selfhosted/awesome-selfhosted": {
-    "name": "可自托管的开源网络服务清单",
-    "tag": "资源合集"
-  },
-  "vinta/awesome-python": {
-    "name": "Python 工具大全：想做 X，该用哪个库",
-    "tag": "资源合集"
-  },
   "mattpocock/skills": {
     "name": "一线工程师的真实 Agent 技能库",
     "tag": "Agent Skill"
@@ -228,16 +225,21 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "affaan-m/ECC": {
-    "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
-    "tag": "AI Agent"
-  },
-  "practical-tutorials/project-based-learning": {
-    "name": "通过做项目来学编程的教程合集",
-    "tag": "学习资源"
-  },
   "NousResearch/hermes-agent": {
     "name": "随你一起成长的 Agent",
     "tag": "AI Agent"
+  },
+  "torvalds/linux": {
+    "name": "Linux 内核源码",
+    "tag": "操作系统"
+  },
+  "react/react": {
+    "name": "React 前端框架源码",
+    "tag": "前端框架"
+  },
+  "anomalyco/opencode": {
+    "name": "The open source coding agent.",
+    "tag": "AI Agent",
+    "auto": true
   }
 }

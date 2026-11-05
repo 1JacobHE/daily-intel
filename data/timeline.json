@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 23:20",
+  "generated_at": "2026-11-05 08:26",
   "days_covered": [
     "2026-09-30",
     "2026-10-01",
@@ -17,10 +17,11 @@
     "2026-10-19",
     "2026-10-20",
     "2026-10-21",
-    "2026-11-04"
+    "2026-11-04",
+    "2026-11-05"
   ],
-  "events_tracked": 851,
-  "multi_day_events": 45,
+  "events_tracked": 898,
+  "multi_day_events": 51,
   "timelines": [
     {
       "ekey": "美联储#美联储利率",
@@ -205,6 +206,82 @@
           "impact": null,
           "sectors": [],
           "eid": "2b0f197ca2"
+        }
+      ]
+    },
+    {
+      "ekey": "商务部",
+      "kind": "topic_line",
+      "title": "前三季度我国服务进出口总额同比增长8.5%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 6,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-10-04",
+          "heat": 1.0,
+          "title": "订单激增！千亿级新风口来了",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "1417b55b69"
+        },
+        {
+          "date": "2026-10-05",
+          "heat": 1.0,
+          "title": "商务部：国庆假期前四天全国消费市场平稳有序",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "1417b55b69"
+        },
+        {
+          "date": "2026-10-11",
+          "heat": 1.0,
+          "title": "商务部等7部门 实施品质电商“五优”行动",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "1417b55b69"
+        },
+        {
+          "date": "2026-10-12",
+          "heat": 1.0,
+          "title": "李强将出席第140届广交会开幕式及相关活动",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "1417b55b69"
+        },
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "第29届中国-加拿大经贸联委会在京举行",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "1417b55b69"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "前三季度我国服务进出口总额同比增长8.5%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "1417b55b69"
         }
       ]
     },
@@ -494,15 +571,15 @@
       ]
     },
     {
-      "ekey": "商务部",
+      "ekey": "OpenAI#大模型",
       "kind": "topic_line",
-      "title": "第29届中国-加拿大经贸联委会在京举行",
-      "topic": null,
+      "title": "OpenAI推出Images 2.6，图像生成速度提升50%，新增GIF生成功能",
+      "topic": "大模型",
       "topicLabel": null,
       "dim": null,
       "days": 5,
       "first_seen": "2026-10-04",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "heat_latest": 1.0,
       "heat_peak": 1.0,
       "trend": "flat",
@@ -510,52 +587,118 @@
         {
           "date": "2026-10-04",
           "heat": 1.0,
-          "title": "订单激增！千亿级新风口来了",
+          "title": "直指公司文化危险！OpenAI又一安全负责人离职",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "1417b55b69"
+          "eid": "6a8184585c"
         },
         {
-          "date": "2026-10-05",
+          "date": "2026-10-06",
           "heat": 1.0,
-          "title": "商务部：国庆假期前四天全国消费市场平稳有序",
+          "title": "奥尔特曼：AI红利足以抵消部分风险 “坏事”发生也值得接受",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "1417b55b69"
+          "eid": "6a8184585c"
         },
         {
-          "date": "2026-10-11",
+          "date": "2026-10-08",
           "heat": 1.0,
-          "title": "商务部等7部门 实施品质电商“五优”行动",
+          "title": "中信建投：国内AI板块整体趋势上行",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "1417b55b69"
+          "eid": "6a8184585c"
         },
         {
-          "date": "2026-10-12",
+          "date": "2026-10-19",
           "heat": 1.0,
-          "title": "李强将出席第140届广交会开幕式及相关活动",
+          "title": "OpenAI布局人形机器人赛道，机器人ETF鹏华涨超4%",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "1417b55b69"
+          "eid": "6a8184585c"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "OpenAI推出Images 2.6，图像生成速度提升50%，新增GIF生成功能",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "6a8184585c"
+        }
+      ]
+    },
+    {
+      "ekey": "商务部#关税贸易",
+      "kind": "topic_line",
+      "title": "美国9月贸易逆差维持在相对高位",
+      "topic": "关税贸易",
+      "topicLabel": null,
+      "dim": null,
+      "days": 5,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-10-07",
+          "heat": 1.0,
+          "title": "美国8月贸易逆差继续升高",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "088ed53f32"
+        },
+        {
+          "date": "2026-10-20",
+          "heat": 1.0,
+          "title": "管住该管的 放开该放的——我国无人机出口管制政策优化调整",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "088ed53f32"
+        },
+        {
+          "date": "2026-10-21",
+          "heat": 1.0,
+          "title": "商务部：坚决反对美污名化中国企业并实施制裁",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "088ed53f32"
         },
         {
           "date": "2026-11-04",
           "heat": 1.0,
-          "title": "第29届中国-加拿大经贸联委会在京举行",
+          "title": "“稳+进”！前9个月我国服务贸易运行态势良好",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "1417b55b69"
+          "eid": "088ed53f32"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "美国9月贸易逆差维持在相对高位",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "088ed53f32"
         }
       ]
     },
@@ -616,58 +759,65 @@
       ]
     },
     {
-      "ekey": "OpenAI#大模型",
+      "ekey": "国家统计局",
       "kind": "topic_line",
-      "title": "OpenAI布局人形机器人赛道，机器人ETF鹏华涨超4%",
-      "topic": "大模型",
-      "topicLabel": null,
-      "dim": null,
+      "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
+      "topic": null,
+      "topicLabel": "",
+      "dim": "宏观经济",
       "days": 4,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-19",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-11-05",
       "heat_latest": 1.0,
       "heat_peak": 1.0,
-      "trend": "flat",
+      "trend": "up",
       "series": [
         {
-          "date": "2026-10-04",
-          "heat": 1.0,
-          "title": "直指公司文化危险！OpenAI又一安全负责人离职",
+          "date": "2026-10-01",
+          "heat": 0.6,
+          "title": "9月制造业 PMI 50.1% 重返扩张区间，连续两月回升",
           "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "6a8184585c"
-        },
-        {
-          "date": "2026-10-06",
-          "heat": 1.0,
-          "title": "奥尔特曼：AI红利足以抵消部分风险 “坏事”发生也值得接受",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "6a8184585c"
-        },
-        {
-          "date": "2026-10-08",
-          "heat": 1.0,
-          "title": "中信建投：国内AI板块整体趋势上行",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "6a8184585c"
+          "sources": [
+            "未知"
+          ],
+          "impact": "bullish",
+          "sectors": [
+            "顺周期",
+            "基建",
+            "制造业",
+            "大宗商品"
+          ],
+          "eid": "f499263e1a"
         },
         {
           "date": "2026-10-19",
           "heat": 1.0,
-          "title": "OpenAI布局人形机器人赛道，机器人ETF鹏华涨超4%",
+          "title": "陆利平：经济政策正从短期刺激转向长期制度建设",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "6a8184585c"
+          "eid": "f499263e1a"
+        },
+        {
+          "date": "2026-10-21",
+          "heat": 1.0,
+          "title": "多家上市公司加码3D打印业务",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f499263e1a"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f499263e1a"
         }
       ]
     },
@@ -724,115 +874,6 @@
           "impact": null,
           "sectors": [],
           "eid": "e6803e21b9"
-        }
-      ]
-    },
-    {
-      "ekey": "商务部#关税贸易",
-      "kind": "topic_line",
-      "title": "“稳+进”！前9个月我国服务贸易运行态势良好",
-      "topic": "关税贸易",
-      "topicLabel": null,
-      "dim": null,
-      "days": 4,
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-11-04",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-10-07",
-          "heat": 1.0,
-          "title": "美国8月贸易逆差继续升高",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "088ed53f32"
-        },
-        {
-          "date": "2026-10-20",
-          "heat": 1.0,
-          "title": "管住该管的 放开该放的——我国无人机出口管制政策优化调整",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "088ed53f32"
-        },
-        {
-          "date": "2026-10-21",
-          "heat": 1.0,
-          "title": "商务部：坚决反对美污名化中国企业并实施制裁",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "088ed53f32"
-        },
-        {
-          "date": "2026-11-04",
-          "heat": 1.0,
-          "title": "“稳+进”！前9个月我国服务贸易运行态势良好",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "088ed53f32"
-        }
-      ]
-    },
-    {
-      "ekey": "国家统计局",
-      "kind": "topic_line",
-      "title": "多家上市公司加码3D打印业务",
-      "topic": null,
-      "topicLabel": "",
-      "dim": "宏观经济",
-      "days": 3,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-21",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "up",
-      "series": [
-        {
-          "date": "2026-10-01",
-          "heat": 0.6,
-          "title": "9月制造业 PMI 50.1% 重返扩张区间，连续两月回升",
-          "source_count": 1,
-          "sources": [
-            "未知"
-          ],
-          "impact": "bullish",
-          "sectors": [
-            "顺周期",
-            "基建",
-            "制造业",
-            "大宗商品"
-          ],
-          "eid": "f499263e1a"
-        },
-        {
-          "date": "2026-10-19",
-          "heat": 1.0,
-          "title": "陆利平：经济政策正从短期刺激转向长期制度建设",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "f499263e1a"
-        },
-        {
-          "date": "2026-10-21",
-          "heat": 1.0,
-          "title": "多家上市公司加码3D打印业务",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "f499263e1a"
         }
       ]
     },
@@ -1151,6 +1192,46 @@
       ]
     },
     {
+      "ekey": "三星|三星电子",
+      "kind": "topic_line",
+      "title": "日韩股市开盘涨跌不一",
+      "topic": null,
+      "topicLabel": "",
+      "dim": "AI 与科技",
+      "days": 2,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "up",
+      "series": [
+        {
+          "date": "2026-10-01",
+          "heat": 0.6,
+          "title": "高盛：三星3Q26营业利润与2027年HBM收入均有望突破100万亿韩元 重申“买入”评级",
+          "source_count": 1,
+          "sources": [
+            "未知"
+          ],
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "eid": "e31c2c27d5"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "日韩股市开盘涨跌不一",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "e31c2c27d5"
+        }
+      ]
+    },
+    {
       "ekey": "特朗普|美联储#美联储利率",
       "kind": "topic_line",
       "title": "美国总统特朗普的首席经济顾问呼吁前美联储主席鲍威尔离开美联储理事会",
@@ -1373,6 +1454,42 @@
       ]
     },
     {
+      "ekey": "博通|英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "费城半导体指数日内跌3%",
+      "topic": "AI芯片",
+      "topicLabel": null,
+      "dim": null,
+      "days": 2,
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-10-03",
+          "heat": 1.0,
+          "title": "费城半导体指数日内涨3%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "301108295e"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "费城半导体指数日内跌3%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "301108295e"
+        }
+      ]
+    },
+    {
       "ekey": "商务部|欧盟#关税贸易",
       "kind": "topic_line",
       "title": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问",
@@ -1441,6 +1558,42 @@
           "impact": null,
           "sectors": [],
           "eid": "398abc4544"
+        }
+      ]
+    },
+    {
+      "ekey": "欧盟#俄乌",
+      "kind": "topic_line",
+      "title": "欧盟委员会举行多方涉乌会谈 讨论乌克兰战后重建与经济发展",
+      "topic": "俄乌",
+      "topicLabel": null,
+      "dim": null,
+      "days": 2,
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-10-05",
+          "heat": 1.0,
+          "title": "乌克兰方面表示：乌克兰与德国正在讨论通过德国基础设施向乌克兰供应液化天然气 并涉及欧盟公司参与乌克兰天然气储存设施的运营",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "6760ac86d9"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "欧盟委员会举行多方涉乌会谈 讨论乌克兰战后重建与经济发展",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "6760ac86d9"
         }
       ]
     },
@@ -1657,6 +1810,78 @@
           "impact": null,
           "sectors": [],
           "eid": "c0e5a4835d"
+        }
+      ]
+    },
+    {
+      "ekey": "美光|美光科技#AI芯片",
+      "kind": "topic_line",
+      "title": "存储股遭资金集中抛售 美光跌4%、闪迪跌近5%",
+      "topic": "AI芯片",
+      "topicLabel": null,
+      "dim": null,
+      "days": 2,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "美股存储芯片股盘前跌幅扩大 美光、SK海力士、闪迪跌逾2%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "520319dee5"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "存储股遭资金集中抛售 美光跌4%、闪迪跌近5%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "520319dee5"
+        }
+      ]
+    },
+    {
+      "ekey": "高通",
+      "kind": "topic_line",
+      "title": "高通2026财年营收431亿美元，同比下降3%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 2,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-04",
+          "heat": 1.0,
+          "title": "高通称SpaceX将使用Dragonwing用于5G网络",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "6241b9fede"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "高通2026财年营收431亿美元，同比下降3%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "6241b9fede"
         }
       ]
     },
@@ -2359,32 +2584,6 @@
           "impact": null,
           "sectors": [],
           "eid": "969527e614"
-        }
-      ]
-    },
-    {
-      "ekey": "博通|英伟达#AI芯片",
-      "kind": "topic_line",
-      "title": "费城半导体指数日内涨3%",
-      "topic": "AI芯片",
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-10-03",
-          "heat": 1.0,
-          "title": "费城半导体指数日内涨3%",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "301108295e"
         }
       ]
     },
@@ -3139,32 +3338,6 @@
           "impact": null,
           "sectors": [],
           "eid": "969c22f7b8"
-        }
-      ]
-    },
-    {
-      "ekey": "欧盟#俄乌",
-      "kind": "topic_line",
-      "title": "乌克兰方面表示：乌克兰与德国正在讨论通过德国基础设施向乌克兰供应液化天然气 并涉及欧盟公司参与乌克兰天然气储存设施的运营",
-      "topic": "俄乌",
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-10-05",
-          "heat": 1.0,
-          "title": "乌克兰方面表示：乌克兰与德国正在讨论通过德国基础设施向乌克兰供应液化天然气 并涉及欧盟公司参与乌克兰天然气储存设施的运营",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "6760ac86d9"
         }
       ]
     },
@@ -9565,32 +9738,6 @@
       ]
     },
     {
-      "ekey": "美光|美光科技#AI芯片",
-      "kind": "topic_line",
-      "title": "美股存储芯片股盘前跌幅扩大 美光、SK海力士、闪迪跌逾2%",
-      "topic": "AI芯片",
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-11-04",
-          "heat": 1.0,
-          "title": "美股存储芯片股盘前跌幅扩大 美光、SK海力士、闪迪跌逾2%",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "520319dee5"
-        }
-      ]
-    },
-    {
       "ekey": "发生产商邦芯半导体|邦芯半导体#AI芯片",
       "kind": "topic_line",
       "title": "邦芯半导体完成超6亿元B+轮融资",
@@ -10111,32 +10258,6 @@
       ]
     },
     {
-      "ekey": "高通",
-      "kind": "topic_line",
-      "title": "高通称SpaceX将使用Dragonwing用于5G网络",
-      "topic": null,
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-11-04",
-          "heat": 1.0,
-          "title": "高通称SpaceX将使用Dragonwing用于5G网络",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "6241b9fede"
-        }
-      ]
-    },
-    {
       "ekey": "Anthropic|微软",
       "kind": "topic_line",
       "title": "微软盘前涨3.04%，现报536.85美元",
@@ -10263,6 +10384,708 @@
           "impact": null,
           "sectors": [],
           "eid": "2be4465777"
+        }
+      ]
+    },
+    {
+      "ekey": "天山股份|美光#大模型",
+      "kind": "topic_line",
+      "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "cedfdaf472"
+        }
+      ]
+    },
+    {
+      "ekey": "公司密集披露股份|长鑫科技集团股份#大模型",
+      "kind": "topic_line",
+      "title": "AI产业链公司密集披露股份回购相关公告",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "AI产业链公司密集披露股份回购相关公告",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "edc7592af2"
+        }
+      ]
+    },
+    {
+      "ekey": "杰瑞股份",
+      "kind": "topic_line",
+      "title": "杰瑞股份收到三份项目授标函 总金额达181亿元",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "杰瑞股份收到三份项目授标函 总金额达181亿元",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "c82cd22bf3"
+        }
+      ]
+    },
+    {
+      "ekey": "中国太平洋保险|举牌中国神华能源",
+      "kind": "topic_line",
+      "title": "太保系举牌中国神华H股，持股比例为5.15%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "太保系举牌中国神华H股，持股比例为5.15%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "ec2411e588"
+        }
+      ]
+    },
+    {
+      "ekey": "央行|证监会",
+      "kind": "topic_line",
+      "title": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "两日申报超2000亿元 股票回购增持再贷款加码稳市场",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "9bf08eb942"
+        }
+      ]
+    },
+    {
+      "ekey": "Coherent#大模型",
+      "kind": "topic_line",
+      "title": "AI光互连“卖爆了”：Coherent Q1营收大增50%创纪录 数据中心业务飙升79% 剑指单季30亿美元营收",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "AI光互连“卖爆了”：Coherent Q1营收大增50%创纪录 数据中心业务飙升79% 剑指单季30亿美元营收",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "911ace7151"
+        }
+      ]
+    },
+    {
+      "ekey": "中国人民银行|央行#美债",
+      "kind": "topic_line",
+      "title": "央行将开展3000亿元买断式逆回购操作",
+      "topic": "美债",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "央行将开展3000亿元买断式逆回购操作",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "fe26b15285"
+        }
+      ]
+    },
+    {
+      "ekey": "前三季度全国能源|势及迎峰度冬电力",
+      "kind": "topic_line",
+      "title": "国家能源局赴山西督导煤企复工 多部门打出保供“组合拳”",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "国家能源局赴山西督导煤企复工 多部门打出保供“组合拳”",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "2ab2f1c1b4"
+        }
+      ]
+    },
+    {
+      "ekey": "国产半导体|长鑫科技#AI芯片",
+      "kind": "topic_line",
+      "title": "部分公司又有新增订单 国产半导体设备产业景气持续",
+      "topic": "AI芯片",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "部分公司又有新增订单 国产半导体设备产业景气持续",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "e250728883"
+        }
+      ]
+    },
+    {
+      "ekey": "OpenAI|利用新一代网络#大模型",
+      "kind": "topic_line",
+      "title": "OpenAI：利用新一代网络安全模型发现并验证948个Linux内核提权漏洞",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "OpenAI：利用新一代网络安全模型发现并验证948个Linux内核提权漏洞",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "88c5174df3"
+        }
+      ]
+    },
+    {
+      "ekey": "十一只基金|走得稳的基金",
+      "kind": "topic_line",
+      "title": "既抗跌又赚钱 十一只基金净值逼近历史新高",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "既抗跌又赚钱 十一只基金净值逼近历史新高",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "4685bfc2a4"
+        }
+      ]
+    },
+    {
+      "ekey": "年前三季度通信#AI芯片",
+      "kind": "topic_line",
+      "title": "中信建投：AI算力链增长突出 估值消化后聚焦业绩兑现",
+      "topic": "AI芯片",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "中信建投：AI算力链增长突出 估值消化后聚焦业绩兑现",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "8df6d1d3ec"
+        }
+      ]
+    },
+    {
+      "ekey": "原油运输及保险|年以来国际能源",
+      "kind": "topic_line",
+      "title": "欧佩克：原油运输及保险成本飙升 加剧全球通胀压力",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "欧佩克：原油运输及保险成本飙升 加剧全球通胀压力",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "47e9bee1ac"
+        }
+      ]
+    },
+    {
+      "ekey": "与者纷纷延长股份|产业投资人将股份",
+      "kind": "topic_line",
+      "title": "甘当扶持实体企业“栽树人” 上市公司重整参与者纷纷延长股份锁定期",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "甘当扶持实体企业“栽树人” 上市公司重整参与者纷纷延长股份锁定期",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "1a7cdbc5b3"
+        }
+      ]
+    },
+    {
+      "ekey": "南疆新型电力|国家能源集团",
+      "kind": "topic_line",
+      "title": "国家能源集团：全力推进重大项目建设 加大力度开发海风等优质新能源",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "国家能源集团：全力推进重大项目建设 加大力度开发海风等优质新能源",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "b33a3cce08"
+        }
+      ]
+    },
+    {
+      "ekey": "高盛|高盛集团#AI芯片",
+      "kind": "topic_line",
+      "title": "高盛与阿波罗洽谈出售SpaceX约400亿美元芯片融资债务",
+      "topic": "AI芯片",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "高盛与阿波罗洽谈出售SpaceX约400亿美元芯片融资债务",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7317e637c8"
+        }
+      ]
+    },
+    {
+      "ekey": "新华保险|族办公室又一保险",
+      "kind": "topic_line",
+      "title": "近20家机构入局 险企争锋家族办公室",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "近20家机构入局 险企争锋家族办公室",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "b13059668a"
+        }
+      ]
+    },
+    {
+      "ekey": "丰田汽车|最大涨幅丰田汽车#新能源车",
+      "kind": "topic_line",
+      "title": "丰田汽车上涨高达8.5% 创2025年7月以来最大涨幅",
+      "topic": "新能源车",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "丰田汽车上涨高达8.5% 创2025年7月以来最大涨幅",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "cf416d04af"
+        }
+      ]
+    },
+    {
+      "ekey": "欧盟|降低能源",
+      "kind": "topic_line",
+      "title": "欧盟委员会公布2027年工作计划",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "欧盟委员会公布2027年工作计划",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "e678d9072b"
+        }
+      ]
+    },
+    {
+      "ekey": "华泰证券|配置机会华泰证券",
+      "kind": "topic_line",
+      "title": "华泰证券：2027年建议把握券商板块战略配置机会",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "华泰证券：2027年建议把握券商板块战略配置机会",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "eda0071780"
+        }
+      ]
+    },
+    {
+      "ekey": "出口激增随着汽车",
+      "kind": "topic_line",
+      "title": "车企三季报盘点：利润分化 出口激增",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "车企三季报盘点：利润分化 出口激增",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "67eb985f21"
+        }
+      ]
+    },
+    {
+      "ekey": "消费主题基金|消费基金",
+      "kind": "topic_line",
+      "title": "传统和新兴两手抓 消费基金持仓积极“拓圈”",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "传统和新兴两手抓 消费基金持仓积极“拓圈”",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "bdce7398d5"
+        }
+      ]
+    },
+    {
+      "ekey": "南方区域电力|我国首个区域电力",
+      "kind": "topic_line",
+      "title": "电力市场没有稳赚不赔的入场券",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "电力市场没有稳赚不赔的入场券",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "950b238083"
+        }
+      ]
+    },
+    {
+      "ekey": "试验从华中科技",
+      "kind": "topic_line",
+      "title": "我国实现世界首次舱外激光“微创”试验",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "我国实现世界首次舱外激光“微创”试验",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "cbb915b26d"
+        }
+      ]
+    },
+    {
+      "ekey": "中国人民银行|央行",
+      "kind": "topic_line",
+      "title": "央行加力实施股票回购增持再贷款政策",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "央行加力实施股票回购增持再贷款政策",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "29097c633a"
+        }
+      ]
+    },
+    {
+      "ekey": "国务院#大模型",
+      "kind": "topic_line",
+      "title": "保障数据权益赋能AI创新",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "保障数据权益赋能AI创新",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "98213a3e76"
+        }
+      ]
+    },
+    {
+      "ekey": "央行|日本央行",
+      "kind": "topic_line",
+      "title": "日本央行委员们一致认为继续上调政策利率并调整货币宽松程度是合适的",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "日本央行委员们一致认为继续上调政策利率并调整货币宽松程度是合适的",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3e4c5278b6"
         }
       ]
     },
@@ -10554,36 +11377,6 @@
             "汽车/智能驾驶"
           ],
           "eid": "9eea13c5b3"
-        }
-      ]
-    },
-    {
-      "ekey": "三星|三星电子",
-      "kind": "topic_line",
-      "title": "高盛：三星3Q26营业利润与2027年HBM收入均有望突破100万亿韩元 重申“买入”评级",
-      "topic": null,
-      "topicLabel": "",
-      "dim": "AI 与科技",
-      "days": 1,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-01",
-      "heat_latest": 0.6,
-      "heat_peak": 0.6,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-10-01",
-          "heat": 0.6,
-          "title": "高盛：三星3Q26营业利润与2027年HBM收入均有望突破100万亿韩元 重申“买入”评级",
-          "source_count": 1,
-          "sources": [
-            "未知"
-          ],
-          "impact": "bull",
-          "sectors": [
-            "半导体/AI芯片"
-          ],
-          "eid": "e31c2c27d5"
         }
       ]
     },
@@ -10949,13 +11742,13 @@
     {
       "ekey": "A股限售股解禁一览亿元市值限售股",
       "kind": "event_line",
-      "title": "A股限售股解禁一览：640.48亿元市值限售股今日解禁",
+      "title": "A股限售股解禁一览：5.9亿元市值限售股今日解禁",
       "topic": null,
       "topicLabel": null,
       "dim": null,
-      "days": 3,
+      "days": 4,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-11-05",
       "heat_latest": 1.0,
       "heat_peak": 1.0,
       "trend": "flat",
@@ -10984,6 +11777,16 @@
           "date": "2026-10-21",
           "heat": 1.0,
           "title": "A股限售股解禁一览：640.48亿元市值限售股今日解禁",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3c3d698c16"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "A股限售股解禁一览：5.9亿元市值限售股今日解禁",
           "source_count": 1,
           "sources": [],
           "impact": null,
@@ -11349,6 +12152,42 @@
           "impact": null,
           "sectors": [],
           "eid": "3119e70a0a"
+        }
+      ]
+    },
+    {
+      "ekey": "美股收评美股三大指数集体收涨",
+      "kind": "event_line",
+      "title": "美股收评：美股三大指数集体收涨",
+      "topic": "股指行情",
+      "topicLabel": null,
+      "dim": null,
+      "days": 2,
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-10-10",
+          "heat": 1.0,
+          "title": "美股收评：美股三大指数集体收涨",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "c3984d3337"
+        },
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "美股收评：美股三大指数集体收涨",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "c3984d3337"
         }
       ]
     },
@@ -18295,32 +19134,6 @@
       ]
     },
     {
-      "ekey": "美股收评美股三大指数集体收涨",
-      "kind": "event_line",
-      "title": "美股收评：美股三大指数集体收涨",
-      "topic": "股指行情",
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-10-10",
-          "heat": 1.0,
-          "title": "美股收评：美股三大指数集体收涨",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "c3984d3337"
-        }
-      ]
-    },
-    {
       "ekey": "内存订单排至未来一年SK海力士合",
       "kind": "event_line",
       "title": "内存订单排至未来一年！SK海力士合作伙伴季度内存营收同比增158%",
@@ -22243,6 +23056,526 @@
           "impact": null,
           "sectors": [],
           "eid": "c3b527d50c"
+        }
+      ]
+    },
+    {
+      "ekey": "房地产融资逻辑正转向项目信用",
+      "kind": "event_line",
+      "title": "房地产融资逻辑正转向“项目信用”",
+      "topic": "房地产",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "房地产融资逻辑正转向“项目信用”",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "51150db82d"
+        }
+      ]
+    },
+    {
+      "ekey": "Arm第二财季营收创纪录同比增长",
+      "kind": "event_line",
+      "title": "Arm第二财季营收创纪录 同比增长27%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "Arm第二财季营收创纪录 同比增长27%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3b4daca72f"
+        }
+      ]
+    },
+    {
+      "ekey": "资金借道股票ETF猛加仓天净买入",
+      "kind": "event_line",
+      "title": "资金借道股票ETF猛加仓 22天净买入超5500亿元",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "资金借道股票ETF猛加仓 22天净买入超5500亿元",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "0c55842b19"
+        }
+      ]
+    },
+    {
+      "ekey": "多路资本增持金洲管道液冷业务受关",
+      "kind": "event_line",
+      "title": "多路资本增持 金洲管道液冷业务受关注",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "多路资本增持 金洲管道液冷业务受关注",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "8439baed7b"
+        }
+      ]
+    },
+    {
+      "ekey": "培育钻石毛坯涨价AI散热推动行业",
+      "kind": "event_line",
+      "title": "培育钻石毛坯涨价+AI散热推动 行业景气度有望企稳回升",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "培育钻石毛坯涨价+AI散热推动 行业景气度有望企稳回升",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "0c80bc7fe6"
+        }
+      ]
+    },
+    {
+      "ekey": "Snap第三季度营收增长至亿美元",
+      "kind": "event_line",
+      "title": "Snap第三季度营收增长14%至17.2亿美元",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "Snap第三季度营收增长14%至17.2亿美元",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7f717ed9a4"
+        }
+      ]
+    },
+    {
+      "ekey": "国内海拔最高超超临界火电项目完成",
+      "kind": "event_line",
+      "title": "国内海拔最高超超临界火电项目完成试运行 今天正式投产",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "国内海拔最高超超临界火电项目完成试运行 今天正式投产",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "e9c7e8f8f3"
+        }
+      ]
+    },
+    {
+      "ekey": "五部门加快布局稀贵金属循环利用项",
+      "kind": "event_line",
+      "title": "五部门加快布局稀贵金属循环利用项目 这个板块有望迎来全新机遇",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "五部门加快布局稀贵金属循环利用项目 这个板块有望迎来全新机遇",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "a710b3a990"
+        }
+      ]
+    },
+    {
+      "ekey": "外资机构看好A股三季度持仓市值增",
+      "kind": "event_line",
+      "title": "外资机构看好A股 三季度持仓市值增近八成",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "外资机构看好A股 三季度持仓市值增近八成",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "8a1f4e1b0b"
+        }
+      ]
+    },
+    {
+      "ekey": "瞄准国人吃穿用度跨国巨头持续加码",
+      "kind": "event_line",
+      "title": "瞄准国人“吃穿用度” 跨国巨头持续加码中国消费市场",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "瞄准国人“吃穿用度” 跨国巨头持续加码中国消费市场",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "38fe7c71b7"
+        }
+      ]
+    },
+    {
+      "ekey": "到年全面节约制度更加健全单位GD",
+      "kind": "event_line",
+      "title": "到2030年全面节约制度更加健全 单位GDP能耗降低10%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "到2030年全面节约制度更加健全 单位GDP能耗降低10%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "05822ddc9e"
+        }
+      ]
+    },
+    {
+      "ekey": "多家输变电设备企业斩获大单",
+      "kind": "event_line",
+      "title": "多家输变电设备企业斩获大单",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "多家输变电设备企业斩获大单",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "9b006dd817"
+        }
+      ]
+    },
+    {
+      "ekey": "韩国股市重大改革",
+      "kind": "event_line",
+      "title": "韩国股市，重大改革",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "韩国股市，重大改革",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "b659a3da55"
+        }
+      ]
+    },
+    {
+      "ekey": "Alphabet旗下Isomor",
+      "kind": "event_line",
+      "title": "Alphabet旗下Isomorphic Labs洽谈融资约50亿美元，估值或达500亿美元",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "Alphabet旗下Isomorphic Labs洽谈融资约50亿美元，估值或达500亿美元",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "d610f871fe"
+        }
+      ]
+    },
+    {
+      "ekey": "个交易日净买入超亿元资金借道股票",
+      "kind": "event_line",
+      "title": "22个交易日净买入超5500亿元 资金借道股票ETF加仓",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "22个交易日净买入超5500亿元 资金借道股票ETF加仓",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "a0bd4cdef1"
+        }
+      ]
+    },
+    {
+      "ekey": "北京商报羊字辈概念股炒作熄火是好",
+      "kind": "event_line",
+      "title": "北京商报：“羊字辈”概念股炒作熄火是好事",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "北京商报：“羊字辈”概念股炒作熄火是好事",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "d5d8673a8b"
+        }
+      ]
+    },
+    {
+      "ekey": "五部门印发实施全面节约战略行动方",
+      "kind": "event_line",
+      "title": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "五部门印发《实施全面节约战略行动方案》 到2030年我国单位GDP能耗降低10%左右",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "ea1ec997b2"
+        }
+      ]
+    },
+    {
+      "ekey": "机器人便利店小时打工具身智能求解",
+      "kind": "event_line",
+      "title": "机器人便利店24小时“打工” 具身智能求解落地真实场景",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "机器人便利店24小时“打工” 具身智能求解落地真实场景",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "c0cc60e7c8"
+        }
+      ]
+    },
+    {
+      "ekey": "锂电企业业绩会释放趋势信号储能市",
+      "kind": "event_line",
+      "title": "锂电企业业绩会释放趋势信号：储能市场增量明确 固态电池成必然方向",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "锂电企业业绩会释放趋势信号：储能市场增量明确 固态电池成必然方向",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "9ea5da4fbe"
+        }
+      ]
+    },
+    {
+      "ekey": "工业AI应用场景加快落地机器视觉",
+      "kind": "event_line",
+      "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-05",
+          "heat": 1.0,
+          "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "38975a3ed7"
         }
       ]
     },
