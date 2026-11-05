@@ -2,49 +2,6 @@
   "date": "2026-11-05",
   "news": [
     {
-      "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
-      "body": "公司方面重点关注包括：1）天山股份因涉嫌信息披露违法违规，证监会决定对公司立案；2）江苏雷利因涉嫌信息披露、减持违法违规，实控人苏达被证监会立案；海外市场重点关注包括：1）美股三大指数集体收涨，AI硬件股逆势下挫；2）民主党称将推动通过法案以结束伊朗战争，国际油价重挫逾8%。",
-      "time": "2026-11-05 08:24:33",
-      "stocks": [
-        "0.000877",
-        "0.300660"
-      ],
-      "src": "东方财富",
-      "id": "202611053922629733",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 3,
-      "impact": "bear",
-      "sectors": [
-        "半导体/AI芯片",
-        "AI应用/软件",
-        "石油/能源"
-      ],
-      "has_stock": 1,
-      "ctype": "market",
-      "ctypeName": "市场动作",
-      "axes": {
-        "sig": 10,
-        "nov": 5,
-        "cred": 10,
-        "reson": 10,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 91,
-      "struct_score": 79.0,
-      "final_score": 85.0,
-      "raw_score": 85.0,
-      "sum_score": 170.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
       "title": "微盟集团涨超15% 宣布接入支付宝AI开放平台",
       "body": "截至发稿，微盟集团(02013.HK)涨15.44%。根据公告，公司近日已接入支付宝AI开放平台，将能够协助商家搭建智能体，并关联支付宝小程序，支援将已有业务服务封装进Agent，由支付宝提供对话入口，支持门店、商品、下单等能力。",
       "time": "2026-11-05 09:39:52",
@@ -119,6 +76,48 @@
       "tier": "T2",
       "threshold": 52,
       "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "深成指、创业板指均涨逾1%",
+      "body": "指数走强，创业板指拉升涨逾1.00%，沪指涨0.02%，深成指涨1.20%。光伏、贵金属、短剧、锂电池等涨幅居前，沪深京三市上涨个股近4500只。",
+      "time": "2026-11-05 09:51:47",
+      "stocks": [
+        "0.160223",
+        "150.160223"
+      ],
+      "src": "东方财富",
+      "id": "202611053922982498",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 5,
+      "impact": "bull",
+      "sectors": [
+        "新能源/锂电",
+        "黄金/贵金属"
+      ],
+      "has_stock": 1,
+      "ctype": "market",
+      "ctypeName": "市场动作",
+      "axes": {
+        "sig": 4,
+        "nov": 5,
+        "cred": 4,
+        "reson": 10,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 67,
+      "struct_score": 82.0,
+      "final_score": 74.5,
+      "raw_score": 74.5,
+      "sum_score": 149.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
@@ -814,55 +813,6 @@
       "plain_quote": false
     },
     {
-      "title": "五部门加快布局稀贵金属循环利用项目 这个板块有望迎来全新机遇",
-      "body": "国家发展改革委等5部门印发《实施全面节约战略行动方案》。其中提到，加快提升资源化利用水平。加快布局一批稀贵金属资源循环利用项目，推进有价组分回收和高值化利用。促进废塑料、废旧纺织品等回收利用。到2030年，大宗固体废弃物年利用量达到45亿吨左右。",
-      "time": "2026-11-05 08:23:02",
-      "stocks": [
-        "0.301026",
-        "0.301500"
-      ],
-      "src": "东方财富",
-      "id": "202611053922572763",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 1,
-      "impact": "neutral",
-      "sectors": [
-        "黄金/贵金属"
-      ],
-      "has_stock": 1,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 7,
-        "nov": 4,
-        "cred": 6,
-        "reson": 8,
-        "act": 8
-      },
-      "axes_raw": {
-        "sig": 7,
-        "nov": 6,
-        "cred": 6,
-        "reson": 8,
-        "act": 8
-      },
-      "noise_notes": [
-        "预测性表述，非既成事实，信息增量受限（nov 压至 4）"
-      ],
-      "content_score": 64,
-      "struct_score": 70.0,
-      "final_score": 67.0,
-      "raw_score": 67.0,
-      "sum_score": 134.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
       "title": "端侧AI概念延续强势 润欣科技20cm涨停",
       "body": "端侧AI概念延续昨日强势，润欣科技20cm涨停，乐鑫科技涨超7%，创历史新高，天键股份、瑞芯微、博通集成、移远通信均涨超5%。",
       "time": "2026-11-05 09:47:42",
@@ -896,6 +846,48 @@
       "final_score": 66.0,
       "raw_score": 66.0,
       "sum_score": 132.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "算力租赁概念震荡反弹 润建股份4天2板",
+      "body": "算力租赁概念震荡反弹，润建股份4天2板，品高股份涨超10%，润泽科技、天亿马、优刻得、东方国信、首都在线等均涨超5%。",
+      "time": "2026-11-05 09:50:05",
+      "stocks": [
+        "0.002929",
+        "90.BK1365"
+      ],
+      "src": "东方财富",
+      "id": "202611053922970459",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 2,
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "算力/数据中心"
+      ],
+      "has_stock": 1,
+      "ctype": "tech",
+      "ctypeName": "技术进展",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 4,
+        "reson": 6,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 56,
+      "struct_score": 75.0,
+      "final_score": 65.5,
+      "raw_score": 65.5,
+      "sum_score": 131.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -1545,46 +1537,6 @@
       "plain_quote": false
     },
     {
-      "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
-      "body": "“金九银十”过后，玻璃行业尚未走出低位磨底阶段。国家统计局数据显示，今年前三季度全国平板玻璃产量66344万重量箱，同比下降7%；同期房地产开发企业房屋竣工面积同比下降25.1%。需求收缩沿地产竣工链传导至玻璃原片及深加工环节，产品价格、企业盈利持续承压。从上市公司三季报看，浮法、光伏及建筑加工玻璃企业普遍面临收入下降、盈利承压，部分企业由盈转亏或亏损扩大，不同业务结构带来的业绩分化开始显现。业内企业纷纷转型，路径主要指向收缩低效、亏损业务，或将资源转向汽车、电子、新能源及高端深加工玻璃等领域。（人民财讯）",
-      "time": "2026-11-05 07:49:46",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681479972",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 2,
-      "impact": "bear",
-      "sectors": [
-        "地产/基建",
-        "新能源/锂电",
-        "石油/能源"
-      ],
-      "has_stock": 0,
-      "ctype": "data",
-      "ctypeName": "经济数据",
-      "axes": {
-        "sig": 7,
-        "nov": 3,
-        "cred": 10,
-        "reson": 6,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 66,
-      "struct_score": 58.0,
-      "final_score": 62.0,
-      "raw_score": 62.0,
-      "sum_score": 124.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
       "title": "CPO概念震荡下挫 中际旭创跌近10%",
       "body": "CPO概念震荡下挫，杰普特、联讯仪器跌超10%，中际旭创跌近10%，蘅东光，新易盛、源杰科技、天孚通信等多股跌超6%。",
       "time": "2026-11-05 09:38:58",
@@ -1613,44 +1565,6 @@
       "noise_notes": [],
       "content_score": 45,
       "struct_score": 78.0,
-      "final_score": 61.5,
-      "raw_score": 61.5,
-      "sum_score": 123.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "我国实现世界首次舱外激光“微创”试验",
-      "body": "从华中科技大学获悉，该校机械科学与工程学院黄禹教授团队与上海空间电源研究所联合研制的“舱外激光维修装置”，近期在轨完成我国空间站舱外激光切割维护试验。这是国际上在数百公里外的太空极端环境下，首次通过遥操作开展的激光精密切割试验，标志着我国在轨运维与装备制造技术领域取得重大突破。",
-      "time": "2026-11-05 08:22:52",
-      "stocks": [
-        "150.011668"
-      ],
-      "src": "东方财富",
-      "id": "202611053922630865",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "view",
-      "ctypeName": "行业观点",
-      "axes": {
-        "sig": 6,
-        "nov": 8,
-        "cred": 4,
-        "reson": 2,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 50,
-      "struct_score": 73.0,
       "final_score": 61.5,
       "raw_score": 61.5,
       "sum_score": 123.0,
@@ -2138,47 +2052,6 @@
       "plain_quote": false
     },
     {
-      "title": "电网设备板块异动拉升 顺钠股份直线涨停",
-      "body": "电网设备板块异动拉升，顺钠股份直线涨停，灿能电力、金盘科技、新特电气、通光线缆、神马电力等跟涨。",
-      "time": "2026-11-05 09:41:38",
-      "stocks": [
-        "0.000533",
-        "90.BK0457"
-      ],
-      "src": "东方财富",
-      "id": "202611053922924157",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 2,
-      "impact": "bull",
-      "sectors": [
-        "电力/公用"
-      ],
-      "has_stock": 1,
-      "ctype": "market",
-      "ctypeName": "市场动作",
-      "axes": {
-        "sig": 3,
-        "nov": 5,
-        "cred": 4,
-        "reson": 4,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 47,
-      "struct_score": 69.0,
-      "final_score": 58.0,
-      "raw_score": 58.0,
-      "sum_score": 116.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
       "title": "多只半导体设备ETF涨超6%",
       "body": "半导体设备ETF广发、半导体设备ETF广国泰、半导体设备ETF易方达等多只半导体设备ETF涨超6%。成分股上，北方华创涨超4%，中微公司、拓荆科技等跟涨。",
       "time": "2026-11-05 09:34:40",
@@ -2256,40 +2129,37 @@
       "plain_quote": false
     },
     {
-      "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
-      "body": "海外机器视觉龙头近期动向为观察行业提供新线索：德国厂商Basler介绍镜头与光源协同控制方案，基恩士披露区域及行业销售表现，康耐视即将公布新一季业绩；国内相关企业三季报已披露，工业AI应用能否转化为经营增量有了更具体的观察样本。分析人士认为，应用扩展、收入增长与利润改善并非同步发生，观察产业链既要识别AI应用带来的业务增量，也要区分研发投入、业务结构及非经常性因素的影响，进一步检验增长的持续性。（中国证券报）",
-      "time": "2026-11-05 07:32:57",
+      "title": "两市融资余额增加13.29亿元",
+      "body": "截至11月4日，上交所融资余额报11776.07亿元，较前一交易日增加9.85亿元；深交所融资余额报10867.48亿元，较前一交易日增加3.44亿元；两市合计22643.55亿元，较前一交易日增加13.29亿元。",
+      "time": "2026-11-05 08:53:43",
       "stocks": [],
-      "src": "同花顺",
-      "id": "681479518",
-      "dim": "tech",
-      "dimName": "AI 与科技",
+      "src": "东方财富",
+      "id": "202611053922651958",
+      "dim": "risk",
+      "dimName": "市场资金面",
       "dim_score": 1,
-      "impact": "bull",
-      "sectors": [
-        "AI应用/软件",
-        "券商/大金融"
-      ],
+      "impact": "neutral",
+      "sectors": [],
       "has_stock": 0,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
+      "ctype": "market",
+      "ctypeName": "市场动作",
       "axes": {
-        "sig": 6,
-        "nov": 8,
-        "cred": 4,
+        "sig": 4,
+        "nov": 5,
+        "cred": 6,
         "reson": 6,
-        "act": 4
+        "act": 1
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 60,
-      "struct_score": 55.0,
+      "content_score": 45,
+      "struct_score": 70.0,
       "final_score": 57.5,
       "raw_score": 57.5,
       "sum_score": 115.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
@@ -2406,12 +2276,127 @@
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
+    },
+    {
+      "title": "韩国KOSPI指数日内大跌5%",
+      "body": "韩国KOSPI指数日内大跌5%，SK海力士跌超9%，三星电子跌7%。",
+      "time": "2026-11-05 09:22:32",
+      "stocks": [],
+      "src": "东方财富",
+      "id": "202611053922836442",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "bear",
+      "sectors": [],
+      "has_stock": 0,
+      "ctype": "market",
+      "ctypeName": "市场动作",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 4,
+        "reson": 6,
+        "act": 1
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 47,
+      "struct_score": 66.0,
+      "final_score": 56.5,
+      "raw_score": 56.5,
+      "sum_score": 113.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "多省份发文推进落实带薪休假",
+      "body": "今年以来，已有多个省份发出关于落实带薪年休假制度鼓励职工错峰休假的通知。11月3日，广东省发展改革委发布关于印发《广东省扩大消费实施方案》的通知。该通知提到，严格落实休息休假制度。切实保障劳动者合法休息休假权益，全面落实带薪年休假制度，增强制度执行刚性，鼓励用人单位将年休假与小长假连休，安排弹性错峰休假。",
+      "time": "2026-11-05 08:45:34",
+      "stocks": [],
+      "src": "东方财富",
+      "id": "202611043922152234",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "has_stock": 0,
+      "ctype": "policy",
+      "ctypeName": "政策发布",
+      "axes": {
+        "sig": 3,
+        "nov": 8,
+        "cred": 4,
+        "reson": 8,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 52,
+      "struct_score": 61.0,
+      "final_score": 56.5,
+      "raw_score": 56.5,
+      "sum_score": 113.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+      "body": "美国科技巨头将人工智能（AI）融资热拓展到欧洲，给欧洲市场增添了新的压力。接受第一财经记者采访的多位专家认为，在科技巨头开始加入发债这场赛局后，的确为市场带来了新的波动：面对当前动荡的国债市场，资金可能直接流向收益更高的AI资产。",
+      "time": "2026-11-05 08:44:02",
+      "stocks": [
+        "105.MSFT",
+        "105.AMZN"
+      ],
+      "src": "东方财富",
+      "id": "202611043922090984",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 3,
+      "impact": "bear",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "has_stock": 1,
+      "ctype": "tech",
+      "ctypeName": "技术进展",
+      "axes": {
+        "sig": 3,
+        "nov": 5,
+        "cred": 4,
+        "reson": 4,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 40,
+      "struct_score": 73.0,
+      "final_score": 56.5,
+      "raw_score": 56.5,
+      "sum_score": 113.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
     }
   ],
   "provenance": {
     "source": "东方财富快讯 / 新浪财经 / 同花顺快讯（公开接口）",
     "source_type": "public_news_api",
-    "fetched_at": "2026-11-05 09:49:51",
+    "fetched_at": "2026-11-05 09:53:38",
     "auth": "none",
     "sources_ok": [
       "东方财富(80)",
@@ -2422,26 +2407,26 @@
     "scoring": {
       "total": 199,
       "prefiltered": 2,
-      "passed": 94,
+      "passed": 91,
       "by_type": {
-        "市场动作": 53,
-        "公司事件": 14,
-        "行业观点": 71,
-        "经济数据": 10,
+        "市场动作": 57,
         "技术进展": 16,
-        "政策发布": 18,
-        "海外宏观": 15
+        "公司事件": 13,
+        "行业观点": 73,
+        "经济数据": 9,
+        "政策发布": 15,
+        "海外宏观": 14
       },
       "by_tier": {
         "T1.5": 79,
         "T2": 116,
         "T1": 2
       },
-      "noise_hits": 21,
+      "noise_hits": 19,
       "failed": [
         {
-          "title": "贵金属概念持续拉升 赤峰黄金、盛达资源双双2连板",
-          "score": 47.0,
+          "title": "电网设备板块异动拉升 顺钠股份直线涨停",
+          "score": 48.0,
           "threshold": 50,
           "type": "市场动作"
         },
@@ -2530,8 +2515,20 @@
           "type": "行业观点"
         },
         {
+          "title": "【会客厅】仲呈祥：始终把电影与观众的联系放在首位",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
           "title": "唐山198个计划开工项目全部开工",
           "score": 43.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "不想打工的年轻人，在李佳琦直播间里“付费干活”",
+          "score": 40.0,
           "threshold": 52,
           "type": "行业观点"
         },
@@ -2758,10 +2755,40 @@
           "type": "行业观点"
         },
         {
-          "title": "黑龙江鸡东东风社区：打通服务各族群众“最后一米”",
-          "score": 36.5,
+          "title": "国内航线燃油附加费今起上调",
+          "score": 47.5,
           "threshold": 52,
           "type": "行业观点"
+        },
+        {
+          "title": "多只半导体设备ETF涨停",
+          "score": 47.0,
+          "threshold": 52,
+          "type": "市场动作"
+        },
+        {
+          "title": "现货白银涨超2% COMEX白银期货涨超2%",
+          "score": 51.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "上期所沪银主力合约大涨7%",
+          "score": 43.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "三大指数低开高走，现集体翻红",
+          "score": 50.5,
+          "threshold": 52,
+          "type": "市场动作"
+        },
+        {
+          "title": "现货黄金站上4130美元/盎司",
+          "score": 51.0,
+          "threshold": 52,
+          "type": "海外宏观"
         },
         {
           "title": "现货白银站上53美元/盎司",
@@ -3032,37 +3059,13 @@
           "score": 50.5,
           "threshold": 52,
           "type": "市场动作"
-        },
-        {
-          "title": "锂电企业业绩会释放趋势信号：储能市场增量明确 固态电池成必然方向",
-          "score": 46.0,
-          "threshold": 52,
-          "type": "公司事件"
-        },
-        {
-          "title": "特朗普承认伊朗战事影响共和党选情仍认为“值得”",
-          "score": 40.5,
-          "threshold": 52,
-          "type": "海外宏观"
-        },
-        {
-          "title": "现货黄金失守4060美元/盎司",
-          "score": 51.0,
-          "threshold": 52,
-          "type": "海外宏观"
-        },
-        {
-          "title": "美国佛罗里达州发生枪击事件致2死4伤",
-          "score": 40.0,
-          "threshold": 52,
-          "type": "行业观点"
         }
       ]
     },
     "total_fetched": 210,
     "after_dedupe": 197,
     "picked": 60,
-    "passed_threshold": 94,
+    "passed_threshold": 91,
     "dim_dist": {
       "军事地缘": 1,
       "宏观经济/政策": 13,
