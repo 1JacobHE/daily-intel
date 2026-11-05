@@ -4,7 +4,7 @@
     "2026-11-05",
     "2026-10-30"
   ],
-  "generated_at": "2026-11-05 08:26",
+  "generated_at": "2026-11-05 09:49",
   "github_persistent": [
     {
       "full_name": "storytold/craft-anything",
@@ -16,9 +16,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 10414,
-      "stars_last": 11702,
-      "stars_growth": 1288,
+      "stars_first": 10374,
+      "stars_last": 11961,
+      "stars_growth": 1587,
       "trend": "flat"
     },
     {
@@ -31,9 +31,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 429688,
-      "stars_last": 430840,
-      "stars_growth": 1152,
+      "stars_first": 429636,
+      "stars_last": 431026,
+      "stars_growth": 1390,
       "trend": "flat"
     },
     {
@@ -46,9 +46,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 58643,
-      "stars_last": 59358,
-      "stars_growth": 715,
+      "stars_first": 58632,
+      "stars_last": 59468,
+      "stars_growth": 836,
       "trend": "flat"
     },
     {
@@ -61,9 +61,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 312605,
-      "stars_last": 313295,
-      "stars_growth": 690,
+      "stars_first": 312570,
+      "stars_last": 313370,
+      "stars_growth": 800,
       "trend": "flat"
     },
     {
@@ -76,9 +76,24 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 8229,
-      "stars_last": 8665,
-      "stars_growth": 436,
+      "stars_first": 8202,
+      "stars_last": 8702,
+      "stars_growth": 500,
+      "trend": "flat"
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "lang": "TypeScript",
+      "days_on_board": 2,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-05",
+      "stars_first": 272174,
+      "stars_last": 272620,
+      "stars_growth": 446,
       "trend": "flat"
     },
     {
@@ -91,25 +106,10 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 1141,
-      "stars_last": 1511,
-      "stars_growth": 370,
+      "stars_first": 1126,
+      "stars_last": 1557,
+      "stars_growth": 431,
       "trend": "down"
-    },
-    {
-      "full_name": "deepseek-ai/deepseek-harness",
-      "desc": "DeepSeek Harness: Everything is a Plugin.",
-      "lang": "TypeScript",
-      "days_on_board": 2,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-05",
-      "stars_first": 272197,
-      "stars_last": 272534,
-      "stars_growth": 337,
-      "trend": "flat"
     },
     {
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
@@ -121,9 +121,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 60402,
-      "stars_last": 60691,
-      "stars_growth": 289,
+      "stars_first": 60381,
+      "stars_last": 60796,
+      "stars_growth": 415,
       "trend": "flat"
     },
     {
@@ -136,9 +136,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 2203,
-      "stars_last": 2476,
-      "stars_growth": 273,
+      "stars_first": 2175,
+      "stars_last": 2578,
+      "stars_growth": 403,
       "trend": "flat"
     },
     {
@@ -151,9 +151,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 3384,
-      "stars_last": 3656,
-      "stars_growth": 272,
+      "stars_first": 3378,
+      "stars_last": 3722,
+      "stars_growth": 344,
       "trend": "up"
     },
     {
@@ -166,9 +166,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 184270,
-      "stars_last": 184541,
-      "stars_growth": 271,
+      "stars_first": 184258,
+      "stars_last": 184578,
+      "stars_growth": 320,
       "trend": "flat"
     },
     {
@@ -181,9 +181,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 18324,
-      "stars_last": 18556,
-      "stars_growth": 232,
+      "stars_first": 18308,
+      "stars_last": 18619,
+      "stars_growth": 311,
       "trend": "flat"
     },
     {
@@ -196,9 +196,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 51810,
-      "stars_last": 52018,
-      "stars_growth": 208,
+      "stars_first": 51804,
+      "stars_last": 52043,
+      "stars_growth": 239,
       "trend": "flat"
     },
     {
@@ -211,9 +211,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 39757,
-      "stars_last": 39954,
-      "stars_growth": 197,
+      "stars_first": 39750,
+      "stars_last": 39985,
+      "stars_growth": 235,
       "trend": "flat"
     },
     {
@@ -226,24 +226,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 312250,
-      "stars_last": 312440,
-      "stars_growth": 190,
-      "trend": "flat"
-    },
-    {
-      "full_name": "JustVugg/colibri",
-      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-      "lang": "C",
-      "days_on_board": 2,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-05",
-      "stars_first": 47595,
-      "stars_last": 47760,
-      "stars_growth": 165,
+      "stars_first": 312238,
+      "stars_last": 312467,
+      "stars_growth": 229,
       "trend": "flat"
     },
     {
@@ -256,39 +241,24 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 4553,
-      "stars_last": 4713,
-      "stars_growth": 160,
+      "stars_first": 4543,
+      "stars_last": 4736,
+      "stars_growth": 193,
       "trend": "up"
     },
     {
-      "full_name": "wquguru/cicada",
-      "desc": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
-      "lang": "Swift",
-      "days_on_board": 2,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-05",
-      "stars_first": 998,
-      "stars_last": 1127,
-      "stars_growth": 129,
-      "trend": "flat"
-    },
-    {
-      "full_name": "valentderah/totk-pc-recomp",
-      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "full_name": "JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "lang": "C",
       "days_on_board": 2,
       "boards": [
-        "火箭榜"
+        "势能榜"
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 4730,
-      "stars_last": 4854,
-      "stars_growth": 124,
+      "stars_first": 47591,
+      "stars_last": 47770,
+      "stars_growth": 179,
       "trend": "flat"
     },
     {
@@ -301,25 +271,25 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 6506,
-      "stars_last": 6619,
-      "stars_growth": 113,
+      "stars_first": 6495,
+      "stars_last": 6667,
+      "stars_growth": 172,
       "trend": "up"
     },
     {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "lang": "JavaScript",
+      "full_name": "wquguru/cicada",
+      "desc": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+      "lang": "Swift",
       "days_on_board": 2,
       "boards": [
-        "势能榜"
+        "火箭榜"
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 62676,
-      "stars_last": 62789,
-      "stars_growth": 113,
-      "trend": "flat"
+      "stars_first": 989,
+      "stars_last": 1161,
+      "stars_growth": 172,
+      "trend": "down"
     },
     {
       "full_name": "yetone/magpie",
@@ -331,24 +301,24 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 29618,
-      "stars_last": 29728,
-      "stars_growth": 110,
+      "stars_first": 29613,
+      "stars_last": 29778,
+      "stars_growth": 165,
       "trend": "flat"
     },
     {
-      "full_name": "boykopovar/AnyPS5",
-      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "lang": "C++",
+      "full_name": "valentderah/totk-pc-recomp",
+      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "lang": "C",
       "days_on_board": 2,
       "boards": [
-        "势能榜"
+        "火箭榜"
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 51072,
-      "stars_last": 51180,
-      "stars_growth": 108,
+      "stars_first": 4727,
+      "stars_last": 4872,
+      "stars_growth": 145,
       "trend": "flat"
     },
     {
@@ -361,24 +331,39 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 1919,
-      "stars_last": 2021,
-      "stars_growth": 102,
+      "stars_first": 1912,
+      "stars_last": 2046,
+      "stars_growth": 134,
       "trend": "flat"
     },
     {
-      "full_name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "lang": "Python",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
       "days_on_board": 2,
       "boards": [
-        "活跃榜"
+        "势能榜"
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 260461,
-      "stars_last": 260555,
-      "stars_growth": 94,
+      "stars_first": 62672,
+      "stars_last": 62803,
+      "stars_growth": 131,
+      "trend": "flat"
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "days_on_board": 2,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-05",
+      "stars_first": 51066,
+      "stars_last": 51192,
+      "stars_growth": 126,
       "trend": "flat"
     },
     {
@@ -391,9 +376,24 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 1419,
-      "stars_last": 1512,
-      "stars_growth": 93,
+      "stars_first": 1412,
+      "stars_last": 1530,
+      "stars_growth": 118,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 2,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-05",
+      "stars_first": 260455,
+      "stars_last": 260573,
+      "stars_growth": 118,
       "trend": "flat"
     },
     {
@@ -406,9 +406,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 76823,
-      "stars_last": 76907,
-      "stars_growth": 84,
+      "stars_first": 76821,
+      "stars_last": 76933,
+      "stars_growth": 112,
       "trend": "flat"
     },
     {
@@ -421,9 +421,24 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 3559,
-      "stars_last": 3630,
-      "stars_growth": 71,
+      "stars_first": 3551,
+      "stars_last": 3660,
+      "stars_growth": 109,
+      "trend": "down"
+    },
+    {
+      "full_name": "elvarofficial/teardown",
+      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "lang": "JavaScript",
+      "days_on_board": 2,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-05",
+      "stars_first": 1836,
+      "stars_last": 1918,
+      "stars_growth": 82,
       "trend": "down"
     },
     {
@@ -436,24 +451,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-05",
-      "stars_first": 2783,
-      "stars_last": 2853,
-      "stars_growth": 70,
-      "trend": "up"
-    },
-    {
-      "full_name": "elvarofficial/teardown",
-      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "lang": "JavaScript",
-      "days_on_board": 2,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-05",
-      "stars_first": 1841,
-      "stars_last": 1908,
-      "stars_growth": 67,
+      "stars_first": 2781,
+      "stars_last": 2861,
+      "stars_growth": 80,
       "trend": "flat"
     }
   ],
@@ -477,72 +477,12 @@
           "sources": 1
         }
       ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "美国9月贸易逆差维持在相对高位",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-04",
-          "title": "“稳+进”！前9个月我国服务贸易运行态势良好",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-05",
-          "title": "美国9月贸易逆差维持在相对高位",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "存储股遭资金集中抛售 美光跌4%、闪迪跌近5%",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-04",
-          "title": "美股存储芯片股盘前跌幅扩大 美光、SK海力士、闪迪跌逾2%",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-05",
-          "title": "存储股遭资金集中抛售 美光跌4%、闪迪跌近5%",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "高通2026财年营收431亿美元，同比下降3%",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-04",
-          "title": "高通称SpaceX将使用Dragonwing用于5G网络",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-05",
-          "title": "高通2026财年营收431亿美元，同比下降3%",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
     }
   ],
   "stat": {
-    "repos_tracked": 55,
-    "repos_multi_day": 47,
-    "mainlines": 4
+    "repos_tracked": 56,
+    "repos_multi_day": 46,
+    "mainlines": 1
   },
   "provenance": {
     "method": "aggregate_over_archives",
