@@ -1,13 +1,22 @@
 name: 每日情报更新
 
 # 完全跑在 GitHub 服务器上：不需要 WorkBuddy 打开，也不需要本机开机。
-# cron 用的是 UTC，00:00 UTC = 北京时间 08:00。
-# 注意：GitHub 的定时任务在整点高峰可能延迟几分钟到十几分钟，属正常现象。
+#
+# cron 用 UTC。北京时间 = UTC + 8。
+#   "7,37 0-12 * * *" → UTC 00:07~12:37 每半小时一次 = 北京 08:07 ~ 20:37，共 26 个时间点。
+#
+# 为什么这样设计（2026-11-05 实测教训）：
+#   1) 原来只设 "0 0 * * *"（北京 08:00 整点）—— UTC 00:00 是全球定时任务最拥堵的时刻，
+#      GitHub 官方明确说明高峰期会延迟甚至丢弃 schedule 事件。首次上线当天就没触发。
+#   2) 现在错开整点（07 / 37 分），并且一天给 26 次机会：谁先跑成功，后面的靠 gate 步骤
+#      看到「今天已有 data: 每日更新 提交」后立刻跳过（几秒退出，几乎不耗额度）。
+#   3) 万一早上全部失败（数据源抽风 / runner 网络问题），白天还有 25 次自动重试机会，
+#      不用你盯着，也不用开电脑。
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: # 支持手动点一下立刻跑（补跑用）
+    - cron: "7,37 0-12 * * *"
+  workflow_dispatch: # 手动触发永远强制跑，不受 gate 拦截
 
 permissions:
   contents: write
@@ -24,19 +33,41 @@ jobs:
     steps:
       - name: 拉取仓库
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 30 # 需要看历史提交来判断今天是否已更新
+
+      - name: 判断今日是否已更新
+        id: gate
+        run: |
+          D=$(TZ=Asia/Shanghai date +%F)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "手动触发，强制执行（不看今日是否已更新）"
+            exit 0
+          fi
+          if git log -30 --pretty=%s | grep -q "data: 每日更新 ${D}"; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "今日 ${D} 已有成功提交，本轮跳过（兜底轮次正常退出）"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "今日 ${D} 尚未更新，开始抓取"
+          fi
 
       - name: 准备 Python
+        if: steps.gate.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: 抓取并生成数据
+        if: steps.gate.outputs.skip != 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TZ: Asia/Shanghai
         run: bash tools/ci_update.sh
 
       - name: 提交数据
+        if: steps.gate.outputs.skip != 'true'
         run: |
           set -e
           git config user.name  "intel-bot"
@@ -51,6 +82,7 @@ jobs:
           fi
 
       - name: 刷新 CDN 缓存
+        if: steps.gate.outputs.skip != 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -59,4 +91,4 @@ jobs:
       - name: 失败提示
         if: failure()
         run: |
-          echo "::error::本次更新未通过校验。页面会继续显示上一次成功的数据（fail-closed），不会出现空页面。"
+          echo "::error::本次更新未通过校验，30 分钟后会自动重试。页面会继续显示上一次成功的数据（fail-closed），不会出现空页面。"
