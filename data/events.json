@@ -1,52 +1,7 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05 09:49",
+  "generated_at": "2026-11-05 09:53",
   "events": [
-    {
-      "eid": "cedfdaf472",
-      "ekey": "天山股份|美光#大模型",
-      "kind": "topic_line",
-      "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
-      "body": "公司方面重点关注包括：1）天山股份因涉嫌信息披露违法违规，证监会决定对公司立案；2）江苏雷利因涉嫌信息披露、减持违法违规，实控人苏达被证监会立案；海外市场重点关注包括：1）美股三大指数集体收涨，AI硬件股逆势下挫；2）民主党称将推动通过法案以结束伊朗战争，国际油价重挫逾8%。",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "impact": "bear",
-      "sectors": [
-        "半导体/AI芯片",
-        "AI应用/软件",
-        "石油/能源"
-      ],
-      "ctypeName": "市场动作",
-      "tier": "T1.5",
-      "score": 85.0,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": "大模型",
-      "topicLabel": "大模型与 AI 应用",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
-          "src": "东方财富",
-          "time": "2026-11-05 08:24:33",
-          "body": "公司方面重点关注包括：1）天山股份因涉嫌信息披露违法违规，证监会决定对公司立案；2）江苏雷利因涉嫌信息披露、减持违法违规，实控人苏达被证监会立案；海外市场重点关注包括：1）美股三大指数集体收涨，AI硬件股逆势下挫；2）民主党称将推动通过法案以结束伊朗战争，国际油价重挫逾8%。",
-          "score": 85.0
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-05 08:24:33",
-      "rank_score": 49.0
-    },
     {
       "eid": "85e1fef0bb",
       "ekey": "微盟集团#大模型",
@@ -132,6 +87,50 @@
       "related": [],
       "time": "2026-11-05 09:03:54",
       "rank_score": 45.4
+    },
+    {
+      "eid": "d6a17eb44e",
+      "ekey": "深成指创业板指均涨逾",
+      "kind": "event_line",
+      "title": "深成指、创业板指均涨逾1%",
+      "body": "指数走强，创业板指拉升涨逾1.00%，沪指涨0.02%，深成指涨1.20%。光伏、贵金属、短剧、锂电池等涨幅居前，沪深京三市上涨个股近4500只。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "新能源/锂电",
+        "黄金/贵金属"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 74.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "深成指、创业板指均涨逾1%",
+          "src": "东方财富",
+          "time": "2026-11-05 09:51:47",
+          "body": "指数走强，创业板指拉升涨逾1.00%，沪指涨0.02%，深成指涨1.20%。光伏、贵金属、短剧、锂电池等涨幅居前，沪深京三市上涨个股近4500只。",
+          "score": 74.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-05 09:51:47",
+      "rank_score": 44.8
     },
     {
       "eid": "4b772a13a1",
@@ -865,49 +864,6 @@
       "rank_score": 41.8
     },
     {
-      "eid": "a710b3a990",
-      "ekey": "五部门加快布局稀贵金属循环利用项",
-      "kind": "event_line",
-      "title": "五部门加快布局稀贵金属循环利用项目 这个板块有望迎来全新机遇",
-      "body": "国家发展改革委等5部门印发《实施全面节约战略行动方案》。其中提到，加快提升资源化利用水平。加快布局一批稀贵金属资源循环利用项目，推进有价组分回收和高值化利用。促进废塑料、废旧纺织品等回收利用。到2030年，大宗固体废弃物年利用量达到45亿吨左右。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "neutral",
-      "sectors": [
-        "黄金/贵金属"
-      ],
-      "ctypeName": "政策发布",
-      "tier": "T1.5",
-      "score": 67.0,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "五部门加快布局稀贵金属循环利用项目 这个板块有望迎来全新机遇",
-          "src": "东方财富",
-          "time": "2026-11-05 08:23:02",
-          "body": "国家发展改革委等5部门印发《实施全面节约战略行动方案》。其中提到，加快提升资源化利用水平。加快布局一批稀贵金属资源循环利用项目，推进有价组分回收和高值化利用。促进废塑料、废旧纺织品等回收利用。到2030年，大宗固体废弃物年利用量达到45亿吨左右。",
-          "score": 67.0
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-05 08:23:02",
-      "rank_score": 41.8
-    },
-    {
       "eid": "c9b90e0f0e",
       "ekey": "乐鑫科技|润欣科技#大模型",
       "kind": "topic_line",
@@ -949,6 +905,50 @@
       "related": [],
       "time": "2026-11-05 09:47:42",
       "rank_score": 41.4
+    },
+    {
+      "eid": "bbdff40731",
+      "ekey": "品高股份|润建股份#AI芯片",
+      "kind": "topic_line",
+      "title": "算力租赁概念震荡反弹 润建股份4天2板",
+      "body": "算力租赁概念震荡反弹，润建股份4天2板，品高股份涨超10%，润泽科技、天亿马、优刻得、东方国信、首都在线等均涨超5%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "算力/数据中心"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 65.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "算力租赁概念震荡反弹 润建股份4天2板",
+          "src": "东方财富",
+          "time": "2026-11-05 09:50:05",
+          "body": "算力租赁概念震荡反弹，润建股份4天2板，品高股份涨超10%，润泽科技、天亿马、优刻得、东方国信、首都在线等均涨超5%。",
+          "score": 65.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-05 09:50:05",
+      "rank_score": 41.2
     },
     {
       "eid": "72e9be911c",
@@ -1637,51 +1637,6 @@
       "rank_score": 39.8
     },
     {
-      "eid": "f499263e1a",
-      "ekey": "国家统计局",
-      "kind": "topic_line",
-      "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
-      "body": "“金九银十”过后，玻璃行业尚未走出低位磨底阶段。国家统计局数据显示，今年前三季度全国平板玻璃产量66344万重量箱，同比下降7%；同期房地产开发企业房屋竣工面积同比下降25.1%。需求收缩沿地产竣工链传导至玻璃原片及深加工环节，产品价格、企业盈利持续承压。从上市公司三季报看，浮法、光伏及建筑加工玻璃企业普遍面临收入下降、盈利承压，部分企业由盈转亏或亏损扩大，不同业务结构带来的业绩分化开始显现。业内企业纷纷转型，路径主要指向收缩低效、亏损业务，或将资源转向汽车、电子、新能源及高端深加工玻璃等领域。（人民财讯）",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "impact": "bear",
-      "sectors": [
-        "地产/基建",
-        "新能源/锂电",
-        "石油/能源"
-      ],
-      "ctypeName": "经济数据",
-      "tier": "T2",
-      "score": 62.0,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "同花顺"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
-          "src": "同花顺",
-          "time": "2026-11-05 07:49:46",
-          "body": "“金九银十”过后，玻璃行业尚未走出低位磨底阶段。国家统计局数据显示，今年前三季度全国平板玻璃产量66344万重量箱，同比下降7%；同期房地产开发企业房屋竣工面积同比下降25.1%。需求收缩沿地产竣工链传导至玻璃原片及深加工环节，产品价格、企业盈利持续承压。从上市公司三季报看，浮法、光伏及建筑加工玻璃企业普遍面临收入下降、盈利承压，部分企业由盈转亏或亏损扩大，不同业务结构带来的业绩分化开始显现。业内企业纷纷转型，路径主要指向收缩低效、亏损业务，或将资源转向汽车、电子、新能源及高端深加工玻璃等领域。（人民财讯）",
-          "score": 62.0
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-05 07:49:46",
-      "rank_score": 39.8
-    },
-    {
       "eid": "db6f9ddc4e",
       "ekey": "CPO概念震荡下挫中际旭创跌近",
       "kind": "event_line",
@@ -1720,47 +1675,6 @@
       "merge_reasons": [],
       "related": [],
       "time": "2026-11-05 09:38:58",
-      "rank_score": 39.6
-    },
-    {
-      "eid": "cbb915b26d",
-      "ekey": "试验从华中科技",
-      "kind": "topic_line",
-      "title": "我国实现世界首次舱外激光“微创”试验",
-      "body": "从华中科技大学获悉，该校机械科学与工程学院黄禹教授团队与上海空间电源研究所联合研制的“舱外激光维修装置”，近期在轨完成我国空间站舱外激光切割维护试验。这是国际上在数百公里外的太空极端环境下，首次通过遥操作开展的激光精密切割试验，标志着我国在轨运维与装备制造技术领域取得重大突破。",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "impact": "bull",
-      "sectors": [],
-      "ctypeName": "行业观点",
-      "tier": "T1.5",
-      "score": 61.5,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "我国实现世界首次舱外激光“微创”试验",
-          "src": "东方财富",
-          "time": "2026-11-05 08:22:52",
-          "body": "从华中科技大学获悉，该校机械科学与工程学院黄禹教授团队与上海空间电源研究所联合研制的“舱外激光维修装置”，近期在轨完成我国空间站舱外激光切割维护试验。这是国际上在数百公里外的太空极端环境下，首次通过遥操作开展的激光精密切割试验，标志着我国在轨运维与装备制造技术领域取得重大突破。",
-          "score": 61.5
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-05 08:22:52",
       "rank_score": 39.6
     },
     {
@@ -2233,49 +2147,6 @@
       "rank_score": 38.2
     },
     {
-      "eid": "3f2bd0d647",
-      "ekey": "灿能电力|金盘科技",
-      "kind": "topic_line",
-      "title": "电网设备板块异动拉升 顺钠股份直线涨停",
-      "body": "电网设备板块异动拉升，顺钠股份直线涨停，灿能电力、金盘科技、新特电气、通光线缆、神马电力等跟涨。",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "impact": "bull",
-      "sectors": [
-        "电力/公用"
-      ],
-      "ctypeName": "市场动作",
-      "tier": "T1.5",
-      "score": 58.0,
-      "heat": 1.0,
-      "source_count": 1,
-      "sources": [
-        "东方财富"
-      ],
-      "isNew": true,
-      "isRising": false,
-      "heat_delta": 0.0,
-      "fresh6h": true,
-      "risingHeat": true,
-      "topic": null,
-      "topicLabel": "",
-      "merged": false,
-      "member_count": 1,
-      "members": [
-        {
-          "title": "电网设备板块异动拉升 顺钠股份直线涨停",
-          "src": "东方财富",
-          "time": "2026-11-05 09:41:38",
-          "body": "电网设备板块异动拉升，顺钠股份直线涨停，灿能电力、金盘科技、新特电气、通光线缆、神马电力等跟涨。",
-          "score": 58.0
-        }
-      ],
-      "merge_reasons": [],
-      "related": [],
-      "time": "2026-11-05 09:41:38",
-      "rank_score": 38.2
-    },
-    {
       "eid": "1065fca1b1",
       "ekey": "多只半导体|易方达等多只半导体#AI芯片",
       "kind": "topic_line",
@@ -2360,47 +2231,44 @@
       "rank_score": 38.0
     },
     {
-      "eid": "38975a3ed7",
-      "ekey": "工业AI应用场景加快落地机器视觉",
+      "eid": "26cbd5463e",
+      "ekey": "两市融资余额增加亿元",
       "kind": "event_line",
-      "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
-      "body": "海外机器视觉龙头近期动向为观察行业提供新线索：德国厂商Basler介绍镜头与光源协同控制方案，基恩士披露区域及行业销售表现，康耐视即将公布新一季业绩；国内相关企业三季报已披露，工业AI应用能否转化为经营增量有了更具体的观察样本。分析人士认为，应用扩展、收入增长与利润改善并非同步发生，观察产业链既要识别AI应用带来的业务增量，也要区分研发投入、业务结构及非经常性因素的影响，进一步检验增长的持续性。（中国证券报）",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "impact": "bull",
-      "sectors": [
-        "AI应用/软件",
-        "券商/大金融"
-      ],
-      "ctypeName": "政策发布",
-      "tier": "T2",
+      "title": "两市融资余额增加13.29亿元",
+      "body": "截至11月4日，上交所融资余额报11776.07亿元，较前一交易日增加9.85亿元；深交所融资余额报10867.48亿元，较前一交易日增加3.44亿元；两市合计22643.55亿元，较前一交易日增加13.29亿元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
       "score": 57.5,
       "heat": 1.0,
       "source_count": 1,
       "sources": [
-        "同花顺"
+        "东方财富"
       ],
       "isNew": true,
       "isRising": false,
       "heat_delta": 0.0,
       "fresh6h": true,
       "risingHeat": true,
-      "topic": "大模型",
-      "topicLabel": "大模型与 AI 应用",
+      "topic": null,
+      "topicLabel": "",
       "merged": false,
       "member_count": 1,
       "members": [
         {
-          "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
-          "src": "同花顺",
-          "time": "2026-11-05 07:32:57",
-          "body": "海外机器视觉龙头近期动向为观察行业提供新线索：德国厂商Basler介绍镜头与光源协同控制方案，基恩士披露区域及行业销售表现，康耐视即将公布新一季业绩；国内相关企业三季报已披露，工业AI应用能否转化为经营增量有了更具体的观察样本。分析人士认为，应用扩展、收入增长与利润改善并非同步发生，观察产业链既要识别AI应用带来的业务增量，也要区分研发投入、业务结构及非经常性因素的影响，进一步检验增长的持续性。（中国证券报）",
+          "title": "两市融资余额增加13.29亿元",
+          "src": "东方财富",
+          "time": "2026-11-05 08:53:43",
+          "body": "截至11月4日，上交所融资余额报11776.07亿元，较前一交易日增加9.85亿元；深交所融资余额报10867.48亿元，较前一交易日增加3.44亿元；两市合计22643.55亿元，较前一交易日增加13.29亿元。",
           "score": 57.5
         }
       ],
       "merge_reasons": [],
       "related": [],
-      "time": "2026-11-05 07:32:57",
+      "time": "2026-11-05 08:53:43",
       "rank_score": 38.0
     },
     {
@@ -2527,76 +2395,156 @@
       "related": [],
       "time": "2026-11-05 09:28:26",
       "rank_score": 37.6
+    },
+    {
+      "eid": "f8897a9df2",
+      "ekey": "三星|三星电子#股指行情",
+      "kind": "topic_line",
+      "title": "韩国KOSPI指数日内大跌5%",
+      "body": "韩国KOSPI指数日内大跌5%，SK海力士跌超9%，三星电子跌7%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "韩国KOSPI指数日内大跌5%",
+          "src": "东方财富",
+          "time": "2026-11-05 09:22:32",
+          "body": "韩国KOSPI指数日内大跌5%，SK海力士跌超9%，三星电子跌7%。",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-05 09:22:32",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "c85054e31a",
+      "ekey": "多省份发文推进落实带薪休假",
+      "kind": "event_line",
+      "title": "多省份发文推进落实带薪休假",
+      "body": "今年以来，已有多个省份发出关于落实带薪年休假制度鼓励职工错峰休假的通知。11月3日，广东省发展改革委发布关于印发《广东省扩大消费实施方案》的通知。该通知提到，严格落实休息休假制度。切实保障劳动者合法休息休假权益，全面落实带薪年休假制度，增强制度执行刚性，鼓励用人单位将年休假与小长假连休，安排弹性错峰休假。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "多省份发文推进落实带薪休假",
+          "src": "东方财富",
+          "time": "2026-11-05 08:45:34",
+          "body": "今年以来，已有多个省份发出关于落实带薪年休假制度鼓励职工错峰休假的通知。11月3日，广东省发展改革委发布关于印发《广东省扩大消费实施方案》的通知。该通知提到，严格落实休息休假制度。切实保障劳动者合法休息休假权益，全面落实带薪年休假制度，增强制度执行刚性，鼓励用人单位将年休假与小长假连休，安排弹性错峰休假。",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-05 08:45:34",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "ba5946ddb9",
+      "ekey": "美国科技#大模型",
+      "kind": "topic_line",
+      "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+      "body": "美国科技巨头将人工智能（AI）融资热拓展到欧洲，给欧洲市场增添了新的压力。接受第一财经记者采访的多位专家认为，在科技巨头开始加入发债这场赛局后，的确为市场带来了新的波动：面对当前动荡的国债市场，资金可能直接流向收益更高的AI资产。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+          "src": "东方财富",
+          "time": "2026-11-05 08:44:02",
+          "body": "美国科技巨头将人工智能（AI）融资热拓展到欧洲，给欧洲市场增添了新的压力。接受第一财经记者采访的多位专家认为，在科技巨头开始加入发债这场赛局后，的确为市场带来了新的波动：面对当前动荡的国债市场，资金可能直接流向收益更高的AI资产。",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-05 08:44:02",
+      "rank_score": 37.6
     }
   ],
   "topics": [
     {
       "topic": "大模型",
       "label": "大模型与 AI 应用",
-      "count": 9,
+      "count": 8,
       "sources": [
-        "东方财富",
-        "同花顺"
+        "东方财富"
       ],
-      "heat": 9.0,
+      "heat": 8.0,
       "eids": [
-        "cedfdaf472",
         "85e1fef0bb",
         "968d1e8dca",
         "30b514f791",
         "c9b90e0f0e",
         "fdbfa1e021",
         "584a2bbe08",
-        "38975a3ed7",
-        "08210a9eb3"
+        "08210a9eb3",
+        "ba5946ddb9"
       ],
-      "lead": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
+      "lead": "微盟集团涨超15% 宣布接入支付宝AI开放平台",
       "events": [
-        {
-          "eid": "cedfdaf472",
-          "ekey": "天山股份|美光#大模型",
-          "kind": "topic_line",
-          "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
-          "body": "公司方面重点关注包括：1）天山股份因涉嫌信息披露违法违规，证监会决定对公司立案；2）江苏雷利因涉嫌信息披露、减持违法违规，实控人苏达被证监会立案；海外市场重点关注包括：1）美股三大指数集体收涨，AI硬件股逆势下挫；2）民主党称将推动通过法案以结束伊朗战争，国际油价重挫逾8%。",
-          "dim": "tech",
-          "dimName": "AI 与科技",
-          "impact": "bear",
-          "sectors": [
-            "半导体/AI芯片",
-            "AI应用/软件",
-            "石油/能源"
-          ],
-          "ctypeName": "市场动作",
-          "tier": "T1.5",
-          "score": 85.0,
-          "heat": 1.0,
-          "source_count": 1,
-          "sources": [
-            "东方财富"
-          ],
-          "isNew": true,
-          "isRising": false,
-          "heat_delta": 0.0,
-          "fresh6h": true,
-          "risingHeat": true,
-          "topic": "大模型",
-          "topicLabel": "大模型与 AI 应用",
-          "merged": false,
-          "member_count": 1,
-          "members": [
-            {
-              "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
-              "src": "东方财富",
-              "time": "2026-11-05 08:24:33",
-              "body": "公司方面重点关注包括：1）天山股份因涉嫌信息披露违法违规，证监会决定对公司立案；2）江苏雷利因涉嫌信息披露、减持违法违规，实控人苏达被证监会立案；海外市场重点关注包括：1）美股三大指数集体收涨，AI硬件股逆势下挫；2）民主党称将推动通过法案以结束伊朗战争，国际油价重挫逾8%。",
-              "score": 85.0
-            }
-          ],
-          "merge_reasons": [],
-          "related": [],
-          "time": "2026-11-05 08:24:33",
-          "rank_score": 49.0
-        },
         {
           "eid": "85e1fef0bb",
           "ekey": "微盟集团#大模型",
@@ -2858,50 +2806,6 @@
           "rank_score": 38.2
         },
         {
-          "eid": "38975a3ed7",
-          "ekey": "工业AI应用场景加快落地机器视觉",
-          "kind": "event_line",
-          "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
-          "body": "海外机器视觉龙头近期动向为观察行业提供新线索：德国厂商Basler介绍镜头与光源协同控制方案，基恩士披露区域及行业销售表现，康耐视即将公布新一季业绩；国内相关企业三季报已披露，工业AI应用能否转化为经营增量有了更具体的观察样本。分析人士认为，应用扩展、收入增长与利润改善并非同步发生，观察产业链既要识别AI应用带来的业务增量，也要区分研发投入、业务结构及非经常性因素的影响，进一步检验增长的持续性。（中国证券报）",
-          "dim": "tech",
-          "dimName": "AI 与科技",
-          "impact": "bull",
-          "sectors": [
-            "AI应用/软件",
-            "券商/大金融"
-          ],
-          "ctypeName": "政策发布",
-          "tier": "T2",
-          "score": 57.5,
-          "heat": 1.0,
-          "source_count": 1,
-          "sources": [
-            "同花顺"
-          ],
-          "isNew": true,
-          "isRising": false,
-          "heat_delta": 0.0,
-          "fresh6h": true,
-          "risingHeat": true,
-          "topic": "大模型",
-          "topicLabel": "大模型与 AI 应用",
-          "merged": false,
-          "member_count": 1,
-          "members": [
-            {
-              "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
-              "src": "同花顺",
-              "time": "2026-11-05 07:32:57",
-              "body": "海外机器视觉龙头近期动向为观察行业提供新线索：德国厂商Basler介绍镜头与光源协同控制方案，基恩士披露区域及行业销售表现，康耐视即将公布新一季业绩；国内相关企业三季报已披露，工业AI应用能否转化为经营增量有了更具体的观察样本。分析人士认为，应用扩展、收入增长与利润改善并非同步发生，观察产业链既要识别AI应用带来的业务增量，也要区分研发投入、业务结构及非经常性因素的影响，进一步检验增长的持续性。（中国证券报）",
-              "score": 57.5
-            }
-          ],
-          "merge_reasons": [],
-          "related": [],
-          "time": "2026-11-05 07:32:57",
-          "rank_score": 38.0
-        },
-        {
           "eid": "08210a9eb3",
           "ekey": "润建股份|深圳润见星晖科技#大模型",
           "kind": "topic_line",
@@ -2943,22 +2847,66 @@
           "related": [],
           "time": "2026-11-05 09:28:26",
           "rank_score": 37.6
+        },
+        {
+          "eid": "ba5946ddb9",
+          "ekey": "美国科技#大模型",
+          "kind": "topic_line",
+          "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+          "body": "美国科技巨头将人工智能（AI）融资热拓展到欧洲，给欧洲市场增添了新的压力。接受第一财经记者采访的多位专家认为，在科技巨头开始加入发债这场赛局后，的确为市场带来了新的波动：面对当前动荡的国债市场，资金可能直接流向收益更高的AI资产。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 56.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+              "src": "东方财富",
+              "time": "2026-11-05 08:44:02",
+              "body": "美国科技巨头将人工智能（AI）融资热拓展到欧洲，给欧洲市场增添了新的压力。接受第一财经记者采访的多位专家认为，在科技巨头开始加入发债这场赛局后，的确为市场带来了新的波动：面对当前动荡的国债市场，资金可能直接流向收益更高的AI资产。",
+              "score": 56.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-05 08:44:02",
+          "rank_score": 37.6
         }
       ]
     },
     {
       "topic": "AI芯片",
       "label": "AI 芯片与算力",
-      "count": 6,
+      "count": 7,
       "sources": [
         "东方财富",
         "同花顺"
       ],
-      "heat": 6.0,
+      "heat": 7.0,
       "eids": [
         "ef561e3f71",
         "777edacb9b",
         "79bbf9406a",
+        "bbdff40731",
         "5dbb3a3f75",
         "8df6d1d3ec",
         "1065fca1b1"
@@ -3094,6 +3042,50 @@
           "related": [],
           "time": "2026-11-05 08:29:11",
           "rank_score": 42.6
+        },
+        {
+          "eid": "bbdff40731",
+          "ekey": "品高股份|润建股份#AI芯片",
+          "kind": "topic_line",
+          "title": "算力租赁概念震荡反弹 润建股份4天2板",
+          "body": "算力租赁概念震荡反弹，润建股份4天2板，品高股份涨超10%，润泽科技、天亿马、优刻得、东方国信、首都在线等均涨超5%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "算力/数据中心"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 65.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "算力租赁概念震荡反弹 润建股份4天2板",
+              "src": "东方财富",
+              "time": "2026-11-05 09:50:05",
+              "body": "算力租赁概念震荡反弹，润建股份4天2板，品高股份涨超10%，润泽科技、天亿马、优刻得、东方国信、首都在线等均涨超5%。",
+              "score": 65.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-05 09:50:05",
+          "rank_score": 41.2
         },
         {
           "eid": "5dbb3a3f75",
@@ -3378,6 +3370,150 @@
           "rank_score": 40.2
         }
       ]
+    },
+    {
+      "topic": "股指行情",
+      "label": "全球股指行情",
+      "count": 3,
+      "sources": [
+        "东方财富"
+      ],
+      "heat": 3.0,
+      "eids": [
+        "2cc8d2b182",
+        "db3e9da293",
+        "f8897a9df2"
+      ],
+      "lead": "A股开盘：三大指数集体低开",
+      "events": [
+        {
+          "eid": "2cc8d2b182",
+          "ekey": "A股开盘三大指数集体低开",
+          "kind": "event_line",
+          "title": "A股开盘：三大指数集体低开",
+          "body": "A股开盘，上证指数低开1.07%，深证成指低开1.05%，创业板指低开2%。元件、CPO、半导体板块跌幅居前。",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 69.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "A股开盘：三大指数集体低开",
+              "src": "东方财富",
+              "time": "2026-11-05 09:25:43",
+              "body": "A股开盘，上证指数低开1.07%，深证成指低开1.05%，创业板指低开2%。元件、CPO、半导体板块跌幅居前。",
+              "score": 69.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-05 09:25:43",
+          "rank_score": 42.8
+        },
+        {
+          "eid": "db3e9da293",
+          "ekey": "日经指数抹去早前涨幅",
+          "kind": "event_line",
+          "title": "日经225指数抹去早前涨幅",
+          "body": "受人工智能股下跌影响，日经225指数抹去早前涨幅。",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "bear",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 60.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "日经225指数抹去早前涨幅",
+              "src": "东方财富",
+              "time": "2026-11-05 09:10:33",
+              "body": "受人工智能股下跌影响，日经225指数抹去早前涨幅。",
+              "score": 60.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-05 09:10:33",
+          "rank_score": 39.0
+        },
+        {
+          "eid": "f8897a9df2",
+          "ekey": "三星|三星电子#股指行情",
+          "kind": "topic_line",
+          "title": "韩国KOSPI指数日内大跌5%",
+          "body": "韩国KOSPI指数日内大跌5%，SK海力士跌超9%，三星电子跌7%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 56.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "韩国KOSPI指数日内大跌5%",
+              "src": "东方财富",
+              "time": "2026-11-05 09:22:32",
+              "body": "韩国KOSPI指数日内大跌5%，SK海力士跌超9%，三星电子跌7%。",
+              "score": 56.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-05 09:22:32",
+          "rank_score": 37.6
+        }
+      ]
     }
   ],
   "stat": {
@@ -3389,7 +3525,7 @@
     "roundup_articles": 2,
     "story_links": 0,
     "method": "rule_based",
-    "topic_blocks": 3,
+    "topic_blocks": 4,
     "compared_with": "2026-11-04 22:59:20",
     "new_events": 58,
     "rising_events": 0
