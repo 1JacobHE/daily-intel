@@ -1,17 +1,6 @@
 {
-  "ts": "2026-11-05 09:49:53",
+  "ts": "2026-11-05 09:53:38",
   "events": [
-    {
-      "eid": "cedfdaf472",
-      "ekey": "天山股份|美光#大模型",
-      "kind": "topic_line",
-      "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
-      "heat": 1.0,
-      "source_count": 1,
-      "rank_score": 49.0,
-      "topic": "大模型",
-      "time": "2026-11-05 08:24:33"
-    },
     {
       "eid": "85e1fef0bb",
       "ekey": "微盟集团#大模型",
@@ -33,6 +22,17 @@
       "rank_score": 45.4,
       "topic": null,
       "time": "2026-11-05 09:03:54"
+    },
+    {
+      "eid": "d6a17eb44e",
+      "ekey": "深成指创业板指均涨逾",
+      "kind": "event_line",
+      "title": "深成指、创业板指均涨逾1%",
+      "heat": 1.0,
+      "source_count": 1,
+      "rank_score": 44.8,
+      "topic": null,
+      "time": "2026-11-05 09:51:47"
     },
     {
       "eid": "4b772a13a1",
@@ -222,17 +222,6 @@
       "time": "2026-11-05 08:46:06"
     },
     {
-      "eid": "a710b3a990",
-      "ekey": "五部门加快布局稀贵金属循环利用项",
-      "kind": "event_line",
-      "title": "五部门加快布局稀贵金属循环利用项目 这个板块有望迎来全新机遇",
-      "heat": 1.0,
-      "source_count": 1,
-      "rank_score": 41.8,
-      "topic": null,
-      "time": "2026-11-05 08:23:02"
-    },
-    {
       "eid": "c9b90e0f0e",
       "ekey": "乐鑫科技|润欣科技#大模型",
       "kind": "topic_line",
@@ -242,6 +231,17 @@
       "rank_score": 41.4,
       "topic": "大模型",
       "time": "2026-11-05 09:47:42"
+    },
+    {
+      "eid": "bbdff40731",
+      "ekey": "品高股份|润建股份#AI芯片",
+      "kind": "topic_line",
+      "title": "算力租赁概念震荡反弹 润建股份4天2板",
+      "heat": 1.0,
+      "source_count": 1,
+      "rank_score": 41.2,
+      "topic": "AI芯片",
+      "time": "2026-11-05 09:50:05"
     },
     {
       "eid": "72e9be911c",
@@ -420,17 +420,6 @@
       "time": "2026-11-05 08:33:01"
     },
     {
-      "eid": "f499263e1a",
-      "ekey": "国家统计局",
-      "kind": "topic_line",
-      "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
-      "heat": 1.0,
-      "source_count": 1,
-      "rank_score": 39.8,
-      "topic": null,
-      "time": "2026-11-05 07:49:46"
-    },
-    {
       "eid": "db6f9ddc4e",
       "ekey": "CPO概念震荡下挫中际旭创跌近",
       "kind": "event_line",
@@ -440,17 +429,6 @@
       "rank_score": 39.6,
       "topic": null,
       "time": "2026-11-05 09:38:58"
-    },
-    {
-      "eid": "cbb915b26d",
-      "ekey": "试验从华中科技",
-      "kind": "topic_line",
-      "title": "我国实现世界首次舱外激光“微创”试验",
-      "heat": 1.0,
-      "source_count": 1,
-      "rank_score": 39.6,
-      "topic": null,
-      "time": "2026-11-05 08:22:52"
     },
     {
       "eid": "d349654964",
@@ -574,17 +552,6 @@
       "time": "2026-11-05 09:46:02"
     },
     {
-      "eid": "3f2bd0d647",
-      "ekey": "灿能电力|金盘科技",
-      "kind": "topic_line",
-      "title": "电网设备板块异动拉升 顺钠股份直线涨停",
-      "heat": 1.0,
-      "source_count": 1,
-      "rank_score": 38.2,
-      "topic": null,
-      "time": "2026-11-05 09:41:38"
-    },
-    {
       "eid": "1065fca1b1",
       "ekey": "多只半导体|易方达等多只半导体#AI芯片",
       "kind": "topic_line",
@@ -607,15 +574,15 @@
       "time": "2026-11-05 09:26:00"
     },
     {
-      "eid": "38975a3ed7",
-      "ekey": "工业AI应用场景加快落地机器视觉",
+      "eid": "26cbd5463e",
+      "ekey": "两市融资余额增加亿元",
       "kind": "event_line",
-      "title": "工业AI应用场景加快落地 机器视觉产业链迎来业绩验证窗口",
+      "title": "两市融资余额增加13.29亿元",
       "heat": 1.0,
       "source_count": 1,
       "rank_score": 38.0,
-      "topic": "大模型",
-      "time": "2026-11-05 07:32:57"
+      "topic": null,
+      "time": "2026-11-05 08:53:43"
     },
     {
       "eid": "a47eaf74cd",
@@ -649,6 +616,39 @@
       "rank_score": 37.6,
       "topic": "大模型",
       "time": "2026-11-05 09:28:26"
+    },
+    {
+      "eid": "f8897a9df2",
+      "ekey": "三星|三星电子#股指行情",
+      "kind": "topic_line",
+      "title": "韩国KOSPI指数日内大跌5%",
+      "heat": 1.0,
+      "source_count": 1,
+      "rank_score": 37.6,
+      "topic": "股指行情",
+      "time": "2026-11-05 09:22:32"
+    },
+    {
+      "eid": "c85054e31a",
+      "ekey": "多省份发文推进落实带薪休假",
+      "kind": "event_line",
+      "title": "多省份发文推进落实带薪休假",
+      "heat": 1.0,
+      "source_count": 1,
+      "rank_score": 37.6,
+      "topic": null,
+      "time": "2026-11-05 08:45:34"
+    },
+    {
+      "eid": "ba5946ddb9",
+      "ekey": "美国科技#大模型",
+      "kind": "topic_line",
+      "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+      "heat": 1.0,
+      "source_count": 1,
+      "rank_score": 37.6,
+      "topic": "大模型",
+      "time": "2026-11-05 08:44:02"
     }
   ]
 }
