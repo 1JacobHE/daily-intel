@@ -9,13 +9,18 @@
     "tag": "其他",
     "auto": true
   },
-  "KKKKhazix/agent-autoloop": {
-    "name": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+  "heydamir/unslop": {
+    "name": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "tag": "AI Agent",
     "auto": true
   },
-  "heydamir/unslop": {
-    "name": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+  "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto": {
+    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "tag": "其他",
+    "auto": true
+  },
+  "KKKKhazix/agent-autoloop": {
+    "name": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "tag": "AI Agent",
     "auto": true
   },
@@ -39,11 +44,6 @@
     "tag": "其他",
     "auto": true
   },
-  "anhao/ai-pose-gallery-zh": {
-    "name": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-    "tag": "创意/AI生成",
-    "auto": true
-  },
   "Djihads80/Eglantine": {
     "name": "VERY experimental Nintendo Switch 2 emulator",
     "tag": "其他",
@@ -54,19 +54,19 @@
     "tag": "其他",
     "auto": true
   },
-  "caru-ini/stack-diagram": {
-    "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-    "tag": "AI Agent",
-    "auto": true
-  },
   "Verlintas/NOIR": {
     "name": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
     "tag": "安全研究",
     "auto": true
   },
-  "mromidev/claude-animated-shorts": {
-    "name": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+  "caru-ini/stack-diagram": {
+    "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
     "tag": "AI Agent",
+    "auto": true
+  },
+  "zortos293/Lichii": {
+    "name": "VERY experimental Nintendo Switch 2 emulator",
+    "tag": "其他",
     "auto": true
   },
   "Minireel/HGhub": {
@@ -74,13 +74,18 @@
     "tag": "开发工具",
     "auto": true
   },
+  "mromidev/claude-animated-shorts": {
+    "name": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+    "tag": "AI Agent",
+    "auto": true
+  },
   "elvarofficial/teardown": {
     "name": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
     "tag": "AI Agent",
     "auto": true
   },
-  "haydenschmitty/floorplan": {
-    "name": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+  "wquguru/cicada": {
+    "name": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
     "tag": "其他",
     "auto": true
   },
@@ -89,14 +94,9 @@
     "tag": "创意/AI生成",
     "auto": true
   },
-  "modelflare-ai/AnyModelBot": {
-    "name": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+  "andrew-babo/muse4ai": {
+    "name": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
     "tag": "AI Agent",
-    "auto": true
-  },
-  "wquguru/cicada": {
-    "name": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
-    "tag": "其他",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -132,14 +132,14 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "ayghri/i-have-adhd": {
-    "name": "治 AI「话太多」的技能：让它别把答案埋在废话里，直接给结论",
-    "tag": "Agent Skill"
-  },
   "cloudflare/security-audit-skill": {
     "name": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "tag": "AI Agent",
     "auto": true
+  },
+  "ayghri/i-have-adhd": {
+    "name": "治 AI「话太多」的技能：让它别把答案埋在废话里，直接给结论",
+    "tag": "Agent Skill"
   },
   "Gathin23/cleanyourtv": {
     "name": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
@@ -216,14 +216,13 @@
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
   },
+  "vinta/awesome-python": {
+    "name": "Python 工具大全：想做 X，该用哪个库",
+    "tag": "资源合集"
+  },
   "mattpocock/skills": {
     "name": "一线工程师的真实 Agent 技能库",
     "tag": "Agent Skill"
-  },
-  "obra/superpowers": {
-    "name": "An agentic skills framework & software development methodology that works.",
-    "tag": "AI Agent",
-    "auto": true
   },
   "NousResearch/hermes-agent": {
     "name": "随你一起成长的 Agent",
