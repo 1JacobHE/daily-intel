@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-05 09:53:38",
-  "count": 18,
-  "latest": "2026-11-05",
+  "updated_at": "2026-11-06 08:00:14",
+  "count": 19,
+  "latest": "2026-11-06",
   "days": [
+    {
+      "date": "2026-11-06",
+      "generated_at": "2026-11-06 08:00:13",
+      "rocket_count": 20,
+      "delta_count": 71,
+      "top_repo": "deepseek-ai/dsh-superagent-prototype"
+    },
     {
       "date": "2026-11-05",
       "generated_at": "2026-11-05 09:53:37",
