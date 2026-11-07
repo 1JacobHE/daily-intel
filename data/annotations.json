@@ -34,13 +34,13 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "govijr/terminal-mac": {
-    "name": "Entire MacOS running in your terminal.",
-    "tag": "开发工具",
-    "auto": true
-  },
   "valentderah/totk-pc-recomp": {
     "name": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+    "tag": "其他",
+    "auto": true
+  },
+  "zortos293/Lichii": {
+    "name": "VERY experimental Nintendo Switch 2 emulator",
     "tag": "其他",
     "auto": true
   },
@@ -49,23 +49,18 @@
     "tag": "其他",
     "auto": true
   },
+  "govijr/terminal-mac": {
+    "name": "Entire MacOS running in your terminal.",
+    "tag": "开发工具",
+    "auto": true
+  },
   "BryceYuuu/RUN": {
     "name": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
     "tag": "其他",
     "auto": true
   },
-  "Verlintas/NOIR": {
-    "name": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-    "tag": "安全研究",
-    "auto": true
-  },
-  "caru-ini/stack-diagram": {
-    "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "zortos293/Lichii": {
-    "name": "VERY experimental Nintendo Switch 2 emulator",
+  "mmdoctor/google-pro-helper": {
+    "name": "（官方未提供简介）",
     "tag": "其他",
     "auto": true
   },
@@ -74,28 +69,33 @@
     "tag": "开发工具",
     "auto": true
   },
+  "Verlintas/NOIR": {
+    "name": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+    "tag": "安全研究",
+    "auto": true
+  },
   "mromidev/claude-animated-shorts": {
     "name": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
     "tag": "AI Agent",
     "auto": true
   },
-  "elvarofficial/teardown": {
-    "name": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+  "JuneYaooo/rea-video": {
+    "name": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
     "tag": "AI Agent",
     "auto": true
   },
-  "wquguru/cicada": {
-    "name": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+  "caru-ini/stack-diagram": {
+    "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "livliv-dev/player": {
+    "name": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
     "tag": "其他",
     "auto": true
   },
-  "paipiange/nvzhuang": {
-    "name": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-    "tag": "创意/AI生成",
-    "auto": true
-  },
-  "andrew-babo/muse4ai": {
-    "name": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+  "elvarofficial/teardown": {
+    "name": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
     "tag": "AI Agent",
     "auto": true
   },
@@ -123,19 +123,19 @@
     "tag": "生活指南",
     "note": "你正在办跨省医保备案，里面医保社保那一节可能用得上"
   },
-  "bilawalsidhu/gods-eye-view": {
-    "name": "浏览器里的间谍卫星模拟器，游玩用的是真实开源地理数据",
-    "tag": "地理可视化"
+  "cloudflare/security-audit-skill": {
+    "name": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "tag": "AI Agent",
+    "auto": true
   },
   "Ebony-Vinyl/dsh-our-free-model": {
     "name": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
     "tag": "AI Agent",
     "auto": true
   },
-  "cloudflare/security-audit-skill": {
-    "name": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "tag": "AI Agent",
-    "auto": true
+  "bilawalsidhu/gods-eye-view": {
+    "name": "浏览器里的间谍卫星模拟器，游玩用的是真实开源地理数据",
+    "tag": "地理可视化"
   },
   "ayghri/i-have-adhd": {
     "name": "治 AI「话太多」的技能：让它别把答案埋在废话里，直接给结论",
@@ -170,14 +170,14 @@
     "tag": "本地推理",
     "note": "显存不够跑大模型的痛点方案，消费级硬件就能用"
   },
-  "NandhaKishorM/laya": {
-    "name": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-    "tag": "模型/推理",
-    "auto": true
-  },
   "anywhere-labs/dsh-desktop": {
     "name": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
     "tag": "AI Agent",
+    "auto": true
+  },
+  "NandhaKishorM/laya": {
+    "name": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+    "tag": "模型/推理",
     "auto": true
   },
   "vorssaint/vorssaint-utils": {
@@ -185,14 +185,14 @@
     "tag": "其他",
     "auto": true
   },
+  "yetone/magpie": {
+    "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
+    "tag": "开发工具"
+  },
   "baidu/Unlimited-OCR": {
     "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
     "tag": "其他",
     "auto": true
-  },
-  "yetone/magpie": {
-    "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
-    "tag": "开发工具"
   },
   "public-apis/public-apis": {
     "name": "免费 API 大合集，做项目找数据源先看这个",
@@ -216,6 +216,15 @@
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
   },
+  "jwasham/coding-interview-university": {
+    "name": "A complete computer science study plan to become a software engineer.",
+    "tag": "其他",
+    "auto": true
+  },
+  "awesome-selfhosted/awesome-selfhosted": {
+    "name": "可自托管的开源网络服务清单",
+    "tag": "资源合集"
+  },
   "vinta/awesome-python": {
     "name": "Python 工具大全：想做 X，该用哪个库",
     "tag": "资源合集"
@@ -224,6 +233,10 @@
     "name": "一线工程师的真实 Agent 技能库",
     "tag": "Agent Skill"
   },
+  "affaan-m/ECC": {
+    "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
+    "tag": "AI Agent"
+  },
   "NousResearch/hermes-agent": {
     "name": "随你一起成长的 Agent",
     "tag": "AI Agent"
@@ -231,14 +244,5 @@
   "torvalds/linux": {
     "name": "Linux 内核源码",
     "tag": "操作系统"
-  },
-  "react/react": {
-    "name": "React 前端框架源码",
-    "tag": "前端框架"
-  },
-  "anomalyco/opencode": {
-    "name": "The open source coding agent.",
-    "tag": "AI Agent",
-    "auto": true
   }
 }
