@@ -9,13 +9,8 @@
     "tag": "其他",
     "auto": true
   },
-  "heydamir/unslop": {
-    "name": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto": {
-    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+  "JenkinWoo/sheeridVerify": {
+    "name": "（官方未提供简介）",
     "tag": "其他",
     "auto": true
   },
@@ -24,18 +19,8 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "wangzan101/Mika": {
-    "name": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "patch-gg/pixelfx": {
-    "name": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "valentderah/totk-pc-recomp": {
-    "name": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+  "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto": {
+    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "tag": "其他",
     "auto": true
   },
@@ -44,9 +29,19 @@
     "tag": "其他",
     "auto": true
   },
-  "Djihads80/Eglantine": {
-    "name": "VERY experimental Nintendo Switch 2 emulator",
+  "patch-gg/pixelfx": {
+    "name": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "NotRexed/Hookshot": {
+    "name": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
     "tag": "其他",
+    "auto": true
+  },
+  "Minireel/HGhub": {
+    "name": "YellowFruit third-party client",
+    "tag": "开发工具",
     "auto": true
   },
   "govijr/terminal-mac": {
@@ -54,19 +49,14 @@
     "tag": "开发工具",
     "auto": true
   },
-  "BryceYuuu/RUN": {
-    "name": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+  "sostenesfreitas/ocarina-recomp": {
+    "name": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
     "tag": "其他",
     "auto": true
   },
   "mmdoctor/google-pro-helper": {
     "name": "（官方未提供简介）",
     "tag": "其他",
-    "auto": true
-  },
-  "Minireel/HGhub": {
-    "name": "YellowFruit third-party client",
-    "tag": "开发工具",
     "auto": true
   },
   "Verlintas/NOIR": {
@@ -79,9 +69,9 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "JuneYaooo/rea-video": {
-    "name": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
-    "tag": "AI Agent",
+  "livliv-dev/player": {
+    "name": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+    "tag": "其他",
     "auto": true
   },
   "caru-ini/stack-diagram": {
@@ -89,14 +79,24 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "livliv-dev/player": {
-    "name": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-    "tag": "其他",
+  "voyager-so/vork": {
+    "name": "Headless 3D and VFX engine for agents. Research preview.",
+    "tag": "AI Agent",
     "auto": true
   },
   "elvarofficial/teardown": {
     "name": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
     "tag": "AI Agent",
+    "auto": true
+  },
+  "wquguru/cicada": {
+    "name": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+    "tag": "其他",
+    "auto": true
+  },
+  "Sandflow-ai/sand3d": {
+    "name": "3D modeling in Python, built for LLMs.",
+    "tag": "模型/推理",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -208,6 +208,11 @@
     "tag": "AI Agent",
     "auto": true
   },
+  "EbookFoundation/free-programming-books": {
+    "name": ":books: Freely available programming books",
+    "tag": "资源合集",
+    "auto": true
+  },
   "openclaw/openclaw": {
     "name": "跨平台通用 AI 助手，主打「真能干活」",
     "tag": "AI Agent"
@@ -228,10 +233,6 @@
   "vinta/awesome-python": {
     "name": "Python 工具大全：想做 X，该用哪个库",
     "tag": "资源合集"
-  },
-  "mattpocock/skills": {
-    "name": "一线工程师的真实 Agent 技能库",
-    "tag": "Agent Skill"
   },
   "affaan-m/ECC": {
     "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
