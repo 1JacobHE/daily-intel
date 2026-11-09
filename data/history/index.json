@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-08 08:00:14",
-  "count": 21,
-  "latest": "2026-11-08",
+  "updated_at": "2026-11-09 08:00:14",
+  "count": 22,
+  "latest": "2026-11-09",
   "days": [
+    {
+      "date": "2026-11-09",
+      "generated_at": "2026-11-09 08:00:12",
+      "rocket_count": 20,
+      "delta_count": 67,
+      "top_repo": "storytold/craft-anything"
+    },
     {
       "date": "2026-11-08",
       "generated_at": "2026-11-08 08:00:12",
