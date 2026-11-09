@@ -1,16 +1,21 @@
 {
-  "deepseek-ai/dsh-superagent-prototype": {
-    "name": "Towards a More Autonomous Agent System",
-    "tag": "AI Agent",
-    "auto": true
-  },
   "storytold/craft-anything": {
     "name": "Craft Anything: understand how any software works, and craft your own.",
     "tag": "其他",
     "auto": true
   },
-  "JenkinWoo/sheeridVerify": {
-    "name": "（官方未提供简介）",
+  "deepseek-ai/dsh-superagent-prototype": {
+    "name": "Towards a More Autonomous Agent System",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "NotRexed/Hookshot": {
+    "name": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+    "tag": "其他",
+    "auto": true
+  },
+  "zortos293/Lichii": {
+    "name": "VERY experimental Nintendo Switch 2 emulator",
     "tag": "其他",
     "auto": true
   },
@@ -24,18 +29,13 @@
     "tag": "其他",
     "auto": true
   },
-  "zortos293/Lichii": {
-    "name": "VERY experimental Nintendo Switch 2 emulator",
+  "tangerineturtle1/NX2navi": {
+    "name": "（官方未提供简介）",
     "tag": "其他",
     "auto": true
   },
-  "patch-gg/pixelfx": {
-    "name": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "NotRexed/Hookshot": {
-    "name": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+  "JenkinWoo/sheeridVerify": {
+    "name": "（官方未提供简介）",
     "tag": "其他",
     "auto": true
   },
@@ -44,9 +44,19 @@
     "tag": "开发工具",
     "auto": true
   },
+  "Th0rgal/satmux": {
+    "name": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+    "tag": "其他",
+    "auto": true
+  },
   "govijr/terminal-mac": {
     "name": "Entire MacOS running in your terminal.",
     "tag": "开发工具",
+    "auto": true
+  },
+  "Verlintas/NOIR": {
+    "name": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+    "tag": "安全研究",
     "auto": true
   },
   "sostenesfreitas/ocarina-recomp": {
@@ -59,23 +69,8 @@
     "tag": "其他",
     "auto": true
   },
-  "Verlintas/NOIR": {
-    "name": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-    "tag": "安全研究",
-    "auto": true
-  },
   "mromidev/claude-animated-shorts": {
     "name": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "livliv-dev/player": {
-    "name": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-    "tag": "其他",
-    "auto": true
-  },
-  "caru-ini/stack-diagram": {
-    "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
     "tag": "AI Agent",
     "auto": true
   },
@@ -84,19 +79,24 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "elvarofficial/teardown": {
-    "name": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+  "caru-ini/stack-diagram": {
+    "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
     "tag": "AI Agent",
     "auto": true
   },
-  "wquguru/cicada": {
-    "name": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+  "livliv-dev/player": {
+    "name": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
     "tag": "其他",
     "auto": true
   },
-  "Sandflow-ai/sand3d": {
-    "name": "3D modeling in Python, built for LLMs.",
-    "tag": "模型/推理",
+  "sarpstar/cinecode": {
+    "name": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "DIYgod/pinky": {
+    "name": "Let AI agents use your phone, with you in the loop.",
+    "tag": "AI Agent",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -137,10 +137,6 @@
     "name": "浏览器里的间谍卫星模拟器，游玩用的是真实开源地理数据",
     "tag": "地理可视化"
   },
-  "ayghri/i-have-adhd": {
-    "name": "治 AI「话太多」的技能：让它别把答案埋在废话里，直接给结论",
-    "tag": "Agent Skill"
-  },
   "Gathin23/cleanyourtv": {
     "name": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
     "tag": "其他",
@@ -159,11 +155,6 @@
   "JustVugg/colibri": {
     "name": "纯 C 写的推理引擎，无依赖，把专家权重从磁盘流式加载，让普通机器也能跑超大 MoE 模型",
     "tag": "本地推理"
-  },
-  "zhaoxuya520/reverse-skill": {
-    "name": "逆向工程/授权渗透测试的技能路由器包，按需加载工具链",
-    "tag": "安全研究",
-    "note": "安全类工具，注意只在授权范围内使用"
   },
   "Niko1221/Strata": {
     "name": "让 125B 超大模型跑在 8GB 显卡上：一键安装，本地起 OpenAI/Anthropic 兼容接口",
@@ -192,6 +183,21 @@
   "baidu/Unlimited-OCR": {
     "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
     "tag": "其他",
+    "auto": true
+  },
+  "hypit-ai/hypit": {
+    "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "xai-org/grok-build": {
+    "name": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "codecrafters-io/build-your-own-x": {
+    "name": "Master programming by recreating your favorite technologies from scratch.",
+    "tag": "资源合集",
     "auto": true
   },
   "public-apis/public-apis": {
@@ -233,10 +239,6 @@
   "vinta/awesome-python": {
     "name": "Python 工具大全：想做 X，该用哪个库",
     "tag": "资源合集"
-  },
-  "affaan-m/ECC": {
-    "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
-    "tag": "AI Agent"
   },
   "NousResearch/hermes-agent": {
     "name": "随你一起成长的 Agent",
