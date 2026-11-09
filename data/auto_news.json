@@ -1,63 +1,22 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "news": [
     {
-      "title": "加码算力赛道！首都在线子公司甘肃宸融增资引入投资方：公司放弃优先认购权 持股降至16.67%仍并表 约定2027年8月前重新控股",
-      "body": "11月6日晚间，北京首都在线科技股份有限公司（以下简称“首都在线”或“公司”）发布关于全资子公司增资扩股引入投资者暨公司放弃优先认缴出资权的公告。公告显示，公司全资子公司甘肃宸融智算科技拟新增1亿元注册资本并引入现服基金、国能日新、自然人林娟三名投资方，首都在线放弃优先认缴权，增资完成后公司持股降至16.67%，但凭借董事会委派、经营管控及一致行动安排仍将其纳入合并报表。交易附带股权回购条款、实控人提供股票质押担保，同时约定公司需在2027年8月31日前完成新一轮增资以重回控股地位。本次增资资金主要投向算力硬件采购，为公司智算转型布局算力资源。",
-      "time": "2026-11-08 01:02:30",
+      "title": "外储规模连续7个月站上3.4万亿美元 央行黄金储备“24连增”",
+      "body": "国家外汇局11月7日发布的数据显示，截至10月末，我国外汇储备规模为34052亿美元，较9月末上升49亿美元，升幅为0.14%。至此，我国外储规模已连续7个月维持在3.4万亿美元上方。",
+      "time": "2026-11-09 07:15:16",
       "stocks": [
-        "0.300846",
-        "90.BK1134"
+        "0.161121",
+        "1.515290"
       ],
       "src": "东方财富",
-      "id": "202611073925561512",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 2,
-      "impact": "bull",
+      "id": "202611093925710080",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 1,
+      "impact": "neutral",
       "sectors": [
-        "半导体/AI芯片",
-        "算力/数据中心"
-      ],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 10,
-        "nov": 8,
-        "cred": 8,
-        "reson": 6,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 84,
-      "struct_score": 82.0,
-      "final_score": 83.0,
-      "raw_score": 83.0,
-      "sum_score": 166.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "全球最大、发展最快！我国可再生能源技术占据全球主导地位",
-      "body": "今天（7日），中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。报告指出，目前，化石能源活动仍是全球碳排放的最大来源。2025年，全球与能源相关的二氧化碳排放总量同比增长0.4%，达384亿吨，是2021年以来最低增幅。其中，中国碳排放量下降0.5%，美国碳排放量增长2.4%，成为全球碳排放增长的最大来源。",
-      "time": "2026-11-07 23:20:25",
-      "stocks": [
-        "150.014238"
-      ],
-      "src": "东方财富",
-      "id": "202611073925557072",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "bull",
-      "sectors": [
-        "石油/能源"
+        "黄金/贵金属"
       ],
       "has_stock": 1,
       "ctype": "data",
@@ -65,17 +24,184 @@
       "axes": {
         "sig": 10,
         "nov": 8,
+        "cred": 10,
+        "reson": 8,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 92,
+      "struct_score": 82.0,
+      "final_score": 87.0,
+      "raw_score": 87.0,
+      "sum_score": 174.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "公募基金三季报披露收官 持仓版图浮现",
+      "body": "随着2026年公募基金三季报披露收官，行业最新规模与持仓图谱正式浮出水面。数据显示，截至三季度末，公募基金总规模达39.30万亿元，较二季度末微降0.89%。在A股三季度震荡回调背景下，权益类基金规模明显收缩，混合基金规模环比降幅超过17%，而债券基金与商品基金规模实现正增长。",
+      "time": "2026-11-09 03:05:02",
+      "stocks": [
+        "0.300308",
+        "116.03308"
+      ],
+      "src": "东方财富",
+      "id": "202611093925717340",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 1,
+      "impact": "bull",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "data",
+      "ctypeName": "经济数据",
+      "axes": {
+        "sig": 7,
+        "nov": 8,
         "cred": 8,
+        "reson": 6,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 72,
+      "struct_score": 82.0,
+      "final_score": 77.0,
+      "raw_score": 77.0,
+      "sum_score": 154.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "年内新备案私募基金数量已超去年全年",
+      "body": "增量资金入市步伐可从私募发行情况一窥端倪。私募排排网最新数据显示，截至10月底，今年以来新备案私募证券投资基金数量已经超过去年全年，同比增长超过20%。分策略来看，股票策略备受资金青睐，年内新备案私募产品数量占比高达66%。与此同时，据统计，截至11月8日，今年以来私募合计自购金额超过25亿元。在部分业内人士看来，经过前期调整，A股中长期配置价值进一步凸显。",
+      "time": "2026-11-09 06:21:07",
+      "stocks": [
+        "90.BK0800"
+      ],
+      "src": "东方财富",
+      "id": "202611093925711176",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 2,
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "has_stock": 1,
+      "ctype": "data",
+      "ctypeName": "经济数据",
+      "axes": {
+        "sig": 7,
+        "nov": 6,
+        "cred": 7,
+        "reson": 8,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 70,
+      "struct_score": 82.0,
+      "final_score": 76.0,
+      "raw_score": 76.0,
+      "sum_score": 152.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
+      "body": "数据显示，周一（11月9日），共有8家公司限售股解禁，合计解禁量为2.61亿股，按最新收盘价计算，合计解禁市值为109.0亿元。从解禁市值来看，德力佳、亿纬锂能、联域股份解禁市值居前，解禁市值分别为86.16亿元、17.91亿元、3.4亿元。",
+      "time": "2026-11-09 07:32:52",
+      "stocks": [
+        "1.603092",
+        "0.300014"
+      ],
+      "src": "东方财富",
+      "id": "202611093925747289",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 2,
+      "impact": "bear",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "data",
+      "ctypeName": "经济数据",
+      "axes": {
+        "sig": 7,
+        "nov": 4,
+        "cred": 8,
+        "reson": 5,
+        "act": 5
+      },
+      "axes_raw": {
+        "sig": 7,
+        "nov": 8,
+        "cred": 8,
+        "reson": 5,
+        "act": 5
+      },
+      "noise_notes": [
+        "回顾整理类，信息增量有限（nov 压至 4）"
+      ],
+      "content_score": 62,
+      "struct_score": 82.0,
+      "final_score": 72.0,
+      "raw_score": 72.0,
+      "sum_score": 144.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "美科技股重挫拉低净值 主动QDII料回流港股",
+      "body": "近日，美股科技股迎来剧烈回调，AI板块集体重挫，多只重仓美股的公募主动权益QDII净值集体承压：多只产品净值11月5日跌超7%，其中一只规模三年间从5100万元增至118.44亿元的网红QDII当日净值回撤约13%。与之形成对照的是，当天主动权益QDII涨幅前十全部为港股主题产品，当周业绩十强同样由港股QDII包揽。",
+      "time": "2026-11-09 07:46:03",
+      "stocks": [
+        "90.BK0465",
+        "90.BK0800"
+      ],
+      "src": "东方财富",
+      "id": "202611093925716392",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 2,
+      "impact": "bear",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "has_stock": 1,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 4,
         "reson": 4,
         "act": 8
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 80,
+      "content_score": 59,
       "struct_score": 82.0,
-      "final_score": 81.0,
-      "raw_score": 81.0,
-      "sum_score": 162.0,
+      "final_score": 70.5,
+      "raw_score": 70.5,
+      "sum_score": 141.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -84,37 +210,38 @@
       "plain_quote": false
     },
     {
-      "title": "收购40%股权+增资1亿元 开勒股份拟控股威泰思 提示商誉减值等风险",
-      "body": "11月6日晚间，开勒股份（301070）公告，公司将受让陈华民和福州华长合计持有的福建威泰思光电有限公司（以下简称威泰思）40%股权，股权转让价款为5472万元，同时公司出资1亿元认缴威泰思全部新增注册资本694万元。交易完成后，公司将合计持有标的公司64.5902%股权，威泰思将成为公司的控股子公司。",
-      "time": "2026-11-08 02:35:56",
+      "title": "美股AI重挫致QDII业绩大分化 资产再平衡或驱动资金回流港股",
+      "body": "近日，美股科技股迎来剧烈回调，AI板块集体重挫，多只重仓美股的公募主动权益QDII净值集体承压：多只产品净值11月5日跌超7%，其中一只规模三年间从5100万元增至118.44亿元的网红QDII当日净值回撤约13%。与之形成对照的是，当天主动权益QDII涨幅前十全部为港股主题产品，当周业绩十强同样由港股QDII包揽。",
+      "time": "2026-11-09 07:28:46",
       "stocks": [
-        "0.301070",
-        "150.011668"
+        "90.BK0800"
       ],
       "src": "东方财富",
-      "id": "202611073925560376",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
+      "id": "202611093925746574",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 2,
       "impact": "bear",
-      "sectors": [],
+      "sectors": [
+        "AI应用/软件"
+      ],
       "has_stock": 1,
       "ctype": "company",
       "ctypeName": "公司事件",
       "axes": {
-        "sig": 10,
+        "sig": 7,
         "nov": 5,
-        "cred": 8,
-        "reson": 1,
-        "act": 7
+        "cred": 4,
+        "reson": 4,
+        "act": 8
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 71,
+      "content_score": 59,
       "struct_score": 82.0,
-      "final_score": 76.5,
-      "raw_score": 76.5,
-      "sum_score": 153.0,
+      "final_score": 70.5,
+      "raw_score": 70.5,
+      "sum_score": 141.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -123,20 +250,60 @@
       "plain_quote": false
     },
     {
-      "title": "前三季度 累计完工改造城镇老旧小区1.6万个",
-      "body": "记者从住房城乡建设部获悉：前三季度，全国累计完工改造城镇老旧小区1.6万个、正在实施改造小区1.3万个，惠及居民502万户。各地在城镇老旧小区改造中，共改造提升水电气热等各类老化管线7200多公里，实施适老化、无障碍改造小区2800多个，增设停车位8.6万个，实施建筑节能改造954万平方米，增设电动汽车和电动自行车充电桩1万多个。",
-      "time": "2026-11-08 06:35:22",
-      "stocks": [],
+      "title": "智能化和新能源化共赢 中外汽车产业链携手共进",
+      "body": "从展现明日出行方式的特斯拉到亮相中德双方最新研发成果的大众，从赋能智能化的博世到给出氢能补能方案的丰田，第九届中国国际进口博览会（简称“进博会”）汇集了全球汽车产业链巨头。随着中国智能化和新能源化科技的持续发展，国际巨头们不再是汽车产品和技术强势一方，他们纷纷主动牵手中国产业链伙伴，在进博会上展示合作共赢的新成果。",
+      "time": "2026-11-09 07:06:21",
+      "stocks": [
+        "1.600104",
+        "106.GM"
+      ],
       "src": "东方财富",
-      "id": "202611083925571832",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "neutral",
+      "id": "202611093925709578",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 2,
+      "impact": "bull",
       "sectors": [
         "汽车/智能驾驶",
-        "电力/公用"
+        "石油/能源",
+        "新能源/锂电"
       ],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 3,
+        "nov": 8,
+        "cred": 4,
+        "reson": 6,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 67,
+      "struct_score": 73.0,
+      "final_score": 70.0,
+      "raw_score": 70.0,
+      "sum_score": 140.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "中国光谷2026年上半年地区生产总值达1893.57亿元",
+      "body": "在上海举办的2026伟事达中国CEO峰会上，武汉东湖高新区（中国光谷）投资促进局相关负责人介绍，2025年东湖高新区地区生产总值3360亿元、同比增长6.3%；规上工业总产值突破4000亿元、位居武汉市第一。2026年上半年地区生产总值达1893.57亿元，同比增长14%。目前，光谷光电子信息产业规模达6600亿元，生命健康产业规模突破2200亿元，集聚高新技术企业6014家、上市企业72家。该负责人表示，光谷正依托科创资源，围绕光电子信息、集成电路、生命健康、智能制造等领域，完善从研发孵化到产业化落地的创新生态。（21世纪经济报道）",
+      "time": "2026-11-08 16:31:47",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681581805",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 1,
+      "impact": "bull",
+      "sectors": [],
       "has_stock": 0,
       "ctype": "policy",
       "ctypeName": "政策发布",
@@ -145,180 +312,58 @@
         "nov": 8,
         "cred": 4,
         "reson": 6,
-        "act": 4
+        "act": 1
       },
       "axes_raw": null,
       "noise_notes": [],
       "content_score": 76,
-      "struct_score": 70.0,
-      "final_score": 73.0,
-      "raw_score": 73.0,
-      "sum_score": 146.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
+      "struct_score": 64.0,
+      "final_score": 70.0,
+      "raw_score": 70.0,
+      "sum_score": 140.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
     },
     {
-      "title": "上海国资分团：集中签约17个项目涉交易金额约15.3亿美元",
-      "body": "11月7日，第九届中国国际进口博览会上海交易团国资分团集中签约仪式暨上海国资国企科技创新和开放合作交流会在国家会展中心（上海）举行。上海电气、上海银行、上汽集团、东浩兰生集团、上实集团、百联集团、临港集团、东方国际、光明食品集团、国茂控股、绿地集团等11家企业集团的17个项目进行了集中签约，涉交易金额约15.3亿美元，有力促进上海国有企业与外资外商在大宗商品、生物医药、时尚消费品、服务贸易等多个领域开展合作。",
-      "time": "2026-11-07 19:48:59",
+      "title": "AI投资叙事向商业化应用扩散 公募称业绩兑现决定行情高度",
+      "body": "一边是算力硬件的高位调整，一边是应用端的加速升温，AI投资的风向是否正在发生变化？多位基金经理表示，随着模型能力提升、推理成本下降，AI投资正在向商业化应用扩散。AI短剧率先实现规模化发展，游戏、广告营销、云服务等场景加速落地，但应用热度能否转化为上市公司收入与利润的持续增长，仍将决定行情的后续高度。",
+      "time": "2026-11-09 07:37:04",
       "stocks": [
-        "1.600104",
-        "1.601727"
+        "0.300413",
+        "0.301171"
       ],
       "src": "东方财富",
-      "id": "202611073925534834",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 1,
+      "id": "202611093925715168",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 2,
       "impact": "bull",
       "sectors": [
-        "消费/白酒",
-        "医药/生物",
-        "券商/大金融"
+        "半导体/AI芯片",
+        "AI应用/软件",
+        "算力/数据中心"
       ],
       "has_stock": 1,
       "ctype": "company",
       "ctypeName": "公司事件",
       "axes": {
-        "sig": 7,
-        "nov": 5,
+        "sig": 6,
+        "nov": 8,
         "cred": 4,
         "reson": 6,
         "act": 8
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 61,
-      "struct_score": 79.0,
-      "final_score": 70.0,
-      "raw_score": 70.0,
-      "sum_score": 140.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "万兴科技：万兴剧厂海外版ReelMate AI已开启公测",
-      "body": "万兴科技在机构调研时表示，公司在今年3月正式推出新产品万兴剧厂，产品初期聚焦2D漫剧创作，后续逐步拓展至AI真人短剧、AI广告剧、海外AI仿真人剧、AI电影等多元化内容形态，目前产品定位为AI驱动的一站式精品影视内容创作平台，打通剧本创作、分镜生成、素材制作、后期剪辑与团队协作全流程AI影视创作闭环，客户复购率超过85%，以三季度数据年化测算ARR已突破500万美元。",
-      "time": "2026-11-07 19:19:00",
-      "stocks": [
-        "0.300624",
-        "90.BK0800"
-      ],
-      "src": "东方财富",
-      "id": "202611073925530784",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 2,
-      "impact": "bull",
-      "sectors": [
-        "AI应用/软件"
-      ],
-      "has_stock": 1,
-      "ctype": "tech",
-      "ctypeName": "技术进展",
-      "axes": {
-        "sig": 7,
-        "nov": 8,
-        "cred": 4,
-        "reson": 4,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 61,
-      "struct_score": 79.0,
-      "final_score": 70.0,
-      "raw_score": 70.0,
-      "sum_score": 140.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "伯克希尔三季度投资收益下滑近46% 现金持仓创历史新高",
-      "body": "11月7日晚间，伯克希尔·哈撒韦公司（简称“伯克希尔”）公布三季报。公司第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元，净利润主要受到公司投资收益在三季度下滑的拖累。反映伯克希尔旗下实体业务板块表现的营业利润在第三季度为127.05亿美元，同比下降5.8%。",
-      "time": "2026-11-08 07:24:12",
-      "stocks": [
-        "106.BRK_A",
-        "106.BRK_B"
-      ],
-      "src": "东方财富",
-      "id": "202611083925575146",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 1,
-      "impact": "neutral",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 7,
-        "nov": 8,
-        "cred": 4,
-        "reson": 1,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 56,
-      "struct_score": 82.0,
-      "final_score": 69.0,
-      "raw_score": 69.0,
-      "sum_score": 138.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "环球下周看点：美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
-      "body": "美国科技股本周遭遇猛烈抛售，AI投资热潮同时面临政策环境变化与资本市场信心动摇的双重考验。尽管芯片股周五出现反弹，但纳指仍处于技术性回调区间，市场对AI基础设施投资回报、融资能力和未来增长前景的疑虑尚未消散。",
-      "time": "2026-11-08 02:00:26",
-      "stocks": [
-        "105.CRWV",
-        "105.AMAT"
-      ],
-      "src": "东方财富",
-      "id": "202611083925563342",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 3,
-      "impact": "neutral",
-      "sectors": [
-        "半导体/AI芯片",
-        "AI应用/软件"
-      ],
-      "has_stock": 1,
-      "ctype": "market",
-      "ctypeName": "市场动作",
-      "axes": {
-        "sig": 3,
-        "nov": 5,
-        "cred": 4,
-        "reson": 10,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 65,
+      "content_score": 64,
       "struct_score": 73.0,
-      "final_score": 69.0,
-      "raw_score": 69.0,
-      "sum_score": 138.0,
+      "final_score": 68.5,
+      "raw_score": 68.5,
+      "sum_score": 137.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -327,77 +372,39 @@
       "plain_quote": false
     },
     {
-      "title": "2025年我国海洋工程建筑业实现增加值2110亿元",
-      "body": "近日，自然资源部海洋咨询中心在2026厦门国际海洋周发布了《中国海洋工程建筑业发展简报2026》。2025年海洋工程建筑业稳步发展，自主化、绿色化、智能化转型成效显著，一大批重大海洋工程建筑项目落地实施。2025年我国海洋工程建筑业全年实现增加值2110亿元，按不变价计算，同比增长0.3%，行业运行总体平稳、转型持续推进。",
-      "time": "2026-11-07 21:39:25",
+      "title": "第三批互换便利操作落地 多家券商火速出手买入",
+      "body": "证券时报记者获悉，11月6日，申万宏源证券已开始执行第三批次互换便利操作。申万宏源证券表示，公司将持续发挥好互换便利政策工具稳定市场功能，持续推进互换便利资金买入A股股票及基金，为维护资本市场平稳健康发展贡献力量。",
+      "time": "2026-11-09 02:37:06",
       "stocks": [
-        "1.601800",
-        "1.600583"
+        "116.06806",
+        "0.000166"
       ],
       "src": "东方财富",
-      "id": "202611073925545356",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 7,
-        "nov": 8,
-        "cred": 4,
-        "reson": 2,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 56,
-      "struct_score": 82.0,
-      "final_score": 69.0,
-      "raw_score": 69.0,
-      "sum_score": 138.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "国金证券牟一凌：核心蓝筹股的估值水平已经处于历史偏低水平",
-      "body": "国金证券首席策略官、副所长牟一凌接受券商中国记者采访时表示，9月中下旬以来，A股市场表现承压，外部不确定性加剧是本轮回调的核心扰动。当前核心蓝筹股的估值水平已经处于历史偏低水平，尤其成长类大盘蓝筹性价比凸显。",
-      "time": "2026-11-07 21:30:00",
-      "stocks": [
-        "90.BK0800"
-      ],
-      "src": "东方财富",
-      "id": "202611073925545938",
+      "id": "202611093925714745",
       "dim": "risk",
       "dimName": "市场资金面",
       "dim_score": 2,
-      "impact": "bear",
+      "impact": "neutral",
       "sectors": [
         "券商/大金融"
       ],
       "has_stock": 1,
-      "ctype": "view",
-      "ctypeName": "行业观点",
+      "ctype": "policy",
+      "ctypeName": "政策发布",
       "axes": {
-        "sig": 3,
-        "nov": 5,
+        "sig": 6,
+        "nov": 8,
         "cred": 4,
         "reson": 8,
         "act": 8
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 65,
+      "content_score": 64,
       "struct_score": 73.0,
-      "final_score": 69.0,
-      "raw_score": 69.0,
-      "sum_score": 138.0,
+      "final_score": 68.5,
+      "raw_score": 68.5,
+      "sum_score": 137.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -406,41 +413,37 @@
       "plain_quote": false
     },
     {
-      "title": "泰国强调粮食和能源安全 以多元供应体系应对外部风险",
-      "body": "泰国总理阿努廷7日表示，泰国目前粮食和能源供应总体稳定，民众无需担忧出现食品及生活必需品短缺。泰国将发挥本国农业生产优势，同时通过扩大生物燃料使用、推动能源来源多元化等措施，增强国家应对外部风险的能力。",
-      "time": "2026-11-08 01:40:58",
+      "title": "经营业绩稳健、科技动能强劲 沪市头部公司发展韧性凸显",
+      "body": "一批千亿市值头部企业凭借稳健的经营基本面、持续增强的科技创新能力和积极的股东回报，展现出较强的发展韧性。截至2026年11月6日，沪市合计上市公司超2300家，总市值超65万亿元。其中，头部市值公司（A股市值超千亿元）近百家，合计市值超34.8万亿元。",
+      "time": "2026-11-09 07:36:15",
       "stocks": [
-        "0.159945",
-        "150.014238"
+        "1.688825",
+        "1.688256"
       ],
       "src": "东方财富",
-      "id": "202611073925562274",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "bear",
-      "sectors": [
-        "农业/种业",
-        "石油/能源",
-        "消费/白酒"
-      ],
+      "id": "202611093925715267",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [],
       "has_stock": 1,
-      "ctype": "view",
-      "ctypeName": "行业观点",
+      "ctype": "company",
+      "ctypeName": "公司事件",
       "axes": {
-        "sig": 6,
+        "sig": 7,
         "nov": 5,
         "cred": 4,
-        "reson": 6,
-        "act": 8
+        "reson": 5,
+        "act": 5
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 64,
-      "struct_score": 73.0,
-      "final_score": 68.5,
-      "raw_score": 68.5,
-      "sum_score": 137.0,
+      "content_score": 54,
+      "struct_score": 79.0,
+      "final_score": 66.5,
+      "raw_score": 66.5,
+      "sum_score": 133.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -449,62 +452,21 @@
       "plain_quote": false
     },
     {
-      "title": "俄称打击乌多地区目标 乌称能源设施遭大规模袭击",
-      "body": "俄罗斯国防部7日发布通报说，过去一天，俄军在33个地区挫败乌军进攻，并打击了乌方位于139个地区的多类目标。同日，乌克兰称，该国多地能源设施遭大规模袭击。",
-      "time": "2026-11-08 00:42:29",
+      "title": "Hyperliquid区块链上一份与英伟达股价挂钩的永续期货合约下跌2.9%",
+      "body": "Hyperliquid区块链上一份与英伟达股价挂钩的永续期货合约下跌2.9%。",
+      "time": "2026-11-09 05:54:28",
       "stocks": [
-        "90.BK0704",
-        "150.014238"
+        "105.NVDA",
+        "90.BK0830"
       ],
       "src": "东方财富",
-      "id": "202611083925563167",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 5,
-      "impact": "neutral",
+      "id": "202611093925725982",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "bear",
       "sectors": [
-        "军工/国防",
-        "石油/能源"
-      ],
-      "has_stock": 1,
-      "ctype": "overseas",
-      "ctypeName": "海外宏观",
-      "axes": {
-        "sig": 6,
-        "nov": 8,
-        "cred": 4,
-        "reson": 6,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 64,
-      "struct_score": 73.0,
-      "final_score": 68.5,
-      "raw_score": 68.5,
-      "sum_score": 137.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "伊拉克石油部：将遵守OPEC+431万桶/日的产量水平",
-      "body": "伊拉克石油部称，将遵守OPEC+431万桶/日的产量水平，提高产量上限需经OPEC+一致同意，将继续努力争取明年提高产量。",
-      "time": "2026-11-07 21:48:32",
-      "stocks": [
-        "90.BK0464"
-      ],
-      "src": "东方财富",
-      "id": "202611073925547953",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "neutral",
-      "sectors": [
-        "石油/能源"
+        "半导体/AI芯片"
       ],
       "has_stock": 1,
       "ctype": "view",
@@ -519,206 +481,7 @@
       "axes_raw": null,
       "noise_notes": [],
       "content_score": 58,
-      "struct_score": 79.0,
-      "final_score": 68.5,
-      "raw_score": 68.5,
-      "sum_score": 137.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "全球媒体人工智能应用标准共建计划正式启动",
-      "body": "7日，在第七届世界媒体峰会开幕式上，由新华通讯社发起的全球媒体人工智能应用标准共建计划正式启动。该共建计划旨在邀请全球重要媒体及专业机构参与共建应用标准，共同维护信息真实、保障数据安全、恪守新闻伦理，维护全球新闻传播公信力。",
-      "time": "2026-11-07 19:17:09",
-      "stocks": [
-        "90.BK0800",
-        "0.161631"
-      ],
-      "src": "东方财富",
-      "id": "202611073925529253",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 1,
-      "impact": "neutral",
-      "sectors": [
-        "AI应用/软件"
-      ],
-      "has_stock": 1,
-      "ctype": "view",
-      "ctypeName": "行业观点",
-      "axes": {
-        "sig": 3,
-        "nov": 8,
-        "cred": 4,
-        "reson": 4,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 63,
-      "struct_score": 73.0,
-      "final_score": 68.0,
-      "raw_score": 68.0,
-      "sum_score": 136.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "美股科技股抛售潮下 AI头部企业估值承压",
-      "body": "近期，大量美国科技股遭抛售，AI领域投资回报受到越来越多的审视。据彭博社11月6日报道，部分潜在投资者准备给予Anthropic 1.2万亿至1.3万亿美元的IPO估值，较此前预期的2万亿美元下降至多40%。而英国《金融时报》的最新报道称，投资者预计Anthropic估值可能接近1.5万亿美元。",
-      "time": "2026-11-07 19:02:33",
-      "stocks": [
-        "105.ANT",
-        "90.BK0800"
-      ],
-      "src": "东方财富",
-      "id": "202611073925526675",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 2,
-      "impact": "bear",
-      "sectors": [
-        "AI应用/软件",
-        "券商/大金融"
-      ],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 7,
-        "nov": 4,
-        "cred": 4,
-        "reson": 6,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 59,
-      "struct_score": 76.0,
-      "final_score": 67.5,
-      "raw_score": 67.5,
-      "sum_score": 135.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "10月以来市场震荡调整，基金投顾逆势加仓A股",
-      "body": "今年10月以来市场震荡调整，基金投顾逆势加仓A股。据券商统计，A股是10月基金投顾组合加仓最多的资产，低位布局倾向11月以来仍在延续，资金逆势流入部分基金投顾机构组合。开源证券数据显示，10月基金投顾组合主动增配A股、黄金、新兴市场等资产，主动减配债券、货币及现金、美股等资产，反映主理人在大类资产层面对风险敞口的结构性再平衡；其中A股震荡调整，基金投顾增配比例最高，超过1.5%，排名第二的黄金增配比例不到0.5%。（上海证券报）",
-      "time": "2026-11-07 20:26:05",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681578899",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 3,
-      "impact": "neutral",
-      "sectors": [
-        "券商/大金融",
-        "黄金/贵金属"
-      ],
-      "has_stock": 0,
-      "ctype": "data",
-      "ctypeName": "经济数据",
-      "axes": {
-        "sig": 7,
-        "nov": 5,
-        "cred": 8,
-        "reson": 10,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 74,
-      "struct_score": 61.0,
-      "final_score": 67.5,
-      "raw_score": 67.5,
-      "sum_score": 135.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "菲律宾9月失业人数升至286万 就业市场承压",
-      "body": "中新社马尼拉11月7日电(记者周璟)菲律宾统计局6日公布的数据显示，菲律宾9月失业人数升至286万，高于8月的277万和去年同期的196万。当月失业率为5.4%，高于8月的5.3%和去年同期的3.8%。",
-      "time": "2026-11-08 03:30:09",
-      "stocks": [],
-      "src": "东方财富",
-      "id": "202611073925556556",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 3,
-      "impact": "bear",
-      "sectors": [],
-      "has_stock": 0,
-      "ctype": "data",
-      "ctypeName": "经济数据",
-      "axes": {
-        "sig": 7,
-        "nov": 6,
-        "cred": 10,
-        "reson": 2,
-        "act": 1
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 64,
-      "struct_score": 70.0,
-      "final_score": 67.0,
-      "raw_score": 67.0,
-      "sum_score": 134.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "包钢股份在奇瑞汽车主机厂供货推进中取得新突破",
-      "body": "日前，包钢股份在奇瑞汽车主机厂供货推进中取得新突破，某车型多个关键覆盖件完成多轮试模，已由试模验证向材料切换和批量供货稳步迈进，高端汽车钢市场拓展再进一步。此次推进的某车型项目中，包钢股份供应的冷轧汽车钢，主要应用于车型左右侧围、前后门外板等核心关键覆盖件。",
-      "time": "2026-11-07 21:00:00",
-      "stocks": [
-        "1.600010",
-        "116.09973"
-      ],
-      "src": "东方财富",
-      "id": "202611073925541738",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [
-        "汽车/智能驾驶"
-      ],
-      "has_stock": 1,
-      "ctype": "view",
-      "ctypeName": "行业观点",
-      "axes": {
-        "sig": 6,
-        "nov": 5,
-        "cred": 4,
-        "reson": 4,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 60,
-      "struct_score": 73.0,
+      "struct_score": 75.0,
       "final_score": 66.5,
       "raw_score": 66.5,
       "sum_score": 133.0,
@@ -730,30 +493,192 @@
       "plain_quote": false
     },
     {
-      "title": "五部门20项举措解题“消费基建” 激活内需循环",
-      "body": "“十五五”规划纲要明确，以新需求引领新供给，以新供给创造新需求，促进消费和投资、供给和需求良性互动，从而增强国内大循环内生动力和可靠性。近日，国家发展改革委联合交通运输部、商务部、文化和旅游部、市场监管总局等部门印发《关于加强消费基础设施建设促进消费投资良性互动的指导意见》（以下简称《指导意见》），从完善城乡商业设施、提升服务消费设施、优化出行消费设施、健全流通设施网络、推进新型消费设施建设五个方面部署20项重点任务。",
-      "time": "2026-11-07 23:52:54",
+      "title": "华新建材：拟约16.42亿美元收购巴西CSN CIMENTOS 99.99%股权",
+      "body": "华新建材公告称，公司拟以预估约90.337亿巴西雷亚尔(约16.42亿美元)收购巴西国家钢铁公司持有的CSN CIMENTOS 99.99%股权。标的公司为巴西第二大水泥生产商，拥有7家窑线工厂及6家粉磨站，水泥总产能达1,700万吨/年（约占21%的市场份额），石灰石储量约22亿吨，产品主要服务巴西东北和东南两大关键市场，具备高于行业平均水平的产能、技术和运营表现。本项目若成功实施，是公司乃至中国水泥企业将首次进入巴西水泥市场。本次交易不构成重大资产重组，须通过中巴两国相关审批。",
+      "time": "2026-11-08 16:48:32",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681581870",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
+      "impact": "neutral",
+      "sectors": [
+        "地产/基建"
+      ],
+      "has_stock": 0,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 7,
+        "nov": 8,
+        "cred": 8,
+        "reson": 4,
+        "act": 6
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 69,
+      "struct_score": 64.0,
+      "final_score": 66.5,
+      "raw_score": 66.5,
+      "sum_score": 133.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "有色金属ETF持续上新 年内合计发行规模超90亿元",
+      "body": "近期，有色金属主题ETF再度上新。11月11日，博时中证稀有金属主题ETF将正式上市，成为公募基金布局有色金属赛道的又一新增产品。今年以来，已有多家基金公司陆续推出工业有色、稀有金属等主题ETF，相关产品体系进一步丰富。",
+      "time": "2026-11-09 07:23:11",
       "stocks": [
-        "90.BK0425",
-        "0.159940"
+        "90.BK0478",
+        "0.159871"
       ],
       "src": "东方财富",
-      "id": "202611073925560450",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
+      "id": "202611093925745787",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 2,
+      "impact": "neutral",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 7,
+        "nov": 8,
+        "cred": 4,
+        "reson": 1,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 56,
+      "struct_score": 76.0,
+      "final_score": 66.0,
+      "raw_score": 66.0,
+      "sum_score": 132.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "盘点“国家队”买手清单：进博“购物车”含“科”量足",
+      "body": "第九届进博会上，央企交易团的签约陆续落定，金额稳中有升的同时，采购标的的技术密度也在攀升。“三桶油”本届进博会上合计签约超737亿美元，中粮集团签约逾百亿美元，国机集团九届累计签约超过260亿美元。金额之外，“购物车”里的商品，正在从资源型商品向技术型能力迁移。",
+      "time": "2026-11-09 07:00:39",
+      "stocks": [
+        "1.600115",
+        "116.00670"
+      ],
+      "src": "东方财富",
+      "id": "202611093925709639",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
+      "impact": "bull",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 7,
+        "nov": 4,
+        "cred": 4,
+        "reson": 2,
+        "act": 7
+      },
+      "axes_raw": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 4,
+        "reson": 2,
+        "act": 7
+      },
+      "noise_notes": [
+        "回顾整理类，信息增量有限（nov 压至 4）"
+      ],
+      "content_score": 53,
+      "struct_score": 79.0,
+      "final_score": 66.0,
+      "raw_score": 66.0,
+      "sum_score": 132.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "上交所：沪市上市公司总市值超65万亿元",
+      "body": "上交所最新数据显示，截至目前沪市合计上市公司超2300家，总市值超65万亿元。其中A股市值超千亿的头部上市公司近百家，合计市值超34.8万亿元。沪市头部公司中，科技制造企业在人工智能、集成电路、先进制造等领域加快成长，成为资本市场高质量发展的重要力量。（央视新闻）",
+      "time": "2026-11-08 16:13:17",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681581725",
+      "dim": "tech",
+      "dimName": "AI 与科技",
       "dim_score": 2,
       "impact": "neutral",
       "sectors": [
-        "消费/白酒",
-        "地产/基建"
+        "AI应用/软件"
+      ],
+      "has_stock": 0,
+      "ctype": "data",
+      "ctypeName": "经济数据",
+      "axes": {
+        "sig": 4,
+        "nov": 8,
+        "cred": 10,
+        "reson": 8,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 68,
+      "struct_score": 64.0,
+      "final_score": 66.0,
+      "raw_score": 66.0,
+      "sum_score": 132.0,
+      "tier": "T1",
+      "threshold": 46,
+      "tier_note": "官方机构发布（同花顺 → T1）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "新型电网 如何扣住“网眼”",
+      "body": "记者从相关权威部门了解到，新型电网锚定新架构、新技术、新服务，作为连接电力生产和消费的枢纽平台，其形态正从传统的“单向输电，被动适应”向智能、柔性、协同演进。一张更安全可靠、绿色低碳、坚强韧性、智能灵活的新型电网正在投资建设，将蓝图加快变为现实。",
+      "time": "2026-11-09 07:27:08",
+      "stocks": [
+        "1.601179",
+        "1.600406"
+      ],
+      "src": "东方财富",
+      "id": "202611093925714074",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "电力/公用",
+        "消费/白酒"
       ],
       "has_stock": 1,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
+      "ctype": "view",
+      "ctypeName": "行业观点",
       "axes": {
-        "sig": 6,
+        "sig": 0,
         "nov": 5,
-        "cred": 6,
+        "cred": 4,
         "reson": 6,
         "act": 8
       },
@@ -772,31 +697,397 @@
       "plain_quote": false
     },
     {
-      "title": "利用俄被冻结资产 乌克兰据称获得近500亿美元支持",
-      "body": "据俄罗斯方面7日消息，根据乌克兰财政部发布的数据进行计算，过去两年间，利用被冻结的俄罗斯资产的收益，乌克兰已获得494亿美元资金支持。仅2026年，乌克兰就获得105亿美元的资金支持，这都来源于被冻结俄资产的收益。",
-      "time": "2026-11-07 19:02:49",
-      "stocks": [],
+      "title": "伊拉克北部库区天然气田遭无人机袭击",
+      "body": "伊拉克库尔德自治区政府消息人士告诉新华社记者，位于库区苏莱曼尼亚省的豪尔穆尔天然气田8日23时许遭到不明来源的无人机袭击。受袭击影响，气田已停止生产。",
+      "time": "2026-11-09 07:18:28",
+      "stocks": [
+        "90.BK1028",
+        "90.BK0427"
+      ],
       "src": "东方财富",
-      "id": "202611073925526588",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
+      "id": "202611093925743754",
+      "dim": "military",
+      "dimName": "军事地缘",
       "dim_score": 2,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 0,
-      "ctype": "overseas",
-      "ctypeName": "海外宏观",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防",
+        "石油/能源"
+      ],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
       "axes": {
-        "sig": 10,
-        "nov": 8,
-        "cred": 6,
-        "reson": 2,
-        "act": 1
+        "sig": 0,
+        "nov": 5,
+        "cred": 4,
+        "reson": 6,
+        "act": 8
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 59,
-      "struct_score": 70.0,
+      "content_score": 58,
+      "struct_score": 73.0,
+      "final_score": 65.5,
+      "raw_score": 65.5,
+      "sum_score": 131.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "港股绿鞋机制充当隐形稳定器 年内48家企业启动超额配售",
+      "body": "今年以来，港股IPO市场使用绿鞋机制规模已超去年全年。数据显示，今年以来，48家公司授予主承销商使用绿鞋机制，超额配售募资净额累计达到284.73亿元。去年全年，45家公司授予主承销商使用绿鞋机制，超额配售募资净额累计达到241.98亿元。",
+      "time": "2026-11-09 06:34:22",
+      "stocks": [
+        "0.161726",
+        "1.512290"
+      ],
+      "src": "东方财富",
+      "id": "202611093925736342",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "data",
+      "ctypeName": "经济数据",
+      "axes": {
+        "sig": 7,
+        "nov": 3,
+        "cred": 8,
+        "reson": 1,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 52,
+      "struct_score": 79.0,
+      "final_score": 65.5,
+      "raw_score": 65.5,
+      "sum_score": 131.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "员工用AI辅助办公，出错谁担责？",
+      "body": "当前，不少企业鼓励员工借助AI工具辅助开展日常办公，AI逐步成为职场提效帮手。但AI幻觉、数据泄密、版权侵权等隐患随之而来，一旦出现工作失误，易引发劳动争议、责任认定难等问题。专家建议，企业应细化AI使用场景清单，做好制度公示与合规培训；有关部门应出台相关指引，明晰权责边界。",
+      "time": "2026-11-09 07:53:37",
+      "stocks": [
+        "90.BK0475",
+        "90.BK1283"
+      ],
+      "src": "东方财富",
+      "id": "202611093925751275",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 3,
+        "nov": 5,
+        "cred": 4,
+        "reson": 4,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 57,
+      "struct_score": 73.0,
+      "final_score": 65.0,
+      "raw_score": 65.0,
+      "sum_score": 130.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "重仓高波权益遭反噬 一批“固收+”基金净值受挫",
+      "body": "下半年以来，被给予“理财替代”厚望的“固收+”产品遭遇净值滑坡，尽管平均跌幅不大，但部分基金跌幅却超过20%甚至30%，净值大幅震荡，大大超出持有人的预想。探究这些基金大幅回撤的原因，盈亏同源是绕不开的规律。上半年的景气行情使得多只“固收+”产品跑出了不输权益基金的业绩，因此部分产品继续重仓高波动的科技股与相关可转债，导致仓位管理失衡与行业过度集中。",
+      "time": "2026-11-09 07:44:05",
+      "stocks": [
+        "90.BK0528",
+        "0.161027"
+      ],
+      "src": "东方财富",
+      "id": "202611093925715922",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 4,
+        "reson": 2,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 51,
+      "struct_score": 79.0,
+      "final_score": 65.0,
+      "raw_score": 65.0,
+      "sum_score": 130.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "海外长钱“叩门” 私募出海走向纵深",
+      "body": "一笔超过3亿美元的国际机构投资，成为海外长线资金关注中国私募的最新注脚。记者获悉，近期，部分私募机构正积极接洽中东、北美等地资本，海外养老金、主权财富基金等长期资金对中国私募管理人的关注度有所提升。随着海外投资者重新审视中国资产的配置价值，越来越多私募机构通过设立海外平台、发行离岸产品、拓展国际机构客户等方式寻求发展空间。",
+      "time": "2026-11-09 07:19:14",
+      "stocks": [
+        "150.012606"
+      ],
+      "src": "东方财富",
+      "id": "202611093925710787",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 10,
+        "nov": 8,
+        "cred": 4,
+        "reson": 2,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 54,
+      "struct_score": 76.0,
+      "final_score": 65.0,
+      "raw_score": 65.0,
+      "sum_score": 130.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "基金经理解析结构性行情“锚点”",
+      "body": "之前一段时间，双创板块持续调整。在业内人士看来，此次双创板块的调整与2015年和2021年有根本性差异。兴证全球基金认为，创业板指数的调整主要是“赛道拥挤”导致的估值消化和存量资金再平衡。当前，货币政策保持适度宽松，产业增长前景仍在，盈利待验证，潜在的修复机会已相对清晰。鹏华基金权益投资三部基金经理王子建表示，本轮科技板块的调整本质上是“外部利率冲击+内部交易拥挤”共同作用的结果，而非AI产业基本面的根本性逆转。",
+      "time": "2026-11-09 07:17:16",
+      "stocks": [
+        "1.688012",
+        "1.688256"
+      ],
+      "src": "东方财富",
+      "id": "202611093925709464",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 6,
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "has_stock": 1,
+      "ctype": "market",
+      "ctypeName": "市场动作",
+      "axes": {
+        "sig": 3,
+        "nov": 5,
+        "cred": 3,
+        "reson": 8,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 57,
+      "struct_score": 73.0,
+      "final_score": 65.0,
+      "raw_score": 65.0,
+      "sum_score": 130.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "AI短剧商业兑现提速 AI视频赛道景气向好 多股获资金青睐(名单)",
+      "body": "AI短剧从试水走向规模化生产，A股AI视频概念近期持续活跃。机构认为，产业链价值正加速向IP与平台两端迁移。",
+      "time": "2026-11-09 05:52:03",
+      "stocks": [
+        "0.300413",
+        "0.300364"
+      ],
+      "src": "东方财富",
+      "id": "202611093925725294",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 0,
+        "nov": 5,
+        "cred": 3,
+        "reson": 8,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 61,
+      "struct_score": 69.0,
+      "final_score": 65.0,
+      "raw_score": 65.0,
+      "sum_score": 130.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "扎波罗热核电站恢复外部供电",
+      "body": "当地时间11月8日，由俄方控制的扎波罗热核电站通过官方社交账号通报称，经抢修，330千伏“铁合金-1”线路已重新投入运行，核电站由此恢复外部供电。",
+      "time": "2026-11-09 02:44:30",
+      "stocks": [
+        "90.BK0577"
+      ],
+      "src": "东方财富",
+      "id": "202611093925717768",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "电力/公用"
+      ],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 3,
+        "nov": 5,
+        "cred": 4,
+        "reson": 4,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 57,
+      "struct_score": 73.0,
+      "final_score": 65.0,
+      "raw_score": 65.0,
+      "sum_score": 130.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "外资机构看好中国资产配置价值",
+      "body": "摩根大通、高盛、瑞银等多家头部外资投行密集发布观点，积极看多A股市场；贝莱德、富兰克林邓普顿等国际机构现身多家A股公司调研名单。截至2026年9月30日，49家QFII现身约1500家上市公司前十大流通股股东名单，持股市值约2707亿元，高盛、瑞银、摩根士丹利、摩根大通等持仓靠前，均在三季度大幅新进半导体、硬件、机械等领域。（证券日报）",
+      "time": "2026-11-09 07:20:54",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681585443",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "券商/大金融"
+      ],
+      "has_stock": 0,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 10,
+        "nov": 8,
+        "cred": 4,
+        "reson": 10,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 72,
+      "struct_score": 58.0,
+      "final_score": 65.0,
+      "raw_score": 65.0,
+      "sum_score": 130.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "政策效应释放带动楼市活跃度回升",
+      "body": "11月6日，北京市住房和城乡建设委员会发布《北京市“十五五”时期住房发展规划》，提出“鼓励支持刚性和改善性住房消费。从群众合理购房需求出发，更好满足多样化住房消费需求。精准支持新市民、青年人、多子女家庭等群体购房需求。促进梯度消费和住房循环利用，释放存量住房市场活力”。",
+      "time": "2026-11-09 07:56:02",
+      "stocks": [
+        "90.BK0451",
+        "0.160628"
+      ],
+      "src": "东方财富",
+      "id": "202611093925750548",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 5,
+      "impact": "bull",
+      "sectors": [
+        "地产/基建",
+        "消费/白酒"
+      ],
+      "has_stock": 1,
+      "ctype": "policy",
+      "ctypeName": "政策发布",
+      "axes": {
+        "sig": 3,
+        "nov": 8,
+        "cred": 4,
+        "reson": 10,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 56,
+      "struct_score": 73.0,
       "final_score": 64.5,
       "raw_score": 64.5,
       "sum_score": 129.0,
@@ -808,37 +1099,34 @@
       "plain_quote": false
     },
     {
-      "title": "30项专利获颁中国专利金奖 涵盖高端装备、生物医药等多领域",
-      "body": "第十五届中国国际专利技术与产品交易会11月6日至8日在江苏无锡举办，同期颁发26届中国专利金奖和中国外观设计金奖，共30项专利获金奖，涵盖高端装备、生物医药、绿色低碳等领域；10项中国外观设计金奖覆盖消费电子、工业产品、生活设计等领域。国家知识产权局运用促进司司长韩爱朋表示，40项金奖获奖项目相关专利产品累计销售收入超3800亿元，新增利润近1200亿元，出口额达545亿元，多个项目由高校科研机构与企业共同完成，全球布局专利148件。（央视新闻）",
-      "time": "2026-11-07 14:17:48",
+      "title": "韩国人均摄入热量10年减一成",
+      "body": "韩国卫生部门8日公布的数据显示，过去十年间，韩国民众日均摄入热量下降约11%。专家指出，韩国正步入“减食”社会，民众普遍减少热量摄入的同时，摄入不足人群的占比也在上升。据韩联社报道，韩国疾病管理厅基于韩国国民健康营养调查数据，对2015年至2024年间韩国1岁及以上民众的日均摄入热量变化趋势进行分析。结果显示，2024年，韩国男性日均摄入2136卡路里，女性日均摄入1580卡路里，较2015年分别下降11.9%和10.6%。(新华社)",
+      "time": "2026-11-08 21:43:40",
       "stocks": [],
       "src": "同花顺",
-      "id": "681577320",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 1,
-      "impact": "neutral",
-      "sectors": [
-        "医药/生物",
-        "消费/白酒"
-      ],
+      "id": "681583678",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
+      "impact": "bear",
+      "sectors": [],
       "has_stock": 0,
-      "ctype": "tech",
-      "ctypeName": "技术进展",
+      "ctype": "data",
+      "ctypeName": "经济数据",
       "axes": {
-        "sig": 10,
-        "nov": 5,
-        "cred": 4,
-        "reson": 6,
-        "act": 4
+        "sig": 7,
+        "nov": 8,
+        "cred": 8,
+        "reson": 2,
+        "act": 1
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 65,
+      "content_score": 64,
       "struct_score": 64.0,
-      "final_score": 64.5,
-      "raw_score": 64.5,
-      "sum_score": 129.0,
+      "final_score": 64.0,
+      "raw_score": 64.0,
+      "sum_score": 128.0,
       "tier": "T2",
       "threshold": 52,
       "tier_note": "同花顺（T2）",
@@ -847,20 +1135,21 @@
       "plain_quote": false
     },
     {
-      "title": "哥伦比亚北部一军事营区遭无人机袭击 致3死8伤",
-      "body": "当地时间11月7日中午，哥伦比亚玻利瓦尔省南部圣罗莎德尔苏尔市一处军事营区遭携带爆炸物的无人机袭击。据哥伦比亚陆军通报消息，袭击已造成3名军人死亡、8名军人受伤。",
-      "time": "2026-11-08 05:23:52",
+      "title": "实探中核工程廊坊研发基地：“华龙一号”2.0迭代筑牢安全屏障",
+      "body": "走进位于河北廊坊的中国核电工程有限公司廊坊研发基地，灰色楼宇外观与核电站厂区十分相近，但这里并不发电。248亩园区内，上百座试验台架有序排布，如同一座专门核验核电安全的“实验工厂”。",
+      "time": "2026-11-09 07:50:24",
       "stocks": [
-        "90.BK0704"
+        "1.601985",
+        "90.BK0577"
       ],
       "src": "东方财富",
-      "id": "202611083925567148",
+      "id": "202611093925736296",
       "dim": "military",
       "dimName": "军事地缘",
-      "dim_score": 3,
+      "dim_score": 1,
       "impact": "neutral",
       "sectors": [
-        "军工/国防"
+        "电力/公用"
       ],
       "has_stock": 1,
       "ctype": "view",
@@ -887,37 +1176,234 @@
       "plain_quote": false
     },
     {
-      "title": "从“产品出口”到“全价值链输出” 电子产业出海迎范式变革",
-      "body": "11月5日举行的第七届世界媒体峰会上，瞭望财经智库最新发布的《科技出海新观察》报告指出，科技企业的全球化，正从“走出去”迈向“走进去”，实现从产品出口到生态本土化的升级。记者采访多家企业出海历程及经验等发现，当前，中国电子产业出海逻辑正发生深刻转变。过去以产品外销为主的贸易模式，逐步让位于研发、制造、供应链配套、本地化服务、标准输出一体化的协同布局新路径，越来越多电子企业不再只做商品输出，而是加速全链路输出，在海外搭建本土化产业生态，在融入当地市场的同时，重塑产业竞争优势。",
-      "time": "2026-11-08 03:15:00",
+      "title": "抢抓“大冬会”流量窗口 长春冰雪产业谋求长效增长",
+      "body": "作为2027年第33届世界大学生冬季运动会承办城市，长春2026—2027新雪季推出更多创新举措。业内受访人士表示，“大冬会”带来引流窗口。长春各大雪场跳出短期流量思维，着力夯实软硬件配套、培育滑雪增量人群；依托南北冰雪市场联动，推动冰雪运动、文旅消费与产业长效增长协同发展。",
+      "time": "2026-11-09 07:41:08",
       "stocks": [
-        "1.688036",
-        "116.02636"
+        "1007.BK000390"
       ],
       "src": "东方财富",
-      "id": "202611073925556787",
+      "id": "202611093925715691",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 1,
+      "impact": "bull",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 0,
+        "nov": 5,
+        "cred": 4,
+        "reson": 4,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 54,
+      "struct_score": 73.0,
+      "final_score": 63.5,
+      "raw_score": 63.5,
+      "sum_score": 127.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "风范股份：河北产融集团将间接控制公司30.08%股份",
+      "body": "风范股份公告称，唐山市国资委将其持有的唐控发展集团98.47802%国有股权无偿划转至河北国信产融控股集团有限公司，本次无偿划转完成后，河北产融集团将通过唐控发展集团、天津产融控股及唐山工控间接控制公司30.08%股份。本次无偿划转已获唐山市人民政府批复，相关划转协议已签署，尚需履行后续相关程序。",
+      "time": "2026-11-08 16:42:52",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681581838",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
+      "impact": "neutral",
+      "sectors": [],
+      "has_stock": 0,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 10,
+        "nov": 5,
+        "cred": 10,
+        "reson": 1,
+        "act": 1
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 63,
+      "struct_score": 64.0,
+      "final_score": 63.5,
+      "raw_score": 63.5,
+      "sum_score": 127.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "多项应用加速落地 卫星遥感织密环境监测网",
+      "body": "随着商业航天快速发展，卫星正在为地球建立一本可读的环境账本：一块田里种了什么、长势如何，一条河的水位与水面面积怎样变化，海上浮标漂到了哪里，灾后积水漫到何处。得益于卫星组网大规模铺开、算力上星带来的能力提升，卫星的工作重心从“拍照片”转向“算数据”，环境监测成为卫星应用落地最扎实的场景之一。",
+      "time": "2026-11-09 07:52:20",
+      "stocks": [
+        "1.688568",
+        "1.688651"
+      ],
+      "src": "东方财富",
+      "id": "202611093925734913",
       "dim": "tech",
       "dimName": "AI 与科技",
-      "dim_score": 1,
+      "dim_score": 4,
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "算力/数据中心"
+      ],
+      "has_stock": 1,
+      "ctype": "tech",
+      "ctypeName": "技术进展",
+      "axes": {
+        "sig": 3,
+        "nov": 8,
+        "cred": 4,
+        "reson": 6,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 53,
+      "struct_score": 73.0,
+      "final_score": 63.0,
+      "raw_score": 63.0,
+      "sum_score": 126.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "AI算力催动 国产先进封测迎来产业升级机遇",
+      "body": "AI、机器人、电池等三大技术快速进化、叠加，全球半导体产业进入“黄金十年”发展期；随着AI算力需求爆发、摩尔定律逼近物理极限，先进封测成为AI系统性能提升的关键决定因素，产业增长速度显著提升……在11月5日至6日于南京举行的2026半导体封装测试技术与市场年会（第二十四届）上，来自芯片设计、封装等环节的多位嘉宾表示，AI浪潮下，硅基生命的智能跃迁，将带动芯片需求大爆发。",
+      "time": "2026-11-09 07:22:00",
+      "stocks": [
+        "0.002185",
+        "116.06082"
+      ],
+      "src": "东方财富",
+      "id": "202611093925709366",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 5,
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件",
+        "算力/数据中心"
+      ],
+      "has_stock": 1,
+      "ctype": "tech",
+      "ctypeName": "技术进展",
+      "axes": {
+        "sig": 6,
+        "nov": 5,
+        "cred": 4,
+        "reson": 6,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 53,
+      "struct_score": 73.0,
+      "final_score": 63.0,
+      "raw_score": 63.0,
+      "sum_score": 126.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "美联储12月加息的概率为78%",
+      "body": "据CME“美联储观察”：美联储12月维持利率不变的概率为22.0%，加息25个基点的概率为78%。美联储到明年1月维持利率不变的概率17.7%，累计加息25个基点的概率67.1%，累计加息50个基点的概率为15.2%。",
+      "time": "2026-11-09 06:02:57",
+      "stocks": [],
+      "src": "东方财富",
+      "id": "202611093925728446",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 3,
+      "impact": "bear",
+      "sectors": [],
+      "has_stock": 0,
+      "ctype": "overseas",
+      "ctypeName": "海外宏观",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 6,
+        "reson": 6,
+        "act": 1
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 56,
+      "struct_score": 70.0,
+      "final_score": 63.0,
+      "raw_score": 63.0,
+      "sum_score": 126.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "头部外资投行密集发布观点 看好中国资产配置价值",
+      "body": "近日，摩根大通、高盛、瑞银等多家头部外资投行密集发布观点，积极看多A股市场。同时，贝莱德、富兰克林邓普顿等国际机构在多家A股公司的调研名单里现身。",
+      "time": "2026-11-09 01:19:00",
+      "stocks": [
+        "90.BK0800",
+        "150.011668"
+      ],
+      "src": "东方财富",
+      "id": "202611093925712021",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
       "impact": "neutral",
       "sectors": [],
       "has_stock": 1,
       "ctype": "view",
       "ctypeName": "行业观点",
       "axes": {
-        "sig": 6,
+        "sig": 3,
         "nov": 8,
         "cred": 4,
-        "reson": 2,
+        "reson": 5,
         "act": 5
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 50,
+      "content_score": 53,
       "struct_score": 73.0,
-      "final_score": 61.5,
-      "raw_score": 61.5,
-      "sum_score": 123.0,
+      "final_score": 63.0,
+      "raw_score": 63.0,
+      "sum_score": 126.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -926,269 +1412,39 @@
       "plain_quote": false
     },
     {
-      "title": "欧洲央行行长候选人de Cos称需对通胀风险保持警惕",
-      "body": "Pablo Hernández de Cos表示，货币政策制定者应继续密切关注能源价格高企带来的通胀风险。他是欧洲央行行长拉加德的两名潜在继任者之一。瑞士报纸Tagesanzeiger周六刊登的采访称，de Cos表示到目前为止，所谓的第二轮效应尚未显现。",
-      "time": "2026-11-07 18:47:08",
+      "title": "证券时报：稳市机制高频落子 稳市力量加速汇聚",
+      "body": "日前召开的国务院常务会议指出，完善资本市场稳市机制，增强股市内在稳定性，促进资本市场平稳健康发展。南开大学金融发展研究院院长田利辉表示，这体现了国家层面对于资本市场的高度关注，释放了呵护市场的明确政策信号。从近期落地的举措来看，稳市场、稳预期的政策组合拳力度大、密度高、节奏快，覆盖资金、制度、市场参与主体等多维度。",
+      "time": "2026-11-09 07:31:17",
       "stocks": [
-        "0.159945",
-        "150.014238"
+        "90.BK1366",
+        "90.BK0473"
       ],
       "src": "东方财富",
-      "id": "202611073925525833",
+      "id": "202611093925715421",
       "dim": "economic",
       "dimName": "宏观经济/政策",
-      "dim_score": 4,
-      "impact": "bear",
-      "sectors": [
-        "石油/能源"
-      ],
-      "has_stock": 1,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 3,
-        "nov": 5,
-        "cred": 6,
-        "reson": 8,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 50,
-      "struct_score": 73.0,
-      "final_score": 61.5,
-      "raw_score": 61.5,
-      "sum_score": 123.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "产业“四地”集群发展势头强劲",
-      "body": "本报讯 （记者 郭靓 通讯员 魏长虹） 国家税务总局青海省税务局发布最新税收数据显示，1—10月，青海产业“四地”直接及关联行业累计开票销售收入同比增长19%...",
-      "time": "2026-11-08 03:21:53",
-      "stocks": [],
-      "src": "新浪财经",
-      "id": "906082753",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 0,
-      "ctype": "data",
-      "ctypeName": "经济数据",
-      "axes": {
-        "sig": 7,
-        "nov": 8,
-        "cred": 8,
-        "reson": 2,
-        "act": 1
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 64,
-      "struct_score": 58.0,
-      "final_score": 61.0,
-      "raw_score": 61.0,
-      "sum_score": 122.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "新浪财经（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "七天内近五千移民抵西属加那利群岛",
-      "body": "当地时间11月7日，据西班牙最新统计，过去七天近5000名非法移民乘船抵达加那利群岛，大部分集中登陆耶罗岛；仅过去24小时各港口接纳超1100名获救人员，当地民防与救援部门称接待和安置能力已逼近极限。今年7月底，一则西班牙边境政策错误信息在社交媒体传播，致约8万人以泅渡等方式从摩洛哥偷渡至西班牙北非飞地休达，约百人溺亡，大多数非法越境者已返回摩洛哥。（CCTV国际时讯）",
-      "time": "2026-11-07 22:03:17",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681579732",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 1,
-      "impact": "neutral",
-      "sectors": [
-        "航运/物流"
-      ],
-      "has_stock": 0,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 4,
-        "nov": 8,
-        "cred": 8,
-        "reson": 8,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 64,
-      "struct_score": 58.0,
-      "final_score": 61.0,
-      "raw_score": 61.0,
-      "sum_score": 122.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "韩股下跌 韩国散户狂买美股 5日净买入规模超8月全月",
-      "body": "韩国本土股市下跌之际，韩国散户正在加大美股买入力度。仅五个交易日内，美股净买入额接近3万亿韩元，超过8月全月规模。 韩国预托结算院证券信息平台SEIBro 7日数据显示，2日至6日，韩国散户美股净买入规模达21.9753亿美元，约合2.982万亿韩元。 该数值高于8月全月19.6234亿美元的净买入额，是9月10.0128亿美元的两倍多，相当于上月总额54.2312亿美元的约40%。也就是说，投资者在五个交易日内买入的美股，接近以往一个月的体量。（新浪财经）",
-      "time": "2026-11-07 14:03:38",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681577272",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 1,
+      "dim_score": 3,
       "impact": "neutral",
       "sectors": [
         "券商/大金融"
       ],
-      "has_stock": 0,
-      "ctype": "data",
-      "ctypeName": "经济数据",
-      "axes": {
-        "sig": 7,
-        "nov": 3,
-        "cred": 8,
-        "reson": 4,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 58,
-      "struct_score": 64.0,
-      "final_score": 61.0,
-      "raw_score": 61.0,
-      "sum_score": 122.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "伊拉克石油部长：伊拉克日均原油产量超过500万桶",
-      "body": "伊拉克石油部长称，伊拉克日均原油产量超过500万桶。",
-      "time": "2026-11-07 18:46:11",
-      "stocks": [
-        "90.BK0464"
-      ],
-      "src": "东方财富",
-      "id": "202611073925525634",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "neutral",
-      "sectors": [
-        "石油/能源"
-      ],
-      "has_stock": 1,
-      "ctype": "overseas",
-      "ctypeName": "海外宏观",
-      "axes": {
-        "sig": 4,
-        "nov": 5,
-        "cred": 4,
-        "reson": 4,
-        "act": 8
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 46,
-      "struct_score": 75.0,
-      "final_score": 60.5,
-      "raw_score": 60.5,
-      "sum_score": 121.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "累计完工改造城镇老旧小区1.6万个",
-      "body": "本报北京11月7日电  （记者李心萍）记者从住房城乡建设部获悉：前三季度，全国累计完工改造城镇老旧小区1.6万个、正在实施改造小区1.3万个，惠及居民502万户。",
-      "time": "2026-11-08 06:01:28",
-      "stocks": [],
-      "src": "新浪财经",
-      "id": "906092635",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "neutral",
-      "sectors": [],
-      "has_stock": 0,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 7,
-        "nov": 8,
-        "cred": 4,
-        "reson": 2,
-        "act": 1
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 56,
-      "struct_score": 64.0,
-      "final_score": 60.0,
-      "raw_score": 60.0,
-      "sum_score": 120.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "新浪财经（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "上海正衡金融消费者权益保护中心揭牌 推动金融消保资源整合升级",
-      "body": "2026年11月6日，上海正衡金融消费者权益保护中心（以下简称“消保中心”）揭牌仪式在浦东新区汇商大厦举行。金融监管总局金融消费者权益投诉调解中心、上海金融监管局、上海市委金融办、上海市民政局、上海市司法局、上海市市场监管局、中国人民银行上海市分行、上海证监局、浦东新区区委金融办等单位相关负责同志出席，共同见证消保中心揭牌。",
-      "time": "2026-11-08 02:55:35",
-      "stocks": [
-        "0.159940",
-        "1007.BK000199"
-      ],
-      "src": "东方财富",
-      "id": "202611073925560194",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 1,
-      "impact": "neutral",
-      "sectors": [
-        "券商/大金融",
-        "消费/白酒"
-      ],
       "has_stock": 1,
       "ctype": "policy",
       "ctypeName": "政策发布",
       "axes": {
         "sig": 3,
-        "nov": 5,
+        "nov": 6,
         "cred": 6,
-        "reson": 6,
+        "reson": 8,
         "act": 8
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 46,
+      "content_score": 52,
       "struct_score": 73.0,
-      "final_score": 59.5,
-      "raw_score": 59.5,
-      "sum_score": 119.0,
+      "final_score": 62.5,
+      "raw_score": 62.5,
+      "sum_score": 125.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -1197,91 +1453,15 @@
       "plain_quote": false
     },
     {
-      "title": "伯克希尔哈撒韦公司：第三季度营业利润为127.1亿美元 第三季度回购了96亿美元股票",
-      "body": "【伯克希尔哈撒韦：第三季度营业利润为127.1亿美元 第三季度回购了96亿美元股票】伯克希尔哈撒韦公司第三季度营业利润为127.1亿美元，同比下降5.8%；第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元；第三季度每股A类等效普通股净收益为15,502美元；第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。截至9月30日，公司第三季度现金持仓为3569亿美元；现金储备较上一季度有所增加，达到3774亿美元，再创新高。公司第三季度回购了96亿美元股票。",
-      "time": "2026-11-07 21:00:16",
-      "stocks": [
-        "106.BRK_A"
-      ],
-      "src": "东方财富",
-      "id": "202611073925540523",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 4,
-        "nov": 3,
-        "cred": 4,
-        "reson": 1,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 37,
-      "struct_score": 82.0,
-      "final_score": 59.5,
-      "raw_score": 59.5,
-      "sum_score": 119.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "全部提前结募！18只主动ETF最新数据披露",
-      "body": "截至11月7日，首批18只主动ETF已有17只发布成立公告，但18只产品整体的募集天数、配售比例等数据已率先披露。",
-      "time": "2026-11-08 07:39:22",
-      "stocks": [
-        "150.007505"
-      ],
-      "src": "东方财富",
-      "id": "202611083925575693",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 1,
-      "impact": "neutral",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 3,
-        "nov": 8,
-        "cred": 4,
-        "reson": 6,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 49,
-      "struct_score": 69.0,
-      "final_score": 59.0,
-      "raw_score": 59.0,
-      "sum_score": 118.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "通用具身大脑产业创新联合体正式启动",
-      "body": "今日，在进博会配套活动具身智能产业生态共建交流会暨眸深智能战略发布会上，通用具身大脑产业创新联合体正式启动。记者获悉，该联合体汇聚眸深智能、复旦大学未来信息创新学院、国家地方共建人形机器人创新中心、宇树科技、优必选等42家企业及机构，涵盖高校科研、机器人本体、灵巧操作、数据算力及产业应用等领域，共同构建围绕通用具身大脑的协同创新生态。 (财联社)",
-      "time": "2026-11-07 15:39:50",
+      "title": "上财教授杨健：AI冲击下全球价值链将告别单极主导，迎来多极并存与分层竞争",
+      "body": "11月8日，在2026进博会上海会议活动“智能制造与电子消费研讨会”上，上海财经大学数字经济研究院执行副院长、实践教授杨健指出，在人工智能的冲击下，全球价值链将告别单极主导，演变为由技术自主、地缘安全与数字要素共同塑造的全新格局，呈现出“多极并存、分层竞争、规则双轨、收益分化”的特征。\n在“多极并存”方面，杨健分析称，美国主导底层算力与基础模型；欧盟侧重AI治理；日韩聚焦精密制造；中国则依托完整制造业体系，主攻产业落地与数字中间品。\n在“分层竞争”方面，上游芯片与基础模型壁垒极高，中游数字中间品生态活跃，下游主要由垂直应用场景驱动。杨健表示，中国在中下游环节具备显著比较优势。（界面新闻）",
+      "time": "2026-11-08 17:32:21",
       "stocks": [],
       "src": "同花顺",
-      "id": "681577561",
+      "id": "681582063",
       "dim": "tech",
       "dimName": "AI 与科技",
-      "dim_score": 3,
+      "dim_score": 4,
       "impact": "neutral",
       "sectors": [
         "半导体/AI芯片",
@@ -1295,7 +1475,393 @@
         "sig": 6,
         "nov": 8,
         "cred": 4,
+        "reson": 10,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 70,
+      "struct_score": 55.0,
+      "final_score": 62.5,
+      "raw_score": 62.5,
+      "sum_score": 125.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "酷哇科技计划明年发布社区机器狗 ，进军零售配送场景",
+      "body": "城市具身智能全栈方案商酷哇科技首次亮相第九届进博会，展示了D0重载四足机器人与X1独角兽城市作业服务机器人，二者共享同一套端侧世界模型。其将自研双层智能体世界模型与城市服务场景结合，通过“一脑多态”架构驱动不同形态的机器人本体，推动具身智能进入市政环卫、末端配送等真实作业场景。记者获悉，在零售配送场景，酷哇科技还布局了社区配送机器狗D2，计划于2027年正式发布。（21世纪经济报道）",
+      "time": "2026-11-08 16:31:54",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681581806",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 2,
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件",
+        "消费/白酒"
+      ],
+      "has_stock": 0,
+      "ctype": "tech",
+      "ctypeName": "技术进展",
+      "axes": {
+        "sig": 6,
+        "nov": 8,
+        "cred": 4,
+        "reson": 10,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 70,
+      "struct_score": 55.0,
+      "final_score": 62.5,
+      "raw_score": 62.5,
+      "sum_score": 125.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "上纬新材：消费级具身智能机器人产品“启元Q1”和“启元T1”下线1万台",
+      "body": "上纬新材公告，于2026年9月20日正式对外发布消费级具身智能机器人产品“启元Q1”和“启元T1”。截至公告披露日，公司消费级具身智能机器人产能有序爬坡、良率表现良好，“启元Q1”和“启元T1”下线1万台。公司提示，该业务尚处初期阶段，存在产能爬坡、良率波动、市场推广不及预期等风险，目前营收占比低，尚不能预测对2026年度业绩影响。",
+      "time": "2026-11-08 15:34:01",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681581617",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 1,
+      "impact": "bear",
+      "sectors": [
+        "AI应用/软件",
+        "消费/白酒"
+      ],
+      "has_stock": 0,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 7,
+        "nov": 6,
+        "cred": 8,
         "reson": 6,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 63,
+      "struct_score": 61.0,
+      "final_score": 62.0,
+      "raw_score": 62.0,
+      "sum_score": 124.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "伊拉克外长表示 伊拉克已与美国达成谅解",
+      "body": "伊拉克外长表示，伊拉克已与美国达成谅解，允许石油经霍尔木兹海峡靠近阿曼的航运通道出口，出口作业仍在持续。该外长还表示，伊拉克因伊朗战争及石油出口中断造成的损失约600亿美元。",
+      "time": "2026-11-09 03:13:10",
+      "stocks": [],
+      "src": "东方财富",
+      "id": "202611093925717561",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "dim_score": 2,
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源",
+        "航运/物流"
+      ],
+      "has_stock": 0,
+      "ctype": "overseas",
+      "ctypeName": "海外宏观",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 4,
+        "reson": 6,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 57,
+      "struct_score": 64.0,
+      "final_score": 60.5,
+      "raw_score": 60.5,
+      "sum_score": 121.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "适老用品产品消费迎政策加码",
+      "body": "转自：证券日报 本报记者 刘 萌 日前，民政部、国家发展改革委、工业和信息化部、商务部、市场监管总局、全国老龄办等联合印发《关于培育多元场景...",
+      "time": "2026-11-09 07:16:00",
+      "stocks": [],
+      "src": "新浪财经",
+      "id": "906324138",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 2,
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒",
+        "券商/大金融"
+      ],
+      "has_stock": 0,
+      "ctype": "policy",
+      "ctypeName": "政策发布",
+      "axes": {
+        "sig": 6,
+        "nov": 5,
+        "cred": 6,
+        "reson": 10,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 66,
+      "struct_score": 55.0,
+      "final_score": 60.5,
+      "raw_score": 60.5,
+      "sum_score": 121.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "新浪财经（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "国内券商总数104家 其中国资券商71家占比已近七成",
+      "body": "记者了解到，监管在最新一期《传导》内总结了当前证券业股权结构情况。截至2026年8月，104家券商中国资券商71家，占比68.3%，其中央企控股23家、地方控股48家；外资券商16家，占比15.4%；民营券商11家，占比10.5%；混合所有制券商6家，占比5.7%。以国有资本为主导、各类资本有序参与的格局，这是境内券商股权结构的局面。值得注意的是，不同类型券商的集中度呈明显梯度。外资、民营机构第一大股东平均持股相对较高，分别达77.4%、71.9%，前者多采取母公司全资或绝对控股模式，后者创始股东及产业资本持股较高；央企控股机构居中，平均63.9%，在保持国有控制力的同时保留市场化运作空间；地方国有、混合所有制机构相对较低，分别为40.4%、28.9%。（财联社）",
+      "time": "2026-11-08 20:16:35",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681582792",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "has_stock": 0,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 7,
+        "nov": 8,
+        "cred": 4,
+        "reson": 4,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 57,
+      "struct_score": 64.0,
+      "final_score": 60.5,
+      "raw_score": 60.5,
+      "sum_score": 121.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "美联储12月加息25个基点的概率为78%",
+      "body": "美联储到12月累计加息25个基点的概率为78%，维持利率不变的概率为22%。美联储到1月维持利率不变的概率为17.7%，累计加息25个基点的概率为67.1%，累计加息50个基点的概率为15.2%。",
+      "time": "2026-11-09 07:04:34",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681584977",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 3,
+      "impact": "bear",
+      "sectors": [],
+      "has_stock": 0,
+      "ctype": "overseas",
+      "ctypeName": "海外宏观",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 6,
+        "reson": 6,
+        "act": 1
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 56,
+      "struct_score": 64.0,
+      "final_score": 60.0,
+      "raw_score": 60.0,
+      "sum_score": 120.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "高盛称AI债务供给压力正在信用市场累积",
+      "body": "高盛警告，五大超大规模云计算商仅一周内完成670亿美元债券发行，年内累计发债2960亿美元，已超越高盛对全年预测上限。高盛明确指出，信用利差风险在12月前“明确偏向走阔”，AI交易新发溢价高达18个基点，接近垃圾债水平。",
+      "time": "2026-11-08 22:56:35",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681583926",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 2,
+      "impact": "bear",
+      "sectors": [
+        "AI应用/软件",
+        "算力/数据中心"
+      ],
+      "has_stock": 0,
+      "ctype": "tech",
+      "ctypeName": "技术进展",
+      "axes": {
+        "sig": 7,
+        "nov": 5,
+        "cred": 4,
+        "reson": 6,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 56,
+      "struct_score": 64.0,
+      "final_score": 60.0,
+      "raw_score": 60.0,
+      "sum_score": 120.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "算力需求驱动电子树脂走俏 技术迭代能力关乎业绩兑现成色",
+      "body": "AI算力硬件迭代带来的高频高速覆铜板需求，正在从产业链预期走向上市公司业绩验证。作为影响覆铜板介电性能的核心材料之一，电子树脂是AI服务器PCB（印制电路板）增强材料粘结、实现高速信号传输的重要原料。树脂生产企业披露的三季报清晰印证：高速电子树脂的行业景气度，已经从产业链调研预期实实在在落到上市公司利润表里。",
+      "time": "2026-11-09 07:38:11",
+      "stocks": [
+        "1.605589",
+        "1.601208"
+      ],
+      "src": "东方财富",
+      "id": "202611093925715038",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 2,
+      "impact": "neutral",
+      "sectors": [
+        "算力/数据中心",
+        "半导体/AI芯片",
+        "AI应用/软件"
+      ],
+      "has_stock": 1,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 3,
+        "nov": 3,
+        "cred": 4,
+        "reson": 6,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 45,
+      "struct_score": 73.0,
+      "final_score": 59.0,
+      "raw_score": 59.0,
+      "sum_score": 118.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "民调：82%德国人不满默茨执政表现",
+      "body": "德国媒体7日发布的一项民意调查结果显示，82%的德国人对总理默茨的执政表现感到不满，这一比例为他执政以来新高。德国《图片报》援引新社会问题研究所民调结果报道，被问及默茨的执政表现时，82%的受访者表示不满，较10月初实施的上一次民调上升2个百分点；仅13%的受访者表示满意。与年初时相比，德国人对默茨的不满意度大幅攀升。今年1月，67%的受访者对其执政表现不满，24%表示认可。(新华社)",
+      "time": "2026-11-08 20:55:35",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681583193",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
+      "impact": "bull",
+      "sectors": [],
+      "has_stock": 0,
+      "ctype": "policy",
+      "ctypeName": "政策发布",
+      "axes": {
+        "sig": 7,
+        "nov": 8,
+        "cred": 4,
+        "reson": 1,
+        "act": 1
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 54,
+      "struct_score": 64.0,
+      "final_score": 59.0,
+      "raw_score": 59.0,
+      "sum_score": 118.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "首期中国—新加坡高级官员交流项目成功举办",
+      "body": "11月1日至7日，首期中国—新加坡高级官员交流项目在中国举办，由中央组织部会同商务部举办，以数字经济和绿色发展为主题。中央组织部秘书长戴建营、商务部副部长凌激、新加坡驻华大使陈海泉出席启动环节并致辞，新加坡公共服务署人力发展司高级司长何颂廉作为交流项目代表发言。活动期间，双方代表赴北京、浙江、上海，聚焦绿色贸易、电子商务、工业园区、绿色能源等领域交流，参访安吉、中国国际进口博览会，并调研生态环境部环境规划院、北京市生态环境监测中心及有关数字企业。（商务部）",
+      "time": "2026-11-08 18:04:18",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681582159",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 2,
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "has_stock": 0,
+      "ctype": "policy",
+      "ctypeName": "政策发布",
+      "axes": {
+        "sig": 6,
+        "nov": 5,
+        "cred": 6,
+        "reson": 8,
         "act": 4
       },
       "axes_raw": null,
@@ -1313,97 +1879,138 @@
       "plain_quote": false
     },
     {
-      "title": "马斯克在得州投资2.25亿美元 多个项目或被民主党叫停",
-      "body": "马斯克已在得州投入2.25亿美元，SpaceX、特斯拉等企业在得州的发展得益于当地民选官员（以共和党人为主）的税收优惠、基建扶持及提高起诉门槛等优待。多名得州民主党人士称局面即将改变：新当选州长吉娜·伊诺霍萨击败共和党州长格雷格·阿博特，正起诉其获取与马斯克的往来沟通记录，竞选主张包括放缓数据中心建设、反对其部分土地交易；众议员玛丽·冈萨雷斯称马斯克项目审批待遇特殊，必须确保所有人遵守相同规则；将公共公园地块出售给SpaceX的计划引发民主党人及部分共和党人不满。（新浪财经）",
-      "time": "2026-11-07 11:19:06",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681576566",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 2,
-      "impact": "bear",
-      "sectors": [
-        "算力/数据中心",
-        "地产/基建",
-        "汽车/智能驾驶"
+      "title": "一“土”一“新” 藏着我国造船业何以“先进”的答案",
+      "body": "在上海外高桥造船有限公司采访的半天里，最打动记者的不是740米长的船坞，而是两个细节。一个细节是“土”。厂区约140万平方米，自行车是这座船厂最常见的通勤工具。当身着蓝色工装、脚踏自行车的船厂工人穿梭在厂区，让人仿佛置身在20世纪80年代的工厂。另一个细节是“新”。走进智能加工中心的控制中心，大屏上的数字孪生系统实时跳动：101台套设备的运行状态、每一个计划节点的执行进度、每台AGV小车的位置都尽收眼底。",
+      "time": "2026-11-09 07:29:20",
+      "stocks": [
+        "1.600150",
+        "150.011668"
       ],
-      "has_stock": 0,
-      "ctype": "tech",
-      "ctypeName": "技术进展",
-      "axes": {
-        "sig": 7,
-        "nov": 5,
-        "cred": 4,
-        "reson": 6,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 56,
-      "struct_score": 61.0,
-      "final_score": 58.5,
-      "raw_score": 58.5,
-      "sum_score": 117.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "2026年全球旅游业“逆势”增长",
-      "body": "据葡萄牙卢萨新闻社11月3日报道，英国咨询机构牛津经济研究院子公司旅游经济学公司预计，2026年全球过夜国际游客人数将达15.7亿人次，比2025年增长2%，创新纪录；游客花销将同比增长6%，达1.8万亿美元。报告作者称，今年增长速度将放缓至2%，而2025年为6%。美国与伊朗冲突、航空燃油价格上涨及生活成本上涨是影响长途旅行需求的主要因素；战争引发地区安全担忧，海湾地区机场停运，其客流量占2025年全球客流量的15%。（参考消息）",
-      "time": "2026-11-07 14:52:13",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681577413",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 3,
-      "impact": "bull",
-      "sectors": [
-        "石油/能源",
-        "消费/白酒"
-      ],
-      "has_stock": 0,
-      "ctype": "data",
-      "ctypeName": "经济数据",
-      "axes": {
-        "sig": 4,
-        "nov": 3,
-        "cred": 8,
-        "reson": 10,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 58,
-      "struct_score": 58.0,
-      "final_score": 58.0,
-      "raw_score": 58.0,
-      "sum_score": 116.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "沃尔沃辟谣气囊召回短信",
-      "body": "11月7日，沃尔沃汽车发布声明，辟谣气囊召回短信：近期流传的“涉及高田气囊召回”等信息均非沃尔沃官方发布。沃尔沃官方发布的召回通知，不会以任何名义引导车主提供银行卡、验证码等敏感信息，或进行转账、付款等操作。",
-      "time": "2026-11-07 15:50:43",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681577599",
+      "src": "东方财富",
+      "id": "202611093925715360",
       "dim": "risk",
       "dimName": "市场资金面",
       "dim_score": 0,
       "impact": "neutral",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "view",
+      "ctypeName": "行业观点",
+      "axes": {
+        "sig": 4,
+        "nov": 5,
+        "cred": 4,
+        "reson": 1,
+        "act": 5
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 40,
+      "struct_score": 76.0,
+      "final_score": 58.0,
+      "raw_score": 58.0,
+      "sum_score": 116.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "AI算力采购潮起 公募数智化转型提速",
+      "body": "持续加码AI投入，公募行业数智化转型提速。近期，多家基金公司采购算力服务器，提升算力已成为基金公司布局AI的核心底座。在业内人士看来，公募行业不再局限于单点AI试用，而是系统性打造适配资管业务的智能体系，推动AI深度赋能资产管理全流程。",
+      "time": "2026-11-09 06:18:19",
+      "stocks": [
+        "90.BK1134",
+        "90.BK0800"
+      ],
+      "src": "东方财富",
+      "id": "202611093925709986",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 2,
+      "impact": "neutral",
       "sectors": [
-        "券商/大金融",
+        "AI应用/软件",
+        "算力/数据中心",
+        "半导体/AI芯片"
+      ],
+      "has_stock": 1,
+      "ctype": "tech",
+      "ctypeName": "技术进展",
+      "axes": {
+        "sig": 3,
+        "nov": 5,
+        "cred": 3,
+        "reson": 6,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 42,
+      "struct_score": 73.0,
+      "final_score": 57.5,
+      "raw_score": 57.5,
+      "sum_score": 115.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "以色列国防部长称对伊朗任务“尚未完成”",
+      "body": "以色列国防部长卡茨8日在战争纪念仪式上称，以色列“对伊朗的任务尚未完成”，伊朗试图“重启获取核武器的进程”并进行“其他严重威胁以色列安全的活动”，以方不能接受并将“采取必要行动”，将“先发制人”消除威胁，但未提供证据证明威胁，也未说明具体行动。以色列军队不会从占领的加沙地带、黎巴嫩和叙利亚部分地区撤军，若黎巴嫩真主党与伊朗联手袭击以色列，将面临“严厉打击”。卡茨呼吁以色列人在国家安全面临威胁时“团结一致”。内塔尼亚胡7日呼吁反对派阵营与利库德集团及其政治盟友组建“民族团结政府”。（新华社）",
+      "time": "2026-11-08 19:53:57",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681582634",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "dim_score": 10,
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "has_stock": 0,
+      "ctype": "overseas",
+      "ctypeName": "海外宏观",
+      "axes": {
+        "sig": 6,
+        "nov": 5,
+        "cred": 4,
+        "reson": 8,
+        "act": 4
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 60,
+      "struct_score": 55.0,
+      "final_score": 57.5,
+      "raw_score": 57.5,
+      "sum_score": 115.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "成都新一波消费券来了",
+      "body": "成都东部新区发布2026秋冬惠民消费券，2026年11月9日至2027年1月3日每日9:00-21:00可领取，面向成都市内消费者（抢券时手机GPS定位在成都市地域范围内的人员）发放，用于领券者本人在成都东部新区内指定商户使用。成都高新区2026年第四轮汽车消费补贴活动申请通道已开启。（财联社）",
+      "time": "2026-11-08 16:32:07",
+      "stocks": [],
+      "src": "同花顺",
+      "id": "681581807",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 1,
+      "impact": "bull",
+      "sectors": [
+        "消费/白酒",
         "汽车/智能驾驶"
       ],
       "has_stock": 0,
@@ -1431,104 +2038,27 @@
       "plain_quote": false
     },
     {
-      "title": "上海交易团国资分团第九届进博会已达成意向采购金额28.62亿美元",
-      "body": "11月7日，第九届进博会上海交易团国资分团集中签约仪式上获悉，截至目前，该分团在大宗商品、医疗器械、农食产品等领域已达成意向采购订单137笔，意向采购金额28.62亿美元，同比增长3.1%。自首届进博会以来，该分团已与20多个国家和地区的企业达成意向采购金额252亿美元，连续九年居上海交易团各分团首位。（人民财讯）",
-      "time": "2026-11-07 12:39:03",
+      "title": "川高公司达渝高速类REITs成功设立 发行利率创西部地区同类产品新低基金",
+      "body": "近日，四川高速公路建设开发集团有限公司（以下简称“川高公司”）达渝高速类REITs在上海证券交易所成功设立，优先级发行规模34.27亿元，发行利率1.87%，创西部地区类REITs最低发行利率。这是继2019年隆纳高速类REITs之后，川高公司在高速公路资产证券化领域的又一次探索。(上海证券报)",
+      "time": "2026-11-08 20:49:27",
       "stocks": [],
       "src": "同花顺",
-      "id": "681576997",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "bull",
+      "id": "681583128",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 1,
+      "impact": "neutral",
       "sectors": [
-        "医药/生物"
+        "券商/大金融"
       ],
       "has_stock": 0,
-      "ctype": "company",
-      "ctypeName": "公司事件",
+      "ctype": "view",
+      "ctypeName": "行业观点",
       "axes": {
         "sig": 7,
         "nov": 5,
         "cred": 4,
-        "reson": 4,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 51,
-      "struct_score": 64.0,
-      "final_score": 57.5,
-      "raw_score": 57.5,
-      "sum_score": 115.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "海军首批舰载机女飞行学员结业赴一线部队",
-      "body": "记者7日从海军航空大学获悉，海军首批舰载机女飞行学员全部通过结业考核赴一线部队。这标志着海军航空兵人才梯队建设再添新生力量，海军舰载机飞行人才培养取得突破性进展。",
-      "time": "2026-11-07 20:51:58",
-      "stocks": [
-        "90.BK0715"
-      ],
-      "src": "东方财富",
-      "id": "202611073925540212",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 2,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 1,
-      "ctype": "view",
-      "ctypeName": "行业观点",
-      "axes": {
-        "sig": 3,
-        "nov": 5,
-        "cred": 4,
-        "reson": 2,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 41,
-      "struct_score": 73.0,
-      "final_score": 57.0,
-      "raw_score": 57.0,
-      "sum_score": 114.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "影禾医脉：联合发布主动脉CTA智能体",
-      "body": "11月7日，在中关村论坛系列活动——北京城市副中心创新医疗器械场景供需对接会上，首都医科大学附属北京安贞医院与影禾医脉联合发布主动脉CTA AIR V1.0报告生成智能体、“安心智影”心脏MRI诊断大模型及智能体等。",
-      "time": "2026-11-07 19:55:00",
-      "stocks": [],
-      "src": "东方财富",
-      "id": "202611073925534934",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 2,
-      "impact": "neutral",
-      "sectors": [
-        "AI应用/软件",
-        "医药/生物"
-      ],
-      "has_stock": 0,
-      "ctype": "tech",
-      "ctypeName": "技术进展",
-      "axes": {
-        "sig": 3,
-        "nov": 8,
-        "cred": 4,
-        "reson": 6,
+        "reson": 8,
         "act": 4
       },
       "axes_raw": null,
@@ -1538,6 +2068,47 @@
       "final_score": 57.0,
       "raw_score": 57.0,
       "sum_score": 114.0,
+      "tier": "T2",
+      "threshold": 52,
+      "tier_note": "同花顺（T2）",
+      "passed": true,
+      "hard_drops": [],
+      "plain_quote": false
+    },
+    {
+      "title": "规模缩水结构生变 上市公司理财“调仓换挡”",
+      "body": "上市公司理财正出现明显“调仓换挡”态势。今年以来，上市公司认购理财产品的整体规模有所缩减，配置结构亦正悄然重塑——作为“压舱石”的结构性存款显著缩水，而券商收益凭证等收益增强工具正逐渐受到上市公司青睐。业内人士普遍认为，上市公司资金管理正从被动储蓄向主动配置演进，从单一保本转向安全性、流动性与收益性的精细再平衡。",
+      "time": "2026-11-09 06:23:09",
+      "stocks": [
+        "90.BK0475",
+        "90.BK1283"
+      ],
+      "src": "东方财富",
+      "id": "202611093925710242",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 1,
+      "impact": "neutral",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "has_stock": 1,
+      "ctype": "company",
+      "ctypeName": "公司事件",
+      "axes": {
+        "sig": 0,
+        "nov": 5,
+        "cred": 3,
+        "reson": 8,
+        "act": 8
+      },
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 40,
+      "struct_score": 73.0,
+      "final_score": 56.5,
+      "raw_score": 56.5,
+      "sum_score": 113.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -1546,132 +2117,95 @@
       "plain_quote": false
     },
     {
-      "title": "刘彦春110亿代表作增聘搭档 独管产品只剩1只",
-      "body": "11月7日，景顺长城基金公告，农冰立被增聘为景顺长城新兴成长基金经理，与刘彦春共同管理。截至今年9月底，该基金规模110.27亿元，占刘彦春218.81亿元公募管理规模的五成以上，是其管理最久、体量最大的公募产品。此次增聘后，刘彦春在管6只产品中仅剩景顺长城绩优成长为独管，其余5只自今年5月陆续增聘基金经理。已增聘的新任基金经理任职回报均暂未转正，其中景顺长城集英成长两年回撤最深，增聘以来总回报-34.01%；景顺长城鼎益回撤27.97%；景顺长城内需增长、景顺长城内需增长贰号回撤约3%左右。（财联社）",
-      "time": "2026-11-07 11:05:23",
+      "title": "溢价持续高企 机构提示纳指ETF相关风险",
+      "body": "近期纳指ETF溢价持续高企。Wind数据显示，截至11月6日收盘，纳指科技ETF景顺长城溢折率达41.64%，纳指ETF嘉实、纳指ETF国泰均超过20%，纳指ETF易方达、纳指ETF广发、纳斯达克100 ETF招商、纳指ETF富国均超过17%。",
+      "time": "2026-11-09 01:52:08",
       "stocks": [],
-      "src": "同花顺",
-      "id": "681576484",
-      "dim": "risk",
-      "dimName": "市场资金面",
+      "src": "东方财富",
+      "id": "202611093925710816",
+      "dim": "tech",
+      "dimName": "AI 与科技",
       "dim_score": 1,
-      "impact": "bull",
+      "impact": "bear",
       "sectors": [],
       "has_stock": 0,
-      "ctype": "company",
-      "ctypeName": "公司事件",
+      "ctype": "market",
+      "ctypeName": "市场动作",
       "axes": {
         "sig": 7,
         "nov": 5,
         "cred": 8,
-        "reson": 1,
+        "reson": 2,
         "act": 1
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 50,
-      "struct_score": 64.0,
-      "final_score": 57.0,
-      "raw_score": 57.0,
-      "sum_score": 114.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
+      "content_score": 43,
+      "struct_score": 70.0,
+      "final_score": 56.5,
+      "raw_score": 56.5,
+      "sum_score": 113.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
     },
     {
-      "title": "华为发布五大北京F5G-A全光网样板点",
-      "body": "华为中国政企全光产业峰会2026日前在北京举行，峰会上华为发布五大北京F5G-A全光网样板点，包括中信数科智能光传输骨干网、首都国际会展中心F5G-A全光智慧场馆、北重科技文化产业园、北京中关村（京西）人工智能科技园、北京中关村温泉科技园（三期）F5G-A全光园区等标杆项目。这是华为“光智共融”战略从理念走向规模化落地的关键实践，将打造可量化、可验证的实践样本，支撑经验向全国范围复制推广。华为政企光领域总裁杨曦表示，华为依托“光智共融”战略，推动F5G-A全光网从传输管道演进为集通信、感知、物联和安防于一体的智慧底座，期待以北京标杆实践沉淀经验，携手产业各方协同共建，加速AI普惠千行万业。（国是直通车）",
-      "time": "2026-11-07 18:56:01",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681578367",
+      "title": "机器人“大脑”进化的拐点 可能比想象中更近",
+      "body": "近期市场整体震荡，沉寂多时的机器人板块却逆势走出一轮上涨，重回聚光灯下。最近两年板块经历过多轮行情，但这一次，我们看到了一些不一样的信号——大模型对机器人的赋能，正在从语言理解向动作决策延伸。这轮行情的核心驱动力，来自产业端的实质进展。",
+      "time": "2026-11-09 07:48:03",
+      "stocks": [
+        "90.BK1408",
+        "90.BK0800"
+      ],
+      "src": "东方财富",
+      "id": "202611093925716148",
       "dim": "tech",
       "dimName": "AI 与科技",
-      "dim_score": 5,
-      "impact": "neutral",
+      "dim_score": 2,
+      "impact": "bull",
       "sectors": [
         "AI应用/软件"
       ],
-      "has_stock": 0,
+      "has_stock": 1,
       "ctype": "tech",
       "ctypeName": "技术进展",
       "axes": {
-        "sig": 6,
-        "nov": 8,
+        "sig": 0,
+        "nov": 5,
         "cred": 4,
-        "reson": 4,
-        "act": 4
+        "reson": 8,
+        "act": 8
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 58,
-      "struct_score": 55.0,
-      "final_score": 56.5,
-      "raw_score": 56.5,
-      "sum_score": 113.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
+      "content_score": 39,
+      "struct_score": 73.0,
+      "final_score": 56.0,
+      "raw_score": 56.0,
+      "sum_score": 112.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
     },
     {
-      "title": "央行连续24个月增持黄金 专家：持续增持有助于增强国际储备多元化程度",
-      "body": "对于 10 月金价回调，市场机构普遍认为，除利率与汇率因素外，科技股集中抛售引发局部去杠杆和保证金压力，流动性较好的黄金被同步卖出变现，是重要推手。国金证券首席经济学家宋雪涛指出，黄金既是长期储备资产，也是可迅速变现的金融资产；当 AI 相关股市共振下跌、局部去杠杆压力上升时，投资者往往通过出售黄金补充保证金，令短期资金面影响暂时压过长期避险逻辑。在庞溟看来，当前国际经贸与金融环境仍具不确定性，黄金兼具避险属性与储备资产属性，与外汇储备中的美元资产形成较好风险对冲。持续增持有助于增强国际储备多元化程度，提高整体储备组合的稳定性和抗波动能力。（证券时报）",
-      "time": "2026-11-07 12:22:05",
+      "title": "今年前10个月国开行发放制造业贷款超4800亿元",
+      "body": "记者今天（8日）从国家开发银行了解到，今年以来，国开行综合运用多元化金融产品，为制造业企业提供覆盖技术研发、产能建设、日常经营的全周期投融资支持。1—10月，共发放制造业贷款超4800亿元，主要支持了传统产业改造升级、新兴产业培育壮大以及未来产业前瞻布局，有力助推了制造业高质量发展。国开行产业与科创业务部负责人表示，下一步，国开行将锚定智能化、绿色化、融合化方向，强化职能定位，优化综合金融服务，聚焦重点领域、薄弱环节，服务国家重大战略，推进重点专项、重大项目，持续加大对制造业的投融资支持力度，服务加快构建以先进制造业为骨干的现代化产业体系，为推进中国式现代化建设贡献力量。(央视新闻)",
+      "time": "2026-11-08 17:06:22",
       "stocks": [],
       "src": "同花顺",
-      "id": "681576956",
+      "id": "681581978",
       "dim": "economic",
       "dimName": "宏观经济/政策",
-      "dim_score": 4,
-      "impact": "bear",
+      "dim_score": 1,
+      "impact": "bull",
       "sectors": [
-        "黄金/贵金属",
-        "券商/大金融",
-        "AI应用/软件"
-      ],
-      "has_stock": 0,
-      "ctype": "view",
-      "ctypeName": "行业观点",
-      "axes": {
-        "sig": 6,
-        "nov": 5,
-        "cred": 6,
-        "reson": 10,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 58,
-      "struct_score": 55.0,
-      "final_score": 56.5,
-      "raw_score": 56.5,
-      "sum_score": 113.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "全国碳市场2027年度重点排放单位名录公布 共纳入3746家",
-      "body": "生态环境部近日公布全国碳排放权交易市场2027年度重点排放单位名录，共纳入3746家，数量与2026年度相比总体保持稳定。名录覆盖发电、钢铁、水泥、铝冶炼四个重点行业，将年度温室气体排放量达到2.6万吨二氧化碳当量的单位纳入管理，其中发电行业2500家、钢铁行业229家、水泥行业917家、铝冶炼行业100家。重点排放单位须依法报送排放报告、参与碳排放权交易并清缴碳配额。（财联社）",
-      "time": "2026-11-07 12:03:59",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681576853",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "neutral",
-      "sectors": [
-        "地产/基建"
+        "券商/大金融"
       ],
       "has_stock": 0,
       "ctype": "view",
@@ -1679,52 +2213,14 @@
       "axes": {
         "sig": 7,
         "nov": 8,
-        "cred": 8,
+        "cred": 4,
         "reson": 4,
         "act": 4
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 55,
-      "struct_score": 58.0,
-      "final_score": 56.5,
-      "raw_score": 56.5,
-      "sum_score": 113.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "斯洛伐克总理：若欧盟强制要求放弃俄石油 将继续发起诉讼",
-      "body": "斯洛伐克总理菲佐7日表示，斯洛伐克已经向欧盟法院提起诉讼，反对欧盟针对俄罗斯天然气的进口禁令。如果欧盟进一步强制要求放弃俄罗斯石油进口，斯洛伐克将会继续向欧盟法院提起诉讼。根据欧盟今年1月通过的禁令，将从2027年1月1日起全面禁止进口俄罗斯液化天然气，而对俄管道天然气的全面禁令将于当年秋季生效。今年4月，斯洛伐克就这一天然气进口禁令向位于卢森堡的欧盟法院提起诉讼。目前，斯洛伐克仍通过“土耳其溪”管道进口俄罗斯天然气，并通过途经乌克兰的管道进口俄罗斯石油。（央视新闻）",
-      "time": "2026-11-08 07:54:09",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681580367",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 1,
-      "impact": "bear",
-      "sectors": [
-        "石油/能源"
-      ],
-      "has_stock": 0,
-      "ctype": "overseas",
-      "ctypeName": "海外宏观",
-      "axes": {
-        "sig": 3,
-        "nov": 8,
-        "cred": 4,
-        "reson": 8,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 57,
-      "struct_score": 55.0,
+      "content_score": 51,
+      "struct_score": 61.0,
       "final_score": 56.0,
       "raw_score": 56.0,
       "sum_score": 112.0,
@@ -1736,120 +2232,38 @@
       "plain_quote": false
     },
     {
-      "title": "2026全国“丝路云品”电商月在上海启动",
-      "body": "11月7日，2026全国“丝路云品”电商月启动仪式暨“丝路电商”合作创新发展推介会在上海举办。商务部副部长鄢东，上海市副市长卢山，乌兹别克斯坦投资、工业和贸易部副部长卡西莫夫，亚美尼亚驻华大使格沃尔克扬出席活动并致辞。来自智利、澳大利亚等15个国家及联合国开发计划署等国际组织的政产学研各界260余位代表参会。启动仪式发布“丝路电商”典型实践案例集、故事集和国别电商投资指引，多家中国电商平台与多国企业围绕能力建设、产业对接等方面达成12个合作意向。（商务部）",
-      "time": "2026-11-07 13:22:27",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681577134",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 0,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 6,
-        "nov": 8,
-        "cred": 6,
-        "reson": 2,
-        "act": 1
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 56,
-      "struct_score": 55.0,
-      "final_score": 55.5,
-      "raw_score": 55.5,
-      "sum_score": 111.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "民主党能源叙事重心转向电价 新能源与天然气并行推进",
-      "body": "美国中期选举以民主党大获全胜落幕，各界目光聚焦其能源政策走向。主流观点认为民主党会延续支持可再生能源立场，但分析师表示新政策将与以往不同，民主党同样难以舍弃化石能源。可再生能源占比提升不直接等于电费下降，规模越大对输电网络、电池储能等配套基建的扩建需求越高，成本需纳入考量，若选民发现其不像宣传那样便宜，经济叙事可能反噬其新能源立场。液化天然气已成为美国核心出口品类，去年出口额440亿美元，约为美国影视服务出口额的三倍。（新浪财经）",
-      "time": "2026-11-07 12:52:24",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681577047",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 2,
-      "impact": "bull",
-      "sectors": [
-        "新能源/锂电",
-        "石油/能源",
-        "电力/公用"
+      "title": "黄仁勋道歉信全文：我对妻子不忠 伤害了家人 没有任何借口",
+      "body": "北京时间11月9日，英伟达CEO黄仁勋近日向公司员工发出一封道歉信，承认自己对妻子不忠，并就此向家人、公司员工、董事会及股东公开道歉。黄仁勋在信中表示，自己的行为伤害了妻子和孩子，没有任何借口。他愿意承担全部责任，并希望能够逐渐重新赢得家人和同事的信任。",
+      "time": "2026-11-09 07:34:59",
+      "stocks": [
+        "105.NVDA"
       ],
-      "has_stock": 0,
-      "ctype": "view",
-      "ctypeName": "行业观点",
-      "axes": {
-        "sig": 7,
-        "nov": 3,
-        "cred": 4,
-        "reson": 10,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 53,
-      "struct_score": 58.0,
-      "final_score": 55.5,
-      "raw_score": 55.5,
-      "sum_score": 111.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "伊拉克外长警告称中东地区或再陷战火",
-      "body": "当地时间7日，伊拉克外长侯赛因在接受媒体采访时表示，当前局势表明中东地区或将重新爆发战争。侯赛因指出，伊拉克由于霍尔木兹海峡石油出口停滞已损失了约600亿美元，在与美国和伊朗达成协议后，伊拉克恢复通过霍尔木兹海峡出口石油。他表示，美国已正式要求关闭除两个口岸外伊拉克与伊朗的所有边境口岸。伊拉克也已通知伊朗，接受与其发展联盟友好关系，但拒绝其干涉伊拉克事务，有迹象表明，存在外部势力利用伊拉克领土攻击邻国。",
-      "time": "2026-11-07 21:46:05",
-      "stocks": [],
       "src": "东方财富",
-      "id": "202611073925547738",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 3,
-      "impact": "bull",
+      "id": "202611093925747015",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "dim_score": 1,
+      "impact": "neutral",
       "sectors": [
-        "石油/能源"
+        "半导体/AI芯片"
       ],
-      "has_stock": 0,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
+      "has_stock": 1,
+      "ctype": "company",
+      "ctypeName": "公司事件",
       "axes": {
-        "sig": 7,
-        "nov": 4,
+        "sig": 0,
+        "nov": 5,
         "cred": 4,
         "reson": 4,
-        "act": 4
+        "act": 8
       },
-      "axes_raw": {
-        "sig": 7,
-        "nov": 6,
-        "cred": 4,
-        "reson": 4,
-        "act": 4
-      },
-      "noise_notes": [
-        "预测性表述，非既成事实，信息增量受限（nov 压至 4）"
-      ],
-      "content_score": 52,
-      "struct_score": 58.0,
-      "final_score": 55.0,
-      "raw_score": 55.0,
-      "sum_score": 110.0,
+      "axes_raw": null,
+      "noise_notes": [],
+      "content_score": 38,
+      "struct_score": 73.0,
+      "final_score": 55.5,
+      "raw_score": 55.5,
+      "sum_score": 111.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
@@ -1858,75 +2272,73 @@
       "plain_quote": false
     },
     {
-      "title": "三峡集团“十五五”在滇首个陆上风电项目实现首批并网",
-      "body": "11月6日，三峡能源云南弥勒西54.5万千瓦风电场扩建项目首批18万千瓦风电机组成功并网。该项目是三峡集团“十五五”期间在云南省并网的首个风电项目，也是唯一入选《云南省2026年度“重中之重”项目清单》的风电工程。（人民财讯）",
-      "time": "2026-11-07 11:37:59",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681576722",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "neutral",
-      "sectors": [
-        "石油/能源",
-        "新能源/锂电"
+      "title": "稳市政策持续加码 机构：A股震荡反弹行情有望延续",
+      "body": "上周A股市场整体呈现震荡反弹格局，主要指数回升。此外，11月6日召开的国务院常务会议指出，完善资本市场稳市机制，增强股市内在稳定性，促进资本市场平稳健康发展。展望后市，多家机构策略研报认为：随着稳定资本市场措施持续加码，海外不确定性因素阶段性落地，A股震荡反弹行情有望延续。",
+      "time": "2026-11-09 05:50:29",
+      "stocks": [
+        "90.BK0800",
+        "0.161027"
       ],
-      "has_stock": 0,
-      "ctype": "view",
-      "ctypeName": "行业观点",
+      "src": "东方财富",
+      "id": "202611093925709871",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "dim_score": 3,
+      "impact": "bull",
+      "sectors": [],
+      "has_stock": 1,
+      "ctype": "policy",
+      "ctypeName": "政策发布",
       "axes": {
-        "sig": 7,
-        "nov": 5,
-        "cred": 4,
+        "sig": 3,
+        "nov": 4,
+        "cred": 6,
         "reson": 6,
-        "act": 4
+        "act": 5
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 49,
-      "struct_score": 61.0,
-      "final_score": 55.0,
-      "raw_score": 55.0,
-      "sum_score": 110.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
+      "content_score": 44,
+      "struct_score": 67.0,
+      "final_score": 55.5,
+      "raw_score": 55.5,
+      "sum_score": 111.0,
+      "tier": "T1.5",
+      "threshold": 50,
+      "tier_note": "东方财富（T1.5）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
     },
     {
-      "title": "中国国新，严正声明",
-      "body": "11月7日，中国国新公众号发布声明称，近期“恒耘能源科技（北京）中心（有限合伙）”将我司下属企业国新控股（上海）有限公司假冒为其投资主体进行市场主体登记，谨在此提示：一、我司及关联方与上述实体或关联方不存在任何股权隶属、投资或者业务合作等关系，也没有与上述实体或者其关联方签订任何协议，我司或关联方不知悉且没有参与上述实体或关联方开展的任何活动，该等活动均与我司及关联方无任何关系，我司及关联方对该等活动不承担任何责任。二、我司及关联方从未通过任何渠道、以任何形式对上述实体或关联方进行任何授权。三、我司在此提醒广大公众，如您发现有任何冒用我司及下属企业名义的不法行为，请通过官网“联系我们”页面的信息与我们联系沟通；为了您的人身及财产安全，请勿相信及参与和上述不法人员有关的一切活动；如您已因此遭受财产损失，请立即向公安机关报案。",
-      "time": "2026-11-07 20:52:45",
+      "title": "金陵药业：终止收购四药公司100%股权投资意向",
+      "body": "金陵药业公告，自2026年4月13日向四药公司递交《投资意向函》以来，公司有序开展尽职调查、初步审计及资产评估、交易方案论证等工作，并与相关方就投资意向持续沟通、协商。近日，公司收到四药厂发出的《邀请函》，四药公司100%股权及四药厂部分土地、厂房资产拟以竞价方式出售。根据公司收到的《邀请函》及随函所附《竞价操作指引》等材料，结合前期已了解的情况，经审慎研究，公司决定不参加本次竞价活动，终止上述投资意向。",
+      "time": "2026-11-08 15:35:18",
       "stocks": [],
       "src": "同花顺",
-      "id": "681579128",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [
-        "石油/能源"
-      ],
+      "id": "681581619",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "dim_score": 0,
+      "impact": "bear",
+      "sectors": [],
       "has_stock": 0,
       "ctype": "company",
       "ctypeName": "公司事件",
       "axes": {
-        "sig": 6,
-        "nov": 8,
-        "cred": 4,
-        "reson": 4,
-        "act": 4
+        "sig": 7,
+        "nov": 5,
+        "cred": 8,
+        "reson": 1,
+        "act": 1
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 54,
-      "struct_score": 55.0,
-      "final_score": 54.5,
-      "raw_score": 54.5,
-      "sum_score": 109.0,
+      "content_score": 50,
+      "struct_score": 61.0,
+      "final_score": 55.5,
+      "raw_score": 55.5,
+      "sum_score": 111.0,
       "tier": "T2",
       "threshold": 52,
       "tier_note": "同花顺（T2）",
@@ -1935,135 +2347,22 @@
       "plain_quote": false
     },
     {
-      "title": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布",
-      "body": "在7日于北京举行的第七届世界媒体峰会开幕式上，新华社国家高端智库发布《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告。报告提出，人工智能技术正加快重塑全球信息生态和传播权力结构，给新闻媒体带来新的机遇和挑战：生成能力的跃升丰富了内容供给，也让伪造变得轻而易举；智能入口带来新的触达渠道，也削弱了媒体与用户之间的直接联系。",
-      "time": "2026-11-07 19:37:05",
-      "stocks": [],
-      "src": "东方财富",
-      "id": "202611073925531645",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 1,
-      "impact": "neutral",
-      "sectors": [
-        "AI应用/软件"
+      "title": "相关主题基金规模攀升 机构：医药行业景气修复有望延续",
+      "body": "下半年以来，前期涨幅较高的科技板块迎来明显回调，医药生物板块则逆势走强，成为资金重点流入的方向，三季度医药主题基金规模显著攀升。伴随板块行情回暖，医药主题基金净值同步走高。站在当下时点，多位基金经理表示，医药板块景气修复有望延续，其中具备产业趋势和业绩支撑的结构性机会仍是后续布局重点。",
+      "time": "2026-11-09 07:20:11",
+      "stocks": [
+        "90.BK0465",
+        "201.HK1032"
       ],
-      "has_stock": 0,
-      "ctype": "view",
-      "ctypeName": "行业观点",
-      "axes": {
-        "sig": 3,
-        "nov": 8,
-        "cred": 4,
-        "reson": 4,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 47,
-      "struct_score": 61.0,
-      "final_score": 54.0,
-      "raw_score": 54.0,
-      "sum_score": 108.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "河北首笔“词元贷”在廊坊落地",
-      "body": "（来源：河北日报）转自：河北日报河北首笔“词元贷”在廊坊落地 本报讯（记者刘英）不用厂房、设备等实物抵押，仅凭算力采购合同，AI小微企业就能拿到信用贷款。",
-      "time": "2026-11-08 05:37:24",
-      "stocks": [],
-      "src": "新浪财经",
-      "id": "906090764",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 2,
-      "impact": "neutral",
-      "sectors": [
-        "半导体/AI芯片",
-        "AI应用/软件",
-        "算力/数据中心"
-      ],
-      "has_stock": 0,
-      "ctype": "tech",
-      "ctypeName": "技术进展",
-      "axes": {
-        "sig": 3,
-        "nov": 8,
-        "cred": 4,
-        "reson": 6,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 53,
-      "struct_score": 55.0,
-      "final_score": 54.0,
-      "raw_score": 54.0,
-      "sum_score": 108.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "新浪财经（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "10月以来市场震荡调整 基金投顾逆势加仓A股",
-      "body": "今年10月以来，市场震荡调整，基金投顾逆势加仓A股。据券商统计，A股资产是10月基金投顾组合加仓最多的资产，且这种低位布局的倾向11月以来还在延续。记者获悉，在10月以来的市场波动中，资金逆势流入部分基金投顾机构的组合。",
-      "time": "2026-11-07 20:24:40",
-      "stocks": [],
       "src": "东方财富",
-      "id": "202611073925536749",
+      "id": "202611093925710570",
       "dim": "risk",
       "dimName": "市场资金面",
-      "dim_score": 3,
+      "dim_score": 2,
       "impact": "bull",
       "sectors": [
-        "券商/大金融"
+        "医药/生物"
       ],
-      "has_stock": 0,
-      "ctype": "data",
-      "ctypeName": "经济数据",
-      "axes": {
-        "sig": 3,
-        "nov": 5,
-        "cred": 4,
-        "reson": 8,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 46,
-      "struct_score": 61.0,
-      "final_score": 53.5,
-      "raw_score": 53.5,
-      "sum_score": 107.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "杰瑞股份：截至10月底公司股东总户数56032户 较9月底有所下降",
-      "body": "杰瑞股份在互动平台表示，截至10月底，公司股东总户数56032户，机构11800户。此前，截至9月底，公司股东总户数58122户，机构10870户。",
-      "time": "2026-11-07 19:00:00",
-      "stocks": [
-        "0.002353"
-      ],
-      "src": "东方财富",
-      "id": "202611073925526710",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "neutral",
-      "sectors": [],
       "has_stock": 1,
       "ctype": "company",
       "ctypeName": "公司事件",
@@ -2071,283 +2370,19 @@
         "sig": 3,
         "nov": 3,
         "cred": 4,
-        "reson": 1,
-        "act": 5
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 34,
-      "struct_score": 73.0,
-      "final_score": 53.5,
-      "raw_score": 53.5,
-      "sum_score": 107.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "11月7日 周六《新闻联播》要闻14条",
-      "body": "1、【学习贯彻党的二十届五中全会精神】踔厉奋发勇争先 不断开创中国式现代化新局面；\n2、中共中央发出通知 部署党的二十一大代表选举工作；\n3、【学习贯彻党的二十届五中全会精神】中央宣讲团在各地宣讲党的二十届五中全会精神；\n4、新一代通信网加快建设 筑牢高质量发展数字底座；\n5、我国加快推进核能综合利用；\n6、截至10月末我国外汇储备规模为34052亿美元；\n7、两部门集中整治网上金融“黑灰产”信息乱象；\n8、2026中非经贸和文化论坛在浙江义乌举行；\n9、前三季度我国开展补贴性培训超800万人次；\n10、美称打击伊朗防空装置 伊朗称击落美无人机；\n11、也门塔伊兹一市场遭袭 相关方相互指责；\n12、国际海事组织呼吁保障重要航道安全；\n13、欧盟机构称今年10月为全球最热10月；\n14、华北迎大范围降雪 中东部降温明显。（央视新闻）",
-      "time": "2026-11-07 19:48:32",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681578531",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 6,
-      "impact": "bull",
-      "sectors": [
-        "军工/国防",
-        "券商/大金融"
-      ],
-      "has_stock": 0,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 4,
-        "nov": 5,
-        "cred": 4,
-        "reson": 6,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 46,
-      "struct_score": 61.0,
-      "final_score": 53.5,
-      "raw_score": 53.5,
-      "sum_score": 107.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "IMF总裁：各国央行需考量AI驱动增长或放缓",
-      "body": "国际货币基金组织（IMF）总裁格奥尔基耶娃6日表示，各国央行在评估抗击通胀举措时，需将人工智能（AI）驱动的增长可能出现放缓纳入考量。她表示，人们对经济过度依赖AI投资热潮及资产估值过高的担忧正影响全球市场，市场起伏不定且这种态势很可能持续；物价稳定风险日益加剧，市场波动将使各国央行工作更加复杂。（新华社）",
-      "time": "2026-11-07 11:36:46",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681576713",
-      "dim": "economic",
-      "dimName": "宏观经济/政策",
-      "dim_score": 3,
-      "impact": "bear",
-      "sectors": [
-        "AI应用/软件"
-      ],
-      "has_stock": 0,
-      "ctype": "tech",
-      "ctypeName": "技术进展",
-      "axes": {
-        "sig": 3,
-        "nov": 5,
-        "cred": 6,
-        "reson": 8,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 52,
-      "struct_score": 55.0,
-      "final_score": 53.5,
-      "raw_score": 53.5,
-      "sum_score": 107.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
-      "body": "伊朗伊斯兰革命卫队发言人7日说，伊朗已解除导弹射程限制，将打击敌人预想不到的地点。并警告称，如果美国再次出现误判，伊朗下一次的打击将更加沉重。同日，美军中央司令部宣布，已下令组建一支特遣部队，以防止伊朗跨境运输先进武器等物资。就美伊停火相关进程，最新消息显示，美副总统万斯已着手在幕后推动与伊朗达成新协议。7日晚，伊朗多地传出类似爆炸巨响，具体原因及相关细节尚不明确。",
-      "time": "2026-11-08 06:42:28",
-      "stocks": [],
-      "src": "东方财富",
-      "id": "202611083925574244",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 7,
-      "impact": "neutral",
-      "sectors": [
-        "军工/国防"
-      ],
-      "has_stock": 0,
-      "ctype": "overseas",
-      "ctypeName": "海外宏观",
-      "axes": {
-        "sig": 3,
-        "nov": 8,
-        "cred": 4,
         "reson": 4,
-        "act": 4
+        "act": 8
       },
       "axes_raw": null,
       "noise_notes": [],
-      "content_score": 45,
-      "struct_score": 61.0,
-      "final_score": 53.0,
-      "raw_score": 53.0,
-      "sum_score": 106.0,
+      "content_score": 43,
+      "struct_score": 67.0,
+      "final_score": 55.0,
+      "raw_score": 55.0,
+      "sum_score": 110.0,
       "tier": "T1.5",
       "threshold": 50,
       "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "新西兰选举委员会：国家党领导的执政联盟赢得足够议席继续执政",
-      "body": "新西兰选举委员会7日表示，对95%的议会选举选票统计结果显示，国家党领导的执政联盟赢得足够议席继续执政。",
-      "time": "2026-11-07 18:56:20",
-      "stocks": [],
-      "src": "东方财富",
-      "id": "202611073925526123",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "neutral",
-      "sectors": [],
-      "has_stock": 0,
-      "ctype": "data",
-      "ctypeName": "经济数据",
-      "axes": {
-        "sig": 4,
-        "nov": 5,
-        "cred": 8,
-        "reson": 2,
-        "act": 1
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 46,
-      "struct_score": 60.0,
-      "final_score": 53.0,
-      "raw_score": 53.0,
-      "sum_score": 106.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "巴方机构称以方近期在约旦河西岸发动六百多起袭击",
-      "body": "当地时间7日，巴勒斯坦“隔离墙和定居点抵抗委员会”发表声明称，在过去30余天中，以军和以色列犹太人定居者在约旦河西岸发动了674次袭击，袭击针对采摘橄榄的巴勒斯坦农民及巴方财产。该委员会通报称，2026年10月1日至11月6日期间，以色列犹太人定居者共实施袭击520次，以军实施袭击154次。根据声明，袭击主要集中在约旦河西岸北部和中部的农业带。",
-      "time": "2026-11-08 03:38:54",
-      "stocks": [],
-      "src": "东方财富",
-      "id": "202611083925563651",
-      "dim": "military",
-      "dimName": "军事地缘",
-      "dim_score": 3,
-      "impact": "neutral",
-      "sectors": [
-        "农业/种业"
-      ],
-      "has_stock": 0,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 3,
-        "nov": 8,
-        "cred": 4,
-        "reson": 4,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 44,
-      "struct_score": 61.0,
-      "final_score": 52.5,
-      "raw_score": 52.5,
-      "sum_score": 105.0,
-      "tier": "T1.5",
-      "threshold": 50,
-      "tier_note": "东方财富（T1.5）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "吴庆文会见中国船舶重工集团动力股份有限公司党委书记、董事长邵煜",
-      "body": "金山网讯 11月7日，市委书记吴庆文会见了中国船舶重工集团动力股份有限公司党委书记、董事长邵煜一行，双方就深化船舶动力产业合作、推进重点项目落地进行深入交流。",
-      "time": "2026-11-08 07:07:00",
-      "stocks": [],
-      "src": "新浪财经",
-      "id": "906100595",
-      "dim": "risk",
-      "dimName": "市场资金面",
-      "dim_score": 0,
-      "impact": "bull",
-      "sectors": [],
-      "has_stock": 0,
-      "ctype": "policy",
-      "ctypeName": "政策发布",
-      "axes": {
-        "sig": 6,
-        "nov": 8,
-        "cred": 4,
-        "reson": 1,
-        "act": 1
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 50,
-      "struct_score": 55.0,
-      "final_score": 52.5,
-      "raw_score": 52.5,
-      "sum_score": 105.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "新浪财经（T2）",
-      "passed": true,
-      "hard_drops": [],
-      "plain_quote": false
-    },
-    {
-      "title": "南京公用：赣锋循环中标双登富朗特降级电芯外卖项目",
-      "body": "据南京公用公众号，11月6日，南京公用赣锋循环科技有限公司中标江苏双登富朗特新能源有限公司2026年降级电芯外卖项目，涉及电芯一万余只。",
-      "time": "2026-11-07 12:15:04",
-      "stocks": [],
-      "src": "同花顺",
-      "id": "681576909",
-      "dim": "tech",
-      "dimName": "AI 与科技",
-      "dim_score": 1,
-      "impact": "bull",
-      "sectors": [
-        "石油/能源",
-        "新能源/锂电"
-      ],
-      "has_stock": 0,
-      "ctype": "company",
-      "ctypeName": "公司事件",
-      "axes": {
-        "sig": 6,
-        "nov": 5,
-        "cred": 4,
-        "reson": 6,
-        "act": 4
-      },
-      "axes_raw": null,
-      "noise_notes": [],
-      "content_score": 50,
-      "struct_score": 55.0,
-      "final_score": 52.5,
-      "raw_score": 52.5,
-      "sum_score": 105.0,
-      "tier": "T2",
-      "threshold": 52,
-      "tier_note": "同花顺（T2）",
       "passed": true,
       "hard_drops": [],
       "plain_quote": false
@@ -2356,7 +2391,7 @@
   "provenance": {
     "source": "东方财富快讯 / 新浪财经 / 同花顺快讯（公开接口）",
     "source_type": "public_news_api",
-    "fetched_at": "2026-11-08 08:00:14",
+    "fetched_at": "2026-11-09 08:00:13",
     "auth": "none",
     "sources_ok": [
       "东方财富(80)",
@@ -2365,725 +2400,744 @@
     ],
     "sources_fail": [],
     "scoring": {
-      "total": 189,
-      "prefiltered": 7,
-      "passed": 67,
+      "total": 202,
+      "prefiltered": 4,
+      "passed": 80,
       "by_type": {
-        "行业观点": 79,
-        "技术进展": 16,
-        "公司事件": 18,
-        "海外宏观": 32,
-        "政策发布": 25,
-        "经济数据": 11,
-        "市场动作": 1
+        "技术进展": 21,
+        "政策发布": 21,
+        "行业观点": 84,
+        "公司事件": 25,
+        "经济数据": 16,
+        "市场动作": 4,
+        "海外宏观": 27
       },
       "by_tier": {
         "T1.5": 79,
-        "T2": 103
+        "T1": 3,
+        "T2": 116
       },
-      "noise_hits": 26,
+      "noise_hits": 23,
       "failed": [
         {
-          "title": "大风+寒潮双预警！15省份部分地区降温超10℃",
-          "score": 44.0,
-          "threshold": 50,
-          "type": "行业观点"
-        },
-        {
-          "title": "以军前总参谋长埃森科特将获授权组建新政府",
-          "score": 45.5,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "巴林决定恢复其驻伊拉克大使履职",
-          "score": 49.5,
-          "threshold": 50,
-          "type": "政策发布"
-        },
-        {
-          "title": "土耳其东部凡省发生一起交通事故致9死5伤",
-          "score": 39.5,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "中国常驻团在维也纳联合国总部举办新中国恢复联合国合法席位55周年主题活动",
-          "score": 45.5,
-          "threshold": 50,
-          "type": "行业观点"
-        },
-        {
-          "title": "特朗普邀UFC总裁任新闻秘书遭拒",
-          "score": 41.0,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "伊朗称两艘油轮在霍尔木兹海峡触雷起火",
+          "title": "日本财务省在夏季曾三天干预外汇市场以支撑日元",
           "score": 42.0,
           "threshold": 50,
-          "type": "海外宏观"
+          "type": "行业观点"
         },
         {
-          "title": "美军称在阿曼湾使一艘商船丧失航行能力",
-          "score": 49.0,
-          "threshold": 50,
-          "type": "海外宏观"
+          "title": "一日两家企业过会 北交所IPO审核发行有序推进",
+          "score": 42,
+          "threshold": 46,
+          "type": "公司事件"
         },
         {
-          "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
+          "title": "日经225指数期货早盘上涨1.1%",
           "score": 42,
           "threshold": 50,
-          "type": "海外宏观"
+          "type": "市场动作"
         },
         {
-          "title": "伊朗格什姆岛传出爆炸声",
-          "score": 37.0,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "特朗普宣布邀请达纳·怀特担任白宫新闻秘书",
-          "score": 48.5,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "以色列总统宣布将正式授权埃森科特组建新一届政府",
-          "score": 49.5,
-          "threshold": 50,
-          "type": "政策发布"
-        },
-        {
-          "title": "俄方批评乌“志愿联盟”举行演习恶化局势",
-          "score": 41.0,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "波兰克拉科夫枪击事件已致6死15伤",
-          "score": 41.5,
+          "title": "市场风格切换 量化机构重新审视策略模型适应性",
+          "score": 43.0,
           "threshold": 50,
           "type": "行业观点"
         },
         {
-          "title": "初步计票结果：新西兰执政联盟获议会过半席位",
-          "score": 46.0,
-          "threshold": 50,
-          "type": "行业观点"
-        },
-        {
-          "title": "日本静冈县西部发生5.7级地震 东京有震感",
-          "score": 39.5,
-          "threshold": 50,
-          "type": "行业观点"
-        },
-        {
-          "title": "也门胡塞武装称沙特空袭致死人数升至22人",
-          "score": 41.0,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "波兰警方：克拉科夫枪击事件致5人死亡、十余人受伤",
-          "score": 41.5,
-          "threshold": 50,
-          "type": "行业观点"
-        },
-        {
-          "title": "扎哈罗娃：西方国家无意顾及俄方关切 持续挑动局势升级",
-          "score": 41.0,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "日媒：日本新版防卫战略或强化“持续作战能力”",
-          "score": 41.5,
-          "threshold": 50,
-          "type": "行业观点"
-        },
-        {
-          "title": "苹果研究团队披露机器人“大脑”研究进展 大脑是具身智能从演示走向实用的核心变量之",
-          "score": 42,
+          "title": "瑞银CEO在被问及AI抛售潮时表示并不太担心",
+          "score": 48.0,
           "threshold": 50,
           "type": "技术进展"
         },
         {
-          "title": "显卡价格连涨11个交易日后急跌 华强北显卡半天一个价",
-          "score": 47.5,
-          "threshold": 50,
-          "type": "技术进展"
-        },
-        {
-          "title": "泽连斯基：乌仍严重缺乏“爱国者”防空系统拦截弹",
-          "score": 45.5,
+          "title": "牵手外资机构 公募基金加码全球化布局",
+          "score": 43.5,
           "threshold": 50,
           "type": "海外宏观"
         },
         {
-          "title": "特斯拉赛博越野旅行车将逐步停产 特斯拉将增产赛博出租车",
-          "score": 42,
+          "title": "多只香港互认基金“蓄势待发” 跨境投资工具不断丰富",
+          "score": 40.0,
           "threshold": 50,
           "type": "行业观点"
         },
         {
-          "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
+          "title": "债券基金调整配置策略 久期管理受关注",
+          "score": 46.5,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "我国卫星互联网低轨29组卫星成功发射",
           "score": 44.0,
           "threshold": 50,
+          "type": "技术进展"
+        },
+        {
+          "title": "纳指期货转涨 此前跌近1%",
+          "score": 43.0,
+          "threshold": 50,
+          "type": "市场动作"
+        },
+        {
+          "title": "分析五千八百二十八个中微子候选事件—— 深海望远镜为检验相对论提供新结果",
+          "score": 41.5,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "寒潮、大风预警持续 部分地区降温超10℃",
+          "score": 35.5,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "消息称伊朗格什姆岛遭美军袭击",
+          "score": 41.0,
+          "threshold": 50,
           "type": "海外宏观"
         },
         {
-          "title": "周六重大事件汇总",
-          "score": 48.5,
+          "title": "我国成功发射卫星互联网低轨29组卫星",
+          "score": 44.0,
           "threshold": 50,
-          "type": "政策发布"
+          "type": "技术进展"
         },
         {
-          "title": "金价回撤超30%",
-          "score": 42,
+          "title": "周一（11月9日）重点关注财经事件和经济数据",
+          "score": 45.5,
           "threshold": 50,
           "type": "经济数据"
         },
         {
-          "title": "伯克希尔哈撒韦：公司股权投资总公允价值的65%集中于Alphabet、美国运通、",
-          "score": 42,
+          "title": "特朗普称“铁门”特遣行动正全面展开 几乎没有物资能进出伊朗",
+          "score": 47.0,
           "threshold": 50,
-          "type": "公司事件"
+          "type": "海外宏观"
         },
         {
-          "title": "也门胡塞武装称萨那周边遭沙特空袭 至少11人死亡",
+          "title": "飞行数据显示两架美军机同日分别在黑海和俄边境附近活动",
+          "score": 39.5,
+          "threshold": 50,
+          "type": "经济数据"
+        },
+        {
+          "title": "泽连斯基指示军方应对俄军在赫尔松地区“异动”",
           "score": 41.0,
           "threshold": 50,
           "type": "海外宏观"
         },
         {
-          "title": "国家海洋预报台发布海浪和风暴潮黄色警报",
+          "title": "加沙中部流离失所者营地发生沙土塌方 已致5人死亡",
+          "score": 41.5,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "特朗普称若美伊谈判取得进展 再次发动打击可能性极低",
+          "score": 45.5,
+          "threshold": 50,
+          "type": "海外宏观"
+        },
+        {
+          "title": "伊朗格什姆岛附近传出爆炸声",
+          "score": 39.0,
+          "threshold": 50,
+          "type": "海外宏观"
+        },
+        {
+          "title": "土伊重申合作终结库尔德工人党在辛贾尔地区的存在",
+          "score": 40.5,
+          "threshold": 50,
+          "type": "行业观点"
+        },
+        {
+          "title": "美财政部要求伊拉克关闭与伊朗之间大部分边境口岸",
+          "score": 49.5,
+          "threshold": 50,
+          "type": "政策发布"
+        },
+        {
+          "title": "易捷航空据悉将在收购投票前裁减总部工作岗位",
+          "score": 39.5,
+          "threshold": 50,
+          "type": "公司事件"
+        },
+        {
+          "title": "沙特主导的联军表示：已在萨那摧毁一处胡塞武装的导弹发射装置",
+          "score": 43.5,
+          "threshold": 50,
+          "type": "海外宏观"
+        },
+        {
+          "title": "美国总统特朗普要求内塔尼亚胡采取措施推进加沙和平计划",
+          "score": 32.5,
+          "threshold": 50,
+          "type": "海外宏观"
+        },
+        {
+          "title": "消息人士称伊拉克代表团访问伊朗并转达美方信息",
+          "score": 41.0,
+          "threshold": 50,
+          "type": "海外宏观"
+        },
+        {
+          "title": "英国工党据悉预计将下调英国汽车行业的电动汽车销售目标",
           "score": 39.0,
           "threshold": 50,
           "type": "行业观点"
         },
         {
-          "title": "台风“查帕卡”强度逐渐加强 未来对我国海区无影响",
-          "score": 48.5,
+          "title": "特朗普在谈及伊朗时表示：如果谈判继续取得进展 他“极不可能”下令美国重新对伊朗开",
+          "score": 39.0,
           "threshold": 50,
-          "type": "行业观点"
+          "type": "海外宏观"
         },
         {
-          "title": "伊朗革命卫队称已解除导弹射程限制",
+          "title": "埃及列车脱轨事故已致7死112伤",
           "score": 43.5,
           "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "欧盟初步判定TikTok推荐机制或违反《数字服务法》 TikTok回应：结论存在",
-          "score": 45.0,
-          "threshold": 50,
           "type": "行业观点"
         },
         {
-          "title": "也门遭沙特空袭致22死30伤",
-          "score": 41.0,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "日本茨城县近海发生5.6级地震",
+          "title": "日本拟向海外业主征税",
           "score": 42,
           "threshold": 50,
           "type": "行业观点"
         },
         {
-          "title": "伊朗称一艘油轮在霍尔木兹海峡起火停航",
-          "score": 41.0,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "博索纳罗称赴美行程将保密至死",
-          "score": 43.5,
-          "threshold": 50,
-          "type": "海外宏观"
-        },
-        {
-          "title": "2026年第二批质量督察工作启动 4个督察组陆续进驻有关省份",
+          "title": "2026中国企业全球化报告 在第九届进博会首发",
           "score": 46.0,
           "threshold": 50,
           "type": "行业观点"
         },
         {
-          "title": "广电总局部署开展新一轮微短剧低俗化同质化专项治理",
-          "score": 43.0,
-          "threshold": 52,
-          "type": "技术进展"
-        },
-        {
-          "title": "如小布今天过节了🤗🤗🤗",
-          "score": 41.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "今天，祝你节日快乐！",
-          "score": 41.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "执笔赴山海 记录新涉县｜致敬第27个中国记者节",
-          "score": 43.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "“土专家”沈卫忠以技兴农带富乡邻",
-          "score": 43.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "江苏灌云：电力外送通道建设忙",
-          "score": 46.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "新闻早餐汇｜11月8日 国内外重要资讯速览",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "一住一个月，走时后备箱塞满，庆元这个村凭什么圈粉？",
-          "score": 46.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "11月10日起，封闭施工",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "一图读懂《黑龙江省冬季冰雪旅游“百日行动”实施方案（2026—2027年）》",
-          "score": 47.5,
-          "threshold": 52,
-          "type": "政策发布"
-        },
-        {
-          "title": "望海潮 | 九赴进博，青岛从“买全球”到“链全球”",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "我们还在，一直都在 | 津报早评",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "老牌工业城聚链成势向新行——湖北省襄阳市全盘布局升级产业版图",
-          "score": 50.0,
-          "threshold": 52,
-          "type": "技术进展"
-        },
-        {
-          "title": "今天不放假，带云股东们去“巡厂”！",
-          "score": 41.5,
-          "threshold": 52,
-          "type": "公司事件"
-        },
-        {
-          "title": "教辅进校园，四川划出“硬杠杠”|川报早读",
+          "title": "未来之城气象新——首批疏解央企迁驻雄安新区一线观察",
           "score": 40.0,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "浠水招车缝工、普工176人！五险＋包吃住！",
-          "score": 39.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "补齐细分领域关键短板！过亿元项目扎堆进驻青岛市集成电路产业园",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "青岛今天阴有小到中雨转多云，有轻雾，市区最高气温15℃，最低气温5℃",
-          "score": 43.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "全国示范！临汾7个社区（村）入选/山西多个高速公路入口实施管制/市自来水有限公司",
-          "score": 46.5,
-          "threshold": 52,
-          "type": "政策发布"
-        },
-        {
-          "title": "推进文旅深度融合 持续增进民生福祉",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "某县一次性拍卖6项运营权，财政局进账12.77亿元！",
-          "score": 43.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "早上好！无忧勐腊欢迎您 | 今天是记者节以热爱赴现场，以初心记人间",
-          "score": 43.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "扬州多所高中推迟到校时间",
-          "score": 48.0,
-          "threshold": 52,
-          "type": "政策发布"
-        },
-        {
-          "title": "扬州14个项目获省科学技术奖",
-          "score": 40.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "我省举办社会工作专业服务能力大赛",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "超800万人次接受补贴性培训",
-          "score": 49.5,
-          "threshold": 52,
-          "type": "政策发布"
-        },
-        {
-          "title": "中国科学院水稻品种改良科学家工作室揭牌",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "科技总师系列交流沙龙（科技大集）农产品精深加工领域专场举办",
-          "score": 48.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "稻田晒出好“丰”景 乡村游“点石成金”",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "一段时光 如歌岁月",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "花艺冠军的新赛场",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "OPC社区汇聚创新活力",
-          "score": 37.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "河北新闻界庆祝第二十七个中国记者节",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "让“红十字”暖热更多困难群众的心",
-          "score": 40.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "靶向建言助推现代物流产业提质升级",
+          "title": "鸟巢6.5万人退场只用半小时",
           "score": 46.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "关于奈营高速公路北镇收费站至沟帮子收费站（双向）封闭施工的通告",
-          "score": 37.5,
+          "title": "视频丨县域消费供给持续升级 家门口的小店有了新模样",
+          "score": 44.5,
           "threshold": 52,
-          "type": "行业观点"
+          "type": "经济数据"
         },
         {
-          "title": "大连交易团深度链接全球资源",
+          "title": "安置房还没交付，配套道路先“催”上了……扎根社区的他天天盯着“家门口的小事”",
           "score": 38.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "以产促教 以群建课 建强康养社会工作技能课程群",
+          "title": "乐山一地发布35个公益性岗位！这类人员可以报名",
+          "score": 42.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "内蒙古粮食作物收获超九成",
+          "score": 46.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "徐州应该稳了，还有谁在冲刺万亿GDP？",
+          "score": 42.5,
+          "threshold": 52,
+          "type": "经济数据"
+        },
+        {
+          "title": "2026广州轨道交通周启动 两条新线（段）计划今年年底开通",
+          "score": 40.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "两条新线（段）计划今年年底开通",
+          "score": 40.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
+          "score": 40.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "创新骑手协查新模式 引导“流动哨兵”守好安全防线",
           "score": 38.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "全市学习“千万工程”经验全面推进乡村振兴专题培训在延安举办",
+          "title": "市场监管总局启动第四批全国商业秘密保护创新试点",
+          "score": 46.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "今年以来青岛举办大型演出63场，场均拉动直接消费超亿元",
+          "score": 42,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "新华社经济随笔：在进博会，感受开放中国的诚心、恒心、暖心",
           "score": 42.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "中央气象台继续发布寒潮蓝色预警",
-          "score": 35.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "伯克希尔哈撒韦第三季度营业利润为127.1亿美元，同比下降5.8%",
-          "score": 46.5,
-          "threshold": 52,
-          "type": "公司事件"
-        },
-        {
-          "title": "新疆阿克苏地区库车市发生3.0级地震",
-          "score": 41.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "也门首都萨那传出爆炸声",
-          "score": 37.0,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "世卫组织性传播感染预防与创新合作中心在广州揭牌",
+          "title": "进博会上，侨商感受中外经贸脉动（侨界关注）",
           "score": 38.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "暴雪黄色预警持续！京津冀等地有大到暴雪",
-          "score": 35.0,
+          "title": "70年同行 记录者也是赶路人",
+          "score": 38.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "美军罗斯福号航母停靠新加坡",
-          "score": 36.5,
+          "title": "京城稳稳承接秋假流量",
+          "score": 38.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "欧洲航天局：一国际研究小组在火星发现火山活动迹象",
-          "score": 42,
+          "title": "锚定工业强区 厚植人才优势",
+          "score": 38.5,
           "threshold": 52,
-          "type": "技术进展"
+          "type": "行业观点"
         },
         {
-          "title": "胡塞武装称沙特空袭也门致多人伤亡 沙特主导联军称拦截导弹",
+          "title": "贴息“及时雨” 圆了安居梦",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "兰州航空口岸通过公共卫生核心能力国家级考核",
           "score": 41.0,
           "threshold": 52,
-          "type": "海外宏观"
+          "type": "行业观点"
         },
         {
-          "title": "浙江镜岭水库关键输水隧洞建设突破万米",
-          "score": 39.0,
+          "title": "定西 多点发力推动营商环境持续向优向好",
+          "score": 38.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "山西发布暴雪黄色预警",
+          "title": "青岛今天多云转晴，市区最高气温11℃，最低气温4℃",
+          "score": 43.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "沈阳皇姑区打通就业服务“最后一公里”",
+          "score": 47.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "多地中小学延迟到校、取消早读",
           "score": 36.0,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "以媒爆料：内塔尼亚胡曾谋划选举前对伊发起秘密行动，因美国意外获悉消息而失败",
-          "score": 34.5,
+          "title": "推动家庭家教家风建设融入基层治理",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "北京地区前三季度进出口创历史同期新高",
+          "score": 50.0,
+          "threshold": 52,
+          "type": "经济数据"
+        },
+        {
+          "title": "充分释放进博会平台效应，辽宁交易团举行集中签约活动",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "公司事件"
+        },
+        {
+          "title": "到2030年高质量教育体系基本建成",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "一间社区学堂开了 28 个班",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "从“接诉即办”到“未诉先办”，怎么转？",
+          "score": 43.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "采购前移促订单落地",
+          "score": 49.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "青衣江（雨城区段）入选",
+          "score": 47.5,
+          "threshold": 52,
+          "type": "政策发布"
+        },
+        {
+          "title": "江西吉安 “柚”是井冈丰收时",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "闽江水上巴士今日起执行新时刻表",
+          "score": 42.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "驱动县域经济增量亟需招商外力",
+          "score": 42.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "“迁台记忆”台胞祖地行活动举行",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "我省14件作品获第36届中国新闻奖 1人获第19届长江韬奋奖",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "电线杆立于机耕路 大型农机无法通行（身边事）",
+          "score": 46.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "建设临空经济区多式联运枢纽",
+          "score": 42.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "第三十六届中国新闻奖、第十九届长江韬奋奖评选结果揭晓",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "特朗普：很多人不喜欢万斯关于伊朗的言论",
+          "score": 36.0,
           "threshold": 52,
           "type": "海外宏观"
         },
         {
-          "title": "苹果研究团队披露机器人“大脑”进展 单项任务测试平均成功率为91%",
+          "title": "NYMEX铂金主力合约大跌5%",
+          "score": 41.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "NYMEX钯金主力合约暴跌9%",
+          "score": 41.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "NYMEX天然气主力合约涨超1%",
+          "score": 49.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "WTI原油跌超1%",
+          "score": 47.5,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
+          "title": "山西太原一建筑发生火灾致5人遇难",
+          "score": 46.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "埃及卫生部：列车脱轨事故已造成4人死亡88人受伤",
+          "score": 36.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "埃及总统：密切关注脱轨事故　将追究失职者责任",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "胡塞再对沙特目标发动4轮军事打击",
+          "score": 42,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
+          "title": "腾讯健康与灵北中国达成战略合作",
+          "score": 49.5,
+          "threshold": 52,
+          "type": "技术进展"
+        },
+        {
+          "title": "巴西一车辆坠湖致10人死亡",
           "score": 42,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "胡塞武装称也门遭沙特主导的联军空袭致多人伤亡",
+          "title": "法国外长说欧洲将参加乌克兰危机阿布扎比会谈",
           "score": 38.0,
           "threshold": 52,
           "type": "海外宏观"
         },
         {
-          "title": "欧洲多国媒体收到炸弹威胁",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "印尼杜科诺火山再喷发 火山灰柱高约2000米",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "伊朗外长强调不受外部干预情况下建立区域安全机制必要性",
-          "score": 36.5,
-          "threshold": 52,
-          "type": "政策发布"
-        },
-        {
-          "title": "新宝股份：广交会期间公司移动空调等新品类受到海外采购商关注",
-          "score": 42,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "白宫在争议声中公布拟建“凯旋门”新方案",
-          "score": 42.0,
-          "threshold": 52,
-          "type": "海外宏观"
-        },
-        {
-          "title": "伊朗外长48小时与12国通话",
-          "score": 37.5,
-          "threshold": 52,
-          "type": "政策发布"
-        },
-        {
-          "title": "第七届世界媒体峰会在北京举办 李书磊出席开幕式并发表主旨演讲",
+          "title": "进博会上海交易团意向成交额连续8年居全国地方交易团第一",
           "score": 46.5,
           "threshold": 52,
-          "type": "行业观点"
+          "type": "经济数据"
         },
         {
-          "title": "印度旁遮普邦客运列车起火 暂无人员伤亡报告",
-          "score": 32.0,
+          "title": "中铝集团与宁德时代达成战略合作",
+          "score": 50.5,
           "threshold": 52,
-          "type": "行业观点"
+          "type": "公司事件"
         },
         {
-          "title": "美国多名国会议员称将推动撤销不合理关税政策",
+          "title": "埃及国家铁路局派遣重型设备及工程团队前往列车脱轨事故现场",
           "score": 43.0,
           "threshold": 52,
-          "type": "海外宏观"
+          "type": "行业观点"
         },
         {
-          "title": "楚江新材：子公司顶立科技固态电池等静压设备正在研发试制中",
-          "score": 47.5,
-          "threshold": 52,
-          "type": "技术进展"
-        },
-        {
-          "title": "DeepSeek再次出现网页/API部分中断",
+          "title": "王小洪在云南调研时强调 提高政策措施的针对性有效性 因地制宜推动高质量发展",
           "score": 51.5,
           "threshold": 52,
           "type": "政策发布"
         },
         {
-          "title": "泽连斯基称美两党支持对乌很重要",
-          "score": 36.5,
+          "title": "陈茂波：让香港高增值旅游和会展业发展更蓬勃",
+          "score": 50.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "埃及列车脱轨事故致司机死亡、64人受伤",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "塞内加尔一艘移民船沉没 已致至少21人死亡",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "一油轮在霍尔木兹海峡遭不明发射物击中",
+          "score": 42.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "伊朗迈赫尔媒体集团首席执行官：应防止人工智能滥用",
+          "score": 49.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "海南矿业：布谷尼锂矿第五批锂精矿抵琼 全年发运将超12万吨",
+          "score": 40.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "埃及发生列车脱轨事故致至少50人受伤",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "海伦哲：三季度公司特种车辆业务承压 预计四季度环比将明显改善",
+          "score": 45.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "11月8日 周日《新闻联播》要闻15条",
+          "score": 42,
+          "threshold": 52,
+          "type": "公司事件"
+        },
+        {
+          "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
+          "score": 38.0,
           "threshold": 52,
           "type": "海外宏观"
         },
         {
-          "title": "联合国开发计划署与中方深化可持续发展合作",
+          "title": "伊朗革命卫队：美军特遣部队无法达到施压伊朗目的",
+          "score": 50.0,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
+          "title": "胡塞消息人士称沙特和叙利亚达成派兵安排　叙方否认",
+          "score": 50.0,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
+          "title": "第三艘油轮在霍尔木兹海峡发生爆炸",
+          "score": 41.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "美国SpaceX公司称将于11月中旬进行第15次星舰测试发射",
           "score": 44.5,
+          "threshold": 52,
+          "type": "技术进展"
+        },
+        {
+          "title": "山西太原一高层建筑发生火灾 消防人员仍在扑救",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "乌克兰官员因公开使用俄语被罚款",
+          "score": 36.0,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
+          "title": "中央气象台发布寒潮蓝色预警",
+          "score": 35.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "AI辅助设计禽流感疫苗动物实验获进展",
+          "score": 51.0,
+          "threshold": 52,
+          "type": "技术进展"
+        },
+        {
+          "title": "沙特能源部消息人士称阿美石油大楼受损 无人员伤亡",
+          "score": 42,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "大连英博队获2026赛季中超联赛冠军",
+          "score": 38.5,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "欧盟接近达成协议，将在英国脱欧后将其碳市场与欧盟体系挂钩",
+          "score": 37.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "德企欲研发“无限射程”太空导弹",
+          "score": 50.0,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
+          "title": "美媒称白宫办公厅副主任沃尔特斯将离职",
+          "score": 38.0,
+          "threshold": 52,
+          "type": "海外宏观"
+        },
+        {
+          "title": "世运电路：拟2亿元至3亿元回购股份用于员工持股计划或股权激励",
+          "score": 42,
+          "threshold": 52,
+          "type": "公司事件"
+        },
+        {
+          "title": "华阳股份：于家庄煤矿取得采矿许可证及不动产权证书，探转采完成",
+          "score": 50.5,
           "threshold": 52,
           "type": "政策发布"
         },
         {
-          "title": "美国多名国会议员说将推动撤销不合理关税政策",
-          "score": 43.0,
-          "threshold": 52,
-          "type": "海外宏观"
-        },
-        {
-          "title": "洽谈忙订单多 进博会贸易投资对接会成交不断",
-          "score": 43.0,
-          "threshold": 52,
-          "type": "公司事件"
-        },
-        {
-          "title": "马斯克：我们还需要8到9个月的时间来制造赛博卡车，但之后特斯拉需要专注于扩大赛博",
-          "score": 44.5,
+          "title": "外交部部长助理蔡伟会见联合国日内瓦办事处总干事瓦罗瓦娅",
+          "score": 36.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "马斯克：Optimus机器人或只租不卖",
-          "score": 42,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "意总理：黑客攻击等事件凸显安全投入必要性",
-          "score": 46.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "美国今年麻疹确诊超5000例 多州报告死亡病例",
-          "score": 47.5,
-          "threshold": 52,
-          "type": "经济数据"
-        },
-        {
-          "title": "2026年中国国际智能传播论坛将在江苏无锡举行",
+          "title": "日本大阪发生持刀伤人事件",
           "score": 38.5,
           "threshold": 52,
           "type": "行业观点"
         },
         {
-          "title": "沃伦将执掌美国参议院银行委员会 华尔街迎来强硬监管者",
-          "score": 42.0,
-          "threshold": 52,
-          "type": "公司事件"
-        },
-        {
-          "title": "印尼杜科诺火山喷发 火山灰柱高约1000米",
-          "score": 38.5,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "加拿大被曝拟扩大海外情报收集能力",
-          "score": 42,
-          "threshold": 52,
-          "type": "行业观点"
-        },
-        {
-          "title": "中白工业园铁路场站正式投运",
+          "title": "内塔尼亚胡指责埃森科特 以色列正直党发声明回击",
           "score": 41.0,
           "threshold": 52,
           "type": "海外宏观"
+        },
+        {
+          "title": "阿联酋海岸警卫队从阿曼湾一起火货船上救出22人",
+          "score": 43.0,
+          "threshold": 52,
+          "type": "行业观点"
+        },
+        {
+          "title": "2026年APEC领导人会议周新闻中心网站上线",
+          "score": 43.0,
+          "threshold": 52,
+          "type": "行业观点"
         }
       ]
     },
     "total_fetched": 210,
-    "after_dedupe": 182,
+    "after_dedupe": 198,
     "picked": 60,
-    "passed_threshold": 67,
+    "passed_threshold": 80,
     "dim_dist": {
-      "军事地缘": 12,
-      "宏观经济/政策": 10,
-      "AI 与科技": 14,
-      "市场资金面": 24
+      "军事地缘": 5,
+      "宏观经济/政策": 15,
+      "AI 与科技": 21,
+      "市场资金面": 19
     }
   }
 }
