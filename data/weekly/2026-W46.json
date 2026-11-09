@@ -1,24 +1,414 @@
 {
   "week": "2026-W46",
   "date_range": [
-    "2026-11-09",
-    "2026-11-03"
+    "2026-11-10",
+    "2026-11-04"
   ],
-  "generated_at": "2026-11-09 08:00",
+  "generated_at": "2026-11-10 00:50",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "lang": "TypeScript",
-      "days_on_board": 6,
+      "days_on_board": 7,
       "boards": [
         "活跃榜"
       ],
       "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 429636,
-      "stars_last": 443711,
-      "stars_growth": 14075,
+      "last_date": "2026-11-10",
+      "stars_first": 429688,
+      "stars_last": 446092,
+      "stars_growth": 16404,
+      "trend": "flat"
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 58643,
+      "stars_last": 67681,
+      "stars_growth": 9038,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 60402,
+      "stars_last": 67245,
+      "stars_growth": 6843,
+      "trend": "flat"
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 272197,
+      "stars_last": 277224,
+      "stars_growth": 5027,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 51810,
+      "stars_last": 55292,
+      "stars_growth": 3482,
+      "trend": "flat"
+    },
+    {
+      "full_name": "yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "lang": "Go",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 29618,
+      "stars_last": 33025,
+      "stars_growth": 3407,
+      "trend": "flat"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 184270,
+      "stars_last": 187445,
+      "stars_growth": 3175,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "lang": "C++",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 39757,
+      "stars_last": 42399,
+      "stars_growth": 2642,
+      "trend": "flat"
+    },
+    {
+      "full_name": "KKKKhazix/agent-autoloop",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 2203,
+      "stars_last": 4264,
+      "stars_growth": 2061,
+      "trend": "down"
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "lang": "C",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 47595,
+      "stars_last": 49292,
+      "stars_growth": 1697,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 260461,
+      "stars_last": 261987,
+      "stars_growth": 1526,
+      "trend": "flat"
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 51072,
+      "stars_last": 52542,
+      "stars_growth": 1470,
+      "trend": "flat"
+    },
+    {
+      "full_name": "govijr/terminal-mac",
+      "desc": "Entire MacOS running in your terminal.",
+      "lang": "Swift",
+      "days_on_board": 7,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 1141,
+      "stars_last": 2486,
+      "stars_growth": 1345,
+      "trend": "down"
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "lang": "Rust",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 76823,
+      "stars_last": 78160,
+      "stars_growth": 1337,
+      "trend": "flat"
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "lang": "HTML",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 73388,
+      "stars_last": 74584,
+      "stars_growth": 1196,
+      "trend": "flat"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 62676,
+      "stars_last": 63839,
+      "stars_growth": 1163,
+      "trend": "flat"
+    },
+    {
+      "full_name": "mromidev/claude-animated-shorts",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 1419,
+      "stars_last": 2563,
+      "stars_growth": 1144,
+      "trend": "up"
+    },
+    {
+      "full_name": "vorssaint/vorssaint-utils",
+      "desc": "Free and open-source macOS menu bar toolkit.",
+      "lang": "Swift",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 32884,
+      "stars_last": 33834,
+      "stars_growth": 950,
+      "trend": "flat"
+    },
+    {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 34849,
+      "stars_last": 35508,
+      "stars_growth": 659,
+      "trend": "flat"
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 30541,
+      "stars_last": 31016,
+      "stars_growth": 475,
+      "trend": "flat"
+    },
+    {
+      "full_name": "caru-ini/stack-diagram",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 1721,
+      "stars_last": 2190,
+      "stars_growth": 469,
+      "trend": "down"
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 95057,
+      "stars_last": 95509,
+      "stars_growth": 452,
+      "trend": "flat"
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 371240,
+      "stars_last": 371637,
+      "stars_growth": 397,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 393891,
+      "stars_last": 394235,
+      "stars_growth": 344,
+      "trend": "flat"
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 49414,
+      "stars_last": 49711,
+      "stars_growth": 297,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 34998,
+      "stars_last": 35281,
+      "stars_growth": 283,
+      "trend": "flat"
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 458531,
+      "stars_last": 458809,
+      "stars_growth": 278,
       "trend": "flat"
     },
     {
@@ -31,70 +421,25 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-09",
-      "stars_first": 10374,
+      "stars_first": 10414,
       "stars_last": 22551,
-      "stars_growth": 12177,
+      "stars_growth": 12137,
       "trend": "up"
     },
     {
-      "full_name": "cloudflare/security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "lang": "JavaScript",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 58632,
-      "stars_last": 66815,
-      "stars_growth": 8183,
-      "trend": "flat"
-    },
-    {
-      "full_name": "Ebony-Vinyl/dsh-our-free-model",
-      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "lang": "JavaScript",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 60381,
-      "stars_last": 66156,
-      "stars_growth": 5775,
-      "trend": "flat"
-    },
-    {
-      "full_name": "deepseek-ai/deepseek-harness",
-      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "full_name": "Minireel/HGhub",
+      "desc": "YellowFruit third-party client",
       "lang": "TypeScript",
       "days_on_board": 6,
       "boards": [
-        "势能榜"
+        "火箭榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 272174,
-      "stars_last": 276461,
-      "stars_growth": 4287,
-      "trend": "flat"
-    },
-    {
-      "full_name": "Gathin23/cleanyourtv",
-      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 51804,
-      "stars_last": 54737,
-      "stars_growth": 2933,
-      "trend": "flat"
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-10",
+      "stars_first": 735,
+      "stars_last": 5501,
+      "stars_growth": 4766,
+      "trend": "up"
     },
     {
       "full_name": "deepseek-ai/dsh-superagent-prototype",
@@ -106,354 +451,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-09",
-      "stars_first": 18308,
+      "stars_first": 18324,
       "stars_last": 21185,
-      "stars_growth": 2877,
-      "trend": "flat"
-    },
-    {
-      "full_name": "yetone/magpie",
-      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "lang": "Go",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 29613,
-      "stars_last": 32298,
-      "stars_growth": 2685,
-      "trend": "flat"
-    },
-    {
-      "full_name": "DietrichGebert/ponytail",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "lang": "JavaScript",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 184258,
-      "stars_last": 186920,
-      "stars_growth": 2662,
-      "trend": "flat"
-    },
-    {
-      "full_name": "Niko1221/Strata",
-      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-      "lang": "C++",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 39750,
-      "stars_last": 42006,
-      "stars_growth": 2256,
-      "trend": "flat"
-    },
-    {
-      "full_name": "KKKKhazix/agent-autoloop",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 2175,
-      "stars_last": 4098,
-      "stars_growth": 1923,
-      "trend": "down"
-    },
-    {
-      "full_name": "JustVugg/colibri",
-      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-      "lang": "C",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 47591,
-      "stars_last": 49086,
-      "stars_growth": 1495,
-      "trend": "flat"
-    },
-    {
-      "full_name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 260455,
-      "stars_last": 261764,
-      "stars_growth": 1309,
-      "trend": "flat"
-    },
-    {
-      "full_name": "boykopovar/AnyPS5",
-      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "lang": "C++",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 51066,
-      "stars_last": 52331,
-      "stars_growth": 1265,
-      "trend": "flat"
-    },
-    {
-      "full_name": "govijr/terminal-mac",
-      "desc": "Entire MacOS running in your terminal.",
-      "lang": "Swift",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 1126,
-      "stars_last": 2388,
-      "stars_growth": 1262,
-      "trend": "down"
-    },
-    {
-      "full_name": "Verlintas/NOIR",
-      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-      "lang": "Kotlin",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 1912,
-      "stars_last": 3087,
-      "stars_growth": 1175,
-      "trend": "flat"
-    },
-    {
-      "full_name": "storytold/photocraft",
-      "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "lang": "Rust",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 76821,
-      "stars_last": 77972,
-      "stars_growth": 1151,
-      "trend": "flat"
-    },
-    {
-      "full_name": "mromidev/claude-animated-shorts",
-      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 1412,
-      "stars_last": 2422,
-      "stars_growth": 1010,
-      "trend": "flat"
-    },
-    {
-      "full_name": "eternity4719/HowToLiveBetter",
-      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "lang": "HTML",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 73380,
-      "stars_last": 74379,
-      "stars_growth": 999,
-      "trend": "flat"
-    },
-    {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "lang": "JavaScript",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 62672,
-      "stars_last": 63608,
-      "stars_growth": 936,
-      "trend": "flat"
-    },
-    {
-      "full_name": "vorssaint/vorssaint-utils",
-      "desc": "Free and open-source macOS menu bar toolkit.",
-      "lang": "Swift",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 32883,
-      "stars_last": 33654,
-      "stars_growth": 771,
-      "trend": "flat"
-    },
-    {
-      "full_name": "anywhere-labs/dsh-desktop",
-      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 34847,
-      "stars_last": 35389,
-      "stars_growth": 542,
-      "trend": "flat"
-    },
-    {
-      "full_name": "caru-ini/stack-diagram",
-      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 1719,
-      "stars_last": 2133,
-      "stars_growth": 414,
-      "trend": "down"
-    },
-    {
-      "full_name": "odysseus-dev/odysseus",
-      "desc": "Self-hosted AI workspace.",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 95057,
-      "stars_last": 95469,
-      "stars_growth": 412,
-      "trend": "flat"
-    },
-    {
-      "full_name": "baidu/Unlimited-OCR",
-      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 30542,
-      "stars_last": 30924,
-      "stars_growth": 382,
-      "trend": "flat"
-    },
-    {
-      "full_name": "openclaw/openclaw",
-      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 393889,
-      "stars_last": 394219,
-      "stars_growth": 330,
-      "trend": "flat"
-    },
-    {
-      "full_name": "nilbuild/developer-roadmap",
-      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 371240,
-      "stars_last": 371569,
-      "stars_growth": 329,
-      "trend": "flat"
-    },
-    {
-      "full_name": "alibaba/open-code-review",
-      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "lang": "Go",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 49413,
-      "stars_last": 49659,
-      "stars_growth": 246,
-      "trend": "flat"
-    },
-    {
-      "full_name": "freeCodeCamp/freeCodeCamp",
-      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 458531,
-      "stars_last": 458771,
-      "stars_growth": 240,
-      "trend": "flat"
-    },
-    {
-      "full_name": "NandhaKishorM/laya",
-      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 34999,
-      "stars_last": 35233,
-      "stars_growth": 234,
+      "stars_growth": 2861,
       "trend": "flat"
     }
   ],
@@ -485,6 +485,32 @@
       ]
     },
     {
+      "topicLabel": "综合",
+      "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
+      "days": 3,
+      "kind": "event_line",
+      "points": [
+        {
+          "date": "2026-11-05",
+          "title": "A股限售股解禁一览：5.9亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-06",
+          "title": "A股限售股解禁一览：31.28亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-09",
+          "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
       "topicLabel": "宏观经济/政策",
       "title": "美联储12月加息的概率为78%",
       "days": 2,
@@ -506,6 +532,26 @@
     },
     {
       "topicLabel": "综合",
+      "title": "英伟达股价盘初下跌8.8% 跌至3月以来最低点",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-09",
+          "title": "Hyperliquid区块链上一份与英伟达股价挂钩的永续期货合约下跌2.9%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "美股三大股指高开 英伟达逆势下跌7%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
       "title": "前三季度我国服务进出口总额同比增长8.5%",
       "days": 2,
       "kind": "topic_line",
@@ -519,6 +565,46 @@
         {
           "date": "2026-11-05",
           "title": "前三季度我国服务进出口总额同比增长8.5%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "OpenAI以1.25万亿美元的估值完成了110亿美元的新一轮融资",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-05",
+          "title": "OpenAI推出Images 2.6，图像生成速度提升50%，新增GIF生成功能",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-07",
+          "title": "OpenAI以1.25万亿美元的估值完成了110亿美元的新一轮融资",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济",
+      "title": "10月PPI同比涨5.7%，创52月新高",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-05",
+          "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "10月PPI同比涨5.7%，创52月新高",
           "heat": 1.0,
           "sources": 1
         }
@@ -545,6 +631,26 @@
       ]
     },
     {
+      "topicLabel": "综合",
+      "title": "美国9月贸易逆差维持在相对高位",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-04",
+          "title": "“稳+进”！前9个月我国服务贸易运行态势良好",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-05",
+          "title": "美国9月贸易逆差维持在相对高位",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
       "topicLabel": "AI 与科技",
       "title": "谷歌公司收购Crusoe位于美国怀俄明州的数据中心选址",
       "days": 2,
@@ -565,80 +671,40 @@
       ]
     },
     {
+      "topicLabel": "宏观经济",
+      "title": "工信部：海螺、红狮等企业拟入围\"无废企业\"典型案例",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-07",
+          "title": "三大集群拟入列“国家队”，宁波先进制造“组团进阶”",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "工信部：海螺、红狮等企业拟入围\"无废企业\"典型案例",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
       "topicLabel": "综合",
-      "title": "环球下周看点：美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
+      "title": "费城半导体指数日内跌12%",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
           "date": "2026-11-05",
-          "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
+          "title": "费城半导体指数日内跌3%",
           "heat": 1.0,
           "sources": 1
         },
-        {
-          "date": "2026-11-08",
-          "title": "环球下周看点：美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "高盛称AI债务供给压力正在信用市场累积",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-07",
-          "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-09",
-          "title": "高盛称AI债务供给压力正在信用市场累积",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
-      "days": 2,
-      "kind": "event_line",
-      "points": [
         {
           "date": "2026-11-06",
-          "title": "A股限售股解禁一览：31.28亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-09",
-          "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "政策效应释放带动楼市活跃度回升",
-      "days": 2,
-      "kind": "event_line",
-      "points": [
-        {
-          "date": "2026-11-07",
-          "title": "政策效应释放带动楼市活跃度回升",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-09",
-          "title": "政策效应释放带动楼市活跃度回升",
+          "title": "费城半导体指数日内跌12%",
           "heat": 1.0,
           "sources": 1
         }
@@ -646,9 +712,9 @@
     }
   ],
   "stat": {
-    "repos_tracked": 76,
-    "repos_multi_day": 64,
-    "mainlines": 9
+    "repos_tracked": 80,
+    "repos_multi_day": 73,
+    "mainlines": 18
   },
   "provenance": {
     "method": "aggregate_over_archives",

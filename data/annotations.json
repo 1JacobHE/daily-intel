@@ -1,31 +1,11 @@
 {
-  "storytold/craft-anything": {
-    "name": "Craft Anything: understand how any software works, and craft your own.",
+  "jhaizhou-ops/S2Arm": {
+    "name": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
     "tag": "其他",
-    "auto": true
-  },
-  "deepseek-ai/dsh-superagent-prototype": {
-    "name": "Towards a More Autonomous Agent System",
-    "tag": "AI Agent",
     "auto": true
   },
   "NotRexed/Hookshot": {
     "name": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-    "tag": "其他",
-    "auto": true
-  },
-  "zortos293/Lichii": {
-    "name": "VERY experimental Nintendo Switch 2 emulator",
-    "tag": "其他",
-    "auto": true
-  },
-  "KKKKhazix/agent-autoloop": {
-    "name": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto": {
-    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "tag": "其他",
     "auto": true
   },
@@ -34,9 +14,9 @@
     "tag": "其他",
     "auto": true
   },
-  "JenkinWoo/sheeridVerify": {
-    "name": "（官方未提供简介）",
-    "tag": "其他",
+  "huamidev/GestaltX": {
+    "name": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+    "tag": "开发工具",
     "auto": true
   },
   "Minireel/HGhub": {
@@ -44,19 +24,29 @@
     "tag": "开发工具",
     "auto": true
   },
+  "KKKKhazix/agent-autoloop": {
+    "name": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "JenkinWoo/sheeridVerify": {
+    "name": "（官方未提供简介）",
+    "tag": "其他",
+    "auto": true
+  },
   "Th0rgal/satmux": {
     "name": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
     "tag": "其他",
     "auto": true
   },
+  "DIYgod/pinky": {
+    "name": "Let AI agents use your phone, with you in the loop.",
+    "tag": "AI Agent",
+    "auto": true
+  },
   "govijr/terminal-mac": {
     "name": "Entire MacOS running in your terminal.",
     "tag": "开发工具",
-    "auto": true
-  },
-  "Verlintas/NOIR": {
-    "name": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-    "tag": "安全研究",
     "auto": true
   },
   "sostenesfreitas/ocarina-recomp": {
@@ -79,13 +69,8 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "caru-ini/stack-diagram": {
-    "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "livliv-dev/player": {
-    "name": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+  "IainKay/ram-altman": {
+    "name": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
     "tag": "其他",
     "auto": true
   },
@@ -94,9 +79,24 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "DIYgod/pinky": {
-    "name": "Let AI agents use your phone, with you in the loop.",
+  "livliv-dev/player": {
+    "name": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+    "tag": "其他",
+    "auto": true
+  },
+  "caru-ini/stack-diagram": {
+    "name": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
     "tag": "AI Agent",
+    "auto": true
+  },
+  "jamesondh/chimera-vocal-synth": {
+    "name": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+    "tag": "其他",
+    "auto": true
+  },
+  "Sandflow-ai/sand3d": {
+    "name": "3D modeling in Python, built for LLMs.",
+    "tag": "模型/推理",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -114,7 +114,7 @@
     "tag": "自托管"
   },
   "storytold/photocraft": {
-    "name": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+    "name": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
     "tag": "开发工具",
     "auto": true
   },
@@ -200,11 +200,6 @@
     "tag": "资源合集",
     "auto": true
   },
-  "public-apis/public-apis": {
-    "name": "免费 API 大合集，做项目找数据源先看这个",
-    "tag": "资源合集",
-    "note": "48 万星，程序员必备清单"
-  },
   "freeCodeCamp/freeCodeCamp": {
     "name": "免费学编程的课程与代码库",
     "tag": "学习资源"
@@ -212,11 +207,6 @@
   "morluto/rea": {
     "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "tag": "AI Agent",
-    "auto": true
-  },
-  "EbookFoundation/free-programming-books": {
-    "name": ":books: Freely available programming books",
-    "tag": "资源合集",
     "auto": true
   },
   "openclaw/openclaw": {
@@ -227,18 +217,21 @@
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
   },
-  "jwasham/coding-interview-university": {
-    "name": "A complete computer science study plan to become a software engineer.",
-    "tag": "其他",
-    "auto": true
-  },
-  "awesome-selfhosted/awesome-selfhosted": {
-    "name": "可自托管的开源网络服务清单",
-    "tag": "资源合集"
-  },
   "vinta/awesome-python": {
     "name": "Python 工具大全：想做 X，该用哪个库",
     "tag": "资源合集"
+  },
+  "mattpocock/skills": {
+    "name": "一线工程师的真实 Agent 技能库",
+    "tag": "Agent Skill"
+  },
+  "affaan-m/ECC": {
+    "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
+    "tag": "AI Agent"
+  },
+  "practical-tutorials/project-based-learning": {
+    "name": "通过做项目来学编程的教程合集",
+    "tag": "学习资源"
   },
   "NousResearch/hermes-agent": {
     "name": "随你一起成长的 Agent",
@@ -247,5 +240,9 @@
   "torvalds/linux": {
     "name": "Linux 内核源码",
     "tag": "操作系统"
+  },
+  "react/react": {
+    "name": "React 前端框架源码",
+    "tag": "前端框架"
   }
 }

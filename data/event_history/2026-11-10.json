@@ -1,0 +1,3038 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10 00:50",
+  "events": [
+    {
+      "eid": "7dbbb6f2cb",
+      "ekey": "失地费城半导体|美股半导体#AI芯片",
+      "kind": "topic_line",
+      "title": "美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地",
+      "body": "费城半导体指数涨幅扩大至6.4%，报9958.16点，较11月5日暴跌日收盘价已反弹10%。AMD涨10.84%，Coherent涨16.44%，Lumentum涨13%，迈威尔科技涨10.45%，应用材料涨9.88%，博通涨8.61%，西部数据涨8.35%，希捷科技涨8.90%。不过，英伟达逆势下跌3.87%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 74.5,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": true,
+      "member_count": 5,
+      "members": [
+        {
+          "title": "美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地",
+          "src": "东方财富",
+          "time": "2026-11-09 23:54:34",
+          "body": "费城半导体指数涨幅扩大至6.4%，报9958.16点，较11月5日暴跌日收盘价已反弹10%。AMD涨10.84%，Coherent涨16.44%，Lumentum涨13%，迈威尔科技涨10.45%，应用材料涨9.88%，博通涨8.61%，西部数据涨8.35%，希捷科技涨8.90%。不过，英伟达逆势下跌3.87%。",
+          "score": 74.5
+        },
+        {
+          "title": "费城半导体指数涨幅扩大至5% 英伟达跌幅收窄至3.8%",
+          "src": "东方财富",
+          "time": "2026-11-09 23:12:01",
+          "body": "费城半导体指数涨幅扩大至5%，报9862.3点。英伟达跌幅收窄至3.8%。Coherent涨12.90%，Lumentum涨11.31%，AMD涨8.96%，迈威尔科技涨8.82%，西部数据涨8.09%，希捷科技涨8.07%，博通涨7.68%，泛林集团涨7.16%，应用材料涨8.94%，闪迪涨5.68%，美光科技涨5.71%，SK海力士涨4.35%，台积电涨4.24%。三倍做多半导体ETF（SOXL）涨16.58%。",
+          "score": 74.5
+        },
+        {
+          "title": "费城半导体指数涨超3%",
+          "src": "东方财富",
+          "time": "2026-11-09 22:52:19",
+          "body": "截至发稿，费城半导体指数涨超3%，博通、AMD涨超6%，阿斯麦、西部数据涨超5%，希捷科技涨超3%。",
+          "score": 72.5
+        },
+        {
+          "title": "费城半导体指数日内涨3%",
+          "src": "同花顺",
+          "time": "2026-11-09 22:44:55",
+          "body": "费城半导体指数日内涨3%，现报9671.97点。英伟达跌5.60%，博通涨6.68%，美光涨2.65%，英特尔涨1.44%，AMD涨6.90%，高通涨0.90%，台积电涨3.02%，阿斯麦涨5.13%。",
+          "score": 61.5
+        },
+        {
+          "title": "费城半导体指数涨幅扩大至5%，报9862.3点",
+          "src": "同花顺",
+          "time": "2026-11-09 23:12:42",
+          "body": "费城半导体指数涨幅扩大至5%，报9862.3点。（财联社）",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [
+        "共享 2 个实体（费城半导体/AMD）且同主题，判定为同一事件（相似度 0.20）",
+        "共享 2 个实体（费城半导体/英伟达）且同主题，判定为同一事件（相似度 0.24）",
+        "共享实体 费城半导体 + 同主题 AI芯片，相似度 0.50",
+        "共享实体 费城半导体/博通 + 同主题 AI芯片，相似度 0.50"
+      ],
+      "related": [],
+      "time": "2026-11-09 23:54:34",
+      "rank_score": 65.8
+    },
+    {
+      "eid": "f9dfb25f08",
+      "ekey": "公司控股|股东的控股",
+      "kind": "topic_line",
+      "title": "南华期货：控股股东之一致行动人拟增持公司H股不超3000万股",
+      "body": "南华期货(603093)11月9日公告，公司控股股东的控股子公司东阳市横店禹山运动休闲有限公司11月9日通过上交所港股通交易系统首次增持公司H股股份97.85万股。禹山运动拟自首次增持之日起6个月内，通过上交所港股通交易系统以集中竞价方式增持公司H股股份，合计拟增持股份不超过3000万股。此次增持计划不设置价格区间。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 79.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "南华期货：控股股东之一致行动人拟增持公司H股不超3000万股",
+          "src": "东方财富",
+          "time": "2026-11-09 21:33:00",
+          "body": "南华期货(603093)11月9日公告，公司控股股东的控股子公司东阳市横店禹山运动休闲有限公司11月9日通过上交所港股通交易系统首次增持公司H股股份97.85万股。禹山运动拟自首次增持之日起6个月内，通过上交所港股通交易系统以集中竞价方式增持公司H股股份，合计拟增持股份不超过3000万股。此次增持计划不设置价格区间。",
+          "score": 79.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:33:00",
+      "rank_score": 46.8
+    },
+    {
+      "eid": "55beb09cf4",
+      "ekey": "摩根士丹利|看好英伟达等科技#AI芯片",
+      "kind": "topic_line",
+      "title": "大摩看好英伟达等科技分区维持资本开支 预测2027年或达1.6万亿美元",
+      "body": "摩根士丹利在11月8日发布的最新全球主题研究报告中表示，美国股市选举后，市场对数据中心建设前景的担忧引发人工智能(AI)相关股票大幅调整，但该行认为市场反应过度，AI长期投资逻辑发生根本变化。摩根士丹利建议投资者采取转型逢低买入策略，重点关注大型科技公司、部分估值明显回落的半导体及数据中心基础设施企业，以及从AI商业化应用中受益软件的公司。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "AI应用/软件",
+        "半导体/AI芯片",
+        "算力/数据中心"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 79.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "大摩看好英伟达等科技分区维持资本开支 预测2027年或达1.6万亿美元",
+          "src": "东方财富",
+          "time": "2026-11-09 23:30:23",
+          "body": "摩根士丹利在11月8日发布的最新全球主题研究报告中表示，美国股市选举后，市场对数据中心建设前景的担忧引发人工智能(AI)相关股票大幅调整，但该行认为市场反应过度，AI长期投资逻辑发生根本变化。摩根士丹利建议投资者采取转型逢低买入策略，重点关注大型科技公司、部分估值明显回落的半导体及数据中心基础设施企业，以及从AI商业化应用中受益软件的公司。",
+          "score": 79.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 23:30:23",
+      "rank_score": 46.6
+    },
+    {
+      "eid": "16e234318a",
+      "ekey": "连板东方新能签署亿元算力板卡采购",
+      "kind": "event_line",
+      "title": "2连板东方新能：签署9.12亿元算力板卡采购合同",
+      "body": "东方新能(002310.SZ)公告称，公司计划由新能企管中心实施高性能算力集群项目，与经销商A签署销售合同，采购算力板卡，总金额约9.12亿元(含税)。本次采购的GPU产品主要用于AI应用推理、模型微调及图形渲染等场景，为公司拓展算力服务业务的首期投入。公司算力服务业务尚处于起步阶段，未形成相关收入，亦未形成确定的客户订单，本次采购对公司财务指标的影响暂无法测算。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件",
+        "算力/数据中心"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 79.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "2连板东方新能：签署9.12亿元算力板卡采购合同",
+          "src": "东方财富",
+          "time": "2026-11-09 21:24:34",
+          "body": "东方新能(002310.SZ)公告称，公司计划由新能企管中心实施高性能算力集群项目，与经销商A签署销售合同，采购算力板卡，总金额约9.12亿元(含税)。本次采购的GPU产品主要用于AI应用推理、模型微调及图形渲染等场景，为公司拓展算力服务业务的首期投入。公司算力服务业务尚处于起步阶段，未形成相关收入，亦未形成确定的客户订单，本次采购对公司财务指标的影响暂无法测算。",
+          "score": 79.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:24:34",
+      "rank_score": 46.6
+    },
+    {
+      "eid": "3f232061ca",
+      "ekey": "AMD|博通#AI芯片",
+      "kind": "topic_line",
+      "title": "美股半导体板块多数上涨 博通、AMD、应用材料涨超6%",
+      "body": "美股半导体板块多数走高，费城半导体指数涨2.67%。个股方面，博通涨6.25%，AMD涨6.12%，Coherent涨7.49%，Lumentum涨6.63%，应用材料涨6.94%，阿斯麦涨5.19%，西部数据涨5.81%，希捷科技涨3.52%，迈威尔科技涨4.07%；台积电涨2.67%，美光科技涨1.87%，SK海力士涨1.04%。英伟达逆势跌5.89%。三倍做多半导体ETF（SOXL）涨8.57%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 74.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股半导体板块多数上涨 博通、AMD、应用材料涨超6%",
+          "src": "东方财富",
+          "time": "2026-11-09 22:43:43",
+          "body": "美股半导体板块多数走高，费城半导体指数涨2.67%。个股方面，博通涨6.25%，AMD涨6.12%，Coherent涨7.49%，Lumentum涨6.63%，应用材料涨6.94%，阿斯麦涨5.19%，西部数据涨5.81%，希捷科技涨3.52%，迈威尔科技涨4.07%；台积电涨2.67%，美光科技涨1.87%，SK海力士涨1.04%。英伟达逆势跌5.89%。三倍做多半导体ETF（SOXL）涨8.57%。",
+          "score": 74.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:43:43",
+      "rank_score": 44.8
+    },
+    {
+      "eid": "efc7276d7f",
+      "ekey": "美股高开高走三大股指均涨超",
+      "kind": "event_line",
+      "title": "美股高开高走 三大股指均涨超1%",
+      "body": "美股高开高走，道琼斯指数涨1.19%，标普500指数涨1.25%，纳斯达克综合指数涨1.53%。苹果股价上涨2.16%，微软股价上涨2.27%，谷歌-A股价上涨3.54%，亚马逊股价上涨5.74%，台积电股价上涨2.45%，SpaceX股价上涨4.05%，Meta股价上涨5.14%，博通股价上涨6.05%，特斯拉股价上涨3.83%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 74.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股高开高走 三大股指均涨超1%",
+          "src": "东方财富",
+          "time": "2026-11-09 22:40:37",
+          "body": "美股高开高走，道琼斯指数涨1.19%，标普500指数涨1.25%，纳斯达克综合指数涨1.53%。苹果股价上涨2.16%，微软股价上涨2.27%，谷歌-A股价上涨3.54%，亚马逊股价上涨5.74%，台积电股价上涨2.45%，SpaceX股价上涨4.05%，Meta股价上涨5.14%，博通股价上涨6.05%，特斯拉股价上涨3.83%。",
+          "score": 74.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:40:37",
+      "rank_score": 44.8
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "美股三大股指高开 英伟达逆势下跌7%",
+      "body": "美股三大股指高开，道琼斯指数涨1.08%，标普500指数涨0.84%，纳斯达克综合指数涨0.87%。黄仁勋个人丑闻发酵并遭内部调查，英伟达跌超7%。苹果股价上涨0.89%，微软股价上涨2.48%，谷歌-A股价上涨2.64%，亚马逊股价上涨4.11%，台积电股价上涨0%，SpaceX股价上涨1.71%，Meta股价上涨3.37%，博通股价上涨3.81%，特斯拉股价上涨0.87%，SK海力士股价下跌0.5%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 74.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股三大股指高开 英伟达逆势下跌7%",
+          "src": "东方财富",
+          "time": "2026-11-09 22:31:07",
+          "body": "美股三大股指高开，道琼斯指数涨1.08%，标普500指数涨0.84%，纳斯达克综合指数涨0.87%。黄仁勋个人丑闻发酵并遭内部调查，英伟达跌超7%。苹果股价上涨0.89%，微软股价上涨2.48%，谷歌-A股价上涨2.64%，亚马逊股价上涨4.11%，台积电股价上涨0%，SpaceX股价上涨1.71%，Meta股价上涨3.37%，博通股价上涨3.81%，特斯拉股价上涨0.87%，SK海力士股价下跌0.5%。",
+          "score": 74.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:31:07",
+      "rank_score": 44.8
+    },
+    {
+      "eid": "f499263e1a",
+      "ekey": "国家统计局",
+      "kind": "topic_line",
+      "title": "10月PPI同比涨5.7%，创52月新高",
+      "body": "每经记者｜张宏    每经编辑｜杨军     11月9日，国家统计局公布10月物价数据。10月，CPI（居民消费价格指数）环比持平；同比上涨0.7%，涨幅比上月回落0...",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 74.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "10月PPI同比涨5.7%，创52月新高",
+          "src": "新浪财经",
+          "time": "2026-11-09 23:11:54",
+          "body": "每经记者｜张宏    每经编辑｜杨军     11月9日，国家统计局公布10月物价数据。10月，CPI（居民消费价格指数）环比持平；同比上涨0.7%，涨幅比上月回落0...",
+          "score": 74.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 23:11:54",
+      "rank_score": 44.8
+    },
+    {
+      "eid": "2f9089c8d4",
+      "ekey": "日本软银集团|设施日本软银集团#大模型",
+      "kind": "topic_line",
+      "title": "日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施",
+      "body": "日本软银集团与Grab签署联合开发协议，将在马来西亚开发人工智能基础设施。软银集团将在人工智能领域投资10亿美元，Grab投资7.5亿美元，Petros投资1亿美元。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 71.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施",
+          "src": "东方财富",
+          "time": "2026-11-09 23:39:00",
+          "body": "日本软银集团与Grab签署联合开发协议，将在马来西亚开发人工智能基础设施。软银集团将在人工智能领域投资10亿美元，Grab投资7.5亿美元，Petros投资1亿美元。",
+          "score": 71.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 23:39:00",
+      "rank_score": 43.6
+    },
+    {
+      "eid": "ca61aada7b",
+      "ekey": "要应用于电池材料",
+      "kind": "topic_line",
+      "title": "武汉蓝电：大功率设备主要用于动力电池单体电芯的检测",
+      "body": "武汉蓝电发布投资者关系活动记录表，微小功率电池测试设备主要应用于电池材料研究领域；小功率电池测试设备主要应用于3C消费电子类电池电芯的测试以及电池材料的测试；大功率设备主要用于动力电池单体电芯的检测。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "消费/白酒",
+        "新能源/锂电"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 71.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "武汉蓝电：大功率设备主要用于动力电池单体电芯的检测",
+          "src": "东方财富",
+          "time": "2026-11-09 22:42:34",
+          "body": "武汉蓝电发布投资者关系活动记录表，微小功率电池测试设备主要应用于电池材料研究领域；小功率电池测试设备主要应用于3C消费电子类电池电芯的测试以及电池材料的测试；大功率设备主要用于动力电池单体电芯的检测。",
+          "score": 71.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:42:34",
+      "rank_score": 43.6
+    },
+    {
+      "eid": "d6c95060cb",
+      "ekey": "产权交易所为控股|子公司广州医药#医药",
+      "kind": "topic_line",
+      "title": "广州医药募资上限拟“翻倍”升至60亿 白云山持股或降至53.23%",
+      "body": "白云山（600332.SH）计划通过广州产权交易所为控股子公司广州医药（874839，新三板创新层）公开挂牌引入战略投资者，本次增资扩股募资规模上限达60亿元，较此前预案翻倍，白云山持股或稀释至53.23%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "医药/生物"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 71.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "医药",
+      "topicLabel": "医药与生物",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "广州医药募资上限拟“翻倍”升至60亿 白云山持股或降至53.23%",
+          "src": "东方财富",
+          "time": "2026-11-09 23:18:21",
+          "body": "白云山（600332.SH）计划通过广州产权交易所为控股子公司广州医药（874839，新三板创新层）公开挂牌引入战略投资者，本次增资扩股募资规模上限达60亿元，较此前预案翻倍，白云山持股或稀释至53.23%。",
+          "score": 71.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 23:18:21",
+      "rank_score": 43.4
+    },
+    {
+      "eid": "cb18ac431d",
+      "ekey": "AMD#AI芯片",
+      "kind": "topic_line",
+      "title": "AMD率先收复11月5日暴跌失地 在半导体板块反弹中领跑",
+      "body": "AMD连续两个交易日大幅反弹，当日上涨8.8%，上一交易日上涨11%，累计涨幅接近20%，成为半导体板块中首只完全收复11月5日暴跌17%失地的股票。与此同时，SpaceX也已收复此前跌幅。两者成为本轮市场大幅调整后，率先完成失地收复的代表。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 70.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "AMD率先收复11月5日暴跌失地 在半导体板块反弹中领跑",
+          "src": "东方财富",
+          "time": "2026-11-09 23:03:05",
+          "body": "AMD连续两个交易日大幅反弹，当日上涨8.8%，上一交易日上涨11%，累计涨幅接近20%，成为半导体板块中首只完全收复11月5日暴跌17%失地的股票。与此同时，SpaceX也已收复此前跌幅。两者成为本轮市场大幅调整后，率先完成失地收复的代表。",
+          "score": 70.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 23:03:05",
+      "rank_score": 43.2
+    },
+    {
+      "eid": "ce0eee1f12",
+      "ekey": "控股股东横店集团",
+      "kind": "topic_line",
+      "title": "南华期货：控股股东一致行动人禹山运动首次增持97.85万股H股，拟后续增持不超过3000万股",
+      "body": "南华期货公告，控股股东横店集团控股有限公司的一致行动人东阳市横店禹山运动休闲有限公司于2026年11月9日通过上海证券交易所港股通交易系统首次增持公司H股股份97.85万股，占公司总股本的0.09%。本次增持后，禹山运动持有公司H股股份97.85万股，占公司总股本的0.09%。禹山运动拟自首次增持之日起6个月内，通过上海证券交易所港股通交易系统以集中竞价方式增持公司H股股份，合计拟增持股份数量为不超过3000万股，本次增持计划不设置价格区间。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 69.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "南华期货：控股股东一致行动人禹山运动首次增持97.85万股H股，拟后续增持不超过3000万股",
+          "src": "同花顺",
+          "time": "2026-11-09 20:26:58",
+          "body": "南华期货公告，控股股东横店集团控股有限公司的一致行动人东阳市横店禹山运动休闲有限公司于2026年11月9日通过上海证券交易所港股通交易系统首次增持公司H股股份97.85万股，占公司总股本的0.09%。本次增持后，禹山运动持有公司H股股份97.85万股，占公司总股本的0.09%。禹山运动拟自首次增持之日起6个月内，通过上海证券交易所港股通交易系统以集中竞价方式增持公司H股股份，合计拟增持股份数量为不超过3000万股，本次增持计划不设置价格区间。",
+          "score": 69.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 20:26:58",
+      "rank_score": 42.6
+    },
+    {
+      "eid": "118705dd13",
+      "ekey": "亚马逊#大模型",
+      "kind": "topic_line",
+      "title": "亚马逊：AWS承诺投入1亿美元用于人工智能和云技术",
+      "body": "亚马逊宣布，AWS承诺投入1亿美元用于人工智能和云技术，帮助全球机构扩展健康服务。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 68.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "亚马逊：AWS承诺投入1亿美元用于人工智能和云技术",
+          "src": "东方财富",
+          "time": "2026-11-09 22:03:29",
+          "body": "亚马逊宣布，AWS承诺投入1亿美元用于人工智能和云技术，帮助全球机构扩展健康服务。",
+          "score": 68.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:03:29",
+      "rank_score": 42.2
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "英伟达股价下跌5.9%",
+      "body": "英伟达股价盘前延续跌势，最新下跌5.9%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 67.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "英伟达股价下跌5.9%",
+          "src": "东方财富",
+          "time": "2026-11-09 22:05:19",
+          "body": "英伟达股价盘前延续跌势，最新下跌5.9%。",
+          "score": 67.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:05:19",
+      "rank_score": 42.0
+    },
+    {
+      "eid": "642d8b5037",
+      "ekey": "与上海德信翼航空|亿元龙翼航空科技",
+      "kind": "topic_line",
+      "title": "龙翼航空科技：订立销售框架协议 框架总估值1.32亿元",
+      "body": "龙翼航空科技发布自愿公告，公司附属公司山东龙翼与上海德信翼航空科技有限公司订立销售框架协议。根据协议，山东龙翼将向买方供应多种规格的无人机系统。该协议建立为期两年的灵活供应框架，涵盖估计总采购量20000套，框架总估值为人民币1.32亿元。(21财经)",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 67.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "龙翼航空科技：订立销售框架协议 框架总估值1.32亿元",
+          "src": "同花顺",
+          "time": "2026-11-09 23:15:48",
+          "body": "龙翼航空科技发布自愿公告，公司附属公司山东龙翼与上海德信翼航空科技有限公司订立销售框架协议。根据协议，山东龙翼将向买方供应多种规格的无人机系统。该协议建立为期两年的灵活供应框架，涵盖估计总采购量20000套，框架总估值为人民币1.32亿元。(21财经)",
+          "score": 67.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 23:15:48",
+      "rank_score": 42.0
+    },
+    {
+      "eid": "ee27c86347",
+      "ekey": "天康生物|正邦科技",
+      "kind": "topic_line",
+      "title": "上市猪企10月出栏分化 产能去化有望提速",
+      "body": "11月9日晚间，正邦科技、神农集团、新五丰、天康生物、大北农、唐人神、克明食品等多家上市公司密集披露10月生猪销售简报。结合此前牧原股份、温氏股份、新希望已发布的数据，10月生猪销售均价集中在每公斤9.5元至9.8元区间，环比下跌6%至10%，同比跌幅普遍超过15%，生猪养殖行业仍处于深度亏损阶段。不过，多家券商最新研报认为，持续亏损正倒逼行业产能去化边际提速，周期反转的线索日渐清晰。(证券时报)",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "券商/大金融",
+        "消费/白酒",
+        "医药/生物"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 67.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "上市猪企10月出栏分化 产能去化有望提速",
+          "src": "同花顺",
+          "time": "2026-11-09 23:25:34",
+          "body": "11月9日晚间，正邦科技、神农集团、新五丰、天康生物、大北农、唐人神、克明食品等多家上市公司密集披露10月生猪销售简报。结合此前牧原股份、温氏股份、新希望已发布的数据，10月生猪销售均价集中在每公斤9.5元至9.8元区间，环比下跌6%至10%，同比跌幅普遍超过15%，生猪养殖行业仍处于深度亏损阶段。不过，多家券商最新研报认为，持续亏损正倒逼行业产能去化边际提速，周期反转的线索日渐清晰。(证券时报)",
+          "score": 67.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 23:25:34",
+      "rank_score": 41.8
+    },
+    {
+      "eid": "8a4f81200c",
+      "ekey": "财政部#全球债市",
+      "kind": "topic_line",
+      "title": "美国财政部拍卖国债 三个月期国债得标利率4.060% 拍卖六个月期国债得标利率4.145%",
+      "body": "美国财政部拍卖三个月期国债，得标利率4.060%，投标倍数2.67；拍卖六个月期国债，得标利率4.145%，投标倍数2.92。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 66.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "美债",
+      "topicLabel": "美债与财政",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国财政部拍卖国债 三个月期国债得标利率4.060% 拍卖六个月期国债得标利率4.145%",
+          "src": "东方财富",
+          "time": "2026-11-10 00:41:18",
+          "body": "美国财政部拍卖三个月期国债，得标利率4.060%，投标倍数2.67；拍卖六个月期国债，得标利率4.145%，投标倍数2.92。",
+          "score": 66.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-10 00:41:18",
+      "rank_score": 41.4
+    },
+    {
+      "eid": "f03e55435d",
+      "ekey": "东方新能算力服务尚处于起步阶段未",
+      "kind": "event_line",
+      "title": "东方新能：算力服务尚处于起步阶段，未形成收入",
+      "body": "东方新能公告，公司股票于2026年11月6日、11月9日连续两个交易日收盘价格涨幅偏离值累计超过20%。经核查，公司前期披露信息无需更正、补充，公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项。公司已披露拟拓展算力服务业务并签署算力板卡采购合同，但算力服务业务尚处于起步阶段，未形成相关收入或确定的客户订单，采购合同实施内容和进度存在较大不确定性，对公司财务指标的影响暂无法测算。公司参与投资建设的独立储能项目持股36%，已全容量并网但尚未转为商业运营，暂不产生运营收益。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "算力/数据中心",
+        "新能源/锂电"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 66.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "东方新能：算力服务尚处于起步阶段，未形成收入",
+          "src": "同花顺",
+          "time": "2026-11-09 21:26:05",
+          "body": "东方新能公告，公司股票于2026年11月6日、11月9日连续两个交易日收盘价格涨幅偏离值累计超过20%。经核查，公司前期披露信息无需更正、补充，公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项。公司已披露拟拓展算力服务业务并签署算力板卡采购合同，但算力服务业务尚处于起步阶段，未形成相关收入或确定的客户订单，采购合同实施内容和进度存在较大不确定性，对公司财务指标的影响暂无法测算。公司参与投资建设的独立储能项目持股36%，已全容量并网但尚未转为商业运营，暂不产生运营收益。",
+          "score": 66.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:26:05",
+      "rank_score": 41.4
+    },
+    {
+      "eid": "69bc44e204",
+      "ekey": "士丹利将澜起科技|摩根士丹利",
+      "kind": "topic_line",
+      "title": "摩根士丹利将澜起科技A股评级下调至平配 目标价180元",
+      "body": "摩根士丹利将澜起科技A股评级下调至平配，目标价180元。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 65.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "摩根士丹利将澜起科技A股评级下调至平配 目标价180元",
+          "src": "东方财富",
+          "time": "2026-11-10 00:16:44",
+          "body": "摩根士丹利将澜起科技A股评级下调至平配，目标价180元。",
+          "score": 65.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-10 00:16:44",
+      "rank_score": 41.2
+    },
+    {
+      "eid": "2918dc5de4",
+      "ekey": "公司半导体",
+      "kind": "topic_line",
+      "title": "腾信精密：公司已与Edwards、MKS等客户建立合作关系",
+      "body": "腾信精密发布投资者关系活动记录表，公司半导体设备零部件产品主要配套于真空测量控制设备、工艺气体流量测控设备等，生产真空泵、质量流量控制器等所需精密零部件产品。公司已与Edwards、MKS等客户建立合作关系。后续公司将持续深耕存量客户，丰富精密零部件产品矩阵，加大半导体设备领域优质客户拓展力度，推动该领域业务持续发展。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 65.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "腾信精密：公司已与Edwards、MKS等客户建立合作关系",
+          "src": "东方财富",
+          "time": "2026-11-09 22:42:23",
+          "body": "腾信精密发布投资者关系活动记录表，公司半导体设备零部件产品主要配套于真空测量控制设备、工艺气体流量测控设备等，生产真空泵、质量流量控制器等所需精密零部件产品。公司已与Edwards、MKS等客户建立合作关系。后续公司将持续深耕存量客户，丰富精密零部件产品矩阵，加大半导体设备领域优质客户拓展力度，推动该领域业务持续发展。",
+          "score": 65.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:42:23",
+      "rank_score": 41.2
+    },
+    {
+      "eid": "9bc5fb709e",
+      "ekey": "ST华鹏子公司租赁合同纠纷案一审",
+      "kind": "event_line",
+      "title": "*ST华鹏：子公司租赁合同纠纷案一审败诉 需支付融资租赁租金1亿元",
+      "body": "人民财讯11月9日电，*ST华鹏(603021)11月9日公告，原告山东发展绿色融资租赁有限公司与公司及子公司山东华鹏石岛玻璃制品有限公司融资租赁合同纠纷一案，迎来一审判决。法院判决华鹏石岛玻璃偿还山东发展绿色融资租赁租金1亿元及留购价款300元，并支付逾期租金占用利息及违约金。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 65.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "*ST华鹏：子公司租赁合同纠纷案一审败诉 需支付融资租赁租金1亿元",
+          "src": "东方财富",
+          "time": "2026-11-09 21:11:00",
+          "body": "人民财讯11月9日电，*ST华鹏(603021)11月9日公告，原告山东发展绿色融资租赁有限公司与公司及子公司山东华鹏石岛玻璃制品有限公司融资租赁合同纠纷一案，迎来一审判决。法院判决华鹏石岛玻璃偿还山东发展绿色融资租赁租金1亿元及留购价款300元，并支付逾期租金占用利息及违约金。",
+          "score": 65.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:11:00",
+      "rank_score": 41.2
+    },
+    {
+      "eid": "ed9777dbfb",
+      "ekey": "宁德时代",
+      "kind": "topic_line",
+      "title": "郴州市与宁德时代签署战略合作备忘录",
+      "body": "近日，郴州市人民政府与宁德时代签署战略合作备忘录。双方将围绕绿色资源开发、绿电与换电基础设施、交通电动化、零碳场景展开合作，共建绿色低碳产业体系。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "新能源/锂电"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 65.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "郴州市与宁德时代签署战略合作备忘录",
+          "src": "东方财富",
+          "time": "2026-11-09 21:43:25",
+          "body": "近日，郴州市人民政府与宁德时代签署战略合作备忘录。双方将围绕绿色资源开发、绿电与换电基础设施、交通电动化、零碳场景展开合作，共建绿色低碳产业体系。",
+          "score": 65.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:43:25",
+      "rank_score": 41.0
+    },
+    {
+      "eid": "c9436392b6",
+      "ekey": "与骑形网络|公司控股",
+      "kind": "topic_line",
+      "title": "亚玛顿：控股股东拟变更为骑形网络 股票11月10日复牌",
+      "body": "亚玛顿(002623.SZ)公告称，公司控股股东亚玛顿科技与骑形网络签署《股份转让协议》，亚玛顿科技拟通过协议转让方式向骑形网络转让其持有的公司3861.25万股股份（占公司总股本的20%），转让价格为人民币17.61元/股，转让价款总额为人民币6.8亿元。完成后控股股东将变更为骑形网络，实控人变更为赵云鹏。公司股票11月10日复牌。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 64.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "亚玛顿：控股股东拟变更为骑形网络 股票11月10日复牌",
+          "src": "东方财富",
+          "time": "2026-11-09 22:56:53",
+          "body": "亚玛顿(002623.SZ)公告称，公司控股股东亚玛顿科技与骑形网络签署《股份转让协议》，亚玛顿科技拟通过协议转让方式向骑形网络转让其持有的公司3861.25万股股份（占公司总股本的20%），转让价格为人民币17.61元/股，转让价款总额为人民币6.8亿元。完成后控股股东将变更为骑形网络，实控人变更为赵云鹏。公司股票11月10日复牌。",
+          "score": 64.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:56:53",
+      "rank_score": 40.8
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "英伟达股价盘初下跌8.8% 跌至3月以来最低点",
+      "body": "英伟达股价盘初下跌8.8%，跌至3月以来最低点。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 64.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "英伟达股价盘初下跌8.8% 跌至3月以来最低点",
+          "src": "东方财富",
+          "time": "2026-11-09 22:31:36",
+          "body": "英伟达股价盘初下跌8.8%，跌至3月以来最低点。",
+          "score": 64.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:31:36",
+      "rank_score": 40.8
+    },
+    {
+      "eid": "602135fc1d",
+      "ekey": "美股开盘美股三大指数集体高开",
+      "kind": "event_line",
+      "title": "美股开盘：美股三大指数集体高开",
+      "body": "美股三大指数集体高开，标普500指数涨0.85%，道指涨1.17%，纳指涨0.8%。大型科技股方面，超威半导体涨6.34%，亚马逊涨4.66%，Meta涨4.06%，谷歌A涨2.99%，微软涨2.94%，SpaceX涨1.65%，苹果涨1.22%，英伟达跌8.48%。中概股方面，携程跌1.36%，小鹏集团跌2.05%，蔚来跌2.06%，京东跌2.35%，理想汽车跌2.55%，哔哩哔哩跌2.59%，阿里巴巴跌2.71%，拼多多跌3.05%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 64.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股开盘：美股三大指数集体高开",
+          "src": "同花顺",
+          "time": "2026-11-09 22:31:01",
+          "body": "美股三大指数集体高开，标普500指数涨0.85%，道指涨1.17%，纳指涨0.8%。大型科技股方面，超威半导体涨6.34%，亚马逊涨4.66%，Meta涨4.06%，谷歌A涨2.99%，微软涨2.94%，SpaceX涨1.65%，苹果涨1.22%，英伟达跌8.48%。中概股方面，携程跌1.36%，小鹏集团跌2.05%，蔚来跌2.06%，京东跌2.35%，理想汽车跌2.55%，哔哩哔哩跌2.59%，阿里巴巴跌2.71%，拼多多跌3.05%。",
+          "score": 64.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:31:01",
+      "rank_score": 40.8
+    },
+    {
+      "eid": "3fef53bd60",
+      "ekey": "AMD|谷歌",
+      "kind": "topic_line",
+      "title": "AMD：第五代EPYC处理器为谷歌TPU 8tx提供主机基础设施",
+      "body": "AMD宣布，第五代EPYC服务器处理器将为谷歌云TPU 8tx提供主机基础设施。TPU 8tx是首个支持硬件强制机密计算的云端TPU系统。双方将结合AMD EPYC处理器、Infinity Guard安全技术及谷歌TPU算力，帮助企业在云端运行推理、微调和强化学习等AI工作负载，同时保护敏感数据。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "算力/数据中心",
+        "半导体/AI芯片",
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "AMD：第五代EPYC处理器为谷歌TPU 8tx提供主机基础设施",
+          "src": "东方财富",
+          "time": "2026-11-09 21:10:37",
+          "body": "AMD宣布，第五代EPYC服务器处理器将为谷歌云TPU 8tx提供主机基础设施。TPU 8tx是首个支持硬件强制机密计算的云端TPU系统。双方将结合AMD EPYC处理器、Infinity Guard安全技术及谷歌TPU算力，帮助企业在云端运行推理、微调和强化学习等AI工作负载，同时保护敏感数据。",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:10:37",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "9a2a992ef4",
+      "ekey": "Cloudf|Trade#大模型",
+      "kind": "topic_line",
+      "title": "美股AI应用软件股全线走高",
+      "body": "美股AI应用软件股全线走高，The Trade Desk升逾10%，Cloudflare升逾7%，Tempus AI、Unity Software升逾5%，Palantir、AppLovin、Snowflake升逾3%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 62.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股AI应用软件股全线走高",
+          "src": "东方财富",
+          "time": "2026-11-09 22:45:13",
+          "body": "美股AI应用软件股全线走高，The Trade Desk升逾10%，Cloudflare升逾7%，Tempus AI、Unity Software升逾5%，Palantir、AppLovin、Snowflake升逾3%。",
+          "score": 62.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:45:13",
+      "rank_score": 40.0
+    },
+    {
+      "eid": "8f9ec5c349",
+      "ekey": "铜冠矿建签订安哥拉铜矿项目采矿工",
+      "kind": "event_line",
+      "title": "铜冠矿建：签订安哥拉铜矿项目采矿工程合同",
+      "body": "铜冠矿建公告，公司与星耀伊卡洛斯有限公司于2026年11月6日签订《安哥拉威热省Cuia-Mavoio铜矿项目采矿工程合同》，新增Tetelo矿体区域采矿工程，合同暂定金额约2.05亿美元（含增值税）。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 62.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "铜冠矿建：签订安哥拉铜矿项目采矿工程合同",
+          "src": "东方财富",
+          "time": "2026-11-09 22:42:17",
+          "body": "铜冠矿建公告，公司与星耀伊卡洛斯有限公司于2026年11月6日签订《安哥拉威热省Cuia-Mavoio铜矿项目采矿工程合同》，新增Tetelo矿体区域采矿工程，合同暂定金额约2.05亿美元（含增值税）。",
+          "score": 62.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:42:17",
+      "rank_score": 40.0
+    },
+    {
+      "eid": "fd974c6ca0",
+      "ekey": "公司控股|此前与骑形网络",
+      "kind": "topic_line",
+      "title": "亚玛顿：控股股东拟6.8亿元转让20%股份，公司股票11月10日复牌",
+      "body": "亚玛顿公告，公司控股股东亚玛顿科技此前与骑形网络签署《股份转让意向协议》，可能导致公司控制权变更，公司股票自2026年11月3日起停牌。2026年11月9日，双方签署《股份转让协议》，亚玛顿科技拟以17.61元/股向骑形网络转让38612502股股份（占总股本20%），转让价款总额6.8亿元（含税）。若实施完成，控股股东将变更为骑形网络，实际控制人变更为赵云鹏。公司股票将于2026年11月10日上午开市起复牌。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 62.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "亚玛顿：控股股东拟6.8亿元转让20%股份，公司股票11月10日复牌",
+          "src": "同花顺",
+          "time": "2026-11-09 23:00:36",
+          "body": "亚玛顿公告，公司控股股东亚玛顿科技此前与骑形网络签署《股份转让意向协议》，可能导致公司控制权变更，公司股票自2026年11月3日起停牌。2026年11月9日，双方签署《股份转让协议》，亚玛顿科技拟以17.61元/股向骑形网络转让38612502股股份（占总股本20%），转让价款总额6.8亿元（含税）。若实施完成，控股股东将变更为骑形网络，实际控制人变更为赵云鹏。公司股票将于2026年11月10日上午开市起复牌。",
+          "score": 62.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 23:00:36",
+      "rank_score": 40.0
+    },
+    {
+      "eid": "9a288a59ea",
+      "ekey": "Cloud|谷歌",
+      "kind": "topic_line",
+      "title": "谷歌宣布Pathways在云端正式全面开放",
+      "body": "谷歌宣布，Pathways现已在Google Cloud Platform正式全面开放。Pathways是谷歌自主研发的大规模分布式机器学习运行系统，曾用于训练Gemini等大型模型，目前向谷歌云客户开放。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 62.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "谷歌宣布Pathways在云端正式全面开放",
+          "src": "东方财富",
+          "time": "2026-11-09 21:13:23",
+          "body": "谷歌宣布，Pathways现已在Google Cloud Platform正式全面开放。Pathways是谷歌自主研发的大规模分布式机器学习运行系统，曾用于训练Gemini等大型模型，目前向谷歌云客户开放。",
+          "score": 62.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:13:23",
+      "rank_score": 39.8
+    },
+    {
+      "eid": "6023f7c795",
+      "ekey": "美国天然气期货日内涨幅达",
+      "kind": "event_line",
+      "title": "美国天然气期货日内涨幅达3%",
+      "body": "美国天然气期货日内涨幅达3%，现报3.088美元/百万英热。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 62.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国天然气期货日内涨幅达3%",
+          "src": "东方财富",
+          "time": "2026-11-09 21:11:34",
+          "body": "美国天然气期货日内涨幅达3%，现报3.088美元/百万英热。",
+          "score": 62.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:11:34",
+      "rank_score": 39.8
+    },
+    {
+      "eid": "d93cd46e64",
+      "ekey": "美股三大股指均涨超",
+      "kind": "event_line",
+      "title": "美股三大股指均涨超1%",
+      "body": "美股高开高走，道琼斯指数涨1.19%，标普500指数涨1.25%，纳斯达克综合指数涨1.53%。苹果股价上涨2.16%，微软股价上涨2.27%，谷歌-A股价上涨3.54%，亚马逊股价上涨5.74%，台积电股价上涨2.45%，SpaceX股价上涨4.05%，Meta股价上涨5.14%，博通股价上涨6.05%，特斯拉股价上涨3.83%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 61.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股三大股指均涨超1%",
+          "src": "同花顺",
+          "time": "2026-11-09 22:41:34",
+          "body": "美股高开高走，道琼斯指数涨1.19%，标普500指数涨1.25%，纳斯达克综合指数涨1.53%。苹果股价上涨2.16%，微软股价上涨2.27%，谷歌-A股价上涨3.54%，亚马逊股价上涨5.74%，台积电股价上涨2.45%，SpaceX股价上涨4.05%，Meta股价上涨5.14%，博通股价上涨6.05%，特斯拉股价上涨3.83%。",
+          "score": 61.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:41:34",
+      "rank_score": 39.6
+    },
+    {
+      "eid": "0174338f2e",
+      "ekey": "千岸科技|和影响力千岸科技",
+      "kind": "topic_line",
+      "title": "千岸科技：通过与垂类红人、专业画师的深度合作 提高Ohuhu品牌的知名度和影响力",
+      "body": "千岸科技发布投资者关系活动记录表，公司通过打造Ohuhu品牌独立站，建立全球绘画爱好者社群，提高用户圈层认同感和Ohuhu品牌归属感；通过举办主题绘画活动，提高Ohuhu用户参与度；通过与垂类红人、专业画师的深度合作，提高Ohuhu品牌的知名度和影响力。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 60.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "千岸科技：通过与垂类红人、专业画师的深度合作 提高Ohuhu品牌的知名度和影响力",
+          "src": "东方财富",
+          "time": "2026-11-09 22:42:20",
+          "body": "千岸科技发布投资者关系活动记录表，公司通过打造Ohuhu品牌独立站，建立全球绘画爱好者社群，提高用户圈层认同感和Ohuhu品牌归属感；通过举办主题绘画活动，提高Ohuhu用户参与度；通过与垂类红人、专业画师的深度合作，提高Ohuhu品牌的知名度和影响力。",
+          "score": 60.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:42:20",
+      "rank_score": 39.2
+    },
+    {
+      "eid": "cfe75dd547",
+      "ekey": "亚马逊",
+      "kind": "topic_line",
+      "title": "亚马逊股价上涨5.7% 升至8月中旬以来新高",
+      "body": "亚马逊股价上涨5.7%，报274美元/股，升至8月中旬以来新高，总市值报2.96万亿美元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "亚马逊股价上涨5.7% 升至8月中旬以来新高",
+          "src": "东方财富",
+          "time": "2026-11-09 22:37:42",
+          "body": "亚马逊股价上涨5.7%，报274美元/股，升至8月中旬以来新高，总市值报2.96万亿美元。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:37:42",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "d3a3edb61a",
+      "ekey": "国务院|财政部#关税贸易",
+      "kind": "topic_line",
+      "title": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话",
+      "body": "中共中央政治局委员、国务院副总理、中加经济财金战略对话中方牵头人何立峰，与对话加方牵头人、加财政部长商鹏飞、国际贸易部长西杜9日在加拿大温哥华共同主持第二次中加经济财金战略对话。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "关税贸易",
+      "topicLabel": "关税与制裁",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话",
+          "src": "东方财富",
+          "time": "2026-11-10 00:31:14",
+          "body": "中共中央政治局委员、国务院副总理、中加经济财金战略对话中方牵头人何立峰，与对话加方牵头人、加财政部长商鹏飞、国际贸易部长西杜9日在加拿大温哥华共同主持第二次中加经济财金战略对话。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-10 00:31:14",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "11e93c5009",
+      "ekey": "润农节水围绕耕地与水利两大主线探",
+      "kind": "event_line",
+      "title": "润农节水：围绕耕地与水利两大主线 探索向耕地运营商方向升级",
+      "body": "润农节水发布投资者关系活动记录表，公司将继续立足高标准农田、农田水利、节水灌溉装备主业根基不动摇，围绕耕地与水利两大主线，探索向耕地运营商方向升级。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 59.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "润农节水：围绕耕地与水利两大主线 探索向耕地运营商方向升级",
+          "src": "东方财富",
+          "time": "2026-11-09 22:42:30",
+          "body": "润农节水发布投资者关系活动记录表，公司将继续立足高标准农田、农田水利、节水灌溉装备主业根基不动摇，围绕耕地与水利两大主线，探索向耕地运营商方向升级。",
+          "score": 59.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:42:30",
+      "rank_score": 38.6
+    },
+    {
+      "eid": "0ea0a61c7a",
+      "ekey": "Adobe与华特迪士尼公司宣布建",
+      "kind": "event_line",
+      "title": "Adobe与华特迪士尼公司宣布建立多年战略联盟",
+      "body": "Adobe与华特迪士尼公司宣布建立多年战略联盟，以全新AI驱动工具支持迪士尼创新。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 59.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Adobe与华特迪士尼公司宣布建立多年战略联盟",
+          "src": "东方财富",
+          "time": "2026-11-09 22:01:21",
+          "body": "Adobe与华特迪士尼公司宣布建立多年战略联盟，以全新AI驱动工具支持迪士尼创新。",
+          "score": 59.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:01:21",
+      "rank_score": 38.6
+    },
+    {
+      "eid": "2764714d7c",
+      "ekey": "美国上周战略石油储备中的原油库存",
+      "kind": "event_line",
+      "title": "美国上周战略石油储备中的原油库存降至2.795亿桶 为1982年以来的最低水平",
+      "body": "美国上周战略石油储备中的原油库存降至2.795亿桶，为1982年以来的最低水平。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国上周战略石油储备中的原油库存降至2.795亿桶 为1982年以来的最低水平",
+          "src": "东方财富",
+          "time": "2026-11-10 00:30:51",
+          "body": "美国上周战略石油储备中的原油库存降至2.795亿桶，为1982年以来的最低水平。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-10 00:30:51",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "d7c87e54e3",
+      "ekey": "红果短剧宣布持续加大对知识类公益",
+      "kind": "event_line",
+      "title": "红果短剧宣布持续加大对知识类、公益类微短剧的扶持力度",
+      "body": "在日前由红果短剧发起的“红果有新知”主题活动上，红果短剧宣布持续加大对知识类、公益类微短剧的扶持力度。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 58.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "红果短剧宣布持续加大对知识类、公益类微短剧的扶持力度",
+          "src": "东方财富",
+          "time": "2026-11-09 21:32:37",
+          "body": "在日前由红果短剧发起的“红果有新知”主题活动上，红果短剧宣布持续加大对知识类、公益类微短剧的扶持力度。",
+          "score": 58.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:32:37",
+      "rank_score": 38.2
+    },
+    {
+      "eid": "72fb14d1ae",
+      "ekey": "波罗的海干散货运价指数上涨",
+      "kind": "event_line",
+      "title": "波罗的海干散货运价指数上涨1.75%",
+      "body": "波罗的海干散货运价指数上涨1.75%，报2854点。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "航运/物流"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 58.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "波罗的海干散货运价指数上涨1.75%",
+          "src": "东方财富",
+          "time": "2026-11-09 21:00:33",
+          "body": "波罗的海干散货运价指数上涨1.75%，报2854点。",
+          "score": 58.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:00:33",
+      "rank_score": 38.2
+    },
+    {
+      "eid": "576ea2b460",
+      "ekey": "博通",
+      "kind": "topic_line",
+      "title": "博通股价涨幅扩大至6% 报311.435美元/股 总市值报1.49万亿美元",
+      "body": "博通股价涨幅扩大至6%，报311.435美元/股，总市值报1.49万亿美元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "博通股价涨幅扩大至6% 报311.435美元/股 总市值报1.49万亿美元",
+          "src": "东方财富",
+          "time": "2026-11-09 22:36:03",
+          "body": "博通股价涨幅扩大至6%，报311.435美元/股，总市值报1.49万亿美元。",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:36:03",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "c55beb93ed",
+      "ekey": "工信部",
+      "kind": "topic_line",
+      "title": "工信部：海螺、红狮等企业拟入围\"无废企业\"典型案例",
+      "body": "（来源：水泥网APP）10月19日，工业和信息化部节能与综合利用司发布《2026年度工业绿色低碳典型案例（无废园区“无废企业”方向）公示》...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "地产/基建"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "工信部：海螺、红狮等企业拟入围\"无废企业\"典型案例",
+          "src": "新浪财经",
+          "time": "2026-11-10 00:06:00",
+          "body": "（来源：水泥网APP）10月19日，工业和信息化部节能与综合利用司发布《2026年度工业绿色低碳典型案例（无废园区“无废企业”方向）公示》...",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-10 00:06:00",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "ba8b817dbd",
+      "ekey": "欧洲主要股指收盘集体上涨",
+      "kind": "event_line",
+      "title": "欧洲主要股指收盘集体上涨",
+      "body": "欧洲主要股指收盘集体上涨，英国富时100指数涨1.02%，法国CAC40指数涨1.20%，德国DAX30指数涨1.72%，富时意大利MIB指数涨2.69%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "欧洲主要股指收盘集体上涨",
+          "src": "东方财富",
+          "time": "2026-11-10 00:37:11",
+          "body": "欧洲主要股指收盘集体上涨，英国富时100指数涨1.02%，法国CAC40指数涨1.20%，德国DAX30指数涨1.72%，富时意大利MIB指数涨2.69%。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-10 00:37:11",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "a6dc0dbf6a",
+      "ekey": "润农节水董事兼常务副总被立案调查",
+      "kind": "event_line",
+      "title": "润农节水：董事兼常务副总被立案调查并留置",
+      "body": "润农节水公告，公司于2026年11月7日收到呼伦贝尔市监察委员会签发的《立案通知书》《留置通知书》，董事、常务副总经理张国峰被立案调查和实施留置措施。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "润农节水：董事兼常务副总被立案调查并留置",
+          "src": "东方财富",
+          "time": "2026-11-09 22:42:26",
+          "body": "润农节水公告，公司于2026年11月7日收到呼伦贝尔市监察委员会签发的《立案通知书》《留置通知书》，董事、常务副总经理张国峰被立案调查和实施留置措施。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:42:26",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "793ac55dbf",
+      "ekey": "国际原油期货延续下跌布油日内大跌",
+      "kind": "event_line",
+      "title": "国际原油期货延续下跌 布油日内大跌5%",
+      "body": "国际原油期货延续下跌，截至发稿，布伦特原油期货跌幅扩大至5%，报93.32美元/桶。WTI原油期货价格跌4.56%，报86.68美元/桶。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国际原油期货延续下跌 布油日内大跌5%",
+          "src": "东方财富",
+          "time": "2026-11-09 22:21:15",
+          "body": "国际原油期货延续下跌，截至发稿，布伦特原油期货跌幅扩大至5%，报93.32美元/桶。WTI原油期货价格跌4.56%，报86.68美元/桶。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:21:15",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "f23411e1c0",
+      "ekey": "国内商品期货夜盘开盘主力合约多数",
+      "kind": "event_line",
+      "title": "国内商品期货夜盘开盘 主力合约多数下跌",
+      "body": "国内商品期货夜盘开盘，主力合约多数下跌。跌幅方面，燃油跌超6%，原油、低硫燃油跌超4%，甲醇、LPG跌近4%，聚丙烯、丙烯、纯苯、沥青、瓶片跌超3%，苯乙烯跌近3%，对二甲苯、乙二醇、塑料、PTA、短纤跌超2%，玻璃、烧碱、焦煤、棕榈油、PVC等跌超1%；涨幅方面，沪金涨超1%，国际铜、沪银、铁矿石、沪铜、淀粉等小幅上涨。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国内商品期货夜盘开盘 主力合约多数下跌",
+          "src": "东方财富",
+          "time": "2026-11-09 21:00:14",
+          "body": "国内商品期货夜盘开盘，主力合约多数下跌。跌幅方面，燃油跌超6%，原油、低硫燃油跌超4%，甲醇、LPG跌近4%，聚丙烯、丙烯、纯苯、沥青、瓶片跌超3%，苯乙烯跌近3%，对二甲苯、乙二醇、塑料、PTA、短纤跌超2%，玻璃、烧碱、焦煤、棕榈油、PVC等跌超1%；涨幅方面，沪金涨超1%，国际铜、沪银、铁矿石、沪铜、淀粉等小幅上涨。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:00:14",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "d5565079be",
+      "ekey": "常友科技|造与销售常友科技",
+      "kind": "topic_line",
+      "title": "常友科技：现阶段无人机业务聚焦机体结构件研发制造与销售",
+      "body": "常友科技11月9日接受机构调研时表示，现阶段无人机业务聚焦机体结构件的研发制造与销售，发挥复合材料成型核心优势，做好壳体等结构配套；中长期，在结构件业务形成稳定交付、客户需求充分验证基础上，公司将结合市场需求、合作进展及自身能力边界，审慎评估开展总装集成、整机交付的可行性。上述中长期规划仅为方向性探讨，整机业务能否落地、落地节奏存在较大不确定性。（人民财讯）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T2",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "常友科技：现阶段无人机业务聚焦机体结构件研发制造与销售",
+          "src": "同花顺",
+          "time": "2026-11-09 21:41:21",
+          "body": "常友科技11月9日接受机构调研时表示，现阶段无人机业务聚焦机体结构件的研发制造与销售，发挥复合材料成型核心优势，做好壳体等结构配套；中长期，在结构件业务形成稳定交付、客户需求充分验证基础上，公司将结合市场需求、合作进展及自身能力边界，审慎评估开展总装集成、整机交付的可行性。上述中长期规划仅为方向性探讨，整机业务能否落地、落地节奏存在较大不确定性。（人民财讯）",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 21:41:21",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "4f1571d823",
+      "ekey": "SpaceX涨超",
+      "kind": "event_line",
+      "title": "SpaceX涨超6%",
+      "body": "SpaceX涨超6%，马斯克称SpaceX将在即将进行的试飞中尝试同时回收“超重”助推器和“星舰”飞船。若两者均成功，这将是轨道火箭所有部件首次完整返回地球。这是实现多行星生活所需的关键突破。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 54.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "SpaceX涨超6%",
+          "src": "同花顺",
+          "time": "2026-11-09 22:58:32",
+          "body": "SpaceX涨超6%，马斯克称SpaceX将在即将进行的试飞中尝试同时回收“超重”助推器和“星舰”飞船。若两者均成功，这将是轨道火箭所有部件首次完整返回地球。这是实现多行星生活所需的关键突破。",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:58:32",
+      "rank_score": 36.8
+    },
+    {
+      "eid": "83488c5de9",
+      "ekey": "金新农年月生猪销量万头同比下降",
+      "kind": "event_line",
+      "title": "金新农：2026年10月生猪销量7.58万头，同比下降53.46%",
+      "body": "金新农公告，2026年10月生猪销量7.58万头（其中商品猪1.70万头、仔猪5.88万头），同比下降53.46%，环比下降29.95%；商品猪销售均价10.84元/公斤，同比下降8.34%，环比下降8.66%；生猪销售收入2985.26万元，同比下降78.96%，环比下降43.70%。本年累计生猪销量130.32万头，累计销售收入8.98亿元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "新能源车",
+      "topicLabel": "新能源车",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "金新农：2026年10月生猪销量7.58万头，同比下降53.46%",
+          "src": "同花顺",
+          "time": "2026-11-09 20:48:10",
+          "body": "金新农公告，2026年10月生猪销量7.58万头（其中商品猪1.70万头、仔猪5.88万头），同比下降53.46%，环比下降29.95%；商品猪销售均价10.84元/公斤，同比下降8.34%，环比下降8.66%；生猪销售收入2985.26万元，同比下降78.96%，环比下降43.70%。本年累计生猪销量130.32万头，累计销售收入8.98亿元。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 20:48:10",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "679db44273",
+      "ekey": "广州轨道交通周启动向全球开放千亿",
+      "kind": "event_line",
+      "title": "2026广州轨道交通周启动 向全球开放千亿级产业场景 广州地铁两段线路年底开通",
+      "body": "【2026广州轨道交通周启动 向全球开放千亿级产业场景，广州地铁两段线路年底开通】11月8日，2026广州轨道交通周启动会在广州举办，标志着2026轨道交通周正式启动。据悉，今年年底，广州地铁将开通十三号线二期西段、十二号线中段，广州地铁运营里程将迈上800公里新台阶。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "2026广州轨道交通周启动 向全球开放千亿级产业场景 广州地铁两段线路年底开通",
+          "src": "东方财富",
+          "time": "2026-11-10 00:23:17",
+          "body": "【2026广州轨道交通周启动 向全球开放千亿级产业场景，广州地铁两段线路年底开通】11月8日，2026广州轨道交通周启动会在广州举办，标志着2026轨道交通周正式启动。据悉，今年年底，广州地铁将开通十三号线二期西段、十二号线中段，广州地铁运营里程将迈上800公里新台阶。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-10 00:23:17",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "664dca24ef",
+      "ekey": "富时中国A指数期货涨约报点",
+      "kind": "event_line",
+      "title": "富时中国A50指数期货涨约1% 报13031.0点",
+      "body": "富时中国A50指数期货涨约1%，报13031.0点。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "富时中国A50指数期货涨约1% 报13031.0点",
+          "src": "东方财富",
+          "time": "2026-11-10 00:05:15",
+          "body": "富时中国A50指数期货涨约1%，报13031.0点。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-10 00:05:15",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "8757fde5ea",
+      "ekey": "美元指数日内跌幅达",
+      "kind": "event_line",
+      "title": "美元指数日内跌幅达0.45%",
+      "body": "美元指数日内跌幅达0.45%，报101.8点。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 51.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美元指数日内跌幅达0.45%",
+          "src": "东方财富",
+          "time": "2026-11-09 22:03:29",
+          "body": "美元指数日内跌幅达0.45%，报101.8点。",
+          "score": 51.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:03:29",
+      "rank_score": 35.6
+    },
+    {
+      "eid": "4733cf629e",
+      "ekey": "以方认定迪拜航空|日乘坐迪拜航空",
+      "kind": "topic_line",
+      "title": "以方认定迪拜航空航班遇袭事件乘客为敌对事件受害者",
+      "body": "当地时间11月9日，以色列国防部宣布，正式将9月30日乘坐迪拜航空FZ1073航班的以色列乘客认定为敌对事件受害者。目前，该决定已提交至以色列国家安全局（辛贝特）进行后续处理。9月30日，迪拜航空FZ1073航班从阿联酋迪拜飞往以色列特拉维夫途中发生安全事件。据阿联酋方面消息，该航班副驾驶涉嫌在驾驶舱内持刀刺伤机长，导致飞机突然急降。其他机组人员和乘客制服袭击者后，机组重新控制飞机。事发后，该客机改道并安全降落在沙特阿拉伯塔布克机场。(央视新闻)",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 50.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "以方认定迪拜航空航班遇袭事件乘客为敌对事件受害者",
+          "src": "同花顺",
+          "time": "2026-11-10 00:34:16",
+          "body": "当地时间11月9日，以色列国防部宣布，正式将9月30日乘坐迪拜航空FZ1073航班的以色列乘客认定为敌对事件受害者。目前，该决定已提交至以色列国家安全局（辛贝特）进行后续处理。9月30日，迪拜航空FZ1073航班从阿联酋迪拜飞往以色列特拉维夫途中发生安全事件。据阿联酋方面消息，该航班副驾驶涉嫌在驾驶舱内持刀刺伤机长，导致飞机突然急降。其他机组人员和乘客制服袭击者后，机组重新控制飞机。事发后，该客机改道并安全降落在沙特阿拉伯塔布克机场。(央视新闻)",
+          "score": 50.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-10 00:34:16",
+      "rank_score": 35.0
+    },
+    {
+      "eid": "329bc221d6",
+      "ekey": "俄美乌三方会谈在即欧洲力争参会维",
+      "kind": "event_line",
+      "title": "俄美乌三方会谈在即 欧洲力争参会维护自身利益",
+      "body": "随着美国推动俄美乌三方工作级会谈，欧洲也在加紧协调，争取参与即将在阿联酋阿布扎比举行的谈判。不过，欧洲能否真正进入核心谈判环节并对最终决策产生影响，仍存在不确定性。据《政治报》欧洲版11月9日报道，由法国、德国和英国组成的欧洲三国集团（E3）将派国家安全顾问级别的官员参加阿布扎比相关活动。与此同时，欧盟委员会和欧洲理事会将派出联合代表团，北约也将派代表参与相关协调。但欧洲代表能否进入正式谈判室，目前仍未确定。一名欧盟官员透露，E3国家安全顾问可能在谈判场地内或附近活动，但不直接参与俄美乌三方谈判。德国官员则表示，阿布扎比会谈更像是一次启动性会议，具体参与形式将根据讨论进展决定，后续还将安排进一步磋商。欧盟委员会主席冯德莱恩9日与乌克兰总统泽连斯基通话后表示，欧盟将与合作伙伴一道出席相关会谈。欧洲争取参与谈判，背后不仅是对乌克兰和平进程的关切，更涉及欧洲自身的安全利益。(央视新闻)",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 50.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "俄美乌三方会谈在即 欧洲力争参会维护自身利益",
+          "src": "同花顺",
+          "time": "2026-11-09 23:19:43",
+          "body": "随着美国推动俄美乌三方工作级会谈，欧洲也在加紧协调，争取参与即将在阿联酋阿布扎比举行的谈判。不过，欧洲能否真正进入核心谈判环节并对最终决策产生影响，仍存在不确定性。据《政治报》欧洲版11月9日报道，由法国、德国和英国组成的欧洲三国集团（E3）将派国家安全顾问级别的官员参加阿布扎比相关活动。与此同时，欧盟委员会和欧洲理事会将派出联合代表团，北约也将派代表参与相关协调。但欧洲代表能否进入正式谈判室，目前仍未确定。一名欧盟官员透露，E3国家安全顾问可能在谈判场地内或附近活动，但不直接参与俄美乌三方谈判。德国官员则表示，阿布扎比会谈更像是一次启动性会议，具体参与形式将根据讨论进展决定，后续还将安排进一步磋商。欧盟委员会主席冯德莱恩9日与乌克兰总统泽连斯基通话后表示，欧盟将与合作伙伴一道出席相关会谈。欧洲争取参与谈判，背后不仅是对乌克兰和平进程的关切，更涉及欧洲自身的安全利益。(央视新闻)",
+          "score": 50.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 23:19:43",
+      "rank_score": 35.0
+    },
+    {
+      "eid": "1b03545adf",
+      "ekey": "援乌志愿联盟在波兰启动首次联合军",
+      "kind": "event_line",
+      "title": "援乌“志愿联盟”在波兰启动首次联合军演",
+      "body": "据波兰国防部消息，由英法牵头的“志愿联盟”9日在波兰启动首次多国联合军演，旨在为俄乌冲突结束后在乌部署部队做准备。约2800名来自比利时、爱沙尼亚、法国、德国、立陶宛、荷兰、波兰、西班牙、瑞典、土耳其、英国11国的军人参加，持续至11月22日，主要在距乌约100公里的新登巴镇一带举行，海上演习在土耳其进行。波兰是主要东道国，负责后勤保障，并表示将在俄乌冲突结束后协调多国部队调动，但不会向乌派遣本国军人。俄方发言人扎哈罗娃称俄方绝不接受在乌克兰部署外国武装力量。美国不是该联盟成员。（央视新闻）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "军工/国防"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T2",
+      "score": 50.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "援乌“志愿联盟”在波兰启动首次联合军演",
+          "src": "同花顺",
+          "time": "2026-11-09 22:53:20",
+          "body": "据波兰国防部消息，由英法牵头的“志愿联盟”9日在波兰启动首次多国联合军演，旨在为俄乌冲突结束后在乌部署部队做准备。约2800名来自比利时、爱沙尼亚、法国、德国、立陶宛、荷兰、波兰、西班牙、瑞典、土耳其、英国11国的军人参加，持续至11月22日，主要在距乌约100公里的新登巴镇一带举行，海上演习在土耳其进行。波兰是主要东道国，负责后勤保障，并表示将在俄乌冲突结束后协调多国部队调动，但不会向乌派遣本国军人。俄方发言人扎哈罗娃称俄方绝不接受在乌克兰部署外国武装力量。美国不是该联盟成员。（央视新闻）",
+          "score": 50.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-09 22:53:20",
+      "rank_score": 35.0
+    }
+  ],
+  "topics": [
+    {
+      "topic": "AI芯片",
+      "label": "AI 芯片与算力",
+      "count": 9,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 10.0,
+      "eids": [
+        "7dbbb6f2cb",
+        "55beb09cf4",
+        "16e234318a",
+        "3f232061ca",
+        "22fa1242af",
+        "cb18ac431d",
+        "22fa1242af",
+        "f03e55435d",
+        "22fa1242af"
+      ],
+      "lead": "美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地",
+      "events": [
+        {
+          "eid": "7dbbb6f2cb",
+          "ekey": "失地费城半导体|美股半导体#AI芯片",
+          "kind": "topic_line",
+          "title": "美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地",
+          "body": "费城半导体指数涨幅扩大至6.4%，报9958.16点，较11月5日暴跌日收盘价已反弹10%。AMD涨10.84%，Coherent涨16.44%，Lumentum涨13%，迈威尔科技涨10.45%，应用材料涨9.88%，博通涨8.61%，西部数据涨8.35%，希捷科技涨8.90%。不过，英伟达逆势下跌3.87%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 74.5,
+          "heat": 2.0,
+          "source_count": 2,
+          "sources": [
+            "东方财富",
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": true,
+          "member_count": 5,
+          "members": [
+            {
+              "title": "美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%失地",
+              "src": "东方财富",
+              "time": "2026-11-09 23:54:34",
+              "body": "费城半导体指数涨幅扩大至6.4%，报9958.16点，较11月5日暴跌日收盘价已反弹10%。AMD涨10.84%，Coherent涨16.44%，Lumentum涨13%，迈威尔科技涨10.45%，应用材料涨9.88%，博通涨8.61%，西部数据涨8.35%，希捷科技涨8.90%。不过，英伟达逆势下跌3.87%。",
+              "score": 74.5
+            },
+            {
+              "title": "费城半导体指数涨幅扩大至5% 英伟达跌幅收窄至3.8%",
+              "src": "东方财富",
+              "time": "2026-11-09 23:12:01",
+              "body": "费城半导体指数涨幅扩大至5%，报9862.3点。英伟达跌幅收窄至3.8%。Coherent涨12.90%，Lumentum涨11.31%，AMD涨8.96%，迈威尔科技涨8.82%，西部数据涨8.09%，希捷科技涨8.07%，博通涨7.68%，泛林集团涨7.16%，应用材料涨8.94%，闪迪涨5.68%，美光科技涨5.71%，SK海力士涨4.35%，台积电涨4.24%。三倍做多半导体ETF（SOXL）涨16.58%。",
+              "score": 74.5
+            },
+            {
+              "title": "费城半导体指数涨超3%",
+              "src": "东方财富",
+              "time": "2026-11-09 22:52:19",
+              "body": "截至发稿，费城半导体指数涨超3%，博通、AMD涨超6%，阿斯麦、西部数据涨超5%，希捷科技涨超3%。",
+              "score": 72.5
+            },
+            {
+              "title": "费城半导体指数日内涨3%",
+              "src": "同花顺",
+              "time": "2026-11-09 22:44:55",
+              "body": "费城半导体指数日内涨3%，现报9671.97点。英伟达跌5.60%，博通涨6.68%，美光涨2.65%，英特尔涨1.44%，AMD涨6.90%，高通涨0.90%，台积电涨3.02%，阿斯麦涨5.13%。",
+              "score": 61.5
+            },
+            {
+              "title": "费城半导体指数涨幅扩大至5%，报9862.3点",
+              "src": "同花顺",
+              "time": "2026-11-09 23:12:42",
+              "body": "费城半导体指数涨幅扩大至5%，报9862.3点。（财联社）",
+              "score": 59.5
+            }
+          ],
+          "merge_reasons": [
+            "共享 2 个实体（费城半导体/AMD）且同主题，判定为同一事件（相似度 0.20）",
+            "共享 2 个实体（费城半导体/英伟达）且同主题，判定为同一事件（相似度 0.24）",
+            "共享实体 费城半导体 + 同主题 AI芯片，相似度 0.50",
+            "共享实体 费城半导体/博通 + 同主题 AI芯片，相似度 0.50"
+          ],
+          "related": [],
+          "time": "2026-11-09 23:54:34",
+          "rank_score": 65.8
+        },
+        {
+          "eid": "55beb09cf4",
+          "ekey": "摩根士丹利|看好英伟达等科技#AI芯片",
+          "kind": "topic_line",
+          "title": "大摩看好英伟达等科技分区维持资本开支 预测2027年或达1.6万亿美元",
+          "body": "摩根士丹利在11月8日发布的最新全球主题研究报告中表示，美国股市选举后，市场对数据中心建设前景的担忧引发人工智能(AI)相关股票大幅调整，但该行认为市场反应过度，AI长期投资逻辑发生根本变化。摩根士丹利建议投资者采取转型逢低买入策略，重点关注大型科技公司、部分估值明显回落的半导体及数据中心基础设施企业，以及从AI商业化应用中受益软件的公司。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "AI应用/软件",
+            "半导体/AI芯片",
+            "算力/数据中心"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 79.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "大摩看好英伟达等科技分区维持资本开支 预测2027年或达1.6万亿美元",
+              "src": "东方财富",
+              "time": "2026-11-09 23:30:23",
+              "body": "摩根士丹利在11月8日发布的最新全球主题研究报告中表示，美国股市选举后，市场对数据中心建设前景的担忧引发人工智能(AI)相关股票大幅调整，但该行认为市场反应过度，AI长期投资逻辑发生根本变化。摩根士丹利建议投资者采取转型逢低买入策略，重点关注大型科技公司、部分估值明显回落的半导体及数据中心基础设施企业，以及从AI商业化应用中受益软件的公司。",
+              "score": 79.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 23:30:23",
+          "rank_score": 46.6
+        },
+        {
+          "eid": "16e234318a",
+          "ekey": "连板东方新能签署亿元算力板卡采购",
+          "kind": "event_line",
+          "title": "2连板东方新能：签署9.12亿元算力板卡采购合同",
+          "body": "东方新能(002310.SZ)公告称，公司计划由新能企管中心实施高性能算力集群项目，与经销商A签署销售合同，采购算力板卡，总金额约9.12亿元(含税)。本次采购的GPU产品主要用于AI应用推理、模型微调及图形渲染等场景，为公司拓展算力服务业务的首期投入。公司算力服务业务尚处于起步阶段，未形成相关收入，亦未形成确定的客户订单，本次采购对公司财务指标的影响暂无法测算。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件",
+            "算力/数据中心"
+          ],
+          "ctypeName": "公司事件",
+          "tier": "T1.5",
+          "score": 79.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "2连板东方新能：签署9.12亿元算力板卡采购合同",
+              "src": "东方财富",
+              "time": "2026-11-09 21:24:34",
+              "body": "东方新能(002310.SZ)公告称，公司计划由新能企管中心实施高性能算力集群项目，与经销商A签署销售合同，采购算力板卡，总金额约9.12亿元(含税)。本次采购的GPU产品主要用于AI应用推理、模型微调及图形渲染等场景，为公司拓展算力服务业务的首期投入。公司算力服务业务尚处于起步阶段，未形成相关收入，亦未形成确定的客户订单，本次采购对公司财务指标的影响暂无法测算。",
+              "score": 79.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 21:24:34",
+          "rank_score": 46.6
+        },
+        {
+          "eid": "3f232061ca",
+          "ekey": "AMD|博通#AI芯片",
+          "kind": "topic_line",
+          "title": "美股半导体板块多数上涨 博通、AMD、应用材料涨超6%",
+          "body": "美股半导体板块多数走高，费城半导体指数涨2.67%。个股方面，博通涨6.25%，AMD涨6.12%，Coherent涨7.49%，Lumentum涨6.63%，应用材料涨6.94%，阿斯麦涨5.19%，西部数据涨5.81%，希捷科技涨3.52%，迈威尔科技涨4.07%；台积电涨2.67%，美光科技涨1.87%，SK海力士涨1.04%。英伟达逆势跌5.89%。三倍做多半导体ETF（SOXL）涨8.57%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 74.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股半导体板块多数上涨 博通、AMD、应用材料涨超6%",
+              "src": "东方财富",
+              "time": "2026-11-09 22:43:43",
+              "body": "美股半导体板块多数走高，费城半导体指数涨2.67%。个股方面，博通涨6.25%，AMD涨6.12%，Coherent涨7.49%，Lumentum涨6.63%，应用材料涨6.94%，阿斯麦涨5.19%，西部数据涨5.81%，希捷科技涨3.52%，迈威尔科技涨4.07%；台积电涨2.67%，美光科技涨1.87%，SK海力士涨1.04%。英伟达逆势跌5.89%。三倍做多半导体ETF（SOXL）涨8.57%。",
+              "score": 74.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 22:43:43",
+          "rank_score": 44.8
+        },
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "美股三大股指高开 英伟达逆势下跌7%",
+          "body": "美股三大股指高开，道琼斯指数涨1.08%，标普500指数涨0.84%，纳斯达克综合指数涨0.87%。黄仁勋个人丑闻发酵并遭内部调查，英伟达跌超7%。苹果股价上涨0.89%，微软股价上涨2.48%，谷歌-A股价上涨2.64%，亚马逊股价上涨4.11%，台积电股价上涨0%，SpaceX股价上涨1.71%，Meta股价上涨3.37%，博通股价上涨3.81%，特斯拉股价上涨0.87%，SK海力士股价下跌0.5%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "半导体/AI芯片",
+            "汽车/智能驾驶"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 74.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股三大股指高开 英伟达逆势下跌7%",
+              "src": "东方财富",
+              "time": "2026-11-09 22:31:07",
+              "body": "美股三大股指高开，道琼斯指数涨1.08%，标普500指数涨0.84%，纳斯达克综合指数涨0.87%。黄仁勋个人丑闻发酵并遭内部调查，英伟达跌超7%。苹果股价上涨0.89%，微软股价上涨2.48%，谷歌-A股价上涨2.64%，亚马逊股价上涨4.11%，台积电股价上涨0%，SpaceX股价上涨1.71%，Meta股价上涨3.37%，博通股价上涨3.81%，特斯拉股价上涨0.87%，SK海力士股价下跌0.5%。",
+              "score": 74.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 22:31:07",
+          "rank_score": 44.8
+        },
+        {
+          "eid": "cb18ac431d",
+          "ekey": "AMD#AI芯片",
+          "kind": "topic_line",
+          "title": "AMD率先收复11月5日暴跌失地 在半导体板块反弹中领跑",
+          "body": "AMD连续两个交易日大幅反弹，当日上涨8.8%，上一交易日上涨11%，累计涨幅接近20%，成为半导体板块中首只完全收复11月5日暴跌17%失地的股票。与此同时，SpaceX也已收复此前跌幅。两者成为本轮市场大幅调整后，率先完成失地收复的代表。",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 70.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "AMD率先收复11月5日暴跌失地 在半导体板块反弹中领跑",
+              "src": "东方财富",
+              "time": "2026-11-09 23:03:05",
+              "body": "AMD连续两个交易日大幅反弹，当日上涨8.8%，上一交易日上涨11%，累计涨幅接近20%，成为半导体板块中首只完全收复11月5日暴跌17%失地的股票。与此同时，SpaceX也已收复此前跌幅。两者成为本轮市场大幅调整后，率先完成失地收复的代表。",
+              "score": 70.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 23:03:05",
+          "rank_score": 43.2
+        },
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "英伟达股价下跌5.9%",
+          "body": "英伟达股价盘前延续跌势，最新下跌5.9%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "行业观点",
+          "tier": "T1.5",
+          "score": 67.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "英伟达股价下跌5.9%",
+              "src": "东方财富",
+              "time": "2026-11-09 22:05:19",
+              "body": "英伟达股价盘前延续跌势，最新下跌5.9%。",
+              "score": 67.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 22:05:19",
+          "rank_score": 42.0
+        },
+        {
+          "eid": "f03e55435d",
+          "ekey": "东方新能算力服务尚处于起步阶段未",
+          "kind": "event_line",
+          "title": "东方新能：算力服务尚处于起步阶段，未形成收入",
+          "body": "东方新能公告，公司股票于2026年11月6日、11月9日连续两个交易日收盘价格涨幅偏离值累计超过20%。经核查，公司前期披露信息无需更正、补充，公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项。公司已披露拟拓展算力服务业务并签署算力板卡采购合同，但算力服务业务尚处于起步阶段，未形成相关收入或确定的客户订单，采购合同实施内容和进度存在较大不确定性，对公司财务指标的影响暂无法测算。公司参与投资建设的独立储能项目持股36%，已全容量并网但尚未转为商业运营，暂不产生运营收益。",
+          "dim": "military",
+          "dimName": "军事地缘",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片",
+            "算力/数据中心",
+            "新能源/锂电"
+          ],
+          "ctypeName": "公司事件",
+          "tier": "T2",
+          "score": 66.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "东方新能：算力服务尚处于起步阶段，未形成收入",
+              "src": "同花顺",
+              "time": "2026-11-09 21:26:05",
+              "body": "东方新能公告，公司股票于2026年11月6日、11月9日连续两个交易日收盘价格涨幅偏离值累计超过20%。经核查，公司前期披露信息无需更正、补充，公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项。公司已披露拟拓展算力服务业务并签署算力板卡采购合同，但算力服务业务尚处于起步阶段，未形成相关收入或确定的客户订单，采购合同实施内容和进度存在较大不确定性，对公司财务指标的影响暂无法测算。公司参与投资建设的独立储能项目持股36%，已全容量并网但尚未转为商业运营，暂不产生运营收益。",
+              "score": 66.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 21:26:05",
+          "rank_score": 41.4
+        },
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "英伟达股价盘初下跌8.8% 跌至3月以来最低点",
+          "body": "英伟达股价盘初下跌8.8%，跌至3月以来最低点。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "行业观点",
+          "tier": "T1.5",
+          "score": 64.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "英伟达股价盘初下跌8.8% 跌至3月以来最低点",
+              "src": "东方财富",
+              "time": "2026-11-09 22:31:36",
+              "body": "英伟达股价盘初下跌8.8%，跌至3月以来最低点。",
+              "score": 64.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 22:31:36",
+          "rank_score": 40.8
+        }
+      ]
+    },
+    {
+      "topic": "大模型",
+      "label": "大模型与 AI 应用",
+      "count": 3,
+      "sources": [
+        "东方财富"
+      ],
+      "heat": 3.0,
+      "eids": [
+        "2f9089c8d4",
+        "118705dd13",
+        "9a2a992ef4"
+      ],
+      "lead": "日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施",
+      "events": [
+        {
+          "eid": "2f9089c8d4",
+          "ekey": "日本软银集团|设施日本软银集团#大模型",
+          "kind": "topic_line",
+          "title": "日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施",
+          "body": "日本软银集团与Grab签署联合开发协议，将在马来西亚开发人工智能基础设施。软银集团将在人工智能领域投资10亿美元，Grab投资7.5亿美元，Petros投资1亿美元。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 71.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "日本软银集团与Grab签署联合开发协议 将在马来西亚开发人工智能基础设施",
+              "src": "东方财富",
+              "time": "2026-11-09 23:39:00",
+              "body": "日本软银集团与Grab签署联合开发协议，将在马来西亚开发人工智能基础设施。软银集团将在人工智能领域投资10亿美元，Grab投资7.5亿美元，Petros投资1亿美元。",
+              "score": 71.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 23:39:00",
+          "rank_score": 43.6
+        },
+        {
+          "eid": "118705dd13",
+          "ekey": "亚马逊#大模型",
+          "kind": "topic_line",
+          "title": "亚马逊：AWS承诺投入1亿美元用于人工智能和云技术",
+          "body": "亚马逊宣布，AWS承诺投入1亿美元用于人工智能和云技术，帮助全球机构扩展健康服务。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 68.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "亚马逊：AWS承诺投入1亿美元用于人工智能和云技术",
+              "src": "东方财富",
+              "time": "2026-11-09 22:03:29",
+              "body": "亚马逊宣布，AWS承诺投入1亿美元用于人工智能和云技术，帮助全球机构扩展健康服务。",
+              "score": 68.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 22:03:29",
+          "rank_score": 42.2
+        },
+        {
+          "eid": "9a2a992ef4",
+          "ekey": "Cloudf|Trade#大模型",
+          "kind": "topic_line",
+          "title": "美股AI应用软件股全线走高",
+          "body": "美股AI应用软件股全线走高，The Trade Desk升逾10%，Cloudflare升逾7%，Tempus AI、Unity Software升逾5%，Palantir、AppLovin、Snowflake升逾3%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 62.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "大模型",
+          "topicLabel": "大模型与 AI 应用",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股AI应用软件股全线走高",
+              "src": "东方财富",
+              "time": "2026-11-09 22:45:13",
+              "body": "美股AI应用软件股全线走高，The Trade Desk升逾10%，Cloudflare升逾7%，Tempus AI、Unity Software升逾5%，Palantir、AppLovin、Snowflake升逾3%。",
+              "score": 62.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-09 22:45:13",
+          "rank_score": 40.0
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "input_articles": 60,
+    "events": 56,
+    "merged_away": 4,
+    "redundancy": 1.07,
+    "multi_source_events": 1,
+    "roundup_articles": 1,
+    "story_links": 2,
+    "method": "rule_based",
+    "topic_blocks": 2,
+    "compared_with": "2026-11-09 08:00:14",
+    "new_events": 53,
+    "rising_events": 0
+  },
+  "provenance": {
+    "method": "rule_based_clustering",
+    "status": "derived",
+    "detail": "事件合并与主题归组由标题相似度 + 实体重叠规则判定，非 LLM 语义判断；热度按独立来源数计算（48h 内每源一次，24h 减半）"
+  }
+}
