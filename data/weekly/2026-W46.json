@@ -4,7 +4,7 @@
     "2026-11-10",
     "2026-11-04"
   ],
-  "generated_at": "2026-11-10 00:50",
+  "generated_at": "2026-11-10 08:01",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
@@ -16,9 +16,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 429688,
-      "stars_last": 446092,
-      "stars_growth": 16404,
+      "stars_first": 429636,
+      "stars_last": 446888,
+      "stars_growth": 17252,
       "trend": "flat"
     },
     {
@@ -31,9 +31,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 58643,
-      "stars_last": 67681,
-      "stars_growth": 9038,
+      "stars_first": 58632,
+      "stars_last": 68052,
+      "stars_growth": 9420,
       "trend": "flat"
     },
     {
@@ -46,9 +46,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 60402,
-      "stars_last": 67245,
-      "stars_growth": 6843,
+      "stars_first": 60381,
+      "stars_last": 67345,
+      "stars_growth": 6964,
       "trend": "flat"
     },
     {
@@ -61,9 +61,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 272197,
-      "stars_last": 277224,
-      "stars_growth": 5027,
+      "stars_first": 272174,
+      "stars_last": 277353,
+      "stars_growth": 5179,
       "trend": "flat"
     },
     {
@@ -76,9 +76,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 51810,
-      "stars_last": 55292,
-      "stars_growth": 3482,
+      "stars_first": 51804,
+      "stars_last": 55460,
+      "stars_growth": 3656,
       "trend": "flat"
     },
     {
@@ -91,9 +91,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 29618,
-      "stars_last": 33025,
-      "stars_growth": 3407,
+      "stars_first": 29613,
+      "stars_last": 33095,
+      "stars_growth": 3482,
       "trend": "flat"
     },
     {
@@ -106,9 +106,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 184270,
-      "stars_last": 187445,
-      "stars_growth": 3175,
+      "stars_first": 184258,
+      "stars_last": 187679,
+      "stars_growth": 3421,
       "trend": "flat"
     },
     {
@@ -121,9 +121,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 39757,
-      "stars_last": 42399,
-      "stars_growth": 2642,
+      "stars_first": 39750,
+      "stars_last": 42499,
+      "stars_growth": 2749,
       "trend": "flat"
     },
     {
@@ -136,9 +136,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 2203,
-      "stars_last": 4264,
-      "stars_growth": 2061,
+      "stars_first": 2175,
+      "stars_last": 4271,
+      "stars_growth": 2096,
       "trend": "down"
     },
     {
@@ -151,9 +151,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 47595,
-      "stars_last": 49292,
-      "stars_growth": 1697,
+      "stars_first": 47591,
+      "stars_last": 49394,
+      "stars_growth": 1803,
       "trend": "flat"
     },
     {
@@ -166,9 +166,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 260461,
-      "stars_last": 261987,
-      "stars_growth": 1526,
+      "stars_first": 260455,
+      "stars_last": 262067,
+      "stars_growth": 1612,
       "trend": "flat"
     },
     {
@@ -181,9 +181,24 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 51072,
-      "stars_last": 52542,
-      "stars_growth": 1470,
+      "stars_first": 51066,
+      "stars_last": 52617,
+      "stars_growth": 1551,
+      "trend": "flat"
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "lang": "Rust",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-10",
+      "stars_first": 76821,
+      "stars_last": 78244,
+      "stars_growth": 1423,
       "trend": "flat"
     },
     {
@@ -196,24 +211,24 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 1141,
-      "stars_last": 2486,
-      "stars_growth": 1345,
+      "stars_first": 1126,
+      "stars_last": 2507,
+      "stars_growth": 1381,
       "trend": "down"
     },
     {
-      "full_name": "storytold/photocraft",
-      "desc": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-      "lang": "Rust",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
       "days_on_board": 7,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 76823,
-      "stars_last": 78160,
-      "stars_growth": 1337,
+      "stars_first": 62672,
+      "stars_last": 63937,
+      "stars_growth": 1265,
       "trend": "flat"
     },
     {
@@ -226,24 +241,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 73388,
-      "stars_last": 74584,
-      "stars_growth": 1196,
-      "trend": "flat"
-    },
-    {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "lang": "JavaScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 62676,
-      "stars_last": 63839,
-      "stars_growth": 1163,
+      "stars_first": 73380,
+      "stars_last": 74598,
+      "stars_growth": 1218,
       "trend": "flat"
     },
     {
@@ -256,9 +256,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 1419,
-      "stars_last": 2563,
-      "stars_growth": 1144,
+      "stars_first": 1412,
+      "stars_last": 2602,
+      "stars_growth": 1190,
       "trend": "up"
     },
     {
@@ -271,9 +271,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 32884,
-      "stars_last": 33834,
-      "stars_growth": 950,
+      "stars_first": 32883,
+      "stars_last": 33872,
+      "stars_growth": 989,
       "trend": "flat"
     },
     {
@@ -286,9 +286,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 34849,
-      "stars_last": 35508,
-      "stars_growth": 659,
+      "stars_first": 34847,
+      "stars_last": 35516,
+      "stars_growth": 669,
       "trend": "flat"
     },
     {
@@ -301,9 +301,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 30541,
-      "stars_last": 31016,
-      "stars_growth": 475,
+      "stars_first": 30542,
+      "stars_last": 31032,
+      "stars_growth": 490,
       "trend": "flat"
     },
     {
@@ -316,9 +316,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 1721,
-      "stars_last": 2190,
-      "stars_growth": 469,
+      "stars_first": 1719,
+      "stars_last": 2203,
+      "stars_growth": 484,
       "trend": "down"
     },
     {
@@ -332,8 +332,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
       "stars_first": 95057,
-      "stars_last": 95509,
-      "stars_growth": 452,
+      "stars_last": 95522,
+      "stars_growth": 465,
       "trend": "flat"
     },
     {
@@ -347,8 +347,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
       "stars_first": 371240,
-      "stars_last": 371637,
-      "stars_growth": 397,
+      "stars_last": 371672,
+      "stars_growth": 432,
       "trend": "flat"
     },
     {
@@ -361,9 +361,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 393891,
-      "stars_last": 394235,
-      "stars_growth": 344,
+      "stars_first": 393889,
+      "stars_last": 394253,
+      "stars_growth": 364,
       "trend": "flat"
     },
     {
@@ -376,9 +376,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 49414,
-      "stars_last": 49711,
-      "stars_growth": 297,
+      "stars_first": 49413,
+      "stars_last": 49726,
+      "stars_growth": 313,
       "trend": "flat"
     },
     {
@@ -391,9 +391,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
-      "stars_first": 34998,
-      "stars_last": 35281,
-      "stars_growth": 283,
+      "stars_first": 34999,
+      "stars_last": 35293,
+      "stars_growth": 294,
       "trend": "flat"
     },
     {
@@ -407,8 +407,8 @@
       "first_date": "2026-11-04",
       "last_date": "2026-11-10",
       "stars_first": 458531,
-      "stars_last": 458809,
-      "stars_growth": 278,
+      "stars_last": 458824,
+      "stars_growth": 293,
       "trend": "flat"
     },
     {
@@ -421,9 +421,9 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-09",
-      "stars_first": 10414,
+      "stars_first": 10374,
       "stars_last": 22551,
-      "stars_growth": 12137,
+      "stars_growth": 12177,
       "trend": "up"
     },
     {
@@ -437,8 +437,8 @@
       "first_date": "2026-11-05",
       "last_date": "2026-11-10",
       "stars_first": 735,
-      "stars_last": 5501,
-      "stars_growth": 4766,
+      "stars_last": 5901,
+      "stars_growth": 5166,
       "trend": "up"
     },
     {
@@ -451,13 +451,39 @@
       ],
       "first_date": "2026-11-04",
       "last_date": "2026-11-09",
-      "stars_first": 18324,
+      "stars_first": 18308,
       "stars_last": 21185,
-      "stars_growth": 2861,
+      "stars_growth": 2877,
       "trend": "flat"
     }
   ],
   "news_mainlines": [
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "美联储12月加息的概率为84.2%",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-06",
+          "title": "美联储12月加息的概率降至68.7%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-09",
+          "title": "美联储12月加息的概率为78%",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-10",
+          "title": "美联储12月加息的概率为84.2%",
+          "heat": 2.0,
+          "sources": 2
+        }
+      ]
+    },
     {
       "topicLabel": "宏观经济/政策",
       "title": "外储规模连续7个月站上3.4万亿美元 央行黄金储备“24连增”",
@@ -486,16 +512,10 @@
     },
     {
       "topicLabel": "综合",
-      "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
+      "title": "A股限售股解禁一览：85.26亿元市值限售股今日解禁",
       "days": 3,
       "kind": "event_line",
       "points": [
-        {
-          "date": "2026-11-05",
-          "title": "A股限售股解禁一览：5.9亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-06",
           "title": "A股限售股解禁一览：31.28亿元市值限售股今日解禁",
@@ -507,32 +527,18 @@
           "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
           "heat": 1.0,
           "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "宏观经济/政策",
-      "title": "美联储12月加息的概率为78%",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-06",
-          "title": "美联储12月加息的概率降至68.7%",
-          "heat": 1.0,
-          "sources": 1
         },
         {
-          "date": "2026-11-09",
-          "title": "美联储12月加息的概率为78%",
-          "heat": 2.0,
-          "sources": 2
+          "date": "2026-11-10",
+          "title": "A股限售股解禁一览：85.26亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
         }
       ]
     },
     {
       "topicLabel": "综合",
-      "title": "英伟达股价盘初下跌8.8% 跌至3月以来最低点",
+      "title": "英伟达开盘一度猛跌8.8% 黄仁勋承认婚外情或被免职 英伟达还能投吗？美专家：投资者需将个人问题与企业区分开来",
       "days": 2,
       "kind": "topic_line",
       "points": [
@@ -544,7 +550,7 @@
         },
         {
           "date": "2026-11-10",
-          "title": "美股三大股指高开 英伟达逆势下跌7%",
+          "title": "英伟达开盘一度猛跌8.8% 黄仁勋承认婚外情或被免职 英伟达还能投吗？美专家：投资者需将个人问题与企业区分开来",
           "heat": 1.0,
           "sources": 1
         }
@@ -565,46 +571,6 @@
         {
           "date": "2026-11-05",
           "title": "前三季度我国服务进出口总额同比增长8.5%",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "OpenAI以1.25万亿美元的估值完成了110亿美元的新一轮融资",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-05",
-          "title": "OpenAI推出Images 2.6，图像生成速度提升50%，新增GIF生成功能",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-07",
-          "title": "OpenAI以1.25万亿美元的估值完成了110亿美元的新一轮融资",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "宏观经济",
-      "title": "10月PPI同比涨5.7%，创52月新高",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-05",
-          "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-10",
-          "title": "10月PPI同比涨5.7%，创52月新高",
           "heat": 1.0,
           "sources": 1
         }
@@ -632,19 +598,19 @@
     },
     {
       "topicLabel": "综合",
-      "title": "美国9月贸易逆差维持在相对高位",
+      "title": "苹果：完成75亿美元债券发行",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
           "date": "2026-11-04",
-          "title": "“稳+进”！前9个月我国服务贸易运行态势良好",
+          "title": "伯恩斯坦上调苹果目标价",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-05",
-          "title": "美国9月贸易逆差维持在相对高位",
+          "date": "2026-11-10",
+          "title": "苹果：完成75亿美元债券发行",
           "heat": 1.0,
           "sources": 1
         }
@@ -671,20 +637,20 @@
       ]
     },
     {
-      "topicLabel": "宏观经济",
-      "title": "工信部：海螺、红狮等企业拟入围\"无废企业\"典型案例",
+      "topicLabel": "综合",
+      "title": "再贷款政策持续发力 低成本资金助力上市公司回购增持",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-07",
-          "title": "三大集群拟入列“国家队”，宁波先进制造“组团进阶”",
+          "date": "2026-11-06",
+          "title": "降成本 强信心 股票回购增持再贷款筑牢市场稳定基石",
           "heat": 1.0,
           "sources": 1
         },
         {
           "date": "2026-11-10",
-          "title": "工信部：海螺、红狮等企业拟入围\"无废企业\"典型案例",
+          "title": "再贷款政策持续发力 低成本资金助力上市公司回购增持",
           "heat": 1.0,
           "sources": 1
         }
@@ -692,19 +658,59 @@
     },
     {
       "topicLabel": "综合",
-      "title": "费城半导体指数日内跌12%",
+      "title": "环球下周看点：美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
           "date": "2026-11-05",
-          "title": "费城半导体指数日内跌3%",
+          "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
           "heat": 1.0,
           "sources": 1
         },
         {
+          "date": "2026-11-08",
+          "title": "环球下周看点：美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "理财产品“中途谢幕”：规模竞赛让位需求导向",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
           "date": "2026-11-06",
-          "title": "费城半导体指数日内跌12%",
+          "title": "多家银行理财子公司发声：理性看待波动 坚守长期配置",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "理财产品“中途谢幕”：规模竞赛让位需求导向",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "高盛称AI债务供给压力正在信用市场累积",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-07",
+          "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-09",
+          "title": "高盛称AI债务供给压力正在信用市场累积",
           "heat": 1.0,
           "sources": 1
         }
@@ -712,9 +718,9 @@
     }
   ],
   "stat": {
-    "repos_tracked": 80,
-    "repos_multi_day": 73,
-    "mainlines": 18
+    "repos_tracked": 81,
+    "repos_multi_day": 72,
+    "mainlines": 14
   },
   "provenance": {
     "method": "aggregate_over_archives",
