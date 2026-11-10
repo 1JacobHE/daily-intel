@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-10 00:50:31",
+  "updated_at": "2026-11-10 08:01:09",
   "count": 23,
   "latest": "2026-11-10",
   "days": [
     {
       "date": "2026-11-10",
-      "generated_at": "2026-11-10 00:50:23",
+      "generated_at": "2026-11-10 08:01:07",
       "rocket_count": 20,
       "delta_count": 67,
-      "top_repo": "jhaizhou-ops/S2Arm"
+      "top_repo": "huamidev/GestaltX"
     },
     {
       "date": "2026-11-09",
@@ -47,7 +47,7 @@
     },
     {
       "date": "2026-11-04",
-      "generated_at": "2026-11-04 23:20:42",
+      "generated_at": "2026-11-04 23:03:44",
       "rocket_count": 20,
       "delta_count": 31,
       "top_repo": "deepseek-ai/dsh-superagent-prototype"
