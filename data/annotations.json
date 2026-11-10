@@ -1,7 +1,7 @@
 {
-  "jhaizhou-ops/S2Arm": {
-    "name": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
-    "tag": "其他",
+  "huamidev/GestaltX": {
+    "name": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+    "tag": "开发工具",
     "auto": true
   },
   "NotRexed/Hookshot": {
@@ -9,19 +9,19 @@
     "tag": "其他",
     "auto": true
   },
-  "tangerineturtle1/NX2navi": {
-    "name": "（官方未提供简介）",
+  "jhaizhou-ops/S2Arm": {
+    "name": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
     "tag": "其他",
-    "auto": true
-  },
-  "huamidev/GestaltX": {
-    "name": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-    "tag": "开发工具",
     "auto": true
   },
   "Minireel/HGhub": {
     "name": "YellowFruit third-party client",
     "tag": "开发工具",
+    "auto": true
+  },
+  "tangerineturtle1/NX2navi": {
+    "name": "（官方未提供简介）",
+    "tag": "其他",
     "auto": true
   },
   "KKKKhazix/agent-autoloop": {
@@ -34,9 +34,9 @@
     "tag": "其他",
     "auto": true
   },
-  "Th0rgal/satmux": {
-    "name": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-    "tag": "其他",
+  "govijr/terminal-mac": {
+    "name": "Entire MacOS running in your terminal.",
+    "tag": "开发工具",
     "auto": true
   },
   "DIYgod/pinky": {
@@ -44,28 +44,18 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "govijr/terminal-mac": {
-    "name": "Entire MacOS running in your terminal.",
-    "tag": "开发工具",
-    "auto": true
-  },
-  "sostenesfreitas/ocarina-recomp": {
-    "name": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+  "Th0rgal/satmux": {
+    "name": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
     "tag": "其他",
     "auto": true
   },
-  "mmdoctor/google-pro-helper": {
-    "name": "（官方未提供简介）",
-    "tag": "其他",
+  "janestreet/agent_skills": {
+    "name": "Agent skills",
+    "tag": "AI Agent",
     "auto": true
   },
   "mromidev/claude-animated-shorts": {
     "name": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "voyager-so/vork": {
-    "name": "Headless 3D and VFX engine for agents. Research preview.",
     "tag": "AI Agent",
     "auto": true
   },
@@ -74,14 +64,24 @@
     "tag": "其他",
     "auto": true
   },
+  "mmdoctor/google-pro-helper": {
+    "name": "（官方未提供简介）",
+    "tag": "其他",
+    "auto": true
+  },
   "sarpstar/cinecode": {
     "name": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
     "tag": "AI Agent",
     "auto": true
   },
-  "livliv-dev/player": {
-    "name": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+  "sostenesfreitas/ocarina-recomp": {
+    "name": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
     "tag": "其他",
+    "auto": true
+  },
+  "voyager-so/vork": {
+    "name": "Headless 3D and VFX engine for agents. Research preview.",
+    "tag": "AI Agent",
     "auto": true
   },
   "caru-ini/stack-diagram": {
@@ -94,9 +94,9 @@
     "tag": "其他",
     "auto": true
   },
-  "Sandflow-ai/sand3d": {
-    "name": "3D modeling in Python, built for LLMs.",
-    "tag": "模型/推理",
+  "livliv-dev/player": {
+    "name": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+    "tag": "其他",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
