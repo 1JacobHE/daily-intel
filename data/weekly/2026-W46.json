@@ -1,10 +1,10 @@
 {
   "week": "2026-W46",
   "date_range": [
-    "2026-11-10",
-    "2026-11-04"
+    "2026-11-11",
+    "2026-11-05"
   ],
-  "generated_at": "2026-11-10 08:01",
+  "generated_at": "2026-11-11 14:00",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
@@ -14,11 +14,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 429636,
-      "stars_last": 446888,
-      "stars_growth": 17252,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 431041,
+      "stars_last": 450649,
+      "stars_growth": 19608,
       "trend": "flat"
     },
     {
@@ -29,11 +29,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 58632,
-      "stars_last": 68052,
-      "stars_growth": 9420,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 59472,
+      "stars_last": 69557,
+      "stars_growth": 10085,
       "trend": "flat"
     },
     {
@@ -44,12 +44,27 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 60381,
-      "stars_last": 67345,
-      "stars_growth": 6964,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 60802,
+      "stars_last": 69057,
+      "stars_growth": 8255,
       "trend": "flat"
+    },
+    {
+      "full_name": "Minireel/HGhub",
+      "desc": "YellowFruit third-party client",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 735,
+      "stars_last": 8192,
+      "stars_growth": 7457,
+      "trend": "up"
     },
     {
       "full_name": "deepseek-ai/deepseek-harness",
@@ -59,26 +74,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 272174,
-      "stars_last": 277353,
-      "stars_growth": 5179,
-      "trend": "flat"
-    },
-    {
-      "full_name": "Gathin23/cleanyourtv",
-      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "lang": "Python",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 51804,
-      "stars_last": 55460,
-      "stars_growth": 3656,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 272622,
+      "stars_last": 278401,
+      "stars_growth": 5779,
       "trend": "flat"
     },
     {
@@ -89,11 +89,26 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 29613,
-      "stars_last": 33095,
-      "stars_growth": 3482,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 29781,
+      "stars_last": 34121,
+      "stars_growth": 4340,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 52043,
+      "stars_last": 56115,
+      "stars_growth": 4072,
       "trend": "flat"
     },
     {
@@ -104,11 +119,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 184258,
-      "stars_last": 187679,
-      "stars_growth": 3421,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 184577,
+      "stars_last": 188540,
+      "stars_growth": 3963,
       "trend": "flat"
     },
     {
@@ -119,27 +134,12 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 39750,
-      "stars_last": 42499,
-      "stars_growth": 2749,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 39990,
+      "stars_last": 42970,
+      "stars_growth": 2980,
       "trend": "flat"
-    },
-    {
-      "full_name": "KKKKhazix/agent-autoloop",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 2175,
-      "stars_last": 4271,
-      "stars_growth": 2096,
-      "trend": "down"
     },
     {
       "full_name": "JustVugg/colibri",
@@ -149,11 +149,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 47591,
-      "stars_last": 49394,
-      "stars_growth": 1803,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 47770,
+      "stars_last": 49807,
+      "stars_growth": 2037,
       "trend": "flat"
     },
     {
@@ -164,12 +164,27 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 260455,
-      "stars_last": 262067,
-      "stars_growth": 1612,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 260573,
+      "stars_last": 262521,
+      "stars_growth": 1948,
       "trend": "flat"
+    },
+    {
+      "full_name": "KKKKhazix/agent-autoloop",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 2580,
+      "stars_last": 4459,
+      "stars_growth": 1879,
+      "trend": "down"
     },
     {
       "full_name": "boykopovar/AnyPS5",
@@ -179,11 +194,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 51066,
-      "stars_last": 52617,
-      "stars_growth": 1551,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 51193,
+      "stars_last": 53038,
+      "stars_growth": 1845,
       "trend": "flat"
     },
     {
@@ -194,41 +209,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 76821,
-      "stars_last": 78244,
-      "stars_growth": 1423,
-      "trend": "flat"
-    },
-    {
-      "full_name": "govijr/terminal-mac",
-      "desc": "Entire MacOS running in your terminal.",
-      "lang": "Swift",
-      "days_on_board": 7,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 1126,
-      "stars_last": 2507,
-      "stars_growth": 1381,
-      "trend": "down"
-    },
-    {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "lang": "JavaScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 62672,
-      "stars_last": 63937,
-      "stars_growth": 1265,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 76935,
+      "stars_last": 78557,
+      "stars_growth": 1622,
       "trend": "flat"
     },
     {
@@ -239,27 +224,27 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 73380,
-      "stars_last": 74598,
-      "stars_growth": 1218,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 73453,
+      "stars_last": 74867,
+      "stars_growth": 1414,
       "trend": "flat"
     },
     {
-      "full_name": "mromidev/claude-animated-shorts",
-      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "lang": "TypeScript",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
       "days_on_board": 7,
       "boards": [
-        "火箭榜"
+        "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 1412,
-      "stars_last": 2602,
-      "stars_growth": 1190,
-      "trend": "up"
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 62803,
+      "stars_last": 64186,
+      "stars_growth": 1383,
+      "trend": "flat"
     },
     {
       "full_name": "vorssaint/vorssaint-utils",
@@ -269,11 +254,41 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 32883,
-      "stars_last": 33872,
-      "stars_growth": 989,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 32960,
+      "stars_last": 34052,
+      "stars_growth": 1092,
+      "trend": "flat"
+    },
+    {
+      "full_name": "govijr/terminal-mac",
+      "desc": "Entire MacOS running in your terminal.",
+      "lang": "Swift",
+      "days_on_board": 7,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 1560,
+      "stars_last": 2564,
+      "stars_growth": 1004,
+      "trend": "down"
+    },
+    {
+      "full_name": "torvalds/linux",
+      "desc": "Linux kernel source tree",
+      "lang": "C",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 254411,
+      "stars_last": 255225,
+      "stars_growth": 814,
       "trend": "flat"
     },
     {
@@ -284,11 +299,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 34847,
-      "stars_last": 35516,
-      "stars_growth": 669,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 34875,
+      "stars_last": 35660,
+      "stars_growth": 785,
       "trend": "flat"
     },
     {
@@ -299,41 +314,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 30542,
-      "stars_last": 31032,
-      "stars_growth": 490,
-      "trend": "flat"
-    },
-    {
-      "full_name": "caru-ini/stack-diagram",
-      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 1719,
-      "stars_last": 2203,
-      "stars_growth": 484,
-      "trend": "down"
-    },
-    {
-      "full_name": "odysseus-dev/odysseus",
-      "desc": "Self-hosted AI workspace.",
-      "lang": "Python",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 95057,
-      "stars_last": 95522,
-      "stars_growth": 465,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 30564,
+      "stars_last": 31086,
+      "stars_growth": 522,
       "trend": "flat"
     },
     {
@@ -344,56 +329,26 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 371240,
-      "stars_last": 371672,
-      "stars_growth": 432,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 371274,
+      "stars_last": 371772,
+      "stars_growth": 498,
       "trend": "flat"
     },
     {
-      "full_name": "openclaw/openclaw",
-      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 393889,
-      "stars_last": 394253,
-      "stars_growth": 364,
-      "trend": "flat"
-    },
-    {
-      "full_name": "alibaba/open-code-review",
-      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "lang": "Go",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 49413,
-      "stars_last": 49726,
-      "stars_growth": 313,
-      "trend": "flat"
-    },
-    {
-      "full_name": "NandhaKishorM/laya",
-      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "full_name": "odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
       "lang": "Python",
       "days_on_board": 7,
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 34999,
-      "stars_last": 35293,
-      "stars_growth": 294,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 95083,
+      "stars_last": 95570,
+      "stars_growth": 487,
       "trend": "flat"
     },
     {
@@ -404,31 +359,61 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-10",
-      "stars_first": 458531,
-      "stars_last": 458824,
-      "stars_growth": 293,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 458551,
+      "stars_last": 458962,
+      "stars_growth": 411,
       "trend": "flat"
     },
     {
-      "full_name": "storytold/craft-anything",
-      "desc": "Craft Anything: understand how any software works, and craft your own.",
-      "lang": "Rust",
-      "days_on_board": 6,
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 7,
       "boards": [
-        "火箭榜"
+        "活跃榜"
       ],
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-09",
-      "stars_first": 10374,
-      "stars_last": 22551,
-      "stars_growth": 12177,
-      "trend": "up"
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 393920,
+      "stars_last": 394312,
+      "stars_growth": 392,
+      "trend": "flat"
     },
     {
-      "full_name": "Minireel/HGhub",
-      "desc": "YellowFruit third-party client",
+      "full_name": "alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 49435,
+      "stars_last": 49812,
+      "stars_growth": 377,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-11",
+      "stars_first": 35016,
+      "stars_last": 35375,
+      "stars_growth": 359,
+      "trend": "flat"
+    },
+    {
+      "full_name": "mromidev/claude-animated-shorts",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
       "lang": "TypeScript",
       "days_on_board": 6,
       "boards": [
@@ -436,28 +421,75 @@
       ],
       "first_date": "2026-11-05",
       "last_date": "2026-11-10",
-      "stars_first": 735,
-      "stars_last": 5901,
-      "stars_growth": 5166,
+      "stars_first": 1530,
+      "stars_last": 2602,
+      "stars_growth": 1072,
       "trend": "up"
     },
     {
-      "full_name": "deepseek-ai/dsh-superagent-prototype",
-      "desc": "Towards a More Autonomous Agent System",
+      "full_name": "caru-ini/stack-diagram",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
       "lang": "TypeScript",
       "days_on_board": 6,
       "boards": [
         "火箭榜"
       ],
-      "first_date": "2026-11-04",
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-10",
+      "stars_first": 1757,
+      "stars_last": 2203,
+      "stars_growth": 446,
+      "trend": "down"
+    },
+    {
+      "full_name": "storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "lang": "Rust",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-05",
       "last_date": "2026-11-09",
-      "stars_first": 18308,
-      "stars_last": 21185,
-      "stars_growth": 2877,
-      "trend": "flat"
+      "stars_first": 11978,
+      "stars_last": 22551,
+      "stars_growth": 10573,
+      "trend": "up"
     }
   ],
   "news_mainlines": [
+    {
+      "topicLabel": "综合",
+      "title": "A股限售股解禁一览：85.26亿元市值限售股今日解禁",
+      "days": 4,
+      "kind": "event_line",
+      "points": [
+        {
+          "date": "2026-11-05",
+          "title": "A股限售股解禁一览：5.9亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-06",
+          "title": "A股限售股解禁一览：31.28亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-09",
+          "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "A股限售股解禁一览：85.26亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
     {
       "topicLabel": "宏观经济/政策",
       "title": "美联储12月加息的概率为84.2%",
@@ -487,15 +519,9 @@
     {
       "topicLabel": "宏观经济/政策",
       "title": "外储规模连续7个月站上3.4万亿美元 央行黄金储备“24连增”",
-      "days": 3,
+      "days": 2,
       "kind": "topic_line",
       "points": [
-        {
-          "date": "2026-11-04",
-          "title": "波兰央行将主要利率维持在3.75%",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-08",
           "title": "央行连续24个月增持黄金 专家：持续增持有助于增强国际储备多元化程度",
@@ -512,33 +538,7 @@
     },
     {
       "topicLabel": "综合",
-      "title": "A股限售股解禁一览：85.26亿元市值限售股今日解禁",
-      "days": 3,
-      "kind": "event_line",
-      "points": [
-        {
-          "date": "2026-11-06",
-          "title": "A股限售股解禁一览：31.28亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-09",
-          "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-10",
-          "title": "A股限售股解禁一览：85.26亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "英伟达开盘一度猛跌8.8% 黄仁勋承认婚外情或被免职 英伟达还能投吗？美专家：投资者需将个人问题与企业区分开来",
+      "title": "英伟达股价盘初下跌8.8% 跌至3月以来最低点",
       "days": 2,
       "kind": "topic_line",
       "points": [
@@ -550,7 +550,7 @@
         },
         {
           "date": "2026-11-10",
-          "title": "英伟达开盘一度猛跌8.8% 黄仁勋承认婚外情或被免职 英伟达还能投吗？美专家：投资者需将个人问题与企业区分开来",
+          "title": "英伟达股价盘初下跌8.8% 跌至3月以来最低点",
           "heat": 1.0,
           "sources": 1
         }
@@ -558,19 +558,39 @@
     },
     {
       "topicLabel": "综合",
-      "title": "前三季度我国服务进出口总额同比增长8.5%",
+      "title": "OpenAI以1.25万亿美元的估值完成了110亿美元的新一轮融资",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-04",
-          "title": "第29届中国-加拿大经贸联委会在京举行",
+          "date": "2026-11-05",
+          "title": "OpenAI推出Images 2.6，图像生成速度提升50%，新增GIF生成功能",
           "heat": 1.0,
           "sources": 1
         },
         {
+          "date": "2026-11-07",
+          "title": "OpenAI以1.25万亿美元的估值完成了110亿美元的新一轮融资",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济",
+      "title": "10月PPI同比涨5.7%，创52月新高",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
           "date": "2026-11-05",
-          "title": "前三季度我国服务进出口总额同比增长8.5%",
+          "title": "玻璃行业持续磨底 盈利分化 企业纷纷谋转型",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "10月PPI同比涨5.7%，创52月新高",
           "heat": 1.0,
           "sources": 1
         }
@@ -597,26 +617,6 @@
       ]
     },
     {
-      "topicLabel": "综合",
-      "title": "苹果：完成75亿美元债券发行",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-04",
-          "title": "伯恩斯坦上调苹果目标价",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-10",
-          "title": "苹果：完成75亿美元债券发行",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
       "topicLabel": "AI 与科技",
       "title": "谷歌公司收购Crusoe位于美国怀俄明州的数据中心选址",
       "days": 2,
@@ -631,6 +631,66 @@
         {
           "date": "2026-11-07",
           "title": "谷歌公司收购Crusoe位于美国怀俄明州的数据中心选址",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济",
+      "title": "工信部：海螺、红狮等企业拟入围\"无废企业\"典型案例",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-07",
+          "title": "三大集群拟入列“国家队”，宁波先进制造“组团进阶”",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "工信部：海螺、红狮等企业拟入围\"无废企业\"典型案例",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "经济学家：市场夸大了美联储12月加息50个基点的风险",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-06",
+          "title": "美联储12月加息25个基点的概率为70.9%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-11",
+          "title": "经济学家：市场夸大了美联储12月加息50个基点的风险",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "费城半导体指数日内跌12%",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-05",
+          "title": "费城半导体指数日内跌3%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-06",
+          "title": "费城半导体指数日内跌12%",
           "heat": 1.0,
           "sources": 1
         }
@@ -655,72 +715,12 @@
           "sources": 1
         }
       ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "环球下周看点：美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-05",
-          "title": "从美国到欧洲 AI融资热下暗藏“债券过剩”风险？",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-08",
-          "title": "环球下周看点：美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "理财产品“中途谢幕”：规模竞赛让位需求导向",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-06",
-          "title": "多家银行理财子公司发声：理性看待波动 坚守长期配置",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-10",
-          "title": "理财产品“中途谢幕”：规模竞赛让位需求导向",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "高盛称AI债务供给压力正在信用市场累积",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-07",
-          "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-09",
-          "title": "高盛称AI债务供给压力正在信用市场累积",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
     }
   ],
   "stat": {
-    "repos_tracked": 81,
-    "repos_multi_day": 72,
-    "mainlines": 14
+    "repos_tracked": 83,
+    "repos_multi_day": 74,
+    "mainlines": 18
   },
   "provenance": {
     "method": "aggregate_over_archives",
