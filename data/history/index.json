@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-12 08:00:15",
-  "count": 24,
-  "latest": "2026-11-12",
+  "updated_at": "2026-11-13 08:00:15",
+  "count": 25,
+  "latest": "2026-11-13",
   "days": [
+    {
+      "date": "2026-11-13",
+      "generated_at": "2026-11-13 08:00:13",
+      "rocket_count": 20,
+      "delta_count": 54,
+      "top_repo": "huamidev/GestaltX"
+    },
     {
       "date": "2026-11-12",
       "generated_at": "2026-11-12 08:00:13",
