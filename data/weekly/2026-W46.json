@@ -1,10 +1,10 @@
 {
   "week": "2026-W46",
   "date_range": [
-    "2026-11-12",
-    "2026-11-06"
+    "2026-11-13",
+    "2026-11-07"
   ],
-  "generated_at": "2026-11-12 08:00",
+  "generated_at": "2026-11-13 08:00",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
@@ -14,26 +14,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 434267,
-      "stars_last": 452682,
-      "stars_growth": 18415,
-      "trend": "flat"
-    },
-    {
-      "full_name": "cloudflare/security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "lang": "JavaScript",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 61419,
-      "stars_last": 70350,
-      "stars_growth": 8931,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 437951,
+      "stars_last": 455228,
+      "stars_growth": 17277,
       "trend": "flat"
     },
     {
@@ -44,27 +29,27 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 62277,
-      "stars_last": 69999,
-      "stars_growth": 7722,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 63938,
+      "stars_last": 71301,
+      "stars_growth": 7363,
       "trend": "flat"
     },
     {
-      "full_name": "Minireel/HGhub",
-      "desc": "YellowFruit third-party client",
-      "lang": "TypeScript",
+      "full_name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
       "days_on_board": 6,
       "boards": [
-        "火箭榜"
+        "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 1099,
-      "stars_last": 8284,
-      "stars_growth": 7185,
-      "trend": "up"
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 63939,
+      "stars_last": 71197,
+      "stars_growth": 7258,
+      "trend": "flat"
     },
     {
       "full_name": "deepseek-ai/deepseek-harness",
@@ -74,11 +59,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 273771,
-      "stars_last": 278982,
-      "stars_growth": 5211,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 274897,
+      "stars_last": 279772,
+      "stars_growth": 4875,
       "trend": "flat"
     },
     {
@@ -89,11 +74,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 30442,
-      "stars_last": 34695,
-      "stars_growth": 4253,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 31243,
+      "stars_last": 35400,
+      "stars_growth": 4157,
       "trend": "flat"
     },
     {
@@ -104,11 +89,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 185226,
-      "stars_last": 189138,
-      "stars_growth": 3912,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 185846,
+      "stars_last": 189778,
+      "stars_growth": 3932,
       "trend": "flat"
     },
     {
@@ -119,11 +104,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 52639,
-      "stars_last": 56524,
-      "stars_growth": 3885,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 53307,
+      "stars_last": 57010,
+      "stars_growth": 3703,
       "trend": "flat"
     },
     {
@@ -134,26 +119,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 40553,
-      "stars_last": 43226,
-      "stars_growth": 2673,
-      "trend": "flat"
-    },
-    {
-      "full_name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 260863,
-      "stars_last": 262737,
-      "stars_growth": 1874,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 41069,
+      "stars_last": 43544,
+      "stars_growth": 2475,
       "trend": "flat"
     },
     {
@@ -164,11 +134,26 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 48171,
-      "stars_last": 49969,
-      "stars_growth": 1798,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 48458,
+      "stars_last": 50441,
+      "stars_growth": 1983,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 261203,
+      "stars_last": 262966,
+      "stars_growth": 1763,
       "trend": "flat"
     },
     {
@@ -179,11 +164,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 51467,
-      "stars_last": 53248,
-      "stars_growth": 1781,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 51785,
+      "stars_last": 53500,
+      "stars_growth": 1715,
       "trend": "flat"
     },
     {
@@ -194,11 +179,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 77196,
-      "stars_last": 78742,
-      "stars_growth": 1546,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 77478,
+      "stars_last": 78984,
+      "stars_growth": 1506,
       "trend": "flat"
     },
     {
@@ -209,27 +194,12 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 63010,
-      "stars_last": 64329,
-      "stars_growth": 1319,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 63209,
+      "stars_last": 64525,
+      "stars_growth": 1316,
       "trend": "flat"
-    },
-    {
-      "full_name": "KKKKhazix/agent-autoloop",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 3225,
-      "stars_last": 4526,
-      "stars_growth": 1301,
-      "trend": "down"
     },
     {
       "full_name": "eternity4719/HowToLiveBetter",
@@ -239,11 +209,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 73795,
-      "stars_last": 75036,
-      "stars_growth": 1241,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 74029,
+      "stars_last": 75335,
+      "stars_growth": 1306,
       "trend": "flat"
     },
     {
@@ -254,11 +224,26 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 33086,
-      "stars_last": 34288,
-      "stars_growth": 1202,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 33268,
+      "stars_last": 34488,
+      "stars_growth": 1220,
+      "trend": "flat"
+    },
+    {
+      "full_name": "mmdoctor/google-pro-helper",
+      "desc": "",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 875,
+      "stars_last": 1791,
+      "stars_growth": 916,
       "trend": "flat"
     },
     {
@@ -269,11 +254,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 254514,
-      "stars_last": 255417,
-      "stars_growth": 903,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 254652,
+      "stars_last": 255522,
+      "stars_growth": 870,
       "trend": "flat"
     },
     {
@@ -284,26 +269,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 34999,
-      "stars_last": 35748,
-      "stars_growth": 749,
-      "trend": "flat"
-    },
-    {
-      "full_name": "govijr/terminal-mac",
-      "desc": "Entire MacOS running in your terminal.",
-      "lang": "Swift",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 1947,
-      "stars_last": 2604,
-      "stars_growth": 657,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 35156,
+      "stars_last": 35861,
+      "stars_growth": 705,
       "trend": "flat"
     },
     {
@@ -314,86 +284,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 371346,
-      "stars_last": 371834,
-      "stars_growth": 488,
-      "trend": "flat"
-    },
-    {
-      "full_name": "baidu/Unlimited-OCR",
-      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 30642,
-      "stars_last": 31108,
-      "stars_growth": 466,
-      "trend": "flat"
-    },
-    {
-      "full_name": "freeCodeCamp/freeCodeCamp",
-      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 458609,
-      "stars_last": 459000,
-      "stars_growth": 391,
-      "trend": "flat"
-    },
-    {
-      "full_name": "openclaw/openclaw",
-      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 393984,
-      "stars_last": 394367,
-      "stars_growth": 383,
-      "trend": "flat"
-    },
-    {
-      "full_name": "odysseus-dev/odysseus",
-      "desc": "Self-hosted AI workspace.",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 95226,
-      "stars_last": 95597,
-      "stars_growth": 371,
-      "trend": "flat"
-    },
-    {
-      "full_name": "NandhaKishorM/laya",
-      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 35062,
-      "stars_last": 35412,
-      "stars_growth": 350,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 371415,
+      "stars_last": 371910,
+      "stars_growth": 495,
       "trend": "flat"
     },
     {
@@ -404,11 +299,86 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 49498,
-      "stars_last": 49840,
-      "stars_growth": 342,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 49567,
+      "stars_last": 50043,
+      "stars_growth": 476,
+      "trend": "flat"
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 30752,
+      "stars_last": 31154,
+      "stars_growth": 402,
+      "trend": "flat"
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "lang": "TypeScript",
+      "days_on_board": 6,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 458673,
+      "stars_last": 459054,
+      "stars_growth": 381,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 6,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 394067,
+      "stars_last": 394410,
+      "stars_growth": 343,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 35124,
+      "stars_last": 35464,
+      "stars_growth": 340,
+      "trend": "flat"
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 95321,
+      "stars_last": 95635,
+      "stars_growth": 314,
       "trend": "flat"
     },
     {
@@ -420,11 +390,41 @@
         "势能榜",
         "火箭榜"
       ],
-      "first_date": "2026-11-06",
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 17995,
+      "stars_last": 29803,
+      "stars_growth": 11808,
+      "trend": "up"
+    },
+    {
+      "full_name": "NotRexed/Hookshot",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "lang": "C++",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-13",
+      "stars_first": 1794,
+      "stars_last": 8753,
+      "stars_growth": 6959,
+      "trend": "up"
+    },
+    {
+      "full_name": "Minireel/HGhub",
+      "desc": "YellowFruit third-party client",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-07",
       "last_date": "2026-11-12",
-      "stars_first": 14929,
-      "stars_last": 28357,
-      "stars_growth": 13428,
+      "stars_first": 1619,
+      "stars_last": 8284,
+      "stars_growth": 6665,
       "trend": "up"
     },
     {
@@ -435,98 +435,34 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-12",
-      "stars_first": 496411,
-      "stars_last": 498238,
-      "stars_growth": 1827,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-13",
+      "stars_first": 496755,
+      "stars_last": 498530,
+      "stars_growth": 1775,
       "trend": "flat"
     },
     {
-      "full_name": "mromidev/claude-animated-shorts",
-      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "full_name": "KKKKhazix/agent-autoloop",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "lang": "TypeScript",
       "days_on_board": 5,
       "boards": [
         "火箭榜"
       ],
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-10",
-      "stars_first": 1736,
-      "stars_last": 2602,
-      "stars_growth": 866,
-      "trend": "up"
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-12",
+      "stars_first": 3672,
+      "stars_last": 4526,
+      "stars_growth": 854,
+      "trend": "down"
     }
   ],
   "news_mainlines": [
     {
       "topicLabel": "宏观经济/政策",
-      "title": "美加息预期强化 机构把脉金价走向",
+      "title": "秘鲁央行将基准利率设定为4.5%",
       "days": 4,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-06",
-          "title": "美联储12月加息的概率降至68.7%",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-09",
-          "title": "美联储12月加息的概率为78%",
-          "heat": 2.0,
-          "sources": 2
-        },
-        {
-          "date": "2026-11-10",
-          "title": "美联储12月加息的概率为84.2%",
-          "heat": 2.0,
-          "sources": 2
-        },
-        {
-          "date": "2026-11-12",
-          "title": "美加息预期强化 机构把脉金价走向",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "A股限售股解禁一览：138.63亿元市值限售股今日解禁",
-      "days": 4,
-      "kind": "event_line",
-      "points": [
-        {
-          "date": "2026-11-06",
-          "title": "A股限售股解禁一览：31.28亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-09",
-          "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-10",
-          "title": "A股限售股解禁一览：85.26亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-12",
-          "title": "A股限售股解禁一览：138.63亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "宏观经济/政策",
-      "title": "土耳其上调消费者与企业贷款增速上限",
-      "days": 3,
       "kind": "topic_line",
       "points": [
         {
@@ -544,6 +480,70 @@
         {
           "date": "2026-11-12",
           "title": "土耳其上调消费者与企业贷款增速上限",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "秘鲁央行将基准利率设定为4.5%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "A股限售股解禁一览：29.46亿元市值限售股今日解禁",
+      "days": 4,
+      "kind": "event_line",
+      "points": [
+        {
+          "date": "2026-11-09",
+          "title": "A股限售股解禁一览：109亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "A股限售股解禁一览：85.26亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-12",
+          "title": "A股限售股解禁一览：138.63亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "A股限售股解禁一览：29.46亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "美加息预期强化 机构把脉金价走向",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-09",
+          "title": "美联储12月加息的概率为78%",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-10",
+          "title": "美联储12月加息的概率为84.2%",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-12",
+          "title": "美加息预期强化 机构把脉金价走向",
           "heat": 1.0,
           "sources": 1
         }
@@ -576,6 +576,58 @@
       ]
     },
     {
+      "topicLabel": "综合",
+      "title": "黄仁勋下台代价高昂 1.08亿美元股权作废",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-09",
+          "title": "黄仁勋道歉信全文：我对妻子不忠 伤害了家人 没有任何借口",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "预测市场认为黄仁勋短期离职概率较低",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "黄仁勋下台代价高昂 1.08亿美元股权作废",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "Anthropic IPO认购需求约为发行规模的6倍，拟募资最高644亿美元",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-10",
+          "title": "Anthropic将冲刺下周IPO",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-12",
+          "title": "Anthropic的承销商正考虑将此次IPO的估值目标上调至最低1.5万亿美元",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Anthropic IPO认购需求约为发行规模的6倍，拟募资最高644亿美元",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
       "topicLabel": "宏观经济/政策",
       "title": "财政部首次在加发行人民币绿色主权债券 超额认购倍数创近年离岸人民币主权债发行新高",
       "days": 2,
@@ -596,40 +648,20 @@
       ]
     },
     {
-      "topicLabel": "AI 与科技",
-      "title": "华为发布五大北京F5G-A全光网样板点",
+      "topicLabel": "综合",
+      "title": "衍生品新规施行在即，券商跨境业务加速合规重塑",
       "days": 2,
       "kind": "topic_line",
       "points": [
-        {
-          "date": "2026-11-06",
-          "title": "华为朱懂东：鸿蒙电脑累计发货量破100万 首款鸿蒙台式机亮相",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-08",
-          "title": "华为发布五大北京F5G-A全光网样板点",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "AI 与科技",
-      "title": "谷歌公司收购Crusoe位于美国怀俄明州的数据中心选址",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-06",
-          "title": "谷歌将投资170亿美元 在怀俄明州建设其首个数据中心",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-07",
-          "title": "谷歌公司收购Crusoe位于美国怀俄明州的数据中心选址",
+          "title": "中科慧远视觉技术（洛阳）股份有限公司启动上市辅导",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "衍生品新规施行在即，券商跨境业务加速合规重塑",
           "heat": 1.0,
           "sources": 1
         }
@@ -637,39 +669,19 @@
     },
     {
       "topicLabel": "宏观经济/政策",
-      "title": "美联储12月加息50个基点的概率为10.4%",
+      "title": "美联储12月加息50个基点的概率为15.3%",
       "days": 2,
       "kind": "topic_line",
       "points": [
-        {
-          "date": "2026-11-06",
-          "title": "美联储12月加息25个基点的概率为70.9%",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-12",
           "title": "美联储12月加息50个基点的概率为10.4%",
           "heat": 1.0,
           "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "再贷款政策持续发力 低成本资金助力上市公司回购增持",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-06",
-          "title": "降成本 强信心 股票回购增持再贷款筑牢市场稳定基石",
-          "heat": 1.0,
-          "sources": 1
         },
         {
-          "date": "2026-11-10",
-          "title": "再贷款政策持续发力 低成本资金助力上市公司回购增持",
+          "date": "2026-11-13",
+          "title": "美联储12月加息50个基点的概率为15.3%",
           "heat": 1.0,
           "sources": 1
         }
@@ -677,19 +689,19 @@
     },
     {
       "topicLabel": "综合",
-      "title": "理财产品“中途谢幕”：规模竞赛让位需求导向",
+      "title": "消息称SpaceX与特斯拉创纪录合并谈判取得进展",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-06",
-          "title": "多家银行理财子公司发声：理性看待波动 坚守长期配置",
+          "date": "2026-11-12",
+          "title": "产业端进展催化股价上涨 机器人主题ETF规模水涨船高",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-10",
-          "title": "理财产品“中途谢幕”：规模竞赛让位需求导向",
+          "date": "2026-11-13",
+          "title": "消息称SpaceX与特斯拉创纪录合并谈判取得进展",
           "heat": 1.0,
           "sources": 1
         }
@@ -717,19 +729,19 @@
     },
     {
       "topicLabel": "综合",
-      "title": "预测市场认为黄仁勋短期离职概率较低",
+      "title": "美股收评：美股三大指数集体收涨",
       "days": 2,
-      "kind": "topic_line",
+      "kind": "event_line",
       "points": [
         {
-          "date": "2026-11-09",
-          "title": "黄仁勋道歉信全文：我对妻子不忠 伤害了家人 没有任何借口",
+          "date": "2026-11-10",
+          "title": "美股收评：美股三大指数集体收涨",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-10",
-          "title": "预测市场认为黄仁勋短期离职概率较低",
+          "date": "2026-11-12",
+          "title": "美股收评：美股三大指数集体收涨",
           "heat": 1.0,
           "sources": 1
         }
@@ -737,9 +749,9 @@
     }
   ],
   "stat": {
-    "repos_tracked": 83,
-    "repos_multi_day": 71,
-    "mainlines": 15
+    "repos_tracked": 86,
+    "repos_multi_day": 70,
+    "mainlines": 13
   },
   "provenance": {
     "method": "aggregate_over_archives",
