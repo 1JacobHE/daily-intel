@@ -1,0 +1,1739 @@
+{
+  "generated_at": "2026-11-13 08:00:13",
+  "date": "2026-11-13",
+  "prev_date": "2026-11-12",
+  "fresh_days": 10,
+  "provenance": {
+    "source": "api.github.com/search/repositories",
+    "source_type": "official_api",
+    "auth": "anonymous",
+    "rate_limit": "10 req/min (unauthenticated)",
+    "fetched_at": "2026-11-13 08:00:04",
+    "metrics": {
+      "rocket": {
+        "status": "observed",
+        "detail": "created:>2026-11-03 stars:>80 fork:false -> 40 条"
+      },
+      "potential": {
+        "status": "observed",
+        "detail": "created:>2026-05-17 stars:>800 fork:false -> 40 条"
+      },
+      "active": {
+        "status": "observed",
+        "detail": "pushed:>2026-11-10 stars:>5000 fork:false -> 20 条"
+      },
+      "star_delta": {
+        "status": "observed",
+        "detail": "对比快照 2026-11-12，54 个项目有正向增量"
+      },
+      "stars_per_day": {
+        "status": "derived",
+        "detail": "stars ÷ 存活天数，为平均速率而非真实单日增量"
+      },
+      "star_count": {
+        "status": "observed",
+        "detail": "GitHub Search API 返回的星数，可能有分钟级缓存延迟"
+      }
+    },
+    "warnings": [
+      "17 个仓库星数较上次减少（可能被删星或上游抖动），这些仓库不计入增量榜"
+    ]
+  },
+  "deltas": {
+    "deepseek-ai/deepseek-harness": 790,
+    "DietrichGebert/ponytail": 640,
+    "odysseus-dev/odysseus": 38,
+    "storytold/photocraft": 242,
+    "eternity4719/HowToLiveBetter": 299,
+    "Ebony-Vinyl/dsh-our-free-model": 1302,
+    "cloudflare/security-audit-skill": 847,
+    "bilawalsidhu/gods-eye-view": 196,
+    "Gathin23/cleanyourtv": 486,
+    "boykopovar/AnyPS5": 252,
+    "JustVugg/colibri": 472,
+    "alibaba/open-code-review": 203,
+    "Niko1221/Strata": 318,
+    "anywhere-labs/dsh-desktop": 113,
+    "NandhaKishorM/laya": 52,
+    "yetone/magpie": 705,
+    "vorssaint/vorssaint-utils": 200,
+    "baidu/Unlimited-OCR": 46,
+    "storytold/craft-anything": 1446,
+    "hypit-ai/hypit": 172,
+    "xai-org/grok-build": 10,
+    "guillaumemeyer/watermarks-remover": 116,
+    "wheresryan22/anatomy": 191,
+    "KnifeLemon/Filee": 391,
+    "deepseek-ai/DeepInfer": 38,
+    "AprilNEA/OpenLogi": 67,
+    "browser-use/jev-ultrafast": 33,
+    "awesome-dsh-plugin/awesome-dsh-plugin": 121,
+    "google-research/harness2": 82,
+    "lexmount/moli": 125,
+    "firecrawl/anydoc": 23,
+    "deepseek-ai/dsh-superagent-prototype": 253,
+    "milind-soni/OpenMausBot": 483,
+    "img2threejs/img2threejs": 62,
+    "latent-spaces/brag": 141,
+    "DuarteSantos8/openGym": 141,
+    "ccch1mneyyy/dsh-Go": 1028,
+    "zhishile/codex-auth-helper": 42,
+    "storytold/pdfcraft": 104,
+    "Droid-Deck/DroidDeck": 211,
+    "NotRexed/Hookshot": 996,
+    "huamidev/GestaltX": 743,
+    "tangerineturtle1/NX2navi": 313,
+    "jhaizhou-ops/S2Arm": 170,
+    "jamesondh/chimera-vocal-synth": 185,
+    "JenkinWoo/sheeridVerify": 48,
+    "IainKay/ram-altman": 86,
+    "DIYgod/pinky": 137,
+    "mmdoctor/google-pro-helper": 65,
+    "Kianuni/Erosion-CN": 194,
+    "WoYun520/gif-factory": 297,
+    "livliv-dev/player": 19,
+    "voyager-so/vork": 54,
+    "egoist/mygo-music": 44
+  },
+  "rocket": [
+    {
+      "full_name": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "stars": 6938,
+      "forks": 2548,
+      "lang": "Swift",
+      "created": "2026-11-09",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "huamidev",
+      "avatar": "https://avatars.githubusercontent.com/u/354314991?v=4",
+      "age_days": 4,
+      "stars_per_day": 1734.5
+    },
+    {
+      "full_name": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "stars": 8753,
+      "forks": 808,
+      "lang": "C++",
+      "created": "2026-11-05",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "NotRexed",
+      "avatar": "https://avatars.githubusercontent.com/u/179062254?v=4",
+      "age_days": 8,
+      "stars_per_day": 1094.1
+    },
+    {
+      "full_name": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "desc": "",
+      "stars": 3556,
+      "forks": 246,
+      "lang": "C",
+      "created": "2026-11-07",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "tangerineturtle1",
+      "avatar": "https://avatars.githubusercontent.com/u/178368288?v=4",
+      "age_days": 6,
+      "stars_per_day": 592.7
+    },
+    {
+      "full_name": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "stars": 1721,
+      "forks": 376,
+      "lang": "Swift",
+      "created": "2026-11-10",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "Kianuni",
+      "avatar": "https://avatars.githubusercontent.com/u/354704145?v=4",
+      "age_days": 3,
+      "stars_per_day": 573.7
+    },
+    {
+      "full_name": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "stars": 2755,
+      "forks": 503,
+      "lang": "C#",
+      "created": "2026-11-08",
+      "pushed": "2026-11-12",
+      "topics": [
+        "apple-silicon",
+        "arm64",
+        "game-porting",
+        "ios",
+        "ipados",
+        "macos"
+      ],
+      "owner": "jhaizhou-ops",
+      "avatar": "https://avatars.githubusercontent.com/u/258432107?v=4",
+      "age_days": 5,
+      "stars_per_day": 551.0
+    },
+    {
+      "full_name": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "stars": 1303,
+      "forks": 85,
+      "lang": "Python",
+      "created": "2026-11-10",
+      "pushed": "2026-11-11",
+      "topics": [],
+      "owner": "HybridRobotics",
+      "avatar": "https://avatars.githubusercontent.com/u/10053058?v=4",
+      "age_days": 3,
+      "stars_per_day": 434.3
+    },
+    {
+      "full_name": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "desc": "",
+      "stars": 2081,
+      "forks": 1126,
+      "lang": "JavaScript",
+      "created": "2026-11-06",
+      "pushed": "2026-11-06",
+      "topics": [],
+      "owner": "JenkinWoo",
+      "avatar": "https://avatars.githubusercontent.com/u/51308528?v=4",
+      "age_days": 7,
+      "stars_per_day": 297.3
+    },
+    {
+      "full_name": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "stars": 1157,
+      "forks": 178,
+      "lang": "TypeScript",
+      "created": "2026-11-09",
+      "pushed": "2026-11-12",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "browser-automation",
+        "chat",
+        "claude",
+        "claude-code"
+      ],
+      "owner": "agentes-chat",
+      "avatar": "https://avatars.githubusercontent.com/u/343980363?v=4",
+      "age_days": 4,
+      "stars_per_day": 289.2
+    },
+    {
+      "full_name": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "stars": 1998,
+      "forks": 211,
+      "lang": "Go",
+      "created": "2026-11-06",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "DIYgod",
+      "avatar": "https://avatars.githubusercontent.com/u/8266075?v=4",
+      "age_days": 7,
+      "stars_per_day": 285.4
+    },
+    {
+      "full_name": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "stars": 2151,
+      "forks": 251,
+      "lang": "Rust",
+      "created": "2026-11-05",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "jamesondh",
+      "avatar": "https://avatars.githubusercontent.com/u/4026659?v=4",
+      "age_days": 8,
+      "stars_per_day": 268.9
+    },
+    {
+      "full_name": "IainKay/ram-altman",
+      "url": "https://github.com/IainKay/ram-altman",
+      "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "stars": 2026,
+      "forks": 62,
+      "lang": "Shell",
+      "created": "2026-11-05",
+      "pushed": "2026-11-06",
+      "topics": [
+        "bash",
+        "cron",
+        "dram",
+        "email",
+        "humor",
+        "linux"
+      ],
+      "owner": "IainKay",
+      "avatar": "https://avatars.githubusercontent.com/u/798621?v=4",
+      "age_days": 8,
+      "stars_per_day": 253.2
+    },
+    {
+      "full_name": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "desc": "",
+      "stars": 1791,
+      "forks": 603,
+      "lang": "Python",
+      "created": "2026-11-05",
+      "pushed": "2026-11-05",
+      "topics": [],
+      "owner": "mmdoctor",
+      "avatar": "https://avatars.githubusercontent.com/u/155910760?v=4",
+      "age_days": 8,
+      "stars_per_day": 223.9
+    },
+    {
+      "full_name": "WoYun520/gif-factory",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "stars": 1620,
+      "forks": 177,
+      "lang": "Python",
+      "created": "2026-11-05",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "WoYun520",
+      "avatar": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "age_days": 8,
+      "stars_per_day": 202.5
+    },
+    {
+      "full_name": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "desc": "Headless 3D and VFX engine for agents. Research preview.",
+      "stars": 1494,
+      "forks": 125,
+      "lang": "Rust",
+      "created": "2026-11-05",
+      "pushed": "2026-11-11",
+      "topics": [
+        "3d",
+        "ai-agents",
+        "gpu",
+        "metal",
+        "ray-tracing",
+        "rendering"
+      ],
+      "owner": "voyager-so",
+      "avatar": "https://avatars.githubusercontent.com/u/329758707?v=4",
+      "age_days": 8,
+      "stars_per_day": 186.8
+    },
+    {
+      "full_name": "mahmoudtawfik1998/secure-pdf-document-processor",
+      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+      "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "stars": 1212,
+      "forks": 1,
+      "lang": "HTML",
+      "created": "2026-11-06",
+      "pushed": "2026-11-12",
+      "topics": [
+        "acrobat-dc-pro",
+        "acrobat-for-free-2026",
+        "acrobat-no-limits",
+        "acrobat-pdf",
+        "automation",
+        "desktop"
+      ],
+      "owner": "mahmoudtawfik1998",
+      "avatar": "https://avatars.githubusercontent.com/u/191867361?v=4",
+      "age_days": 7,
+      "stars_per_day": 173.1
+    },
+    {
+      "full_name": "hembramneeraj3-create/aida-64-extreme",
+      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "stars": 1208,
+      "forks": 0,
+      "lang": "HTML",
+      "created": "2026-11-06",
+      "pushed": "2026-11-12",
+      "topics": [
+        "aida64",
+        "aida64-extreme-compatibility-check",
+        "aida64-extreme-detailed-reporting",
+        "aida64-extreme-hardware-diagnostics",
+        "aida64-extreme-setup",
+        "aida64-extreme-system-information"
+      ],
+      "owner": "hembramneeraj3-create",
+      "avatar": "https://avatars.githubusercontent.com/u/232789375?v=4",
+      "age_days": 7,
+      "stars_per_day": 172.6
+    },
+    {
+      "full_name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "stars": 1208,
+      "forks": 0,
+      "lang": "HTML",
+      "created": "2026-11-06",
+      "pushed": "2026-11-12",
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "scripts"
+      ],
+      "owner": "abdulmannanmalik13-wq",
+      "avatar": "https://avatars.githubusercontent.com/u/226122531?v=4",
+      "age_days": 7,
+      "stars_per_day": 172.6
+    },
+    {
+      "full_name": "AleRibeiro44/archicad-desktop-setup",
+      "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
+      "desc": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
+      "stars": 1204,
+      "forks": 0,
+      "lang": "HTML",
+      "created": "2026-11-06",
+      "pushed": "2026-11-12",
+      "topics": [
+        "archicad",
+        "archicad-2026",
+        "archicad-download",
+        "automation",
+        "desktop",
+        "developer-tools"
+      ],
+      "owner": "AleRibeiro44",
+      "avatar": "https://avatars.githubusercontent.com/u/168607718?v=4",
+      "age_days": 7,
+      "stars_per_day": 172.0
+    },
+    {
+      "full_name": "PHISHER420/autodesk-inventor-desktop-config",
+      "url": "https://github.com/PHISHER420/autodesk-inventor-desktop-config",
+      "desc": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
+      "stars": 1203,
+      "forks": 0,
+      "lang": "HTML",
+      "created": "2026-11-06",
+      "pushed": "2026-11-12",
+      "topics": [
+        "autodesk-inventor-pro",
+        "autodesk-inventor-pro-pc",
+        "automation",
+        "developer-tools",
+        "inventor",
+        "inventor-automation"
+      ],
+      "owner": "PHISHER420",
+      "avatar": "https://avatars.githubusercontent.com/u/119608582?v=4",
+      "age_days": 7,
+      "stars_per_day": 171.9
+    },
+    {
+      "full_name": "CodeSouvik/clion-standalone-enhancement",
+      "url": "https://github.com/CodeSouvik/clion-standalone-enhancement",
+      "desc": "CLion full installer: complete standalone setup, all features activated",
+      "stars": 1201,
+      "forks": 0,
+      "lang": "HTML",
+      "created": "2026-11-06",
+      "pushed": "2026-11-12",
+      "topics": [
+        "automation",
+        "clion-2026",
+        "clion-download-windows",
+        "cmake-ide",
+        "cpp-ide",
+        "desktop"
+      ],
+      "owner": "CodeSouvik",
+      "avatar": "https://avatars.githubusercontent.com/u/91956912?v=4",
+      "age_days": 7,
+      "stars_per_day": 171.6
+    }
+  ],
+  "potential": [
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 279772,
+      "forks": 34452,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-11",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 92,
+      "stars_per_day": 3041.0
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 189778,
+      "forks": 10576,
+      "lang": "JavaScript",
+      "created": "2026-06-12",
+      "pushed": "2026-10-29",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules"
+      ],
+      "owner": "DietrichGebert",
+      "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "age_days": 154,
+      "stars_per_day": 1232.3
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "url": "https://github.com/odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "stars": 95635,
+      "forks": 1972,
+      "lang": "Python",
+      "created": "2026-05-31",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "odysseus-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/305418735?v=4",
+      "age_days": 166,
+      "stars_per_day": 576.1
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "stars": 78984,
+      "forks": 13959,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-11-12",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 44,
+      "stars_per_day": 1795.1
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "stars": 75335,
+      "forks": 6679,
+      "lang": "HTML",
+      "created": "2026-09-07",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "eternity4719",
+      "avatar": "https://avatars.githubusercontent.com/u/230156667?v=4",
+      "age_days": 67,
+      "stars_per_day": 1124.4
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "stars": 71301,
+      "forks": 1942,
+      "lang": "JavaScript",
+      "created": "2026-09-24",
+      "pushed": "2026-11-11",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "Ebony-Vinyl",
+      "avatar": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "age_days": 50,
+      "stars_per_day": 1426.0
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 71197,
+      "forks": 4733,
+      "lang": "JavaScript",
+      "created": "2026-06-18",
+      "pushed": "2026-09-14",
+      "topics": [],
+      "owner": "cloudflare",
+      "avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "age_days": 148,
+      "stars_per_day": 481.1
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 64525,
+      "forks": 12728,
+      "lang": "JavaScript",
+      "created": "2026-06-22",
+      "pushed": "2026-11-12",
+      "topics": [
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis"
+      ],
+      "owner": "bilawalsidhu",
+      "avatar": "https://avatars.githubusercontent.com/u/106619546?v=4",
+      "age_days": 144,
+      "stars_per_day": 448.1
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "stars": 57010,
+      "forks": 7350,
+      "lang": "Python",
+      "created": "2026-10-17",
+      "pushed": "2026-11-11",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal"
+      ],
+      "owner": "Gathin23",
+      "avatar": "https://avatars.githubusercontent.com/u/94786511?v=4",
+      "age_days": 27,
+      "stars_per_day": 2111.5
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 53500,
+      "forks": 5093,
+      "lang": "C++",
+      "created": "2026-08-03",
+      "pushed": "2026-11-12",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v"
+      ],
+      "owner": "boykopovar",
+      "avatar": "https://avatars.githubusercontent.com/u/184076081?v=4",
+      "age_days": 102,
+      "stars_per_day": 524.5
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "stars": 50441,
+      "forks": 5954,
+      "lang": "C",
+      "created": "2026-07-01",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "JustVugg",
+      "avatar": "https://avatars.githubusercontent.com/u/13022503?v=4",
+      "age_days": 135,
+      "stars_per_day": 373.6
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 50043,
+      "forks": 3712,
+      "lang": "Go",
+      "created": "2026-05-18",
+      "pushed": "2026-11-12",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "owner": "alibaba",
+      "avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
+      "age_days": 179,
+      "stars_per_day": 279.6
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "stars": 43544,
+      "forks": 4785,
+      "lang": "C++",
+      "created": "2026-09-24",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "Niko1221",
+      "avatar": "https://avatars.githubusercontent.com/u/86886444?v=4",
+      "age_days": 50,
+      "stars_per_day": 870.9
+    },
+    {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "stars": 35861,
+      "forks": 1627,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-06",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh"
+      ],
+      "owner": "anywhere-labs",
+      "avatar": "https://avatars.githubusercontent.com/u/286827603?v=4",
+      "age_days": 92,
+      "stars_per_day": 389.8
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "stars": 35464,
+      "forks": 3178,
+      "lang": "Python",
+      "created": "2026-09-18",
+      "pushed": "2026-11-10",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert"
+      ],
+      "owner": "NandhaKishorM",
+      "avatar": "https://avatars.githubusercontent.com/u/48623612?v=4",
+      "age_days": 56,
+      "stars_per_day": 633.3
+    },
+    {
+      "full_name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "stars": 35400,
+      "forks": 3150,
+      "lang": "Go",
+      "created": "2026-09-23",
+      "pushed": "2026-11-12",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "owner": "yetone",
+      "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "age_days": 51,
+      "stars_per_day": 694.1
+    },
+    {
+      "full_name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "desc": "Free and open-source macOS menu bar toolkit.",
+      "stars": 34488,
+      "forks": 1737,
+      "lang": "Swift",
+      "created": "2026-06-12",
+      "pushed": "2026-11-11",
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake"
+      ],
+      "owner": "vorssaint",
+      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
+      "age_days": 154,
+      "stars_per_day": 223.9
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": 31154,
+      "forks": 3340,
+      "lang": "Python",
+      "created": "2026-06-18",
+      "pushed": "2026-11-09",
+      "topics": [],
+      "owner": "baidu",
+      "avatar": "https://avatars.githubusercontent.com/u/13245940?v=4",
+      "age_days": 148,
+      "stars_per_day": 210.5
+    },
+    {
+      "full_name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "stars": 29803,
+      "forks": 6066,
+      "lang": "Rust",
+      "created": "2026-10-31",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 13,
+      "stars_per_day": 2292.5
+    },
+    {
+      "full_name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "stars": 29546,
+      "forks": 3446,
+      "lang": "TypeScript",
+      "created": "2026-07-29",
+      "pushed": "2026-11-11",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "ai-video",
+        "compiler",
+        "dsl"
+      ],
+      "owner": "hypit-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/274059971?v=4",
+      "age_days": 107,
+      "stars_per_day": 276.1
+    }
+  ],
+  "active": [
+    {
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "stars": 498530,
+      "forks": 55814,
+      "lang": "Python",
+      "created": "2016-03-20",
+      "pushed": "2026-11-11",
+      "topics": [
+        "api",
+        "apis",
+        "dataset",
+        "development",
+        "free",
+        "list"
+      ],
+      "owner": "public-apis",
+      "avatar": "https://avatars.githubusercontent.com/u/51121562?v=4",
+      "age_days": 3890,
+      "stars_per_day": 128.2
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 459054,
+      "forks": 47465,
+      "lang": "TypeScript",
+      "created": "2014-12-24",
+      "pushed": "2026-11-12",
+      "topics": [
+        "careers",
+        "certification",
+        "community",
+        "curriculum",
+        "d3",
+        "education"
+      ],
+      "owner": "freeCodeCamp",
+      "avatar": "https://avatars.githubusercontent.com/u/9892522?v=4",
+      "age_days": 4342,
+      "stars_per_day": 105.7
+    },
+    {
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 455228,
+      "forks": 111805,
+      "lang": "TypeScript",
+      "created": "2026-04-14",
+      "pushed": "2026-11-12",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "android",
+        "claude-code",
+        "cli",
+        "cpp"
+      ],
+      "owner": "morluto",
+      "avatar": "https://avatars.githubusercontent.com/u/76467478?v=4",
+      "age_days": 213,
+      "stars_per_day": 2137.2
+    },
+    {
+      "full_name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "desc": ":books: Freely available programming books",
+      "stars": 401493,
+      "forks": 67718,
+      "lang": "Python",
+      "created": "2013-10-11",
+      "pushed": "2026-11-12",
+      "topics": [
+        "books",
+        "education",
+        "hacktoberfest",
+        "list",
+        "resource"
+      ],
+      "owner": "EbookFoundation",
+      "avatar": "https://avatars.githubusercontent.com/u/14127308?v=4",
+      "age_days": 4781,
+      "stars_per_day": 84.0
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": 394410,
+      "forks": 82886,
+      "lang": "TypeScript",
+      "created": "2025-11-24",
+      "pushed": "2026-11-12",
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data"
+      ],
+      "owner": "openclaw",
+      "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "age_days": 354,
+      "stars_per_day": 1114.2
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "stars": 371910,
+      "forks": 46107,
+      "lang": "TypeScript",
+      "created": "2017-03-15",
+      "pushed": "2026-11-12",
+      "topics": [
+        "angular-roadmap",
+        "backend-roadmap",
+        "blockchain-roadmap",
+        "computer-science",
+        "dba-roadmap",
+        "developer-roadmap"
+      ],
+      "owner": "nilbuild",
+      "avatar": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "age_days": 3530,
+      "stars_per_day": 105.4
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 322999,
+      "forks": 27092,
+      "lang": "Shell",
+      "created": "2026-02-03",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "mattpocock",
+      "avatar": "https://avatars.githubusercontent.com/u/28293365?v=4",
+      "age_days": 283,
+      "stars_per_day": 1141.3
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 279772,
+      "forks": 34452,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-11",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 92,
+      "stars_per_day": 3041.0
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": 262966,
+      "forks": 59193,
+      "lang": "Python",
+      "created": "2025-07-22",
+      "pushed": "2026-11-12",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude"
+      ],
+      "owner": "NousResearch",
+      "avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "age_days": 479,
+      "stars_per_day": 549.0
+    },
+    {
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "desc": "Linux kernel source tree",
+      "stars": 255522,
+      "forks": 67132,
+      "lang": "C",
+      "created": "2011-09-04",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "torvalds",
+      "avatar": "https://avatars.githubusercontent.com/u/1024025?v=4",
+      "age_days": 5549,
+      "stars_per_day": 46.0
+    },
+    {
+      "full_name": "react/react",
+      "url": "https://github.com/react/react",
+      "desc": "The library for web and native user interfaces.",
+      "stars": 252556,
+      "forks": 52471,
+      "lang": "JavaScript",
+      "created": "2013-05-24",
+      "pushed": "2026-11-12",
+      "topics": [
+        "declarative",
+        "frontend",
+        "javascript",
+        "library",
+        "react",
+        "ui"
+      ],
+      "owner": "react",
+      "avatar": "https://avatars.githubusercontent.com/u/102812?v=4",
+      "age_days": 4921,
+      "stars_per_day": 51.3
+    },
+    {
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "stars": 226459,
+      "forks": 30655,
+      "lang": "TypeScript",
+      "created": "2025-04-30",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "anomalyco",
+      "avatar": "https://avatars.githubusercontent.com/u/66570915?v=4",
+      "age_days": 562,
+      "stars_per_day": 403.0
+    }
+  ],
+  "movers": [
+    {
+      "full_name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "stars": 29803,
+      "forks": 6066,
+      "lang": "Rust",
+      "created": "2026-10-31",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 13,
+      "stars_per_day": 2292.5,
+      "delta": 1446
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "stars": 71301,
+      "forks": 1942,
+      "lang": "JavaScript",
+      "created": "2026-09-24",
+      "pushed": "2026-11-11",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "Ebony-Vinyl",
+      "avatar": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "age_days": 50,
+      "stars_per_day": 1426.0,
+      "delta": 1302
+    },
+    {
+      "full_name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "stars": 20720,
+      "forks": 945,
+      "lang": "Dart",
+      "created": "2026-10-25",
+      "pushed": "2026-11-12",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "owner": "ccch1mneyyy",
+      "avatar": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "age_days": 19,
+      "stars_per_day": 1090.5,
+      "delta": 1028
+    },
+    {
+      "full_name": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "stars": 8753,
+      "forks": 808,
+      "lang": "C++",
+      "created": "2026-11-05",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "NotRexed",
+      "avatar": "https://avatars.githubusercontent.com/u/179062254?v=4",
+      "age_days": 8,
+      "stars_per_day": 1094.1,
+      "delta": 996
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 71197,
+      "forks": 4733,
+      "lang": "JavaScript",
+      "created": "2026-06-18",
+      "pushed": "2026-09-14",
+      "topics": [],
+      "owner": "cloudflare",
+      "avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "age_days": 148,
+      "stars_per_day": 481.1,
+      "delta": 847
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 279772,
+      "forks": 34452,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-11",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 92,
+      "stars_per_day": 3041.0,
+      "delta": 790
+    },
+    {
+      "full_name": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "stars": 6938,
+      "forks": 2548,
+      "lang": "Swift",
+      "created": "2026-11-09",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "huamidev",
+      "avatar": "https://avatars.githubusercontent.com/u/354314991?v=4",
+      "age_days": 4,
+      "stars_per_day": 1734.5,
+      "delta": 743
+    },
+    {
+      "full_name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "stars": 35400,
+      "forks": 3150,
+      "lang": "Go",
+      "created": "2026-09-23",
+      "pushed": "2026-11-12",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "owner": "yetone",
+      "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "age_days": 51,
+      "stars_per_day": 694.1,
+      "delta": 705
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 189778,
+      "forks": 10576,
+      "lang": "JavaScript",
+      "created": "2026-06-12",
+      "pushed": "2026-10-29",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules"
+      ],
+      "owner": "DietrichGebert",
+      "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "age_days": 154,
+      "stars_per_day": 1232.3,
+      "delta": 640
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "stars": 57010,
+      "forks": 7350,
+      "lang": "Python",
+      "created": "2026-10-17",
+      "pushed": "2026-11-11",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal"
+      ],
+      "owner": "Gathin23",
+      "avatar": "https://avatars.githubusercontent.com/u/94786511?v=4",
+      "age_days": 27,
+      "stars_per_day": 2111.5,
+      "delta": 486
+    },
+    {
+      "full_name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 21702,
+      "forks": 3018,
+      "lang": "TypeScript",
+      "created": "2026-08-11",
+      "pushed": "2026-11-12",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron"
+      ],
+      "owner": "milind-soni",
+      "avatar": "https://avatars.githubusercontent.com/u/46266943?v=4",
+      "age_days": 94,
+      "stars_per_day": 230.9,
+      "delta": 483
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "stars": 50441,
+      "forks": 5954,
+      "lang": "C",
+      "created": "2026-07-01",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "JustVugg",
+      "avatar": "https://avatars.githubusercontent.com/u/13022503?v=4",
+      "age_days": 135,
+      "stars_per_day": 373.6,
+      "delta": 472
+    },
+    {
+      "full_name": "KnifeLemon/Filee",
+      "url": "https://github.com/KnifeLemon/Filee",
+      "desc": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "stars": 26351,
+      "forks": 1510,
+      "lang": "C#",
+      "created": "2026-09-29",
+      "pushed": "2026-11-12",
+      "topics": [
+        "audio-converter",
+        "avalonia",
+        "batch-conversion",
+        "converter",
+        "csharp",
+        "document-converter"
+      ],
+      "owner": "KnifeLemon",
+      "avatar": "https://avatars.githubusercontent.com/u/13937016?v=4",
+      "age_days": 45,
+      "stars_per_day": 585.6,
+      "delta": 391
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "stars": 43544,
+      "forks": 4785,
+      "lang": "C++",
+      "created": "2026-09-24",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "Niko1221",
+      "avatar": "https://avatars.githubusercontent.com/u/86886444?v=4",
+      "age_days": 50,
+      "stars_per_day": 870.9,
+      "delta": 318
+    },
+    {
+      "full_name": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "desc": "",
+      "stars": 3556,
+      "forks": 246,
+      "lang": "C",
+      "created": "2026-11-07",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "tangerineturtle1",
+      "avatar": "https://avatars.githubusercontent.com/u/178368288?v=4",
+      "age_days": 6,
+      "stars_per_day": 592.7,
+      "delta": 313
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "stars": 75335,
+      "forks": 6679,
+      "lang": "HTML",
+      "created": "2026-09-07",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "eternity4719",
+      "avatar": "https://avatars.githubusercontent.com/u/230156667?v=4",
+      "age_days": 67,
+      "stars_per_day": 1124.4,
+      "delta": 299
+    },
+    {
+      "full_name": "WoYun520/gif-factory",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "stars": 1620,
+      "forks": 177,
+      "lang": "Python",
+      "created": "2026-11-05",
+      "pushed": "2026-11-12",
+      "topics": [],
+      "owner": "WoYun520",
+      "avatar": "https://avatars.githubusercontent.com/u/329836734?v=4",
+      "age_days": 8,
+      "stars_per_day": 202.5,
+      "delta": 297
+    },
+    {
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "desc": "Towards a More Autonomous Agent System",
+      "stars": 22737,
+      "forks": 2766,
+      "lang": "TypeScript",
+      "created": "2026-10-31",
+      "pushed": "2026-11-03",
+      "topics": [],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 13,
+      "stars_per_day": 1749.0,
+      "delta": 253
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 53500,
+      "forks": 5093,
+      "lang": "C++",
+      "created": "2026-08-03",
+      "pushed": "2026-11-12",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v"
+      ],
+      "owner": "boykopovar",
+      "avatar": "https://avatars.githubusercontent.com/u/184076081?v=4",
+      "age_days": 102,
+      "stars_per_day": 524.5,
+      "delta": 252
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "stars": 78984,
+      "forks": 13959,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-11-12",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 44,
+      "stars_per_day": 1795.1,
+      "delta": 242
+    }
+  ],
+  "annotations": {
+    "huamidev/GestaltX": {
+      "name": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "NotRexed/Hookshot": {
+      "name": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "tag": "其他",
+      "auto": true
+    },
+    "tangerineturtle1/NX2navi": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "Kianuni/Erosion-CN": {
+      "name": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "tag": "其他",
+      "auto": true
+    },
+    "jhaizhou-ops/S2Arm": {
+      "name": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "tag": "其他",
+      "auto": true
+    },
+    "HybridRobotics/supermimic": {
+      "name": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "tag": "模型/推理",
+      "auto": true
+    },
+    "JenkinWoo/sheeridVerify": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "agentes-chat/agentes-chat": {
+      "name": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "DIYgod/pinky": {
+      "name": "Let AI agents use your phone, with you in the loop.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "jamesondh/chimera-vocal-synth": {
+      "name": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "tag": "其他",
+      "auto": true
+    },
+    "IainKay/ram-altman": {
+      "name": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+      "tag": "其他",
+      "auto": true
+    },
+    "mmdoctor/google-pro-helper": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "WoYun520/gif-factory": {
+      "name": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "voyager-so/vork": {
+      "name": "Headless 3D and VFX engine for agents. Research preview.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "mahmoudtawfik1998/secure-pdf-document-processor": {
+      "name": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "tag": "其他",
+      "auto": true
+    },
+    "hembramneeraj3-create/aida-64-extreme": {
+      "name": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "tag": "其他",
+      "auto": true
+    },
+    "abdulmannanmalik13-wq/adobe-substance-3d-studio": {
+      "name": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "tag": "其他",
+      "auto": true
+    },
+    "AleRibeiro44/archicad-desktop-setup": {
+      "name": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
+      "tag": "其他",
+      "auto": true
+    },
+    "PHISHER420/autodesk-inventor-desktop-config": {
+      "name": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
+      "tag": "其他",
+      "auto": true
+    },
+    "CodeSouvik/clion-standalone-enhancement": {
+      "name": "CLion full installer: complete standalone setup, all features activated",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "deepseek-ai/deepseek-harness": {
+      "name": "DeepSeek 官方 Agent 框架，主打「一切皆插件」，半年拿到 24 万星",
+      "tag": "AI Agent",
+      "note": "本榜增长最快的项目，生态地位类似 Claude Code 的插件体系"
+    },
+    "DietrichGebert/ponytail": {
+      "name": "让 AI 像最懒的资深工程师那样思考——最好的代码是你从没写过的代码",
+      "tag": "Agent Skill",
+      "note": "理念是让 AI 少写代码、多复用，反向优化 token 消耗"
+    },
+    "odysseus-dev/odysseus": {
+      "name": "可自托管的 AI 工作台",
+      "tag": "自托管"
+    },
+    "storytold/photocraft": {
+      "name": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "eternity4719/HowToLiveBetter": {
+      "name": "高性价比人生指南：长寿防病、急救、省钱理财、法律红线、失业工伤、医保社保、婚育育儿、创业合规、出国技能，每条标明成本收益与证据等级",
+      "tag": "生活指南",
+      "note": "你正在办跨省医保备案，里面医保社保那一节可能用得上"
+    },
+    "Ebony-Vinyl/dsh-our-free-model": {
+      "name": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "cloudflare/security-audit-skill": {
+      "name": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "bilawalsidhu/gods-eye-view": {
+      "name": "浏览器里的间谍卫星模拟器，游玩用的是真实开源地理数据",
+      "tag": "地理可视化"
+    },
+    "Gathin23/cleanyourtv": {
+      "name": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "tag": "其他",
+      "auto": true
+    },
+    "boykopovar/AnyPS5": {
+      "name": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "tag": "其他",
+      "auto": true
+    },
+    "JustVugg/colibri": {
+      "name": "纯 C 写的推理引擎，无依赖，把专家权重从磁盘流式加载，让普通机器也能跑超大 MoE 模型",
+      "tag": "本地推理"
+    },
+    "alibaba/open-code-review": {
+      "name": "阿里开源的代码审查工具：确定性流水线 + LLM，能精确到行级评论",
+      "tag": "开发工具",
+      "note": "阿里生产环境验证过，工程可靠性有背书"
+    },
+    "Niko1221/Strata": {
+      "name": "让 125B 超大模型跑在 8GB 显卡上：一键安装，本地起 OpenAI/Anthropic 兼容接口",
+      "tag": "本地推理",
+      "note": "显存不够跑大模型的痛点方案，消费级硬件就能用"
+    },
+    "anywhere-labs/dsh-desktop": {
+      "name": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "NandhaKishorM/laya": {
+      "name": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "tag": "模型/推理",
+      "auto": true
+    },
+    "yetone/magpie": {
+      "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
+      "tag": "开发工具"
+    },
+    "vorssaint/vorssaint-utils": {
+      "name": "Free and open-source macOS menu bar toolkit.",
+      "tag": "其他",
+      "auto": true
+    },
+    "baidu/Unlimited-OCR": {
+      "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "tag": "其他",
+      "auto": true
+    },
+    "storytold/craft-anything": {
+      "name": "Craft Anything: understand how any software works, and craft your own.",
+      "tag": "其他",
+      "auto": true
+    },
+    "hypit-ai/hypit": {
+      "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "public-apis/public-apis": {
+      "name": "免费 API 大合集，做项目找数据源先看这个",
+      "tag": "资源合集",
+      "note": "48 万星，程序员必备清单"
+    },
+    "freeCodeCamp/freeCodeCamp": {
+      "name": "免费学编程的课程与代码库",
+      "tag": "学习资源"
+    },
+    "morluto/rea": {
+      "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "EbookFoundation/free-programming-books": {
+      "name": ":books: Freely available programming books",
+      "tag": "资源合集",
+      "auto": true
+    },
+    "openclaw/openclaw": {
+      "name": "跨平台通用 AI 助手，主打「真能干活」",
+      "tag": "AI Agent"
+    },
+    "nilbuild/developer-roadmap": {
+      "name": "开发者成长路线图，各技术方向该学什么一目了然",
+      "tag": "学习资源"
+    },
+    "mattpocock/skills": {
+      "name": "一线工程师的真实 Agent 技能库",
+      "tag": "Agent Skill"
+    },
+    "NousResearch/hermes-agent": {
+      "name": "随你一起成长的 Agent",
+      "tag": "AI Agent"
+    },
+    "torvalds/linux": {
+      "name": "Linux 内核源码",
+      "tag": "操作系统"
+    },
+    "react/react": {
+      "name": "React 前端框架源码",
+      "tag": "前端框架"
+    },
+    "anomalyco/opencode": {
+      "name": "The open source coding agent.",
+      "tag": "AI Agent",
+      "auto": true
+    }
+  }
+}
