@@ -4,13 +4,13 @@
     "tag": "开发工具",
     "auto": true
   },
-  "NotRexed/Hookshot": {
-    "name": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+  "tangerineturtle1/NX2navi": {
+    "name": "（官方未提供简介）",
     "tag": "其他",
     "auto": true
   },
-  "tangerineturtle1/NX2navi": {
-    "name": "（官方未提供简介）",
+  "apex-compute/ANR": {
+    "name": "Apex Neural Rendering (ANR) by Apex Compute",
     "tag": "其他",
     "auto": true
   },
@@ -34,13 +34,18 @@
     "tag": "其他",
     "auto": true
   },
+  "FrigadeHQ/yogurt": {
+    "name": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+    "tag": "其他",
+    "auto": true
+  },
   "agentes-chat/agentes-chat": {
     "name": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
     "tag": "AI Agent",
     "auto": true
   },
   "DIYgod/pinky": {
-    "name": "Let AI agents use your phone, with you in the loop.",
+    "name": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
     "tag": "AI Agent",
     "auto": true
   },
@@ -74,29 +79,24 @@
     "tag": "其他",
     "auto": true
   },
-  "hembramneeraj3-create/aida-64-extreme": {
-    "name": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
-    "tag": "其他",
-    "auto": true
-  },
   "abdulmannanmalik13-wq/adobe-substance-3d-studio": {
     "name": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
     "tag": "其他",
     "auto": true
   },
-  "AleRibeiro44/archicad-desktop-setup": {
-    "name": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
+  "hembramneeraj3-create/aida-64-extreme": {
+    "name": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
     "tag": "其他",
     "auto": true
   },
-  "PHISHER420/autodesk-inventor-desktop-config": {
-    "name": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
+  "sajawal-12/cubase-studio-desktop": {
+    "name": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
     "tag": "其他",
     "auto": true
   },
-  "CodeSouvik/clion-standalone-enhancement": {
-    "name": "CLion full installer: complete standalone setup, all features activated",
-    "tag": "开发工具",
+  "tss878/delta-executor-toolkit": {
+    "name": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+    "tag": "安全研究",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -151,15 +151,14 @@
     "name": "纯 C 写的推理引擎，无依赖，把专家权重从磁盘流式加载，让普通机器也能跑超大 MoE 模型",
     "tag": "本地推理"
   },
-  "alibaba/open-code-review": {
-    "name": "阿里开源的代码审查工具：确定性流水线 + LLM，能精确到行级评论",
-    "tag": "开发工具",
-    "note": "阿里生产环境验证过，工程可靠性有背书"
-  },
   "Niko1221/Strata": {
     "name": "让 125B 超大模型跑在 8GB 显卡上：一键安装，本地起 OpenAI/Anthropic 兼容接口",
     "tag": "本地推理",
     "note": "显存不够跑大模型的痛点方案，消费级硬件就能用"
+  },
+  "yetone/magpie": {
+    "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
+    "tag": "开发工具"
   },
   "anywhere-labs/dsh-desktop": {
     "name": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
@@ -171,17 +170,8 @@
     "tag": "模型/推理",
     "auto": true
   },
-  "yetone/magpie": {
-    "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
-    "tag": "开发工具"
-  },
   "vorssaint/vorssaint-utils": {
     "name": "Free and open-source macOS menu bar toolkit.",
-    "tag": "其他",
-    "auto": true
-  },
-  "baidu/Unlimited-OCR": {
-    "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
     "tag": "其他",
     "auto": true
   },
@@ -190,8 +180,18 @@
     "tag": "其他",
     "auto": true
   },
+  "baidu/Unlimited-OCR": {
+    "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+    "tag": "其他",
+    "auto": true
+  },
   "hypit-ai/hypit": {
     "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "xai-org/grok-build": {
+    "name": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
     "tag": "AI Agent",
     "auto": true
   },
@@ -222,6 +222,10 @@
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
   },
+  "vinta/awesome-python": {
+    "name": "Python 工具大全：想做 X，该用哪个库",
+    "tag": "资源合集"
+  },
   "mattpocock/skills": {
     "name": "一线工程师的真实 Agent 技能库",
     "tag": "Agent Skill"
@@ -237,10 +241,5 @@
   "react/react": {
     "name": "React 前端框架源码",
     "tag": "前端框架"
-  },
-  "anomalyco/opencode": {
-    "name": "The open source coding agent.",
-    "tag": "AI Agent",
-    "auto": true
   }
 }
