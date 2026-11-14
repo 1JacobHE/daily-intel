@@ -1,10 +1,10 @@
 {
   "week": "2026-W46",
   "date_range": [
-    "2026-11-13",
-    "2026-11-07"
+    "2026-11-14",
+    "2026-11-08"
   ],
-  "generated_at": "2026-11-13 08:00",
+  "generated_at": "2026-11-14 08:00",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
@@ -14,11 +14,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 437951,
-      "stars_last": 455228,
-      "stars_growth": 17277,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 440977,
+      "stars_last": 457628,
+      "stars_growth": 16651,
       "trend": "flat"
     },
     {
@@ -29,11 +29,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 63938,
-      "stars_last": 71301,
-      "stars_growth": 7363,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 65393,
+      "stars_last": 72787,
+      "stars_growth": 7394,
       "trend": "flat"
     },
     {
@@ -44,11 +44,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 63939,
-      "stars_last": 71197,
-      "stars_growth": 7258,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 65684,
+      "stars_last": 71909,
+      "stars_growth": 6225,
       "trend": "flat"
     },
     {
@@ -59,11 +59,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 274897,
-      "stars_last": 279772,
-      "stars_growth": 4875,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 275740,
+      "stars_last": 280490,
+      "stars_growth": 4750,
       "trend": "flat"
     },
     {
@@ -74,11 +74,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 31243,
-      "stars_last": 35400,
-      "stars_growth": 4157,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 31807,
+      "stars_last": 36095,
+      "stars_growth": 4288,
       "trend": "flat"
     },
     {
@@ -89,11 +89,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 185846,
-      "stars_last": 189778,
-      "stars_growth": 3932,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 186373,
+      "stars_last": 190354,
+      "stars_growth": 3981,
       "trend": "flat"
     },
     {
@@ -104,11 +104,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 53307,
-      "stars_last": 57010,
-      "stars_growth": 3703,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 53919,
+      "stars_last": 57432,
+      "stars_growth": 3513,
       "trend": "flat"
     },
     {
@@ -119,11 +119,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 41069,
-      "stars_last": 43544,
-      "stars_growth": 2475,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 41495,
+      "stars_last": 43909,
+      "stars_growth": 2414,
       "trend": "flat"
     },
     {
@@ -134,11 +134,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 48458,
-      "stars_last": 50441,
-      "stars_growth": 1983,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 48736,
+      "stars_last": 50859,
+      "stars_growth": 2123,
       "trend": "flat"
     },
     {
@@ -149,11 +149,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 261203,
-      "stars_last": 262966,
-      "stars_growth": 1763,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 261504,
+      "stars_last": 263222,
+      "stars_growth": 1718,
       "trend": "flat"
     },
     {
@@ -164,11 +164,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 51785,
-      "stars_last": 53500,
-      "stars_growth": 1715,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 52049,
+      "stars_last": 53718,
+      "stars_growth": 1669,
       "trend": "flat"
     },
     {
@@ -179,26 +179,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 77478,
-      "stars_last": 78984,
-      "stars_growth": 1506,
-      "trend": "flat"
-    },
-    {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "lang": "JavaScript",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 63209,
-      "stars_last": 64525,
-      "stars_growth": 1316,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 77728,
+      "stars_last": 79192,
+      "stars_growth": 1464,
       "trend": "flat"
     },
     {
@@ -209,11 +194,26 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 74029,
-      "stars_last": 75335,
-      "stars_growth": 1306,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 74202,
+      "stars_last": 75579,
+      "stars_growth": 1377,
+      "trend": "flat"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "days_on_board": 6,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 63401,
+      "stars_last": 64679,
+      "stars_growth": 1278,
       "trend": "flat"
     },
     {
@@ -224,11 +224,41 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 33268,
-      "stars_last": 34488,
-      "stars_growth": 1220,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 33410,
+      "stars_last": 34612,
+      "stars_growth": 1202,
+      "trend": "flat"
+    },
+    {
+      "full_name": "JenkinWoo/sheeridVerify",
+      "desc": "",
+      "lang": "JavaScript",
+      "days_on_board": 6,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 1653,
+      "stars_last": 2622,
+      "stars_growth": 969,
+      "trend": "down"
+    },
+    {
+      "full_name": "torvalds/linux",
+      "desc": "Linux kernel source tree",
+      "lang": "C",
+      "days_on_board": 6,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 254776,
+      "stars_last": 255596,
+      "stars_growth": 820,
       "trend": "flat"
     },
     {
@@ -239,26 +269,11 @@
       "boards": [
         "火箭榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 875,
-      "stars_last": 1791,
-      "stars_growth": 916,
-      "trend": "flat"
-    },
-    {
-      "full_name": "torvalds/linux",
-      "desc": "Linux kernel source tree",
-      "lang": "C",
-      "days_on_board": 6,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 254652,
-      "stars_last": 255522,
-      "stars_growth": 870,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 1136,
+      "stars_last": 1850,
+      "stars_growth": 714,
       "trend": "flat"
     },
     {
@@ -269,11 +284,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 35156,
-      "stars_last": 35861,
-      "stars_growth": 705,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 35280,
+      "stars_last": 35938,
+      "stars_growth": 658,
       "trend": "flat"
     },
     {
@@ -284,41 +299,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 371415,
-      "stars_last": 371910,
-      "stars_growth": 495,
-      "trend": "flat"
-    },
-    {
-      "full_name": "alibaba/open-code-review",
-      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "lang": "Go",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 49567,
-      "stars_last": 50043,
-      "stars_growth": 476,
-      "trend": "flat"
-    },
-    {
-      "full_name": "baidu/Unlimited-OCR",
-      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 30752,
-      "stars_last": 31154,
-      "stars_growth": 402,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 371488,
+      "stars_last": 371962,
+      "stars_growth": 474,
       "trend": "flat"
     },
     {
@@ -329,26 +314,26 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 458673,
-      "stars_last": 459054,
-      "stars_growth": 381,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 458721,
+      "stars_last": 459100,
+      "stars_growth": 379,
       "trend": "flat"
     },
     {
-      "full_name": "openclaw/openclaw",
-      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "lang": "TypeScript",
+      "full_name": "baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "lang": "Python",
       "days_on_board": 6,
       "boards": [
-        "活跃榜"
+        "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 394067,
-      "stars_last": 394410,
-      "stars_growth": 343,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 30846,
+      "stars_last": 31178,
+      "stars_growth": 332,
       "trend": "flat"
     },
     {
@@ -359,11 +344,26 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 35124,
-      "stars_last": 35464,
-      "stars_growth": 340,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 35182,
+      "stars_last": 35508,
+      "stars_growth": 326,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 6,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 394144,
+      "stars_last": 394400,
+      "stars_growth": 256,
       "trend": "flat"
     },
     {
@@ -374,11 +374,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 95321,
-      "stars_last": 95635,
-      "stars_growth": 314,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 95394,
+      "stars_last": 95614,
+      "stars_growth": 220,
       "trend": "flat"
     },
     {
@@ -390,11 +390,11 @@
         "势能榜",
         "火箭榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 17995,
-      "stars_last": 29803,
-      "stars_growth": 11808,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 20552,
+      "stars_last": 31405,
+      "stars_growth": 10853,
       "trend": "up"
     },
     {
@@ -413,18 +413,18 @@
       "trend": "up"
     },
     {
-      "full_name": "Minireel/HGhub",
-      "desc": "YellowFruit third-party client",
-      "lang": "TypeScript",
+      "full_name": "tangerineturtle1/NX2navi",
+      "desc": "",
+      "lang": "C",
       "days_on_board": 5,
       "boards": [
         "火箭榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-12",
-      "stars_first": 1619,
-      "stars_last": 8284,
-      "stars_growth": 6665,
+      "first_date": "2026-11-09",
+      "last_date": "2026-11-14",
+      "stars_first": 1282,
+      "stars_last": 3884,
+      "stars_growth": 2602,
       "trend": "up"
     },
     {
@@ -435,30 +435,62 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-13",
-      "stars_first": 496755,
-      "stars_last": 498530,
-      "stars_growth": 1775,
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-14",
+      "stars_first": 497017,
+      "stars_last": 498783,
+      "stars_growth": 1766,
       "trend": "flat"
     },
     {
-      "full_name": "KKKKhazix/agent-autoloop",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "lang": "TypeScript",
+      "full_name": "DIYgod/pinky",
+      "desc": "Let AI agents use your phone, with you in the loop.",
+      "lang": "Go",
       "days_on_board": 5,
       "boards": [
         "火箭榜"
       ],
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-12",
-      "stars_first": 3672,
-      "stars_last": 4526,
-      "stars_growth": 854,
-      "trend": "down"
+      "first_date": "2026-11-09",
+      "last_date": "2026-11-14",
+      "stars_first": 783,
+      "stars_last": 2077,
+      "stars_growth": 1294,
+      "trend": "flat"
     }
   ],
   "news_mainlines": [
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "美联储报告：先进计算相关借款目前占所有非金融类投资级企业债券发行量的31%",
+      "days": 4,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-09",
+          "title": "美联储12月加息的概率为78%",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-10",
+          "title": "美联储12月加息的概率为84.2%",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-12",
+          "title": "美加息预期强化 机构把脉金价走向",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "美联储报告：先进计算相关借款目前占所有非金融类投资级企业债券发行量的31%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
     {
       "topicLabel": "宏观经济/政策",
       "title": "秘鲁央行将基准利率设定为4.5%",
@@ -486,6 +518,70 @@
         {
           "date": "2026-11-13",
           "title": "秘鲁央行将基准利率设定为4.5%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司",
+      "days": 4,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-09",
+          "title": "Hyperliquid区块链上一份与英伟达股价挂钩的永续期货合约下跌2.9%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "英伟达开盘一度猛跌8.8% 黄仁勋承认婚外情或被免职 英伟达还能投吗？美专家：投资者需将个人问题与企业区分开来",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-12",
+          "title": "据报道，英伟达准备罢免首席执行官黄仁勋，英伟达董事会准备最早于当地时间周三召开会议",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "英伟达势创18个月来最差单周表现，市值蒸发逾6200亿美元",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "周鸿祎谈黄仁勋卸任：需要关注的不是他的个人去留",
+      "days": 4,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-09",
+          "title": "黄仁勋道歉信全文：我对妻子不忠 伤害了家人 没有任何借口",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-10",
+          "title": "预测市场认为黄仁勋短期离职概率较低",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "黄仁勋下台代价高昂 1.08亿美元股权作废",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "周鸿祎谈黄仁勋卸任：需要关注的不是他的个人去留",
           "heat": 1.0,
           "sources": 1
         }
@@ -525,77 +621,51 @@
     },
     {
       "topicLabel": "宏观经济/政策",
-      "title": "美加息预期强化 机构把脉金价走向",
+      "title": "今年前10月个税收入预计超去年全年 原因揭秘！年收入12万元以下群体基本不缴或缴少量",
       "days": 3,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-09",
-          "title": "美联储12月加息的概率为78%",
-          "heat": 2.0,
-          "sources": 2
-        },
-        {
           "date": "2026-11-10",
-          "title": "美联储12月加息的概率为84.2%",
-          "heat": 2.0,
-          "sources": 2
+          "title": "美国2026财年联邦预算赤字达2万亿美元",
+          "heat": 1.0,
+          "sources": 1
         },
         {
           "date": "2026-11-12",
-          "title": "美加息预期强化 机构把脉金价走向",
+          "title": "财政部首次在加发行人民币绿色主权债券 超额认购倍数创近年离岸人民币主权债发行新高",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "今年前10月个税收入预计超去年全年 原因揭秘！年收入12万元以下群体基本不缴或缴少量",
           "heat": 1.0,
           "sources": 1
         }
       ]
     },
     {
-      "topicLabel": "综合",
-      "title": "英伟达股价盘后跌幅扩大至4%",
+      "topicLabel": "宏观经济/政策",
+      "title": "美联储公布了11月至12月的短期国债购买计划",
       "days": 3,
       "kind": "topic_line",
       "points": [
-        {
-          "date": "2026-11-09",
-          "title": "Hyperliquid区块链上一份与英伟达股价挂钩的永续期货合约下跌2.9%",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-10",
-          "title": "英伟达开盘一度猛跌8.8% 黄仁勋承认婚外情或被免职 英伟达还能投吗？美专家：投资者需将个人问题与企业区分开来",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-12",
-          "title": "据报道，英伟达准备罢免首席执行官黄仁勋，英伟达董事会准备最早于当地时间周三召开会议",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "黄仁勋下台代价高昂 1.08亿美元股权作废",
-      "days": 3,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-09",
-          "title": "黄仁勋道歉信全文：我对妻子不忠 伤害了家人 没有任何借口",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-10",
-          "title": "预测市场认为黄仁勋短期离职概率较低",
+          "title": "美联储12月加息50个基点的概率为10.4%",
           "heat": 1.0,
           "sources": 1
         },
         {
           "date": "2026-11-13",
-          "title": "黄仁勋下台代价高昂 1.08亿美元股权作废",
+          "title": "美联储12月加息50个基点的概率为15.3%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "美联储公布了11月至12月的短期国债购买计划",
           "heat": 1.0,
           "sources": 1
         }
@@ -628,60 +698,20 @@
       ]
     },
     {
-      "topicLabel": "宏观经济/政策",
-      "title": "财政部首次在加发行人民币绿色主权债券 超额认购倍数创近年离岸人民币主权债发行新高",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-10",
-          "title": "美国2026财年联邦预算赤字达2万亿美元",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-12",
-          "title": "财政部首次在加发行人民币绿色主权债券 超额认购倍数创近年离岸人民币主权债发行新高",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
       "topicLabel": "综合",
-      "title": "衍生品新规施行在即，券商跨境业务加速合规重塑",
+      "title": "欧盟委员会主席冯德莱恩表示：计算领域至少需要5000亿欧元投资",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-07",
-          "title": "中科慧远视觉技术（洛阳）股份有限公司启动上市辅导",
+          "date": "2026-11-08",
+          "title": "斯洛伐克总理：若欧盟强制要求放弃俄石油 将继续发起诉讼",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-13",
-          "title": "衍生品新规施行在即，券商跨境业务加速合规重塑",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "宏观经济/政策",
-      "title": "美联储12月加息50个基点的概率为15.3%",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-12",
-          "title": "美联储12月加息50个基点的概率为10.4%",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-13",
-          "title": "美联储12月加息50个基点的概率为15.3%",
+          "date": "2026-11-14",
+          "title": "欧盟委员会主席冯德莱恩表示：计算领域至少需要5000亿欧元投资",
           "heat": 1.0,
           "sources": 1
         }
@@ -709,19 +739,19 @@
     },
     {
       "topicLabel": "综合",
-      "title": "高盛称AI债务供给压力正在信用市场累积",
+      "title": "微软表示 目前尚无法给出全面恢复的时间安排",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-07",
-          "title": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+          "date": "2026-11-13",
+          "title": "Cerebras宣布与微软达成了一项“重要”的云服务协议",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-09",
-          "title": "高盛称AI债务供给压力正在信用市场累积",
+          "date": "2026-11-14",
+          "title": "微软表示 目前尚无法给出全面恢复的时间安排",
           "heat": 1.0,
           "sources": 1
         }
@@ -749,9 +779,9 @@
     }
   ],
   "stat": {
-    "repos_tracked": 86,
-    "repos_multi_day": 70,
-    "mainlines": 13
+    "repos_tracked": 84,
+    "repos_multi_day": 69,
+    "mainlines": 12
   },
   "provenance": {
     "method": "aggregate_over_archives",
