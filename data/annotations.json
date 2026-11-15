@@ -4,6 +4,11 @@
     "tag": "开发工具",
     "auto": true
   },
+  "deepseek-ai/chat-demo": {
+    "name": "Chat Demo",
+    "tag": "其他",
+    "auto": true
+  },
   "tangerineturtle1/NX2navi": {
     "name": "（官方未提供简介）",
     "tag": "其他",
@@ -14,19 +19,14 @@
     "tag": "其他",
     "auto": true
   },
-  "Kianuni/Erosion-CN": {
-    "name": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-    "tag": "其他",
-    "auto": true
-  },
   "jhaizhou-ops/S2Arm": {
     "name": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
     "tag": "其他",
     "auto": true
   },
-  "HybridRobotics/supermimic": {
-    "name": "Humanoid whole-body motion tracking with one differentiable world model.",
-    "tag": "模型/推理",
+  "Kianuni/Erosion-CN": {
+    "name": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+    "tag": "其他",
     "auto": true
   },
   "JenkinWoo/sheeridVerify": {
@@ -39,9 +39,9 @@
     "tag": "其他",
     "auto": true
   },
-  "agentes-chat/agentes-chat": {
-    "name": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-    "tag": "AI Agent",
+  "HybridRobotics/supermimic": {
+    "name": "Humanoid whole-body motion tracking with one differentiable world model.",
+    "tag": "模型/推理",
     "auto": true
   },
   "DIYgod/pinky": {
@@ -49,29 +49,14 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "jamesondh/chimera-vocal-synth": {
-    "name": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-    "tag": "其他",
-    "auto": true
-  },
-  "IainKay/ram-altman": {
-    "name": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-    "tag": "其他",
-    "auto": true
-  },
-  "mmdoctor/google-pro-helper": {
-    "name": "（官方未提供简介）",
-    "tag": "其他",
-    "auto": true
-  },
-  "WoYun520/gif-factory": {
-    "name": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+  "agentes-chat/agentes-chat": {
+    "name": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
     "tag": "AI Agent",
     "auto": true
   },
-  "voyager-so/vork": {
-    "name": "Headless 3D and VFX engine for agents. Research preview.",
-    "tag": "AI Agent",
+  "HolyArrs/HolyArrs": {
+    "name": "One self-hosted app for your shows, movies and music.",
+    "tag": "创意/AI生成",
     "auto": true
   },
   "mahmoudtawfik1998/secure-pdf-document-processor": {
@@ -94,9 +79,24 @@
     "tag": "其他",
     "auto": true
   },
+  "sostenesfreitas/ocarina-recomp": {
+    "name": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+    "tag": "其他",
+    "auto": true
+  },
   "tss878/delta-executor-toolkit": {
     "name": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
     "tag": "安全研究",
+    "auto": true
+  },
+  "Arda313131882/aion-2-trainer-tool": {
+    "name": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+    "tag": "其他",
+    "auto": true
+  },
+  "ebtsamalhakmy-sketch/desktop-backup-suite": {
+    "name": "Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
+    "tag": "创意/AI生成",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -200,19 +200,14 @@
     "tag": "资源合集",
     "note": "48 万星，程序员必备清单"
   },
-  "freeCodeCamp/freeCodeCamp": {
-    "name": "免费学编程的课程与代码库",
-    "tag": "学习资源"
-  },
   "morluto/rea": {
     "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "tag": "AI Agent",
     "auto": true
   },
-  "EbookFoundation/free-programming-books": {
-    "name": ":books: Freely available programming books",
-    "tag": "资源合集",
-    "auto": true
+  "freeCodeCamp/freeCodeCamp": {
+    "name": "免费学编程的课程与代码库",
+    "tag": "学习资源"
   },
   "openclaw/openclaw": {
     "name": "跨平台通用 AI 助手，主打「真能干活」",
@@ -241,5 +236,10 @@
   "react/react": {
     "name": "React 前端框架源码",
     "tag": "前端框架"
+  },
+  "anomalyco/opencode": {
+    "name": "The open source coding agent.",
+    "tag": "AI Agent",
+    "auto": true
   }
 }
