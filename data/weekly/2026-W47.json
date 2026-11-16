@@ -1,0 +1,766 @@
+{
+  "week": "2026-W47",
+  "date_range": [
+    "2026-11-16",
+    "2026-11-10"
+  ],
+  "generated_at": "2026-11-16 08:00",
+  "github_persistent": [
+    {
+      "full_name": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 446888,
+      "stars_last": 461927,
+      "stars_growth": 15039,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 67345,
+      "stars_last": 75747,
+      "stars_growth": 8402,
+      "trend": "flat"
+    },
+    {
+      "full_name": "huamidev/GestaltX",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "lang": "Swift",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 1508,
+      "stars_last": 7735,
+      "stars_growth": 6227,
+      "trend": "flat"
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 68052,
+      "stars_last": 73219,
+      "stars_growth": 5167,
+      "trend": "flat"
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 277353,
+      "stars_last": 281605,
+      "stars_growth": 4252,
+      "trend": "flat"
+    },
+    {
+      "full_name": "yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "lang": "Go",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 33095,
+      "stars_last": 36928,
+      "stars_growth": 3833,
+      "trend": "flat"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 187679,
+      "stars_last": 191445,
+      "stars_growth": 3766,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 55460,
+      "stars_last": 58270,
+      "stars_growth": 2810,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "lang": "C++",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 42499,
+      "stars_last": 44531,
+      "stars_growth": 2032,
+      "trend": "flat"
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "lang": "C",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 49394,
+      "stars_last": 51363,
+      "stars_growth": 1969,
+      "trend": "flat"
+    },
+    {
+      "full_name": "tangerineturtle1/NX2navi",
+      "desc": "",
+      "lang": "C",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 2357,
+      "stars_last": 4212,
+      "stars_growth": 1855,
+      "trend": "up"
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 52617,
+      "stars_last": 54201,
+      "stars_growth": 1584,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 262067,
+      "stars_last": 263637,
+      "stars_growth": 1570,
+      "trend": "flat"
+    },
+    {
+      "full_name": "jhaizhou-ops/S2Arm",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "lang": "C#",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 1742,
+      "stars_last": 3194,
+      "stars_growth": 1452,
+      "trend": "down"
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "lang": "Rust",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 78244,
+      "stars_last": 79613,
+      "stars_growth": 1369,
+      "trend": "flat"
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "lang": "HTML",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 74598,
+      "stars_last": 75920,
+      "stars_growth": 1322,
+      "trend": "flat"
+    },
+    {
+      "full_name": "hypit-ai/hypit",
+      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 28797,
+      "stars_last": 30004,
+      "stars_growth": 1207,
+      "trend": "flat"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 63937,
+      "stars_last": 65121,
+      "stars_growth": 1184,
+      "trend": "flat"
+    },
+    {
+      "full_name": "vorssaint/vorssaint-utils",
+      "desc": "Free and open-source macOS menu bar toolkit.",
+      "lang": "Swift",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 33872,
+      "stars_last": 34854,
+      "stars_growth": 982,
+      "trend": "flat"
+    },
+    {
+      "full_name": "torvalds/linux",
+      "desc": "Linux kernel source tree",
+      "lang": "C",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 255036,
+      "stars_last": 255807,
+      "stars_growth": 771,
+      "trend": "flat"
+    },
+    {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 35516,
+      "stars_last": 36076,
+      "stars_growth": 560,
+      "trend": "flat"
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 371672,
+      "stars_last": 372085,
+      "stars_growth": 413,
+      "trend": "flat"
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 458824,
+      "stars_last": 459180,
+      "stars_growth": 356,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 394253,
+      "stars_last": 394533,
+      "stars_growth": 280,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 35293,
+      "stars_last": 35570,
+      "stars_growth": 277,
+      "trend": "flat"
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 31032,
+      "stars_last": 31237,
+      "stars_growth": 205,
+      "trend": "flat"
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-16",
+      "stars_first": 95522,
+      "stars_last": 95685,
+      "stars_growth": 163,
+      "trend": "flat"
+    },
+    {
+      "full_name": "storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "lang": "Rust",
+      "days_on_board": 4,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-16",
+      "stars_first": 28357,
+      "stars_last": 33713,
+      "stars_growth": 5356,
+      "trend": "flat"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "days_on_board": 4,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-14",
+      "stars_first": 319710,
+      "stars_last": 323810,
+      "stars_growth": 4100,
+      "trend": "flat"
+    },
+    {
+      "full_name": "jamesondh/chimera-vocal-synth",
+      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "lang": "Rust",
+      "days_on_board": 4,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-14",
+      "stars_first": 1200,
+      "stars_last": 2272,
+      "stars_growth": 1072,
+      "trend": "up"
+    }
+  ],
+  "news_mainlines": [
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "CME“美联储观察”：美联储12月加息25个基点的概率为95%",
+      "days": 4,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-12",
+          "title": "美联储12月加息50个基点的概率为10.4%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "美联储12月加息50个基点的概率为15.3%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "美联储公布了11月至12月的短期国债购买计划",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-16",
+          "title": "CME“美联储观察”：美联储12月加息25个基点的概率为95%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "A股限售股解禁一览：28.84亿元市值限售股今日解禁",
+      "days": 4,
+      "kind": "event_line",
+      "points": [
+        {
+          "date": "2026-11-10",
+          "title": "A股限售股解禁一览：85.26亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-12",
+          "title": "A股限售股解禁一览：138.63亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "A股限售股解禁一览：29.46亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-16",
+          "title": "A股限售股解禁一览：28.84亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "美联储报告：先进计算相关借款目前占所有非金融类投资级企业债券发行量的31%",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-10",
+          "title": "美联储12月加息的概率为84.2%",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-12",
+          "title": "美加息预期强化 机构把脉金价走向",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "美联储报告：先进计算相关借款目前占所有非金融类投资级企业债券发行量的31%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-10",
+          "title": "英伟达开盘一度猛跌8.8% 黄仁勋承认婚外情或被免职 英伟达还能投吗？美专家：投资者需将个人问题与企业区分开来",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-12",
+          "title": "据报道，英伟达准备罢免首席执行官黄仁勋，英伟达董事会准备最早于当地时间周三召开会议",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "英伟达势创18个月来最差单周表现，市值蒸发逾6200亿美元",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "今年前10月个税收入预计超去年全年 原因揭秘！年收入12万元以下群体基本不缴或缴少量",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-10",
+          "title": "美国2026财年联邦预算赤字达2万亿美元",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-12",
+          "title": "财政部首次在加发行人民币绿色主权债券 超额认购倍数创近年离岸人民币主权债发行新高",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "今年前10月个税收入预计超去年全年 原因揭秘！年收入12万元以下群体基本不缴或缴少量",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "周鸿祎谈黄仁勋卸任：需要关注的不是他的个人去留",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-10",
+          "title": "预测市场认为黄仁勋短期离职概率较低",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "黄仁勋下台代价高昂 1.08亿美元股权作废",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "周鸿祎谈黄仁勋卸任：需要关注的不是他的个人去留",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "Anthropic IPO认购需求约为发行规模的6倍，拟募资最高644亿美元",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-10",
+          "title": "Anthropic将冲刺下周IPO",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-12",
+          "title": "Anthropic的承销商正考虑将此次IPO的估值目标上调至最低1.5万亿美元",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Anthropic IPO认购需求约为发行规模的6倍，拟募资最高644亿美元",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "秘鲁央行将基准利率设定为4.5%",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-12",
+          "title": "土耳其上调消费者与企业贷款增速上限",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "秘鲁央行将基准利率设定为4.5%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "证监会：进一步深化市场稳定长效机制研究 有效防范市场异常波动",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-13",
+          "title": "衍生品新规施行在即，券商跨境业务加速合规重塑",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-16",
+          "title": "证监会：进一步深化市场稳定长效机制研究 有效防范市场异常波动",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "AI交易颠簸！资金回流红利 13只银行股股息率站上5%(名单)",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-14",
+          "title": "美联储发布金融稳定报告 称资产价格高企存在风险 部分由AI推动",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-16",
+          "title": "AI交易颠簸！资金回流红利 13只银行股股息率站上5%(名单)",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "消息称SpaceX与特斯拉创纪录合并谈判取得进展",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-12",
+          "title": "产业端进展催化股价上涨 机器人主题ETF规模水涨船高",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "消息称SpaceX与特斯拉创纪录合并谈判取得进展",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "微软表示 目前尚无法给出全面恢复的时间安排",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-13",
+          "title": "Cerebras宣布与微软达成了一项“重要”的云服务协议",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "微软表示 目前尚无法给出全面恢复的时间安排",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "repos_tracked": 86,
+    "repos_multi_day": 59,
+    "mainlines": 13
+  },
+  "provenance": {
+    "method": "aggregate_over_archives",
+    "status": "derived",
+    "detail": "对近 7 天归档做叠加统计：GitHub 用「上榜天数+星数净增」，要闻主线复用跨天事件串联结果"
+  }
+}
