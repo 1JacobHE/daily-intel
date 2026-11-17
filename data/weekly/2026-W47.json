@@ -4,472 +4,466 @@
     "2026-11-17",
     "2026-11-11"
   ],
-  "generated_at": "2026-11-17 00:22",
+  "generated_at": "2026-11-17 08:00",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "lang": "TypeScript",
-      "days_on_board": 7,
+      "days_on_board": 5,
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-11",
+      "first_date": "2026-11-12",
       "last_date": "2026-11-17",
-      "stars_first": 450649,
-      "stars_last": 463550,
-      "stars_growth": 12901,
+      "stars_first": 452682,
+      "stars_last": 464092,
+      "stars_growth": 11410,
       "trend": "flat"
     },
     {
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
       "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "lang": "JavaScript",
-      "days_on_board": 7,
+      "days_on_board": 5,
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-11",
+      "first_date": "2026-11-12",
       "last_date": "2026-11-17",
-      "stars_first": 69057,
-      "stars_last": 77128,
-      "stars_growth": 8071,
-      "trend": "flat"
-    },
-    {
-      "full_name": "cloudflare/security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "lang": "JavaScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 69557,
-      "stars_last": 73679,
-      "stars_growth": 4122,
-      "trend": "flat"
-    },
-    {
-      "full_name": "deepseek-ai/deepseek-harness",
-      "desc": "DeepSeek Harness: Everything is a Plugin.",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 278401,
-      "stars_last": 282229,
-      "stars_growth": 3828,
-      "trend": "flat"
-    },
-    {
-      "full_name": "DietrichGebert/ponytail",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "lang": "JavaScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 188540,
-      "stars_last": 191950,
-      "stars_growth": 3410,
-      "trend": "flat"
-    },
-    {
-      "full_name": "yetone/magpie",
-      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "lang": "Go",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 34121,
-      "stars_last": 37503,
-      "stars_growth": 3382,
-      "trend": "flat"
-    },
-    {
-      "full_name": "huamidev/GestaltX",
-      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-      "lang": "Swift",
-      "days_on_board": 7,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 5363,
-      "stars_last": 7850,
-      "stars_growth": 2487,
-      "trend": "flat"
-    },
-    {
-      "full_name": "Gathin23/cleanyourtv",
-      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "lang": "Python",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 56115,
-      "stars_last": 58551,
-      "stars_growth": 2436,
-      "trend": "flat"
-    },
-    {
-      "full_name": "Niko1221/Strata",
-      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-      "lang": "C++",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 42970,
-      "stars_last": 44829,
-      "stars_growth": 1859,
-      "trend": "flat"
-    },
-    {
-      "full_name": "JustVugg/colibri",
-      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-      "lang": "C",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 49807,
-      "stars_last": 51524,
-      "stars_growth": 1717,
-      "trend": "flat"
-    },
-    {
-      "full_name": "boykopovar/AnyPS5",
-      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "lang": "C++",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 53038,
-      "stars_last": 54410,
-      "stars_growth": 1372,
-      "trend": "flat"
-    },
-    {
-      "full_name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "lang": "Python",
-      "days_on_board": 7,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 262521,
-      "stars_last": 263828,
-      "stars_growth": 1307,
-      "trend": "flat"
-    },
-    {
-      "full_name": "eternity4719/HowToLiveBetter",
-      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "lang": "HTML",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 74867,
-      "stars_last": 76099,
-      "stars_growth": 1232,
-      "trend": "flat"
-    },
-    {
-      "full_name": "storytold/photocraft",
-      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
-      "lang": "Rust",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 78557,
-      "stars_last": 79764,
-      "stars_growth": 1207,
-      "trend": "flat"
-    },
-    {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "lang": "JavaScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 64186,
-      "stars_last": 65254,
-      "stars_growth": 1068,
-      "trend": "flat"
-    },
-    {
-      "full_name": "Kianuni/Erosion-CN",
-      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-      "lang": "Swift",
-      "days_on_board": 7,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 1247,
-      "stars_last": 2188,
-      "stars_growth": 941,
-      "trend": "down"
-    },
-    {
-      "full_name": "hypit-ai/hypit",
-      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 29195,
-      "stars_last": 30131,
-      "stars_growth": 936,
-      "trend": "flat"
-    },
-    {
-      "full_name": "vorssaint/vorssaint-utils",
-      "desc": "Free and open-source macOS menu bar toolkit.",
-      "lang": "Swift",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 34052,
-      "stars_last": 34944,
-      "stars_growth": 892,
-      "trend": "flat"
-    },
-    {
-      "full_name": "jhaizhou-ops/S2Arm",
-      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
-      "lang": "C#",
-      "days_on_board": 7,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 2460,
-      "stars_last": 3351,
-      "stars_growth": 891,
-      "trend": "flat"
-    },
-    {
-      "full_name": "torvalds/linux",
-      "desc": "Linux kernel source tree",
-      "lang": "C",
-      "days_on_board": 7,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 255225,
-      "stars_last": 255850,
-      "stars_growth": 625,
-      "trend": "flat"
-    },
-    {
-      "full_name": "anywhere-labs/dsh-desktop",
-      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 35660,
-      "stars_last": 36156,
-      "stars_growth": 496,
-      "trend": "flat"
-    },
-    {
-      "full_name": "nilbuild/developer-roadmap",
-      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 371772,
-      "stars_last": 372147,
-      "stars_growth": 375,
-      "trend": "flat"
-    },
-    {
-      "full_name": "openclaw/openclaw",
-      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 394312,
-      "stars_last": 394577,
-      "stars_growth": 265,
-      "trend": "flat"
-    },
-    {
-      "full_name": "freeCodeCamp/freeCodeCamp",
-      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 458962,
-      "stars_last": 459205,
-      "stars_growth": 243,
-      "trend": "flat"
-    },
-    {
-      "full_name": "NandhaKishorM/laya",
-      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-      "lang": "Python",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 35375,
-      "stars_last": 35595,
-      "stars_growth": 220,
-      "trend": "flat"
-    },
-    {
-      "full_name": "baidu/Unlimited-OCR",
-      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "lang": "Python",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 31086,
-      "stars_last": 31259,
-      "stars_growth": 173,
-      "trend": "flat"
-    },
-    {
-      "full_name": "odysseus-dev/odysseus",
-      "desc": "Self-hosted AI workspace.",
-      "lang": "Python",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-17",
-      "stars_first": 95570,
-      "stars_last": 95708,
-      "stars_growth": 138,
+      "stars_first": 69999,
+      "stars_last": 77279,
+      "stars_growth": 7280,
       "trend": "flat"
     },
     {
       "full_name": "storytold/craft-anything",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
       "lang": "Rust",
-      "days_on_board": 6,
+      "days_on_board": 5,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-12",
       "last_date": "2026-11-17",
       "stars_first": 28357,
-      "stars_last": 34538,
-      "stars_growth": 6181,
+      "stars_last": 34763,
+      "stars_growth": 6406,
       "trend": "flat"
     },
     {
-      "full_name": "anomalyco/opencode",
-      "desc": "The open source coding agent.",
-      "lang": "TypeScript",
-      "days_on_board": 6,
+      "full_name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "days_on_board": 5,
       "boards": [
-        "活跃榜"
+        "势能榜"
       ],
-      "first_date": "2026-11-11",
+      "first_date": "2026-11-12",
       "last_date": "2026-11-17",
-      "stars_first": 225952,
-      "stars_last": 227246,
-      "stars_growth": 1294,
+      "stars_first": 70350,
+      "stars_last": 73934,
+      "stars_growth": 3584,
+      "trend": "flat"
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 278982,
+      "stars_last": 282331,
+      "stars_growth": 3349,
+      "trend": "flat"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 189138,
+      "stars_last": 192158,
+      "stars_growth": 3020,
+      "trend": "flat"
+    },
+    {
+      "full_name": "yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "lang": "Go",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 34695,
+      "stars_last": 37545,
+      "stars_growth": 2850,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 56524,
+      "stars_last": 58676,
+      "stars_growth": 2152,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "lang": "C++",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 43226,
+      "stars_last": 44929,
+      "stars_growth": 1703,
+      "trend": "flat"
+    },
+    {
+      "full_name": "huamidev/GestaltX",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "lang": "Swift",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 6195,
+      "stars_last": 7878,
+      "stars_growth": 1683,
+      "trend": "flat"
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "lang": "C",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 49969,
+      "stars_last": 51582,
+      "stars_growth": 1613,
       "trend": "flat"
     },
     {
       "full_name": "public-apis/public-apis",
       "desc": "A collective list of free APIs",
       "lang": "Python",
-      "days_on_board": 6,
+      "days_on_board": 5,
       "boards": [
         "活跃榜"
       ],
       "first_date": "2026-11-12",
       "last_date": "2026-11-17",
       "stars_first": 498238,
-      "stars_last": 499529,
-      "stars_growth": 1291,
+      "stars_last": 499613,
+      "stars_growth": 1375,
       "trend": "flat"
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 53248,
+      "stars_last": 54529,
+      "stars_growth": 1281,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 262737,
+      "stars_last": 263916,
+      "stars_growth": 1179,
+      "trend": "flat"
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "lang": "Rust",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 78742,
+      "stars_last": 79827,
+      "stars_growth": 1085,
+      "trend": "flat"
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "lang": "HTML",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 75036,
+      "stars_last": 76112,
+      "stars_growth": 1076,
+      "trend": "flat"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 64329,
+      "stars_last": 65299,
+      "stars_growth": 970,
+      "trend": "flat"
+    },
+    {
+      "full_name": "hypit-ai/hypit",
+      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 29374,
+      "stars_last": 30173,
+      "stars_growth": 799,
+      "trend": "flat"
+    },
+    {
+      "full_name": "jhaizhou-ops/S2Arm",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+      "lang": "C#",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 2585,
+      "stars_last": 3364,
+      "stars_growth": 779,
+      "trend": "flat"
+    },
+    {
+      "full_name": "vorssaint/vorssaint-utils",
+      "desc": "Free and open-source macOS menu bar toolkit.",
+      "lang": "Swift",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 34288,
+      "stars_last": 34990,
+      "stars_growth": 702,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Kianuni/Erosion-CN",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "lang": "Swift",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 1527,
+      "stars_last": 2196,
+      "stars_growth": 669,
+      "trend": "flat"
+    },
+    {
+      "full_name": "torvalds/linux",
+      "desc": "Linux kernel source tree",
+      "lang": "C",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 255417,
+      "stars_last": 255934,
+      "stars_growth": 517,
+      "trend": "flat"
+    },
+    {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 35748,
+      "stars_last": 36168,
+      "stars_growth": 420,
+      "trend": "flat"
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 371834,
+      "stars_last": 372174,
+      "stars_growth": 340,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 394367,
+      "stars_last": 394601,
+      "stars_growth": 234,
+      "trend": "flat"
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "lang": "TypeScript",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 459000,
+      "stars_last": 459224,
+      "stars_growth": 224,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 35412,
+      "stars_last": 35605,
+      "stars_growth": 193,
+      "trend": "flat"
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 31108,
+      "stars_last": 31269,
+      "stars_growth": 161,
+      "trend": "flat"
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-17",
+      "stars_first": 95597,
+      "stars_last": 95725,
+      "stars_growth": 128,
+      "trend": "flat"
+    },
+    {
+      "full_name": "tangerineturtle1/NX2navi",
+      "desc": "",
+      "lang": "C",
+      "days_on_board": 4,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-16",
+      "stars_first": 3243,
+      "stars_last": 4212,
+      "stars_growth": 969,
+      "trend": "up"
     }
   ],
   "news_mainlines": [
     {
       "topicLabel": "宏观经济/政策",
       "title": "CME“美联储观察”：美联储12月加息25个基点的概率为95%",
-      "days": 5,
+      "days": 4,
       "kind": "topic_line",
       "points": [
-        {
-          "date": "2026-11-11",
-          "title": "经济学家：市场夸大了美联储12月加息50个基点的风险",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-12",
           "title": "美联储12月加息50个基点的概率为10.4%",
@@ -498,98 +492,8 @@
     },
     {
       "topicLabel": "综合",
-      "title": "A股算力产业链再回应“英伟达事件影响”：采购走合规渠道 不依赖特定人员",
+      "title": "A股限售股解禁一览：13.97亿元市值限售股今日解禁",
       "days": 4,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-12",
-          "title": "据报道，英伟达准备罢免首席执行官黄仁勋，英伟达董事会准备最早于当地时间周三召开会议",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-14",
-          "title": "英伟达势创18个月来最差单周表现，市值蒸发逾6200亿美元",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-15",
-          "title": "黄仁勋被撤换 英伟达创14年来最长连跌纪录 超5万人请愿黄仁勋复职",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-17",
-          "title": "Corvex签署1.03亿美元英伟达Blackwell算力保底采购协议",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "中国证监会在沪召开国际顾问委员会第23次会议",
-      "days": 4,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-13",
-          "title": "衍生品新规施行在即，券商跨境业务加速合规重塑",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-15",
-          "title": "吴清在上海最新发声 关系到2亿多股票投资者",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-16",
-          "title": "证监会：进一步深化市场稳定长效机制研究 有效防范市场异常波动",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-17",
-          "title": "中国证监会在沪召开国际顾问委员会第23次会议",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "特斯拉据悉将投资30亿欧元扩建柏林工厂",
-      "days": 3,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-12",
-          "title": "产业端进展催化股价上涨 机器人主题ETF规模水涨船高",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-13",
-          "title": "消息称SpaceX与特斯拉创纪录合并谈判取得进展",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-17",
-          "title": "特斯拉据悉将投资30亿欧元扩建柏林工厂",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "A股限售股解禁一览：28.84亿元市值限售股今日解禁",
-      "days": 3,
       "kind": "event_line",
       "points": [
         {
@@ -607,6 +511,90 @@
         {
           "date": "2026-11-16",
           "title": "A股限售股解禁一览：28.84亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-17",
+          "title": "A股限售股解禁一览：13.97亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "报道称英伟达董事会没有在考虑让黄仁勋重任CEO",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-12",
+          "title": "据报道，英伟达准备罢免首席执行官黄仁勋，英伟达董事会准备最早于当地时间周三召开会议",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-14",
+          "title": "英伟达势创18个月来最差单周表现，市值蒸发逾6200亿美元",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-17",
+          "title": "英伟达推出DGX Spark高性能计算开发者套件",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "中国证监会召开国际顾问委员会会议 聚焦增强资本市场韧性等议题",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-13",
+          "title": "衍生品新规施行在即，券商跨境业务加速合规重塑",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-16",
+          "title": "证监会：进一步深化市场稳定长效机制研究 有效防范市场异常波动",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-17",
+          "title": "中国证监会召开国际顾问委员会会议 聚焦增强资本市场韧性等议题",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "特斯拉拟投30亿欧元扩建德国工厂 瞄准年产百万辆Cybercab",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-12",
+          "title": "产业端进展催化股价上涨 机器人主题ETF规模水涨船高",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-13",
+          "title": "消息称SpaceX与特斯拉创纪录合并谈判取得进展",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-17",
+          "title": "特斯拉拟投30亿欧元扩建德国工厂 瞄准年产百万辆Cybercab",
           "heat": 1.0,
           "sources": 1
         }
@@ -674,19 +662,39 @@
     },
     {
       "topicLabel": "综合",
-      "title": "商务部副部长李成钢：亚太地区2026年经济增长率将达3.4%",
+      "title": "英派药业：塞纳帕利获得欧盟委员会批准上市",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-12",
-          "title": "老字号振兴重在固本拓新",
+          "date": "2026-11-14",
+          "title": "欧盟委员会主席冯德莱恩表示：计算领域至少需要5000亿欧元投资",
           "heat": 1.0,
           "sources": 1
         },
         {
           "date": "2026-11-17",
-          "title": "商务部副部长李成钢：亚太地区2026年经济增长率将达3.4%",
+          "title": "英派药业：塞纳帕利获得欧盟委员会批准上市",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "风险与监管",
+      "title": "对手Anthropic抢先上市，奥特曼：不担心OpenAI IPO计划",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-13",
+          "title": "OpenAI、Anthropic、谷歌等五大AI巨头遭起诉：被要求停止开发新模型",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-17",
+          "title": "对手Anthropic抢先上市，奥特曼：不担心OpenAI IPO计划",
           "heat": 1.0,
           "sources": 1
         }
@@ -731,32 +739,12 @@
           "sources": 1
         }
       ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "SpaceX：各团队完成状态确认 均同意星舰飞船返回星际基地发射场",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-14",
-          "title": "SpaceX：今日发射将部署26颗Starlink V3卫星",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-15",
-          "title": "SpaceX：各团队完成状态确认 均同意星舰飞船返回星际基地发射场",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
     }
   ],
   "stat": {
-    "repos_tracked": 91,
-    "repos_multi_day": 74,
-    "mainlines": 18
+    "repos_tracked": 86,
+    "repos_multi_day": 64,
+    "mainlines": 14
   },
   "provenance": {
     "method": "aggregate_over_archives",
