@@ -1,0 +1,3106 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18 01:35",
+  "events": [
+    {
+      "eid": "5075fcf683",
+      "ekey": "费城半导体#AI芯片",
+      "kind": "topic_line",
+      "title": "费城半导体指数跌幅扩大至3%",
+      "body": "【行情】费城半导体指数跌幅扩大至3%，报9320点。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 72.5,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": true,
+      "heat_delta": 1.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": true,
+      "member_count": 3,
+      "members": [
+        {
+          "title": "费城半导体指数跌幅扩大至3%",
+          "src": "东方财富",
+          "time": "2026-11-17 23:52:37",
+          "body": "【行情】费城半导体指数跌幅扩大至3%，报9320点。",
+          "score": 72.5
+        },
+        {
+          "title": "费城半导体指数涨幅扩大至1%",
+          "src": "东方财富",
+          "time": "2026-11-17 22:41:48",
+          "body": "【行情】费城半导体指数涨幅扩大至1%，报9720.24点。",
+          "score": 72.5
+        },
+        {
+          "title": "费城半导体指数日内跌3%",
+          "src": "同花顺",
+          "time": "2026-11-17 23:51:56",
+          "body": "费城半导体指数日内跌3.00%，现报9321.88点。英伟达跌3.56%，博通跌0.64%，美光跌6.86%，英特尔跌5.09%，AMD跌4.30%，高通跌3.35%，台积电跌4.82%，阿斯麦跌3.42%。",
+          "score": 61.5
+        }
+      ],
+      "merge_reasons": [
+        "标题相似度 0.54 ≥ 0.52",
+        "共享实体 费城半导体 + 同主题 AI芯片，相似度 0.38",
+        "共享实体 费城半导体 + 同主题 AI芯片，相似度 0.38"
+      ],
+      "related": [],
+      "time": "2026-11-17 23:52:37",
+      "rank_score": 65.0
+    },
+    {
+      "eid": "b339c04208",
+      "ekey": "台积电|美光#AI芯片",
+      "kind": "topic_line",
+      "title": "美股芯片股跌幅再度扩大",
+      "body": "截至发稿，英伟达股价下跌2.33%，台积电股价下跌3.5%，美光科技股价下跌4.06%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 66.5,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": true,
+      "member_count": 2,
+      "members": [
+        {
+          "title": "美股芯片股跌幅再度扩大",
+          "src": "东方财富",
+          "time": "2026-11-17 23:33:56",
+          "body": "截至发稿，英伟达股价下跌2.33%，台积电股价下跌3.5%，美光科技股价下跌4.06%。",
+          "score": 66.5
+        },
+        {
+          "title": "美股芯片股跌幅再度扩大，英伟达跌2.33%",
+          "src": "同花顺",
+          "time": "2026-11-17 23:35:00",
+          "body": "美股芯片股跌幅再度扩大，英伟达股价下跌2.33%，台积电股价下跌3.5%，美光科技股价下跌4.06%。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [
+        "标题相似度 0.73 ≥ 0.52"
+      ],
+      "related": [],
+      "time": "2026-11-17 23:33:56",
+      "rank_score": 62.6
+    },
+    {
+      "eid": "4c7bd21a1c",
+      "ekey": "花旗#关税贸易",
+      "kind": "topic_line",
+      "title": "花旗安立承：全球贸易并未萎缩 相当大部分增长来自APEC经济体",
+      "body": "在2026年APEC工商领导人峰会上，花旗国际业务总裁安立承表示，尽管外界普遍认为全球经济正趋向碎片化，但全球商业活动依然保持强劲。“在当前全球环境下，许多人认为全球贸易正在萎缩，但事实恰恰相反。全球贸易规模持续约占全球GDP的60%，而其中相当大部分的增长来自APEC经济体。”他援引花旗数据统计称，今年上半年花旗处理的全球支付交易量增长40%；其中，与科技板块相关的支付交易在全球增长50%，在亚洲则增长60%。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 61.0,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "关税贸易",
+      "topicLabel": "关税与制裁",
+      "merged": true,
+      "member_count": 2,
+      "members": [
+        {
+          "title": "花旗安立承：全球贸易并未萎缩 相当大部分增长来自APEC经济体",
+          "src": "东方财富",
+          "time": "2026-11-17 22:48:25",
+          "body": "在2026年APEC工商领导人峰会上，花旗国际业务总裁安立承表示，尽管外界普遍认为全球经济正趋向碎片化，但全球商业活动依然保持强劲。“在当前全球环境下，许多人认为全球贸易正在萎缩，但事实恰恰相反。全球贸易规模持续约占全球GDP的60%，而其中相当大部分的增长来自APEC经济体。”他援引花旗数据统计称，今年上半年花旗处理的全球支付交易量增长40%；其中，与科技板块相关的支付交易在全球增长50%，在亚洲则增长60%。",
+          "score": 61.0
+        },
+        {
+          "title": "花旗安立承：全球贸易并未萎缩，规模持续约占全球GDP的60%，相当大部分增长来自APEC经济体",
+          "src": "同花顺",
+          "time": "2026-11-17 22:52:20",
+          "body": "在2026年APEC工商领导人峰会上，花旗国际业务总裁安立承表示，尽管外界普遍认为全球经济正趋向碎片化，但全球商业活动依然保持强劲。“在当前全球环境下，许多人认为全球贸易正在萎缩，但事实恰恰相反。全球贸易规模持续约占全球GDP的60%，而其中相当大部分的增长来自APEC经济体。”他援引花旗数据统计称，今年上半年花旗处理的全球支付交易量增长40%；其中，与科技板块相关的支付交易在全球增长50%，在亚洲则增长60%。安立承表示，在促进贸易方面，降低行政复杂性与降低关税同样重要。“消除不必要的行政程序，并推动贸易流程精简化和数字化，对整体成本的影响，可能与单纯降低关税相当，甚至更大。” （财联社）",
+          "score": 58.0
+        }
+      ],
+      "merge_reasons": [
+        "标题相似度 0.61 ≥ 0.52"
+      ],
+      "related": [],
+      "time": "2026-11-17 22:48:25",
+      "rank_score": 60.4
+    },
+    {
+      "eid": "0bb7091692",
+      "ekey": "碧桂园控股",
+      "kind": "topic_line",
+      "title": "碧桂园：新增逾期有息债务约人民币3.74亿元",
+      "body": "11月17日，碧桂园控股有限公司发布公告：截至2026年11月12日，发行人及其子公司较2026年11月5日涉及新增标的金额5000万元以上的未决诉讼、仲裁案件8宗，标的金额合计约11.57亿元。截至2026年11月12日，发行人及其子公司较2026年11月5日新增逾期的有息债务约人民币3.74亿元。上述事项可能对发行人的生产经营和偿债能力产生一定的不利影响。发行人将密切关注上述事项进展并持续与有关机构和债权人洽谈沟通，争取尽快妥善解决相关债务问题。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 79.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "碧桂园：新增逾期有息债务约人民币3.74亿元",
+          "src": "东方财富",
+          "time": "2026-11-17 23:42:37",
+          "body": "11月17日，碧桂园控股有限公司发布公告：截至2026年11月12日，发行人及其子公司较2026年11月5日涉及新增标的金额5000万元以上的未决诉讼、仲裁案件8宗，标的金额合计约11.57亿元。截至2026年11月12日，发行人及其子公司较2026年11月5日新增逾期的有息债务约人民币3.74亿元。上述事项可能对发行人的生产经营和偿债能力产生一定的不利影响。发行人将密切关注上述事项进展并持续与有关机构和债权人洽谈沟通，争取尽快妥善解决相关债务问题。",
+          "score": 79.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:42:37",
+      "rank_score": 46.8
+    },
+    {
+      "eid": "0658b81a91",
+      "ekey": "美联储",
+      "kind": "topic_line",
+      "title": "美国制造业产值连续第二个月增长0.3% 延续今年回升势头",
+      "body": "美国10月制造业产值增幅超过预期，延续今年以来美国制造业的回升势头。美联储周二公布的数据显示，制造业产值连续第二个月增长0.3%。经济学家预估中值为增长0.2%。包括采矿业和公用事业的总体工业产值下降0.4%。公用事业产值下降4.3%，前月则录得类似幅度的增长。受飓风Isaias扰乱海上石油开采影响，采矿业产值下降0.8%。制造业产出增长表明，在AI建设推动企业支出强劲、消费者需求保持韧性的背景下，制造商继续受益。与此同时，战争和关税今年也导致投入成本上升，并给供应链带来挑战。10月采购经理调查显示，制造业活动继续扩张，但在通胀压力持续的情况下，调查也显示市场信心有所恶化。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件",
+        "石油/能源",
+        "消费/白酒"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 79.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国制造业产值连续第二个月增长0.3% 延续今年回升势头",
+          "src": "东方财富",
+          "time": "2026-11-17 22:43:51",
+          "body": "美国10月制造业产值增幅超过预期，延续今年以来美国制造业的回升势头。美联储周二公布的数据显示，制造业产值连续第二个月增长0.3%。经济学家预估中值为增长0.2%。包括采矿业和公用事业的总体工业产值下降0.4%。公用事业产值下降4.3%，前月则录得类似幅度的增长。受飓风Isaias扰乱海上石油开采影响，采矿业产值下降0.8%。制造业产出增长表明，在AI建设推动企业支出强劲、消费者需求保持韧性的背景下，制造商继续受益。与此同时，战争和关税今年也导致投入成本上升，并给供应链带来挑战。10月采购经理调查显示，制造业活动继续扩张，但在通胀压力持续的情况下，调查也显示市场信心有所恶化。",
+          "score": 79.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:43:51",
+      "rank_score": 46.6
+    },
+    {
+      "eid": "b339c04208",
+      "ekey": "台积电|美光#AI芯片",
+      "kind": "topic_line",
+      "title": "美股芯片股再度普跌：美光跌5.5% 台积电跌超4%",
+      "body": "美股AI硬件股多数下跌，费城半导体指数跌1.90%，英伟达跌3.13%，台积电跌4.06%，美光科技跌5.47%，SK海力士跌2.54%，AMD跌2.63%，英特尔跌3.71%，阿斯麦跌2.60%，闪迪跌5.32%，迈威尔科技跌1.29%。博通逆势涨0.15%，Arm涨1.36%，Coherent涨1.03%。三倍做多半导体ETF（SOXL）跌6.42%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 77.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股芯片股再度普跌：美光跌5.5% 台积电跌超4%",
+          "src": "东方财富",
+          "time": "2026-11-17 23:44:10",
+          "body": "美股AI硬件股多数下跌，费城半导体指数跌1.90%，英伟达跌3.13%，台积电跌4.06%，美光科技跌5.47%，SK海力士跌2.54%，AMD跌2.63%，英特尔跌3.71%，阿斯麦跌2.60%，闪迪跌5.32%，迈威尔科技跌1.29%。博通逆势涨0.15%，Arm涨1.36%，Coherent涨1.03%。三倍做多半导体ETF（SOXL）跌6.42%。",
+          "score": 77.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:44:10",
+      "rank_score": 46.0
+    },
+    {
+      "eid": "fdb5ecd721",
+      "ekey": "KBW银行指数下跌至月日以来最低",
+      "kind": "event_line",
+      "title": "KBW银行指数下跌1.8% 至10月20日以来最低水平",
+      "body": "【行情】KBW银行指数下跌1.8%，至10月20日以来最低水平。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 70.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "KBW银行指数下跌1.8% 至10月20日以来最低水平",
+          "src": "东方财富",
+          "time": "2026-11-17 23:46:25",
+          "body": "【行情】KBW银行指数下跌1.8%，至10月20日以来最低水平。",
+          "score": 70.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:46:25",
+      "rank_score": 43.2
+    },
+    {
+      "eid": "dddf488c53",
+      "ekey": "美国住宅建筑商信心降至年新低房贷",
+      "kind": "event_line",
+      "title": "美国住宅建筑商信心降至14年新低 房贷利率高企打击购房需求",
+      "body": "美国住宅建筑商的情绪本月进一步恶化，降至14年新低，高企的抵押贷款利率令潜在买家望而却步，迫使建筑商更加依赖代价高昂的促销激励措施。周二公布的数据显示，全美住宅建筑商协会(NAHB)和富国编制的整体市场指数11月下降4点，至25，为2012年4月以来最低。读数低于50意味着认为市场状况不佳的建筑商多于认为状况良好的建筑商，该指标已连续两年多低于这一门槛。衡量当前销售状况的指标下降6点，至28，同样创14年新低。NAHB数据显示，销售预期和潜在买家客流指标均较上月下降2点。“住房市场面临一系列供应端挑战，包括关税推高建筑材料成本、建筑工人持续短缺，以及过度监管削弱住房可负担性，”NAHB首席经济学家RobertDietz在声明中表示。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bear",
+      "sectors": [
+        "地产/基建"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 69.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "房地产",
+      "topicLabel": "地产与楼市",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美国住宅建筑商信心降至14年新低 房贷利率高企打击购房需求",
+          "src": "东方财富",
+          "time": "2026-11-17 23:31:37",
+          "body": "美国住宅建筑商的情绪本月进一步恶化，降至14年新低，高企的抵押贷款利率令潜在买家望而却步，迫使建筑商更加依赖代价高昂的促销激励措施。周二公布的数据显示，全美住宅建筑商协会(NAHB)和富国编制的整体市场指数11月下降4点，至25，为2012年4月以来最低。读数低于50意味着认为市场状况不佳的建筑商多于认为状况良好的建筑商，该指标已连续两年多低于这一门槛。衡量当前销售状况的指标下降6点，至28，同样创14年新低。NAHB数据显示，销售预期和潜在买家客流指标均较上月下降2点。“住房市场面临一系列供应端挑战，包括关税推高建筑材料成本、建筑工人持续短缺，以及过度监管削弱住房可负担性，”NAHB首席经济学家RobertDietz在声明中表示。",
+          "score": 69.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:31:37",
+      "rank_score": 42.6
+    },
+    {
+      "eid": "cc5e8f5a2b",
+      "ekey": "云南能源集团|发改委",
+      "kind": "topic_line",
+      "title": "云南楚雄州2.62GW风光指标公示：中广核、云南能源集团等斩获",
+      "body": "每日风电讯：11月17日，楚雄州发改委发布楚雄州2026年第一批、第二批新能源项目市场化竞争性配置评审结果公示，规模共计261.865万千瓦，其中，风电项目31个、180...",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "新能源/锂电",
+        "石油/能源"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T2",
+      "score": 69.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "云南楚雄州2.62GW风光指标公示：中广核、云南能源集团等斩获",
+          "src": "新浪财经",
+          "time": "2026-11-18 00:00:00",
+          "body": "每日风电讯：11月17日，楚雄州发改委发布楚雄州2026年第一批、第二批新能源项目市场化竞争性配置评审结果公示，规模共计261.865万千瓦，其中，风电项目31个、180...",
+          "score": 69.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:00:00",
+      "rank_score": 42.6
+    },
+    {
+      "eid": "f03fef9b42",
+      "ekey": "振宏股份|日解禁振宏股份",
+      "kind": "topic_line",
+      "title": "振宏股份：120万股限售股将于11月24日解禁",
+      "body": "振宏股份公告，本次股票解除限售数量总额为1,200,000股，占公司总股本1.1815%，可交易时间为2026年11月24日。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 68.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "振宏股份：120万股限售股将于11月24日解禁",
+          "src": "东方财富",
+          "time": "2026-11-17 23:57:43",
+          "body": "振宏股份公告，本次股票解除限售数量总额为1,200,000股，占公司总股本1.1815%，可交易时间为2026年11月24日。",
+          "score": 68.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:57:43",
+      "rank_score": 42.4
+    },
+    {
+      "eid": "831086e445",
+      "ekey": "并行科技|解除限售并行科技",
+      "kind": "topic_line",
+      "title": "并行科技：830.01万股解除限售",
+      "body": "并行科技公告，本次股票解除限售数量总额为8,300,082股，占公司总股本13.70%，可交易时间为2026年11月20日。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 68.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "并行科技：830.01万股解除限售",
+          "src": "东方财富",
+          "time": "2026-11-17 23:54:44",
+          "body": "并行科技公告，本次股票解除限售数量总额为8,300,082股，占公司总股本13.70%，可交易时间为2026年11月20日。",
+          "score": 68.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:54:44",
+      "rank_score": 42.4
+    },
+    {
+      "eid": "71c5fffe22",
+      "ekey": "丹娜生物|解除限售丹娜生物",
+      "kind": "topic_line",
+      "title": "丹娜生物：3852万股限售股将解除限售",
+      "body": "丹娜生物公告，本次股票解除限售数量总额为38,519,780股，占公司总股本49.67%，可交易时间为2026年11月20日。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "医药/生物"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 68.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "丹娜生物：3852万股限售股将解除限售",
+          "src": "东方财富",
+          "time": "2026-11-17 23:54:41",
+          "body": "丹娜生物公告，本次股票解除限售数量总额为38,519,780股，占公司总股本49.67%，可交易时间为2026年11月20日。",
+          "score": 68.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:54:41",
+      "rank_score": 42.4
+    },
+    {
+      "eid": "15f481d2d7",
+      "ekey": "罔顾事实做空光模块龙头这份报告坏",
+      "kind": "event_line",
+      "title": "罔顾事实做空光模块龙头 这份“报告”坏得很",
+      "body": "11月17日，一则关于中际旭创的看空测算消息在市场迅速发酵。某机构在一篇看空AI的总结性报告中，以2029年AI资本开支8000亿美元为测算基准，叠加15%利润率等假设，测算出中际旭创2029年净利润约300亿元，进而得出其“稳态估值”仅在3000亿至4500亿元之间的结论。按中际旭创当前市值测算，该报告暗示公司股价仍有约25%的回撤空间，并据此建议“配置型资金可酌情在4000亿以下设计左侧网格低吸策略”。这份报告看似模型严密、假设齐全，实则多处前提与产业事实严重背离。说它“坏”，不是因为它看空，而是因为它把极端悲观假设包装成“稳态测算”，用一套经不起产业数据检验的推演，去定义一家光模块龙头企业的长期价值。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件",
+        "算力/数据中心"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 68.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "罔顾事实做空光模块龙头 这份“报告”坏得很",
+          "src": "东方财富",
+          "time": "2026-11-17 23:54:00",
+          "body": "11月17日，一则关于中际旭创的看空测算消息在市场迅速发酵。某机构在一篇看空AI的总结性报告中，以2029年AI资本开支8000亿美元为测算基准，叠加15%利润率等假设，测算出中际旭创2029年净利润约300亿元，进而得出其“稳态估值”仅在3000亿至4500亿元之间的结论。按中际旭创当前市值测算，该报告暗示公司股价仍有约25%的回撤空间，并据此建议“配置型资金可酌情在4000亿以下设计左侧网格低吸策略”。这份报告看似模型严密、假设齐全，实则多处前提与产业事实严重背离。说它“坏”，不是因为它看空，而是因为它把极端悲观假设包装成“稳态测算”，用一套经不起产业数据检验的推演，去定义一家光模块龙头企业的长期价值。",
+          "score": 68.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:54:00",
+      "rank_score": 42.4
+    },
+    {
+      "eid": "34e4cab095",
+      "ekey": "台积电",
+      "kind": "topic_line",
+      "title": "台积电股价下跌2.2% 总市值跌破1.9万亿美元",
+      "body": "台积电股价下跌2.2%，报365.320美元/股，总市值报1.89万亿美元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 68.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "台积电股价下跌2.2% 总市值跌破1.9万亿美元",
+          "src": "东方财富",
+          "time": "2026-11-17 23:06:24",
+          "body": "台积电股价下跌2.2%，报365.320美元/股，总市值报1.89万亿美元。",
+          "score": 68.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:06:24",
+      "rank_score": 42.2
+    },
+    {
+      "eid": "48af4341f7",
+      "ekey": "AMD",
+      "kind": "topic_line",
+      "title": "AMD首席执行官苏姿丰：数据中心业务将占AMD需求的80%",
+      "body": "AMD首席执行官苏姿丰表示，数据中心业务将占AMD需求的80%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "算力/数据中心"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 66.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "AMD首席执行官苏姿丰：数据中心业务将占AMD需求的80%",
+          "src": "东方财富",
+          "time": "2026-11-18 00:18:41",
+          "body": "AMD首席执行官苏姿丰表示，数据中心业务将占AMD需求的80%。",
+          "score": 66.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:18:41",
+      "rank_score": 41.6
+    },
+    {
+      "eid": "0c6bf69650",
+      "ekey": "北京市发布前十个月经济运行情况前",
+      "kind": "event_line",
+      "title": "北京市发布前十个月经济运行情况 前十月工业机器人产量增长45.3%",
+      "body": "（来源：千龙网）11月17日，北京发布1-10月经济运行情况，工业、消费、投资、价格及企业经营状况等多项数据发布，总体经济运行平稳。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件",
+        "消费/白酒"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 65.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "北京市发布前十个月经济运行情况 前十月工业机器人产量增长45.3%",
+          "src": "新浪财经",
+          "time": "2026-11-18 00:43:00",
+          "body": "（来源：千龙网）11月17日，北京发布1-10月经济运行情况，工业、消费、投资、价格及企业经营状况等多项数据发布，总体经济运行平稳。",
+          "score": 65.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:43:00",
+      "rank_score": 41.2
+    },
+    {
+      "eid": "dea5251e48",
+      "ekey": "Life",
+      "kind": "topic_line",
+      "title": "药物研发公司Sellas Life Sciences开盘大涨220%",
+      "body": "药物研发公司SellasLifeSciences开盘大涨220%，公司周二表示，其针对一种血液癌症的实验性疫苗在一项后期临床试验中取得积极结果，帮助患者显著延长了生存时间。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "医药/生物"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 64.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "药物研发公司Sellas Life Sciences开盘大涨220%",
+          "src": "东方财富",
+          "time": "2026-11-17 22:36:48",
+          "body": "药物研发公司SellasLifeSciences开盘大涨220%，公司周二表示，其针对一种血液癌症的实验性疫苗在一项后期临床试验中取得积极结果，帮助患者显著延长了生存时间。",
+          "score": 64.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:36:48",
+      "rank_score": 40.6
+    },
+    {
+      "eid": "f9e3f6e035",
+      "ekey": "亚马逊|英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "亚马逊CEO：英伟达长期以来一直是极其重要的合作伙伴 在可预见的未来也将一直如此",
+      "body": "亚马逊CEO在Semafor活动上就英伟达相关风波表示，英伟达长期以来一直是极其重要的合作伙伴，并且在可预见的未来也将一直如此。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "亚马逊CEO：英伟达长期以来一直是极其重要的合作伙伴 在可预见的未来也将一直如此",
+          "src": "东方财富",
+          "time": "2026-11-18 01:20:37",
+          "body": "亚马逊CEO在Semafor活动上就英伟达相关风波表示，英伟达长期以来一直是极其重要的合作伙伴，并且在可预见的未来也将一直如此。",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 01:20:37",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "34e4cab095",
+      "ekey": "台积电",
+      "kind": "topic_line",
+      "title": "台积电股价跌幅扩大至5.2%",
+      "body": "【行情】台积电股价跌幅扩大至5.2%，报354.165美元/股，总市值报1.84万亿美元。台积电上一交易日大跌超6%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "台积电股价跌幅扩大至5.2%",
+          "src": "东方财富",
+          "time": "2026-11-17 23:53:21",
+          "body": "【行情】台积电股价跌幅扩大至5.2%，报354.165美元/股，总市值报1.84万亿美元。台积电上一交易日大跌超6%。",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:53:21",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "2e247ba9f8",
+      "ekey": "城堡证券|技术主管城堡证券",
+      "kind": "topic_line",
+      "title": "城堡证券聘请Uber的Danny Guo担任技术主管",
+      "body": "城堡证券聘请Uber的DannyGuo担任技术主管。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "城堡证券聘请Uber的Danny Guo担任技术主管",
+          "src": "东方财富",
+          "time": "2026-11-18 00:49:13",
+          "body": "城堡证券聘请Uber的DannyGuo担任技术主管。",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:49:13",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "ca4c1fd63e",
+      "ekey": "三星|三星电子#AI芯片",
+      "kind": "topic_line",
+      "title": "三星电子Q3存储器价格较去年上涨270%",
+      "body": "近日，三星电子在DART（韩国金融监督院运营的官方企业信息披露系统）披露三季度报告书。数据显示，2026年Q3，其存储器平均销售价格较上年全年平均上涨约270%，存储业务（DS部门）产能利用率是100.0%，处于满产状态。同时，其DRAM全球份额由2025年全年的34.0%升至三季度估算的38.3%。值得关注的是，在其自身的DX部门（涉及智能手机、PC、家电等产品），移动用存储价格上涨约263%。（第一财经）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "券商/大金融"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "三星电子Q3存储器价格较去年上涨270%",
+          "src": "同花顺",
+          "time": "2026-11-17 21:06:56",
+          "body": "近日，三星电子在DART（韩国金融监督院运营的官方企业信息披露系统）披露三季度报告书。数据显示，2026年Q3，其存储器平均销售价格较上年全年平均上涨约270%，存储业务（DS部门）产能利用率是100.0%，处于满产状态。同时，其DRAM全球份额由2025年全年的34.0%升至三季度估算的38.3%。值得关注的是，在其自身的DX部门（涉及智能手机、PC、家电等产品），移动用存储价格上涨约263%。（第一财经）",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 21:06:56",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "英伟达股价继续收窄跌幅",
+      "body": "【行情】英伟达股价继续收窄跌幅，最新下跌不到1%，此前一度跌近4%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 62.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "英伟达股价继续收窄跌幅",
+          "src": "东方财富",
+          "time": "2026-11-18 00:11:47",
+          "body": "【行情】英伟达股价继续收窄跌幅，最新下跌不到1%，此前一度跌近4%。",
+          "score": 62.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:11:47",
+      "rank_score": 40.0
+    },
+    {
+      "eid": "9a03e1b22e",
+      "ekey": "找继任者通用汽车|通用汽车#新能源车",
+      "kind": "topic_line",
+      "title": "通用汽车正在为首席执行官玛丽·博拉寻找继任者",
+      "body": "通用汽车正在为首席执行官玛丽·博拉寻找继任者。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 61.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "新能源车",
+      "topicLabel": "新能源车",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "通用汽车正在为首席执行官玛丽·博拉寻找继任者",
+          "src": "东方财富",
+          "time": "2026-11-18 00:56:58",
+          "body": "通用汽车正在为首席执行官玛丽·博拉寻找继任者。",
+          "score": 61.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:56:58",
+      "rank_score": 39.4
+    },
+    {
+      "eid": "47a0876c5d",
+      "ekey": "提起公诉星昊医药|星昊医药#医药",
+      "kind": "topic_line",
+      "title": "星昊医药：全资子公司及实控人之一因涉嫌串通投标罪被提起公诉",
+      "body": "星昊医药公告，全资子公司广东鼎信及实控人之一于继忠于2026年11月13日收到雨花台检察院《起诉书》，涉第七批国家药品集采中串通投标报价，被以串通投标罪提起公诉。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "医药/生物"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "医药",
+      "topicLabel": "医药与生物",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "星昊医药：全资子公司及实控人之一因涉嫌串通投标罪被提起公诉",
+          "src": "东方财富",
+          "time": "2026-11-17 23:54:36",
+          "body": "星昊医药公告，全资子公司广东鼎信及实控人之一于继忠于2026年11月13日收到雨花台检察院《起诉书》，涉第七批国家药品集采中串通投标报价，被以串通投标罪提起公诉。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:54:36",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "40a56784be",
+      "ekey": "微软",
+      "kind": "topic_line",
+      "title": "微软股价下跌3.3% 总市值报3.72万亿美元",
+      "body": "微软股价下跌3.3%，报500.9美元/股，总市值报3.72万亿美元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "微软股价下跌3.3% 总市值报3.72万亿美元",
+          "src": "东方财富",
+          "time": "2026-11-17 23:49:40",
+          "body": "微软股价下跌3.3%，报500.9美元/股，总市值报3.72万亿美元。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:49:40",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "21fdc2eac8",
+      "ekey": "夜盘期货收盘沪镍涨不锈钢涨",
+      "kind": "event_line",
+      "title": "夜盘期货收盘：沪镍涨3.06% 不锈钢涨2.62%",
+      "body": "国际铜夜盘收跌0.08%，沪铜收跌0.23%，沪铝收跌1.33%，沪锌收跌0.40%，沪铅收跌0.35%，沪镍收涨3.06%，沪锡收跌1.35%。氧化铝夜盘收跌0.31%，铝合金收跌1.01%。不锈钢夜盘收涨2.62%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "夜盘期货收盘：沪镍涨3.06% 不锈钢涨2.62%",
+          "src": "东方财富",
+          "time": "2026-11-18 01:03:01",
+          "body": "国际铜夜盘收跌0.08%，沪铜收跌0.23%，沪铝收跌1.33%，沪锌收跌0.40%，沪铅收跌0.35%，沪镍收涨3.06%，沪锡收跌1.35%。氧化铝夜盘收跌0.31%，铝合金收跌1.01%。不锈钢夜盘收涨2.62%。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 01:03:01",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "黄仁勋：将致力于配合英伟达董事会的调查",
+      "body": "黄仁勋表示，将致力于配合英伟达董事会的调查。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "黄仁勋：将致力于配合英伟达董事会的调查",
+          "src": "东方财富",
+          "time": "2026-11-18 00:09:42",
+          "body": "黄仁勋表示，将致力于配合英伟达董事会的调查。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:09:42",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "1447ab695d",
+      "ekey": "商务部|国务院",
+      "kind": "topic_line",
+      "title": "商务部：推动各类动力电池“退役有踪 回收有序”",
+      "body": "我国新能源汽车动力电池正在进入规模化退役阶段。记者11月17日从国务院新闻办新闻发布会上了解到，我国将采取多项举措，推动各类动力电池“退役有踪 回收有序”。（新华社）",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "新能源/锂电",
+        "石油/能源",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T1",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "商务部：推动各类动力电池“退役有踪 回收有序”",
+          "src": "同花顺",
+          "time": "2026-11-17 23:35:17",
+          "body": "我国新能源汽车动力电池正在进入规模化退役阶段。记者11月17日从国务院新闻办新闻发布会上了解到，我国将采取多项举措，推动各类动力电池“退役有踪 回收有序”。（新华社）",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:35:17",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "ce268975d1",
+      "ekey": "Image#大模型",
+      "kind": "topic_line",
+      "title": "可灵AI全新一代图像创作模型Kling Image 4.0正式上线",
+      "body": "11月17日晚，《每日经济新闻》记者注意到，可灵AI全新一代图像创作模型KlingImage4.0正式上线。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "可灵AI全新一代图像创作模型Kling Image 4.0正式上线",
+          "src": "东方财富",
+          "time": "2026-11-17 23:29:06",
+          "body": "11月17日晚，《每日经济新闻》记者注意到，可灵AI全新一代图像创作模型KlingImage4.0正式上线。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:29:06",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "f431db65ce",
+      "ekey": "Anthropic",
+      "kind": "topic_line",
+      "title": "Anthropic据称已吸引多笔规模达到100亿美元或以上的IPO认购订单",
+      "body": "Anthropic据称已吸引多笔规模达到100亿美元或以上的IPO认购订单。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Anthropic据称已吸引多笔规模达到100亿美元或以上的IPO认购订单",
+          "src": "东方财富",
+          "time": "2026-11-17 22:45:44",
+          "body": "Anthropic据称已吸引多笔规模达到100亿美元或以上的IPO认购订单。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:45:44",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "1e3254d0bd",
+      "ekey": "SpaceX拟通过债务融资采购A",
+      "kind": "event_line",
+      "title": "SpaceX拟通过债务融资采购AI芯片",
+      "body": "据报道，知情人士透露，SpaceX计划通过400亿美元的债务融资采购人工智能芯片，其中部分债券最早可能于本周开始发售。据悉，高盛和阿波罗全球管理将担任此次交易的承销商。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件",
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 58.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "SpaceX拟通过债务融资采购AI芯片",
+          "src": "东方财富",
+          "time": "2026-11-17 22:59:14",
+          "body": "据报道，知情人士透露，SpaceX计划通过400亿美元的债务融资采购人工智能芯片，其中部分债券最早可能于本周开始发售。据悉，高盛和阿波罗全球管理将担任此次交易的承销商。",
+          "score": 58.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [
+        {
+          "title": "SpaceX最快本周启动400亿美元AI芯片债务融资的部分发行",
+          "sim": 0.23,
+          "reason": "同属主题 AI芯片/大模型，相似度 0.23"
+        }
+      ],
+      "time": "2026-11-17 22:59:14",
+      "rank_score": 38.2
+    },
+    {
+      "eid": "0d68326742",
+      "ekey": "首批主动ETF中最高股票仓位已超",
+      "kind": "event_line",
+      "title": "首批主动ETF中最高股票仓位，已超九成",
+      "body": "11月17日晚间截至夜里10点，首批18只主动ETF全部披露上市公告书，18只ETF360亿份上市份额中，个人投资者以逾270亿份的持有量占去了逾七成份额。截至11月16日，18只ETF的平均股票仓位水平（以股票资产金额占基金总资产占比为口径）超过55%，过半产品股票仓位接近60%，最高仓位水平超过90%。（券中社）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "首批主动ETF中最高股票仓位，已超九成",
+          "src": "同花顺",
+          "time": "2026-11-17 22:57:25",
+          "body": "11月17日晚间截至夜里10点，首批18只主动ETF全部披露上市公告书，18只ETF360亿份上市份额中，个人投资者以逾270亿份的持有量占去了逾七成份额。截至11月16日，18只ETF的平均股票仓位水平（以股票资产金额占基金总资产占比为口径）超过55%，过半产品股票仓位接近60%，最高仓位水平超过90%。（券中社）",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:57:25",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "56ccebe1b0",
+      "ekey": "证监会",
+      "kind": "topic_line",
+      "title": "影石创新：科技创新公司债券发行获证监会注册批复，面值总额不超20亿元",
+      "body": "影石创新公告，公司近日收到中国证监会出具的批复，同意公司向专业投资者公开发行面值总额不超过20亿元科技创新公司债券的注册申请。批复自同意注册之日起24个月内有效，公司在注册有效期内可以分期发行。公司将按批复要求及股东会、董事会授权办理本次发行相关事宜，并及时履行信息披露义务。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "影石创新：科技创新公司债券发行获证监会注册批复，面值总额不超20亿元",
+          "src": "同花顺",
+          "time": "2026-11-17 21:15:23",
+          "body": "影石创新公告，公司近日收到中国证监会出具的批复，同意公司向专业投资者公开发行面值总额不超过20亿元科技创新公司债券的注册申请。批复自同意注册之日起24个月内有效，公司在注册有效期内可以分期发行。公司将按批复要求及股东会、董事会授权办理本次发行相关事宜，并及时履行信息披露义务。",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 21:15:23",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "4d8898be44",
+      "ekey": "美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储理事克里斯托弗·沃勒：银行在未来支付体系变革中仍将发挥重要作用",
+      "body": "美联储理事克里斯托弗·沃勒表示，当前支付领域正经历一场变革，但银行在未来支付体系变革中仍将发挥重要作用。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 57.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储理事克里斯托弗·沃勒：银行在未来支付体系变革中仍将发挥重要作用",
+          "src": "东方财富",
+          "time": "2026-11-17 22:42:04",
+          "body": "美联储理事克里斯托弗·沃勒表示，当前支付领域正经历一场变革，但银行在未来支付体系变革中仍将发挥重要作用。",
+          "score": 57.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:42:04",
+      "rank_score": 37.8
+    },
+    {
+      "eid": "18e25f744d",
+      "ekey": "康盈半导体|片与模组康盈半导体#AI芯片",
+      "kind": "topic_line",
+      "title": "康盈半导体打造一体化制造总部基地 发力高端存储芯片与模组",
+      "body": "康盈半导体日前在浙江衢州举办总部金顶落成仪式暨合作伙伴大会。公司打造从晶圆研磨切割、高端封测到模组生产的全产业链一体化制造基地，项目一期预计2027年一季度投入试产，规划月产能800万颗，形成高端存储芯片与模组规模化产能，二期建设将在一期投产后12个月内启动。同期，公司围绕车载、企业算力、智能穿戴赛道发布4款高端存储新品。（人民财讯）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "算力/数据中心"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 57.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "康盈半导体打造一体化制造总部基地 发力高端存储芯片与模组",
+          "src": "同花顺",
+          "time": "2026-11-17 20:58:42",
+          "body": "康盈半导体日前在浙江衢州举办总部金顶落成仪式暨合作伙伴大会。公司打造从晶圆研磨切割、高端封测到模组生产的全产业链一体化制造基地，项目一期预计2027年一季度投入试产，规划月产能800万颗，形成高端存储芯片与模组规模化产能，二期建设将在一期投产后12个月内启动。同期，公司围绕车载、企业算力、智能穿戴赛道发布4款高端存储新品。（人民财讯）",
+          "score": 57.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 20:58:42",
+      "rank_score": 37.8
+    },
+    {
+      "eid": "22fa1242af",
+      "ekey": "英伟达#AI芯片",
+      "kind": "topic_line",
+      "title": "黄仁勋辞职后首次发声：若董事会允许 愿重返英伟达担任CEO",
+      "body": "11月17日，财闻海外资讯援引美国《华尔街日报》报道，英伟达联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，表示若董事会允许，他愿意在卸任后重返公司担任CEO。另据彭博社报道，黄仁勋同意下个月向国会简要汇报。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "黄仁勋辞职后首次发声：若董事会允许 愿重返英伟达担任CEO",
+          "src": "东方财富",
+          "time": "2026-11-18 00:21:31",
+          "body": "11月17日，财闻海外资讯援引美国《华尔街日报》报道，英伟达联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，表示若董事会允许，他愿意在卸任后重返公司担任CEO。另据彭博社报道，黄仁勋同意下个月向国会简要汇报。",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:21:31",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "6543add55e",
+      "ekey": "SpaceX涨逾",
+      "kind": "event_line",
+      "title": "SpaceX涨逾2%",
+      "body": "【行情】11月17日，SpaceX涨逾2%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "SpaceX涨逾2%",
+          "src": "东方财富",
+          "time": "2026-11-17 23:29:16",
+          "body": "【行情】11月17日，SpaceX涨逾2%。",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:29:16",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "22e98a3c18",
+      "ekey": "百事股价下跌",
+      "kind": "event_line",
+      "title": "百事股价下跌2%",
+      "body": "【行情】11月17日，百事股价下跌2%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "百事股价下跌2%",
+          "src": "东方财富",
+          "time": "2026-11-17 22:42:42",
+          "body": "【行情】11月17日，百事股价下跌2%。",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:42:42",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "536aa22c8e",
+      "ekey": "SpaceX最快本周启动亿美元A",
+      "kind": "event_line",
+      "title": "SpaceX最快本周启动400亿美元AI芯片债务融资的部分发行",
+      "body": "知情人士称，SpaceX最快可能于本周启动400亿美元债务融资的部分发行，约40亿美元债券可能在数日内发售，融资旨在为其采购人工智能芯片提供资金。交易由高盛集团和阿波罗全球管理担任承销商。（财联社）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件",
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "SpaceX最快本周启动400亿美元AI芯片债务融资的部分发行",
+          "src": "同花顺",
+          "time": "2026-11-18 01:31:06",
+          "body": "知情人士称，SpaceX最快可能于本周启动400亿美元债务融资的部分发行，约40亿美元债券可能在数日内发售，融资旨在为其采购人工智能芯片提供资金。交易由高盛集团和阿波罗全球管理担任承销商。（财联社）",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [
+        {
+          "title": "SpaceX拟通过债务融资采购AI芯片",
+          "sim": 0.23,
+          "reason": "同属主题 AI芯片/大模型，相似度 0.23"
+        }
+      ],
+      "time": "2026-11-18 01:31:06",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "a76d7c90b0",
+      "ekey": "Salesforce股价跌幅达",
+      "kind": "event_line",
+      "title": "Salesforce股价跌幅达7.1%",
+      "body": "【行情】Salesforce股价跌幅达7.1%，为4月以来最大跌幅。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 56.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Salesforce股价跌幅达7.1%",
+          "src": "东方财富",
+          "time": "2026-11-17 23:06:01",
+          "body": "【行情】Salesforce股价跌幅达7.1%，为4月以来最大跌幅。",
+          "score": 56.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:06:01",
+      "rank_score": 37.4
+    },
+    {
+      "eid": "83e7d1042a",
+      "ekey": "慈文传媒向市场展现持续创作好剧大",
+      "kind": "event_line",
+      "title": "慈文传媒：向市场展现持续创作好剧、大剧、精品剧的能力和实力",
+      "body": "慈文传媒在投资者关系活动中表示，在平台内容布局中，真人影视仍具有重要地位。自2026年10月开始，公司争取每月均有项目开机。在项目布局上，长剧作为压舱石，中短剧作为在分账市场突围突破的重要方向。通过持续的项目开机拍摄制作，向市场展现持续创作好剧、大剧、精品剧的能力和实力，并进一步巩固品牌影响力和人才团队。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 56.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "慈文传媒：向市场展现持续创作好剧、大剧、精品剧的能力和实力",
+          "src": "东方财富",
+          "time": "2026-11-17 22:54:00",
+          "body": "慈文传媒在投资者关系活动中表示，在平台内容布局中，真人影视仍具有重要地位。自2026年10月开始，公司争取每月均有项目开机。在项目布局上，长剧作为压舱石，中短剧作为在分账市场突围突破的重要方向。通过持续的项目开机拍摄制作，向市场展现持续创作好剧、大剧、精品剧的能力和实力，并进一步巩固品牌影响力和人才团队。",
+          "score": 56.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:54:00",
+      "rank_score": 37.4
+    },
+    {
+      "eid": "9926c9f087",
+      "ekey": "美元指数下跌",
+      "kind": "event_line",
+      "title": "美元指数下跌0.17%",
+      "body": "【行情】美元指数下跌0.17%，报103.4点；美元兑日元下跌0.1%，报159.27点。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美元指数下跌0.17%",
+          "src": "东方财富",
+          "time": "2026-11-18 01:21:34",
+          "body": "【行情】美元指数下跌0.17%，报103.4点；美元兑日元下跌0.1%，报159.27点。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 01:21:34",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "dfd6a2520d",
+      "ekey": "创远信科取得项发明专利证书",
+      "kind": "event_line",
+      "title": "创远信科：取得2项发明专利证书",
+      "body": "创远信科公告，公司于近期获得国家知识产权局下发的2项《发明专利证书》，专利名称分别为“FPGA采集按键和旋钮动作的USBHID设备系统、方法、装置、处理器及存储介质”及“采取路测业务实例和测试计划实例的网络自动路测系统、方法、装置、处理器及其存储介质”。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "创远信科：取得2项发明专利证书",
+          "src": "东方财富",
+          "time": "2026-11-17 23:54:48",
+          "body": "创远信科公告，公司于近期获得国家知识产权局下发的2项《发明专利证书》，专利名称分别为“FPGA采集按键和旋钮动作的USBHID设备系统、方法、装置、处理器及存储介质”及“采取路测业务实例和测试计划实例的网络自动路测系统、方法、装置、处理器及其存储介质”。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:54:48",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "cfe75dd547",
+      "ekey": "亚马逊",
+      "kind": "topic_line",
+      "title": "亚马逊计划到2030年将其用电碳强度降低65%",
+      "body": "亚马逊计划到2030年将其用电碳强度降低65%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "亚马逊计划到2030年将其用电碳强度降低65%",
+          "src": "东方财富",
+          "time": "2026-11-17 22:53:36",
+          "body": "亚马逊计划到2030年将其用电碳强度降低65%。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:53:36",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "1e83b186ea",
+      "ekey": "纳斯达克中国金龙指数跌超",
+      "kind": "event_line",
+      "title": "纳斯达克中国金龙指数跌超1%",
+      "body": "11月17日，纳斯达克中国金龙指数跌超1%，小马智行跌7.66%，小牛电动跌6.48%，京东跌6.21%，金山云跌5.82%，哔哩哔哩跌4.70%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "纳斯达克中国金龙指数跌超1%",
+          "src": "东方财富",
+          "time": "2026-11-17 22:47:42",
+          "body": "11月17日，纳斯达克中国金龙指数跌超1%，小马智行跌7.66%，小牛电动跌6.48%，京东跌6.21%，金山云跌5.82%，哔哩哔哩跌4.70%。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:47:42",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "c55beb93ed",
+      "ekey": "工信部",
+      "kind": "topic_line",
+      "title": "河北等8省（市）入选！工信部公布6G创新发展部省协同试点名单",
+      "body": "（来源：河北新闻网）近日，工业和信息化部复函同意北京市、河北省、上海市、江苏省、浙江省、安徽省、湖北省、广东省8个省（市）开展6G创新发展部省协同试点工作...",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "河北等8省（市）入选！工信部公布6G创新发展部省协同试点名单",
+          "src": "新浪财经",
+          "time": "2026-11-17 23:29:31",
+          "body": "（来源：河北新闻网）近日，工业和信息化部复函同意北京市、河北省、上海市、江苏省、浙江省、安徽省、湖北省、广东省8个省（市）开展6G创新发展部省协同试点工作...",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:29:31",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "f6b0351d98",
+      "ekey": "国家中医药",
+      "kind": "topic_line",
+      "title": "校长不坐班、不占编！中小学幼儿园新规来了",
+      "body": "转自：拉萨发布央视新闻11月16日消息，国家卫生健康委联合教育部、国家中医药局、国家疾控局今天印发《关于做好中小学校、幼儿园健康副校（园）长聘任与管理工作的通知》...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "医药/生物"
+      ],
+      "ctypeName": "政策发布",
+      "tier": "T2",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "校长不坐班、不占编！中小学幼儿园新规来了",
+          "src": "新浪财经",
+          "time": "2026-11-17 23:00:00",
+          "body": "转自：拉萨发布央视新闻11月16日消息，国家卫生健康委联合教育部、国家中医药局、国家疾控局今天印发《关于做好中小学校、幼儿园健康副校（园）长聘任与管理工作的通知》...",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:00:00",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "fad6afb3e9",
+      "ekey": "美股开盘美股三大指数涨跌不一",
+      "kind": "event_line",
+      "title": "美股开盘：美股三大指数涨跌不一",
+      "body": "美股三大指数涨跌不一，标普500指数跌0.22%，道指跌0.81%，纳指涨0.02%。大型科技股方面，SpaceX涨1.02%。中概股方面，蔚来涨3.86%，小鹏集团涨1.03%，携程跌1.29%，网易跌1.53%，阿里巴巴跌2.99%，哔哩哔哩跌4.50%，京东跌5.99%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股开盘：美股三大指数涨跌不一",
+          "src": "同花顺",
+          "time": "2026-11-17 22:30:57",
+          "body": "美股三大指数涨跌不一，标普500指数跌0.22%，道指跌0.81%，纳指涨0.02%。大型科技股方面，SpaceX涨1.02%。中概股方面，蔚来涨3.86%，小鹏集团涨1.03%，携程跌1.29%，网易跌1.53%，阿里巴巴跌2.99%，哔哩哔哩跌4.50%，京东跌5.99%。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:30:57",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "d8c2f5c219",
+      "ekey": "慈文传媒自月开始争取每月均有项目",
+      "kind": "event_line",
+      "title": "慈文传媒：自10月开始争取每月均有项目开机",
+      "body": "慈文传媒11月17日接受机构调研时表示，公司认为，在平台内容布局中，真人影视仍具有重要地位，公司作为头部影视公司需在该领域保持一定位置。自2026年10月开始，公司争取每月均有项目开机。在项目布局上，长剧作为压舱石，中短剧作为在分账市场突围突破的重要方向。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 54.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "慈文传媒：自10月开始争取每月均有项目开机",
+          "src": "东方财富",
+          "time": "2026-11-17 23:33:00",
+          "body": "慈文传媒11月17日接受机构调研时表示，公司认为，在平台内容布局中，真人影视仍具有重要地位，公司作为头部影视公司需在该领域保持一定位置。自2026年10月开始，公司争取每月均有项目开机。在项目布局上，长剧作为压舱石，中短剧作为在分账市场突围突破的重要方向。",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 23:33:00",
+      "rank_score": 36.8
+    },
+    {
+      "eid": "7901e03c5e",
+      "ekey": "金融资产管理股份",
+      "kind": "topic_line",
+      "title": "贺劲松获批出任中信金融资产董事长",
+      "body": "11月17日，中国中信金融资产管理股份有限公司发布公告，公司近日收到国家金融监督管理总局关于贺劲松任职资格的批复，其担任执行董事、董事长的任职资格已获核准。自2026年11月12日起，贺劲松担任该公司执行董事，任期3年，任期届满可连选连任；自核准日起担任董事长，任期与其董事任期一致。根据公司章程，贺劲松担任董事长期间将担任董事会战略发展委员会主任。（人民财讯）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 54.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "贺劲松获批出任中信金融资产董事长",
+          "src": "同花顺",
+          "time": "2026-11-17 22:30:02",
+          "body": "11月17日，中国中信金融资产管理股份有限公司发布公告，公司近日收到国家金融监督管理总局关于贺劲松任职资格的批复，其担任执行董事、董事长的任职资格已获核准。自2026年11月12日起，贺劲松担任该公司执行董事，任期3年，任期届满可连选连任；自核准日起担任董事长，任期与其董事任期一致。根据公司章程，贺劲松担任董事长期间将担任董事会战略发展委员会主任。（人民财讯）",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:30:02",
+      "rank_score": 36.8
+    },
+    {
+      "eid": "6b3d3b354a",
+      "ekey": "谷歌",
+      "kind": "topic_line",
+      "title": "瑞银将谷歌母公司Alphabet目标价从380美元下调至320美元",
+      "body": "瑞银将谷歌母公司Alphabet目标价从380美元下调至320美元。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "瑞银将谷歌母公司Alphabet目标价从380美元下调至320美元",
+          "src": "东方财富",
+          "time": "2026-11-17 22:41:31",
+          "body": "瑞银将谷歌母公司Alphabet目标价从380美元下调至320美元。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:41:31",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "e987083131",
+      "ekey": "纳斯达克指数跌幅扩大至",
+      "kind": "event_line",
+      "title": "纳斯达克100指数跌幅扩大至2%",
+      "body": "【行情】纳斯达克100指数跌幅扩大至2%，标普500指数下跌近1.6%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": true,
+      "member_count": 2,
+      "members": [
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%",
+          "src": "东方财富",
+          "time": "2026-11-17 23:51:06",
+          "body": "【行情】纳斯达克100指数跌幅扩大至2%，标普500指数下跌近1.6%。",
+          "score": 53.5
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1%",
+          "src": "东方财富",
+          "time": "2026-11-17 23:38:34",
+          "body": "【行情】纳斯达克100指数跌幅扩大至1%，标普500指数下跌0.8%。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [
+        "标题相似度 1.00 ≥ 0.52"
+      ],
+      "related": [],
+      "time": "2026-11-17 23:51:06",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "a4d2160926",
+      "ekey": "MW中广核汕尾红海湾三海上风电送",
+      "kind": "event_line",
+      "title": "500MW！中广核汕尾红海湾三海上风电送出工程项目核准公示",
+      "body": "每日风电讯：11月16日，汕尾市发展和改革局发布《汕尾红海湾三海上风电送出工程项目核准前公示》。根据公示，汕尾红海湾三海上风电送出工程项目建设地点位于汕尾市南边海域...",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "航运/物流",
+        "新能源/锂电"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "500MW！中广核汕尾红海湾三海上风电送出工程项目核准公示",
+          "src": "新浪财经",
+          "time": "2026-11-18 00:00:00",
+          "body": "每日风电讯：11月16日，汕尾市发展和改革局发布《汕尾红海湾三海上风电送出工程项目核准前公示》。根据公示，汕尾红海湾三海上风电送出工程项目建设地点位于汕尾市南边海域...",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:00:00",
+      "rank_score": 36.2
+    },
+    {
+      "eid": "4e40ef6286",
+      "ekey": "克利夫兰联储|美联储#全球债市",
+      "kind": "topic_line",
+      "title": "克利夫兰联储行长提议制定美国国债市场干预原则",
+      "body": "克利夫兰联储行长哈马克提议制定美国国债市场干预原则。哈马克表示，美联储应为干预美国国债市场设定高门槛，只有在市场失灵存在“波及实体经济”的风险时才应出手，而当流动性和波动率的变化反映基本面时则不应干预。美联储应更清楚地说明，资产购买究竟是为了改善市场流动性，还是为了支持经济。她表示，美联储可以为这类购买设立一个单独的投资组合，让公众知道哪些购买是出于维护市场正常运转的目的。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "克利夫兰联储行长提议制定美国国债市场干预原则",
+          "src": "东方财富",
+          "time": "2026-11-18 00:27:00",
+          "body": "克利夫兰联储行长哈马克提议制定美国国债市场干预原则。哈马克表示，美联储应为干预美国国债市场设定高门槛，只有在市场失灵存在“波及实体经济”的风险时才应出手，而当流动性和波动率的变化反映基本面时则不应干预。美联储应更清楚地说明，资产购买究竟是为了改善市场流动性，还是为了支持经济。她表示，美联储可以为这类购买设立一个单独的投资组合，让公众知道哪些购买是出于维护市场正常运转的目的。",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-18 00:27:00",
+      "rank_score": 36.0
+    },
+    {
+      "eid": "4d8898be44",
+      "ekey": "美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "美联储哈马克支持完善常设回购工具 强调区分货币政策与市场功能性操作",
+      "body": "美联储官员哈马克表示，她支持对美联储常设回购便利（StandingRepoFacility）进行改进，以提高其有效性。她同时指出，美联储在对外沟通时，应明确区分货币政策行动与旨在维护市场正常运行的操作。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1.5",
+      "score": 52.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储哈马克支持完善常设回购工具 强调区分货币政策与市场功能性操作",
+          "src": "东方财富",
+          "time": "2026-11-17 22:36:53",
+          "body": "美联储官员哈马克表示，她支持对美联储常设回购便利（StandingRepoFacility）进行改进，以提高其有效性。她同时指出，美联储在对外沟通时，应明确区分货币政策行动与旨在维护市场正常运行的操作。",
+          "score": 52.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-17 22:36:53",
+      "rank_score": 36.0
+    }
+  ],
+  "topics": [
+    {
+      "topic": "AI芯片",
+      "label": "AI 芯片与算力",
+      "count": 11,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 13.0,
+      "eids": [
+        "5075fcf683",
+        "b339c04208",
+        "b339c04208",
+        "f9e3f6e035",
+        "ca4c1fd63e",
+        "22fa1242af",
+        "22fa1242af",
+        "1e3254d0bd",
+        "18e25f744d",
+        "22fa1242af",
+        "536aa22c8e"
+      ],
+      "lead": "费城半导体指数跌幅扩大至3%",
+      "events": [
+        {
+          "eid": "5075fcf683",
+          "ekey": "费城半导体#AI芯片",
+          "kind": "topic_line",
+          "title": "费城半导体指数跌幅扩大至3%",
+          "body": "【行情】费城半导体指数跌幅扩大至3%，报9320点。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 72.5,
+          "heat": 2.0,
+          "source_count": 2,
+          "sources": [
+            "东方财富",
+            "同花顺"
+          ],
+          "isNew": false,
+          "isRising": true,
+          "heat_delta": 1.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": true,
+          "member_count": 3,
+          "members": [
+            {
+              "title": "费城半导体指数跌幅扩大至3%",
+              "src": "东方财富",
+              "time": "2026-11-17 23:52:37",
+              "body": "【行情】费城半导体指数跌幅扩大至3%，报9320点。",
+              "score": 72.5
+            },
+            {
+              "title": "费城半导体指数涨幅扩大至1%",
+              "src": "东方财富",
+              "time": "2026-11-17 22:41:48",
+              "body": "【行情】费城半导体指数涨幅扩大至1%，报9720.24点。",
+              "score": 72.5
+            },
+            {
+              "title": "费城半导体指数日内跌3%",
+              "src": "同花顺",
+              "time": "2026-11-17 23:51:56",
+              "body": "费城半导体指数日内跌3.00%，现报9321.88点。英伟达跌3.56%，博通跌0.64%，美光跌6.86%，英特尔跌5.09%，AMD跌4.30%，高通跌3.35%，台积电跌4.82%，阿斯麦跌3.42%。",
+              "score": 61.5
+            }
+          ],
+          "merge_reasons": [
+            "标题相似度 0.54 ≥ 0.52",
+            "共享实体 费城半导体 + 同主题 AI芯片，相似度 0.38",
+            "共享实体 费城半导体 + 同主题 AI芯片，相似度 0.38"
+          ],
+          "related": [],
+          "time": "2026-11-17 23:52:37",
+          "rank_score": 65.0
+        },
+        {
+          "eid": "b339c04208",
+          "ekey": "台积电|美光#AI芯片",
+          "kind": "topic_line",
+          "title": "美股芯片股跌幅再度扩大",
+          "body": "截至发稿，英伟达股价下跌2.33%，台积电股价下跌3.5%，美光科技股价下跌4.06%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 66.5,
+          "heat": 2.0,
+          "source_count": 2,
+          "sources": [
+            "东方财富",
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": true,
+          "member_count": 2,
+          "members": [
+            {
+              "title": "美股芯片股跌幅再度扩大",
+              "src": "东方财富",
+              "time": "2026-11-17 23:33:56",
+              "body": "截至发稿，英伟达股价下跌2.33%，台积电股价下跌3.5%，美光科技股价下跌4.06%。",
+              "score": 66.5
+            },
+            {
+              "title": "美股芯片股跌幅再度扩大，英伟达跌2.33%",
+              "src": "同花顺",
+              "time": "2026-11-17 23:35:00",
+              "body": "美股芯片股跌幅再度扩大，英伟达股价下跌2.33%，台积电股价下跌3.5%，美光科技股价下跌4.06%。",
+              "score": 53.5
+            }
+          ],
+          "merge_reasons": [
+            "标题相似度 0.73 ≥ 0.52"
+          ],
+          "related": [],
+          "time": "2026-11-17 23:33:56",
+          "rank_score": 62.6
+        },
+        {
+          "eid": "b339c04208",
+          "ekey": "台积电|美光#AI芯片",
+          "kind": "topic_line",
+          "title": "美股芯片股再度普跌：美光跌5.5% 台积电跌超4%",
+          "body": "美股AI硬件股多数下跌，费城半导体指数跌1.90%，英伟达跌3.13%，台积电跌4.06%，美光科技跌5.47%，SK海力士跌2.54%，AMD跌2.63%，英特尔跌3.71%，阿斯麦跌2.60%，闪迪跌5.32%，迈威尔科技跌1.29%。博通逆势涨0.15%，Arm涨1.36%，Coherent涨1.03%。三倍做多半导体ETF（SOXL）跌6.42%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 77.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股芯片股再度普跌：美光跌5.5% 台积电跌超4%",
+              "src": "东方财富",
+              "time": "2026-11-17 23:44:10",
+              "body": "美股AI硬件股多数下跌，费城半导体指数跌1.90%，英伟达跌3.13%，台积电跌4.06%，美光科技跌5.47%，SK海力士跌2.54%，AMD跌2.63%，英特尔跌3.71%，阿斯麦跌2.60%，闪迪跌5.32%，迈威尔科技跌1.29%。博通逆势涨0.15%，Arm涨1.36%，Coherent涨1.03%。三倍做多半导体ETF（SOXL）跌6.42%。",
+              "score": 77.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-17 23:44:10",
+          "rank_score": 46.0
+        },
+        {
+          "eid": "f9e3f6e035",
+          "ekey": "亚马逊|英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "亚马逊CEO：英伟达长期以来一直是极其重要的合作伙伴 在可预见的未来也将一直如此",
+          "body": "亚马逊CEO在Semafor活动上就英伟达相关风波表示，英伟达长期以来一直是极其重要的合作伙伴，并且在可预见的未来也将一直如此。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "行业观点",
+          "tier": "T1.5",
+          "score": 63.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "亚马逊CEO：英伟达长期以来一直是极其重要的合作伙伴 在可预见的未来也将一直如此",
+              "src": "东方财富",
+              "time": "2026-11-18 01:20:37",
+              "body": "亚马逊CEO在Semafor活动上就英伟达相关风波表示，英伟达长期以来一直是极其重要的合作伙伴，并且在可预见的未来也将一直如此。",
+              "score": 63.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-18 01:20:37",
+          "rank_score": 40.4
+        },
+        {
+          "eid": "ca4c1fd63e",
+          "ekey": "三星|三星电子#AI芯片",
+          "kind": "topic_line",
+          "title": "三星电子Q3存储器价格较去年上涨270%",
+          "body": "近日，三星电子在DART（韩国金融监督院运营的官方企业信息披露系统）披露三季度报告书。数据显示，2026年Q3，其存储器平均销售价格较上年全年平均上涨约270%，存储业务（DS部门）产能利用率是100.0%，处于满产状态。同时，其DRAM全球份额由2025年全年的34.0%升至三季度估算的38.3%。值得关注的是，在其自身的DX部门（涉及智能手机、PC、家电等产品），移动用存储价格上涨约263%。（第一财经）",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "券商/大金融"
+          ],
+          "ctypeName": "经济数据",
+          "tier": "T2",
+          "score": 63.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "三星电子Q3存储器价格较去年上涨270%",
+              "src": "同花顺",
+              "time": "2026-11-17 21:06:56",
+              "body": "近日，三星电子在DART（韩国金融监督院运营的官方企业信息披露系统）披露三季度报告书。数据显示，2026年Q3，其存储器平均销售价格较上年全年平均上涨约270%，存储业务（DS部门）产能利用率是100.0%，处于满产状态。同时，其DRAM全球份额由2025年全年的34.0%升至三季度估算的38.3%。值得关注的是，在其自身的DX部门（涉及智能手机、PC、家电等产品），移动用存储价格上涨约263%。（第一财经）",
+              "score": 63.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-17 21:06:56",
+          "rank_score": 40.2
+        },
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "英伟达股价继续收窄跌幅",
+          "body": "【行情】英伟达股价继续收窄跌幅，最新下跌不到1%，此前一度跌近4%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 62.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "英伟达股价继续收窄跌幅",
+              "src": "东方财富",
+              "time": "2026-11-18 00:11:47",
+              "body": "【行情】英伟达股价继续收窄跌幅，最新下跌不到1%，此前一度跌近4%。",
+              "score": 62.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-18 00:11:47",
+          "rank_score": 40.0
+        },
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "黄仁勋：将致力于配合英伟达董事会的调查",
+          "body": "黄仁勋表示，将致力于配合英伟达董事会的调查。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bear",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "行业观点",
+          "tier": "T1.5",
+          "score": 59.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "黄仁勋：将致力于配合英伟达董事会的调查",
+              "src": "东方财富",
+              "time": "2026-11-18 00:09:42",
+              "body": "黄仁勋表示，将致力于配合英伟达董事会的调查。",
+              "score": 59.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-18 00:09:42",
+          "rank_score": 38.8
+        },
+        {
+          "eid": "1e3254d0bd",
+          "ekey": "SpaceX拟通过债务融资采购A",
+          "kind": "event_line",
+          "title": "SpaceX拟通过债务融资采购AI芯片",
+          "body": "据报道，知情人士透露，SpaceX计划通过400亿美元的债务融资采购人工智能芯片，其中部分债券最早可能于本周开始发售。据悉，高盛和阿波罗全球管理将担任此次交易的承销商。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件",
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 58.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "SpaceX拟通过债务融资采购AI芯片",
+              "src": "东方财富",
+              "time": "2026-11-17 22:59:14",
+              "body": "据报道，知情人士透露，SpaceX计划通过400亿美元的债务融资采购人工智能芯片，其中部分债券最早可能于本周开始发售。据悉，高盛和阿波罗全球管理将担任此次交易的承销商。",
+              "score": 58.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [
+            {
+              "title": "SpaceX最快本周启动400亿美元AI芯片债务融资的部分发行",
+              "sim": 0.23,
+              "reason": "同属主题 AI芯片/大模型，相似度 0.23"
+            }
+          ],
+          "time": "2026-11-17 22:59:14",
+          "rank_score": 38.2
+        },
+        {
+          "eid": "18e25f744d",
+          "ekey": "康盈半导体|片与模组康盈半导体#AI芯片",
+          "kind": "topic_line",
+          "title": "康盈半导体打造一体化制造总部基地 发力高端存储芯片与模组",
+          "body": "康盈半导体日前在浙江衢州举办总部金顶落成仪式暨合作伙伴大会。公司打造从晶圆研磨切割、高端封测到模组生产的全产业链一体化制造基地，项目一期预计2027年一季度投入试产，规划月产能800万颗，形成高端存储芯片与模组规模化产能，二期建设将在一期投产后12个月内启动。同期，公司围绕车载、企业算力、智能穿戴赛道发布4款高端存储新品。（人民财讯）",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "算力/数据中心"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T2",
+          "score": 57.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "康盈半导体打造一体化制造总部基地 发力高端存储芯片与模组",
+              "src": "同花顺",
+              "time": "2026-11-17 20:58:42",
+              "body": "康盈半导体日前在浙江衢州举办总部金顶落成仪式暨合作伙伴大会。公司打造从晶圆研磨切割、高端封测到模组生产的全产业链一体化制造基地，项目一期预计2027年一季度投入试产，规划月产能800万颗，形成高端存储芯片与模组规模化产能，二期建设将在一期投产后12个月内启动。同期，公司围绕车载、企业算力、智能穿戴赛道发布4款高端存储新品。（人民财讯）",
+              "score": 57.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-17 20:58:42",
+          "rank_score": 37.8
+        },
+        {
+          "eid": "22fa1242af",
+          "ekey": "英伟达#AI芯片",
+          "kind": "topic_line",
+          "title": "黄仁勋辞职后首次发声：若董事会允许 愿重返英伟达担任CEO",
+          "body": "11月17日，财闻海外资讯援引美国《华尔街日报》报道，英伟达联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，表示若董事会允许，他愿意在卸任后重返公司担任CEO。另据彭博社报道，黄仁勋同意下个月向国会简要汇报。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 56.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": false,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "黄仁勋辞职后首次发声：若董事会允许 愿重返英伟达担任CEO",
+              "src": "东方财富",
+              "time": "2026-11-18 00:21:31",
+              "body": "11月17日，财闻海外资讯援引美国《华尔街日报》报道，英伟达联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，表示若董事会允许，他愿意在卸任后重返公司担任CEO。另据彭博社报道，黄仁勋同意下个月向国会简要汇报。",
+              "score": 56.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-18 00:21:31",
+          "rank_score": 37.6
+        },
+        {
+          "eid": "536aa22c8e",
+          "ekey": "SpaceX最快本周启动亿美元A",
+          "kind": "event_line",
+          "title": "SpaceX最快本周启动400亿美元AI芯片债务融资的部分发行",
+          "body": "知情人士称，SpaceX最快可能于本周启动400亿美元债务融资的部分发行，约40亿美元债券可能在数日内发售，融资旨在为其采购人工智能芯片提供资金。交易由高盛集团和阿波罗全球管理担任承销商。（财联社）",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件",
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T2",
+          "score": 56.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "SpaceX最快本周启动400亿美元AI芯片债务融资的部分发行",
+              "src": "同花顺",
+              "time": "2026-11-18 01:31:06",
+              "body": "知情人士称，SpaceX最快可能于本周启动400亿美元债务融资的部分发行，约40亿美元债券可能在数日内发售，融资旨在为其采购人工智能芯片提供资金。交易由高盛集团和阿波罗全球管理担任承销商。（财联社）",
+              "score": 56.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [
+            {
+              "title": "SpaceX拟通过债务融资采购AI芯片",
+              "sim": 0.23,
+              "reason": "同属主题 AI芯片/大模型，相似度 0.23"
+            }
+          ],
+          "time": "2026-11-18 01:31:06",
+          "rank_score": 37.6
+        }
+      ]
+    },
+    {
+      "topic": "美联储利率",
+      "label": "美联储动向",
+      "count": 3,
+      "sources": [
+        "东方财富"
+      ],
+      "heat": 3.0,
+      "eids": [
+        "4d8898be44",
+        "4e40ef6286",
+        "4d8898be44"
+      ],
+      "lead": "美联储理事克里斯托弗·沃勒：银行在未来支付体系变革中仍将发挥重要作用",
+      "events": [
+        {
+          "eid": "4d8898be44",
+          "ekey": "美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "美联储理事克里斯托弗·沃勒：银行在未来支付体系变革中仍将发挥重要作用",
+          "body": "美联储理事克里斯托弗·沃勒表示，当前支付领域正经历一场变革，但银行在未来支付体系变革中仍将发挥重要作用。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "neutral",
+          "sectors": [
+            "券商/大金融"
+          ],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 57.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储理事克里斯托弗·沃勒：银行在未来支付体系变革中仍将发挥重要作用",
+              "src": "东方财富",
+              "time": "2026-11-17 22:42:04",
+              "body": "美联储理事克里斯托弗·沃勒表示，当前支付领域正经历一场变革，但银行在未来支付体系变革中仍将发挥重要作用。",
+              "score": 57.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-17 22:42:04",
+          "rank_score": 37.8
+        },
+        {
+          "eid": "4e40ef6286",
+          "ekey": "克利夫兰联储|美联储#全球债市",
+          "kind": "topic_line",
+          "title": "克利夫兰联储行长提议制定美国国债市场干预原则",
+          "body": "克利夫兰联储行长哈马克提议制定美国国债市场干预原则。哈马克表示，美联储应为干预美国国债市场设定高门槛，只有在市场失灵存在“波及实体经济”的风险时才应出手，而当流动性和波动率的变化反映基本面时则不应干预。美联储应更清楚地说明，资产购买究竟是为了改善市场流动性，还是为了支持经济。她表示，美联储可以为这类购买设立一个单独的投资组合，让公众知道哪些购买是出于维护市场正常运转的目的。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bull",
+          "sectors": [],
+          "ctypeName": "海外宏观",
+          "tier": "T1.5",
+          "score": 52.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "克利夫兰联储行长提议制定美国国债市场干预原则",
+              "src": "东方财富",
+              "time": "2026-11-18 00:27:00",
+              "body": "克利夫兰联储行长哈马克提议制定美国国债市场干预原则。哈马克表示，美联储应为干预美国国债市场设定高门槛，只有在市场失灵存在“波及实体经济”的风险时才应出手，而当流动性和波动率的变化反映基本面时则不应干预。美联储应更清楚地说明，资产购买究竟是为了改善市场流动性，还是为了支持经济。她表示，美联储可以为这类购买设立一个单独的投资组合，让公众知道哪些购买是出于维护市场正常运转的目的。",
+              "score": 52.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-18 00:27:00",
+          "rank_score": 36.0
+        },
+        {
+          "eid": "4d8898be44",
+          "ekey": "美联储#美联储利率",
+          "kind": "topic_line",
+          "title": "美联储哈马克支持完善常设回购工具 强调区分货币政策与市场功能性操作",
+          "body": "美联储官员哈马克表示，她支持对美联储常设回购便利（StandingRepoFacility）进行改进，以提高其有效性。她同时指出，美联储在对外沟通时，应明确区分货币政策行动与旨在维护市场正常运行的操作。",
+          "dim": "economic",
+          "dimName": "宏观经济/政策",
+          "impact": "bull",
+          "sectors": [],
+          "ctypeName": "政策发布",
+          "tier": "T1.5",
+          "score": 52.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "美联储利率",
+          "topicLabel": "美联储动向",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美联储哈马克支持完善常设回购工具 强调区分货币政策与市场功能性操作",
+              "src": "东方财富",
+              "time": "2026-11-17 22:36:53",
+              "body": "美联储官员哈马克表示，她支持对美联储常设回购便利（StandingRepoFacility）进行改进，以提高其有效性。她同时指出，美联储在对外沟通时，应明确区分货币政策行动与旨在维护市场正常运行的操作。",
+              "score": 52.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-17 22:36:53",
+          "rank_score": 36.0
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "input_articles": 60,
+    "events": 55,
+    "merged_away": 5,
+    "redundancy": 1.09,
+    "multi_source_events": 3,
+    "roundup_articles": 1,
+    "story_links": 1,
+    "method": "rule_based",
+    "topic_blocks": 2,
+    "compared_with": "2026-11-17 08:00:15",
+    "new_events": 49,
+    "rising_events": 1
+  },
+  "provenance": {
+    "method": "rule_based_clustering",
+    "status": "derived",
+    "detail": "事件合并与主题归组由标题相似度 + 实体重叠规则判定，非 LLM 语义判断；热度按独立来源数计算（48h 内每源一次，24h 减半）"
+  }
+}
