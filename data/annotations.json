@@ -44,23 +44,8 @@
     "tag": "其他",
     "auto": true
   },
-  "yetanotherbrowser/yab": {
-    "name": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
-    "tag": "其他",
-    "auto": true
-  },
-  "haziqahmedqasmi/PeakCut": {
-    "name": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-    "tag": "开发工具",
-    "auto": true
-  },
   "HybridRobotics/supermimic": {
     "name": "Humanoid whole-body motion tracking with one differentiable world model.",
-    "tag": "模型/推理",
-    "auto": true
-  },
-  "n4ze3m/tiny-voca": {
-    "name": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
     "tag": "模型/推理",
     "auto": true
   },
@@ -69,19 +54,34 @@
     "tag": "其他",
     "auto": true
   },
+  "haziqahmedqasmi/PeakCut": {
+    "name": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+    "tag": "开发工具",
+    "auto": true
+  },
   "Eynnzerr/TelemetryCleaner": {
     "name": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+    "tag": "其他",
+    "auto": true
+  },
+  "n4ze3m/tiny-voca": {
+    "name": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+    "tag": "模型/推理",
+    "auto": true
+  },
+  "agentes-chat/agentes-chat": {
+    "name": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "yetanotherbrowser/yab": {
+    "name": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
     "tag": "其他",
     "auto": true
   },
   "opencoredev/islandcn": {
     "name": "The open-source Dynamic Island for React, installed with shadcn.",
     "tag": "其他",
-    "auto": true
-  },
-  "agentes-chat/agentes-chat": {
-    "name": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-    "tag": "AI Agent",
     "auto": true
   },
   "HolyArrs/HolyArrs": {
@@ -195,6 +195,11 @@
     "tag": "开发工具",
     "auto": true
   },
+  "codecrafters-io/build-your-own-x": {
+    "name": "Master programming by recreating your favorite technologies from scratch.",
+    "tag": "资源合集",
+    "auto": true
+  },
   "public-apis/public-apis": {
     "name": "免费 API 大合集，做项目找数据源先看这个",
     "tag": "资源合集",
@@ -217,6 +222,10 @@
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
   },
+  "awesome-selfhosted/awesome-selfhosted": {
+    "name": "可自托管的开源网络服务清单",
+    "tag": "资源合集"
+  },
   "vinta/awesome-python": {
     "name": "Python 工具大全：想做 X，该用哪个库",
     "tag": "资源合集"
@@ -236,15 +245,5 @@
   "torvalds/linux": {
     "name": "Linux 内核源码",
     "tag": "操作系统"
-  },
-  "anomalyco/opencode": {
-    "name": "The open source coding agent.",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "n8n-io/n8n": {
-    "name": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-    "tag": "开发工具",
-    "auto": true
   }
 }
