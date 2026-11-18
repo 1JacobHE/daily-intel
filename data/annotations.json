@@ -1,21 +1,6 @@
 {
-  "gylive/google-ultra": {
-    "name": "（官方未提供简介）",
-    "tag": "其他",
-    "auto": true
-  },
   "krisgfx9/Wireless-Device-Battery-Monitor": {
     "name": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-    "tag": "其他",
-    "auto": true
-  },
-  "huamidev/GestaltX": {
-    "name": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-    "tag": "开发工具",
-    "auto": true
-  },
-  "deepseek-ai/chat-demo": {
-    "name": "Chat Demo",
     "tag": "其他",
     "auto": true
   },
@@ -24,18 +9,23 @@
     "tag": "AI Agent",
     "auto": true
   },
+  "deepseek-ai/chat-demo": {
+    "name": "Chat Demo",
+    "tag": "其他",
+    "auto": true
+  },
   "sybil-solutions/inference-optimisation-skill": {
     "name": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
     "tag": "AI Agent",
     "auto": true
   },
-  "duwqijlk/muse-protocol": {
-    "name": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-    "tag": "其他",
+  "chuanqisun/spaceship": {
+    "name": "Steer your ideas in realtime",
+    "tag": "开发工具",
     "auto": true
   },
-  "apex-compute/ANR": {
-    "name": "Apex Neural Rendering (ANR) by Apex Compute",
+  "duwqijlk/muse-protocol": {
+    "name": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
     "tag": "其他",
     "auto": true
   },
@@ -44,13 +34,13 @@
     "tag": "模型/推理",
     "auto": true
   },
-  "chuanqisun/spaceship": {
-    "name": "Steer your ideas in realtime",
-    "tag": "开发工具",
+  "apex-compute/ANR": {
+    "name": "Apex Neural Rendering (ANR) by Apex Compute",
+    "tag": "其他",
     "auto": true
   },
-  "Kianuni/Erosion-CN": {
-    "name": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
+  "Hut-hzf/ung220z-tool": {
+    "name": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
     "tag": "其他",
     "auto": true
   },
@@ -64,8 +54,23 @@
     "tag": "其他",
     "auto": true
   },
+  "boringmarketer/boring-marketing-skills": {
+    "name": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+    "tag": "AI Agent",
+    "auto": true
+  },
   "CzzzzzzJ/mdldm-maitian": {
     "name": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+    "tag": "其他",
+    "auto": true
+  },
+  "Kianuni/Erosion-CN": {
+    "name": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
+    "tag": "其他",
+    "auto": true
+  },
+  "Illson/RustText": {
+    "name": "（官方未提供简介）",
     "tag": "其他",
     "auto": true
   },
@@ -79,11 +84,6 @@
     "tag": "其他",
     "auto": true
   },
-  "HybridRobotics/supermimic": {
-    "name": "Humanoid whole-body motion tracking with one differentiable world model.",
-    "tag": "模型/推理",
-    "auto": true
-  },
   "haziqahmedqasmi/PeakCut": {
     "name": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
     "tag": "开发工具",
@@ -94,9 +94,9 @@
     "tag": "其他",
     "auto": true
   },
-  "agentes-chat/agentes-chat": {
-    "name": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-    "tag": "AI Agent",
+  "HybridRobotics/supermimic": {
+    "name": "Humanoid whole-body motion tracking with one differentiable world model.",
+    "tag": "模型/推理",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -160,14 +160,14 @@
     "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
     "tag": "开发工具"
   },
-  "anywhere-labs/dsh-desktop": {
-    "name": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-    "tag": "AI Agent",
-    "auto": true
-  },
   "storytold/craft-anything": {
     "name": "Craft Anything: understand how any software works, and craft your own.",
     "tag": "其他",
+    "auto": true
+  },
+  "anywhere-labs/dsh-desktop": {
+    "name": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+    "tag": "AI Agent",
     "auto": true
   },
   "NandhaKishorM/laya": {
@@ -233,12 +233,12 @@
     "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
     "tag": "AI Agent"
   },
-  "practical-tutorials/project-based-learning": {
-    "name": "通过做项目来学编程的教程合集",
-    "tag": "学习资源"
-  },
   "NousResearch/hermes-agent": {
     "name": "随你一起成长的 Agent",
     "tag": "AI Agent"
+  },
+  "torvalds/linux": {
+    "name": "Linux 内核源码",
+    "tag": "操作系统"
   }
 }
