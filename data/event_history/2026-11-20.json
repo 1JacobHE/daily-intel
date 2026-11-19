@@ -1,0 +1,2922 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20 00:46",
+  "events": [
+    {
+      "eid": "598084e92a",
+      "ekey": "美光|英特尔#AI芯片",
+      "kind": "topic_line",
+      "title": "费城半导体指数涨幅扩大至4%：Coherent涨超10% 英特尔、美光涨逾5%",
+      "body": "费城半导体指数涨幅扩大至4%，报10044.94点。成分股中，Coherent涨10.08%，AsteraLabs涨6.80%，英特尔涨6.42%，美光科技涨5.57%，Credo涨5.55%，SiTime涨5.40%，泰瑞达涨5.23%，MACOM涨4.94%，迈威尔科技涨4.67%，高通涨4.59%，Tower半导体涨4.60%，闪迪涨4.41%，泛林集团涨4.18%，应用材料涨3.97%，科磊涨3.98%，英伟达涨3.83%，博通涨3.43%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 74.5,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": true,
+      "member_count": 2,
+      "members": [
+        {
+          "title": "费城半导体指数涨幅扩大至4%：Coherent涨超10% 英特尔、美光涨逾5%",
+          "src": "东方财富",
+          "time": "2026-11-19 22:37:13",
+          "body": "费城半导体指数涨幅扩大至4%，报10044.94点。成分股中，Coherent涨10.08%，AsteraLabs涨6.80%，英特尔涨6.42%，美光科技涨5.57%，Credo涨5.55%，SiTime涨5.40%，泰瑞达涨5.23%，MACOM涨4.94%，迈威尔科技涨4.67%，高通涨4.59%，Tower半导体涨4.60%，闪迪涨4.41%，泛林集团涨4.18%，应用材料涨3.97%，科磊涨3.98%，英伟达涨3.83%，博通涨3.43%。",
+          "score": 74.5
+        },
+        {
+          "title": "费城半导体指数涨幅扩大至4%，报10044.94点",
+          "src": "同花顺",
+          "time": "2026-11-19 22:37:42",
+          "body": "费城半导体指数涨幅扩大至4%，报10044.94点。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [
+        "共享实体 费城半导体 + 同主题 AI芯片，相似度 0.34"
+      ],
+      "related": [],
+      "time": "2026-11-19 22:37:13",
+      "rank_score": 65.8
+    },
+    {
+      "eid": "1de9a5e2ea",
+      "ekey": "比亚迪",
+      "kind": "topic_line",
+      "title": "方程豹钛9正式上市 比亚迪成全球首家率先实现折叠技术上车量产的车企",
+      "body": "【方程豹钛9正式上市，比亚迪成全球首家率先实现折叠技术上车量产的车企】11月19日晚，比亚迪方程豹钛9正式上市。钛9首搭比亚迪最新科技成果“折叠智舱”和“DMS超级混动全能平台”。钛9顶配版首搭量产比亚迪科技创新重大技术成果——折叠智舱，此技术是折叠方向盘在汽车领域的首次正式量产，也是比亚迪布局L3、L4智能驾驶的重大成果。比亚迪成为全球首家率先实现折叠技术上车量产的车企。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 65.5,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": true,
+      "member_count": 2,
+      "members": [
+        {
+          "title": "方程豹钛9正式上市 比亚迪成全球首家率先实现折叠技术上车量产的车企",
+          "src": "东方财富",
+          "time": "2026-11-19 23:29:00",
+          "body": "【方程豹钛9正式上市，比亚迪成全球首家率先实现折叠技术上车量产的车企】11月19日晚，比亚迪方程豹钛9正式上市。钛9首搭比亚迪最新科技成果“折叠智舱”和“DMS超级混动全能平台”。钛9顶配版首搭量产比亚迪科技创新重大技术成果——折叠智舱，此技术是折叠方向盘在汽车领域的首次正式量产，也是比亚迪布局L3、L4智能驾驶的重大成果。比亚迪成为全球首家率先实现折叠技术上车量产的车企。",
+          "score": 65.5
+        },
+        {
+          "title": "方程豹钛9正式上市，比亚迪成全球首家率先实现折叠技术上车量产的车企",
+          "src": "同花顺",
+          "time": "2026-11-19 23:30:29",
+          "body": "11月19日晚，比亚迪方程豹钛9正式上市。钛9首搭比亚迪最新科技成果“折叠智舱”和“DMS超级混动全能平台”。钛9顶配版首搭量产比亚迪科技创新重大技术成果——折叠智舱，此技术是折叠方向盘在汽车领域的首次正式量产，也是比亚迪布局L3、L4智能驾驶的重大成果。比亚迪成为全球首家率先实现折叠技术上车量产的车企。（人民财讯）",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [
+        "标题相似度 1.00 ≥ 0.52"
+      ],
+      "related": [],
+      "time": "2026-11-19 23:29:00",
+      "rank_score": 62.2
+    },
+    {
+      "eid": "1b9ada1f00",
+      "ekey": "阿里巴巴集团",
+      "kind": "topic_line",
+      "title": "吴泳铭：建设超过20GW规模全球数据中心的目标可能下调",
+      "body": "在阿里巴巴2027财年第二季度业绩电话会上，阿里巴巴集团CEO吴泳铭表示，全球各个区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到2032年全球数据中心规模超过20GW的目标有可能下调，资本开支可能有一定程度降低。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bear",
+      "sectors": [
+        "算力/数据中心",
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 64.0,
+      "heat": 2.0,
+      "source_count": 2,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": true,
+      "member_count": 2,
+      "members": [
+        {
+          "title": "吴泳铭：建设超过20GW规模全球数据中心的目标可能下调",
+          "src": "东方财富",
+          "time": "2026-11-19 22:12:19",
+          "body": "在阿里巴巴2027财年第二季度业绩电话会上，阿里巴巴集团CEO吴泳铭表示，全球各个区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到2032年全球数据中心规模超过20GW的目标有可能下调，资本开支可能有一定程度降低。",
+          "score": 64.0
+        },
+        {
+          "title": "阿里巴巴集团CEO吴泳铭：建设超过20GW规模全球数据中心的目标可能下调",
+          "src": "同花顺",
+          "time": "2026-11-19 22:16:45",
+          "body": "在阿里巴巴2027财年第二季度业绩电话会上，阿里巴巴集团CEO吴泳铭表示，全球各个区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到2032年全球数据中心规模超过20GW的目标有可能下调，资本开支可能有一定程度降低。同时，阿里将在国产算力及相关供应链上投入更积极，推进整体计划。基于平头哥的算力供应链持续放量节奏，2027年和2028年上半年将是阿里最大的一个持续投资阶段。吴泳铭另表示，对于长期的现金流规划非常有信心。（蓝鲸新闻）",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [
+        "标题相似度 0.73 ≥ 0.52"
+      ],
+      "related": [],
+      "time": "2026-11-19 22:12:19",
+      "rank_score": 61.6
+    },
+    {
+      "eid": "ed9777dbfb",
+      "ekey": "宁德时代",
+      "kind": "topic_line",
+      "title": "宁德时代今日回购近两亿元",
+      "body": "宁德时代公告称，公司于2026年11月19日通过深交所回购A股股份850473股，占公司已发行股份（不含库存股）的0.02%，回购价格区间为每股233.39元—237元，回购总金额为1.9998亿元，所回购股份拟用于注销。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "新能源/锂电"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 86.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "宁德时代今日回购近两亿元",
+          "src": "东方财富",
+          "time": "2026-11-19 22:04:08",
+          "body": "宁德时代公告称，公司于2026年11月19日通过深交所回购A股股份850473股，占公司已发行股份（不含库存股）的0.02%，回购价格区间为每股233.39元—237元，回购总金额为1.9998亿元，所回购股份拟用于注销。",
+          "score": 86.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:04:08",
+      "rank_score": 49.4
+    },
+    {
+      "eid": "ecfbb34fd4",
+      "ekey": "从国家能源",
+      "kind": "topic_line",
+      "title": "全国虚拟电厂数量近600个 华东虚拟电厂数量领跑全国",
+      "body": "记者今天（11月19日）从国家能源局了解到，截至目前，全国已建成并投运的虚拟电厂数量近600个，最大调节能力超2000万千瓦，虚拟电厂在缓解电力供需矛盾、促进新能源消纳等方面的调节作用日益凸显。分区域看，华东、南方、华北等地区虚拟电厂发展较快。华东地区虚拟电厂数量达到286个，占比近一半。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "石油/能源",
+        "新能源/锂电",
+        "电力/公用"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 74.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "全国虚拟电厂数量近600个 华东虚拟电厂数量领跑全国",
+          "src": "东方财富",
+          "time": "2026-11-19 22:23:06",
+          "body": "记者今天（11月19日）从国家能源局了解到，截至目前，全国已建成并投运的虚拟电厂数量近600个，最大调节能力超2000万千瓦，虚拟电厂在缓解电力供需矛盾、促进新能源消纳等方面的调节作用日益凸显。分区域看，华东、南方、华北等地区虚拟电厂发展较快。华东地区虚拟电厂数量达到286个，占比近一半。",
+          "score": 74.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:23:06",
+      "rank_score": 44.8
+    },
+    {
+      "eid": "416f97744d",
+      "ekey": "美团月上半月平台滑雪相关搜索增长",
+      "kind": "event_line",
+      "title": "美团：11月上半月平台“滑雪”相关搜索增长141%",
+      "body": "11月19日，美团发布数据显示，11月1日至15日，平台含“滑雪”关键词的搜索量同比增长141%，南方用户购买北方雪场雪票的订单量同比增长超四成，南方城市更是贡献了平台78%的室内冰雪相关搜索量。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 73.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美团：11月上半月平台“滑雪”相关搜索增长141%",
+          "src": "东方财富",
+          "time": "2026-11-19 21:50:00",
+          "body": "11月19日，美团发布数据显示，11月1日至15日，平台含“滑雪”关键词的搜索量同比增长141%，南方用户购买北方雪场雪票的订单量同比增长超四成，南方城市更是贡献了平台78%的室内冰雪相关搜索量。",
+          "score": 73.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 21:50:00",
+      "rank_score": 44.2
+    },
+    {
+      "eid": "ce5820cdd5",
+      "ekey": "现已转跌费城半导体|费城半导体#AI芯片",
+      "kind": "topic_line",
+      "title": "费城半导体指数回吐此前一度高达近5%的涨幅 现已转跌",
+      "body": "费城半导体指数回吐此前一度高达近5%的涨幅，现已转跌。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 70.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "费城半导体指数回吐此前一度高达近5%的涨幅 现已转跌",
+          "src": "东方财富",
+          "time": "2026-11-19 23:40:31",
+          "body": "费城半导体指数回吐此前一度高达近5%的涨幅，现已转跌。",
+          "score": 70.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:40:31",
+      "rank_score": 43.0
+    },
+    {
+      "eid": "705202efd1",
+      "ekey": "宇信科技",
+      "kind": "topic_line",
+      "title": "“A+H”热潮局部降温？近一个月5家A股公司终止赴港上市计划",
+      "body": "公开数据显示，近一个月以来，已有西子洁能、宇信科技（300674.SZ）、蓝色光标（300058.SZ）、中坚科技（002779.SZ）和欣旺达（300207.SZ）5家公司宣布终止发行H股，涉及的行业包括电源设备、IT服务、广告、电池等。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "新能源/锂电"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 68.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "“A+H”热潮局部降温？近一个月5家A股公司终止赴港上市计划",
+          "src": "东方财富",
+          "time": "2026-11-19 21:57:48",
+          "body": "公开数据显示，近一个月以来，已有西子洁能、宇信科技（300674.SZ）、蓝色光标（300058.SZ）、中坚科技（002779.SZ）和欣旺达（300207.SZ）5家公司宣布终止发行H股，涉及的行业包括电源设备、IT服务、广告、电池等。",
+          "score": 68.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 21:57:48",
+      "rank_score": 42.4
+    },
+    {
+      "eid": "aa0218f10d",
+      "ekey": "京蓝科技",
+      "kind": "topic_line",
+      "title": "喜提2连板！京蓝科技泼冷水：靶材还没量产！股价年内涨超120%",
+      "body": "京蓝科技连续两个交易日涨停，收盘价格涨幅累计偏离超过20%，触发股票交易异常波动标准。针对股价异动，京蓝科技于11月19日晚间发布核查公告表示，公司内外部经营环境未发生重大变化，不存在应披露而未披露的重大事项。与此同时，公司提示当前市净率远高于行业平均水平，备受关注的靶材业务尚未实现量产，提示投资者理性看待。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 68.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "喜提2连板！京蓝科技泼冷水：靶材还没量产！股价年内涨超120%",
+          "src": "东方财富",
+          "time": "2026-11-19 21:46:00",
+          "body": "京蓝科技连续两个交易日涨停，收盘价格涨幅累计偏离超过20%，触发股票交易异常波动标准。针对股价异动，京蓝科技于11月19日晚间发布核查公告表示，公司内外部经营环境未发生重大变化，不存在应披露而未披露的重大事项。与此同时，公司提示当前市净率远高于行业平均水平，备受关注的靶材业务尚未实现量产，提示投资者理性看待。",
+          "score": 68.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 21:46:00",
+      "rank_score": 42.2
+    },
+    {
+      "eid": "dc9558eacc",
+      "ekey": "投资产业投资基金",
+      "kind": "topic_line",
+      "title": "奥飞数据：拟5000万元投资产业投资基金，认缴比例90.9091%",
+      "body": "奥飞数据公告，公司出资5000万元与千行资本、申亿投资、盛虹、邱正祥共同投资浙江千行格物创业投资合伙企业（有限合伙），公司对产业投资基金的认缴比例为90.9091%。该产业投资基金规模为5500万元，为单一投资标的专项基金，专项投资于广州筷子信息科技有限公司股权，存续期为5年。本次投资金额在公司总经理审批权限范围之内，无须提交董事会或股东会批准。产业投资基金后续尚需获得市场监督管理部门工商变更许可及中国证券投资基金业协会等登记、备案手续，能否成功设立尚存在不确定性。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 68.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "奥飞数据：拟5000万元投资产业投资基金，认缴比例90.9091%",
+          "src": "同花顺",
+          "time": "2026-11-19 20:21:38",
+          "body": "奥飞数据公告，公司出资5000万元与千行资本、申亿投资、盛虹、邱正祥共同投资浙江千行格物创业投资合伙企业（有限合伙），公司对产业投资基金的认缴比例为90.9091%。该产业投资基金规模为5500万元，为单一投资标的专项基金，专项投资于广州筷子信息科技有限公司股权，存续期为5年。本次投资金额在公司总经理审批权限范围之内，无须提交董事会或股东会批准。产业投资基金后续尚需获得市场监督管理部门工商变更许可及中国证券投资基金业协会等登记、备案手续，能否成功设立尚存在不确定性。",
+          "score": 68.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 20:21:38",
+      "rank_score": 42.2
+    },
+    {
+      "eid": "95f0239bd1",
+      "ekey": "华自科技|整市公共机构能源",
+      "kind": "topic_line",
+      "title": "华自科技联合体中标冷水江市整市公共机构能源托管项目",
+      "body": "据华自科技消息，近日，冷水江市整市合同能源费用托管项目中标结果公布。由中航建投能源科技（北京）有限公司牵头，联合上海云见智能科技有限公司、湖北中建三局建筑工程技术有限责任公司及华自科技组成的联合体成功中标。该项目为湖南首例公共机构整域能源托管项目，将为县域公共机构节能降碳和能源管理创新打造示范样板。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 67.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "华自科技联合体中标冷水江市整市公共机构能源托管项目",
+          "src": "东方财富",
+          "time": "2026-11-19 23:15:00",
+          "body": "据华自科技消息，近日，冷水江市整市合同能源费用托管项目中标结果公布。由中航建投能源科技（北京）有限公司牵头，联合上海云见智能科技有限公司、湖北中建三局建筑工程技术有限责任公司及华自科技组成的联合体成功中标。该项目为湖南首例公共机构整域能源托管项目，将为县域公共机构节能降碳和能源管理创新打造示范样板。",
+          "score": 67.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:15:00",
+      "rank_score": 42.0
+    },
+    {
+      "eid": "317b2fc390",
+      "ekey": "Anthropic#AI芯片",
+      "kind": "topic_line",
+      "title": "Anthropic IPO提振市场情绪 美股纳指高开1.6% 存储、光通信等板块上扬",
+      "body": "美股三大指数开盘集体上涨，道琼斯指数涨0.44%，标普500指数涨0.98%，纳斯达克综合指数涨1.58%。AnthropicIPO提振市场情绪，AI产业链走高，存储板块方面，海力士、闪迪、美光科技涨超4%；光通信公司方面，Coherent涨超6%，Lumentum涨超3%；新型云服务公司方面，NEBIUS、CoreWeave涨超4%。美股“科技七巨头”集体上涨，苹果股价上涨0.32%，微软股价上涨2.55%，英伟达股价上涨1.98%，谷歌-A股价上涨4.21%，亚马逊股价上涨1.61%，Meta股价上涨1.1%，特斯拉股价上涨1.26%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 67.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Anthropic IPO提振市场情绪 美股纳指高开1.6% 存储、光通信等板块上扬",
+          "src": "东方财富",
+          "time": "2026-11-19 22:30:49",
+          "body": "美股三大指数开盘集体上涨，道琼斯指数涨0.44%，标普500指数涨0.98%，纳斯达克综合指数涨1.58%。AnthropicIPO提振市场情绪，AI产业链走高，存储板块方面，海力士、闪迪、美光科技涨超4%；光通信公司方面，Coherent涨超6%，Lumentum涨超3%；新型云服务公司方面，NEBIUS、CoreWeave涨超4%。美股“科技七巨头”集体上涨，苹果股价上涨0.32%，微软股价上涨2.55%，英伟达股价上涨1.98%，谷歌-A股价上涨4.21%，亚马逊股价上涨1.61%，Meta股价上涨1.1%，特斯拉股价上涨1.26%。",
+          "score": 67.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:30:49",
+      "rank_score": 42.0
+    },
+    {
+      "eid": "1b9ada1f00",
+      "ekey": "阿里巴巴集团",
+      "kind": "topic_line",
+      "title": "吴泳铭：千问已在平头哥上训练下一代模型",
+      "body": "11月19日，在2027财年第二季度财报分析师电话会上，阿里巴巴集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进——今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团自身及阿里云客户在模型训练、模型推理和Agentic任务上的工作负载，并成为推动集团AI营收增长的基础。吴泳铭强调，千问已经在平头哥芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。阿里的全栈AI基础设施将在国产算力供应链上形成明显优势，而自研芯片与自研模型的深度协同，将持续转化为更优的单位算力成本和更高的AI应用研发效率。综合各因素影响，吴泳铭表示，2031财年（2030自然年）云外部收入1000亿美元、利润率超过20%的目标不变。（第一财经）",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件",
+        "算力/数据中心"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T2",
+      "score": 67.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "吴泳铭：千问已在平头哥上训练下一代模型",
+          "src": "同花顺",
+          "time": "2026-11-19 20:13:51",
+          "body": "11月19日，在2027财年第二季度财报分析师电话会上，阿里巴巴集团CEO吴泳铭表示，平头哥三代GPU产品路线图正在加速推进——今年真武M890全面上线，2027年V900、2028年J900的生产供应链全面推进并进入大规模量产。基于自研国产算力的基础设施，正在成为阿里全栈AI技术的支撑底座，将逐步承载集团自身及阿里云客户在模型训练、模型推理和Agentic任务上的工作负载，并成为推动集团AI营收增长的基础。吴泳铭强调，千问已经在平头哥芯片上训练下一代模型，百炼已经基于国产芯片提供模型推理服务。阿里的全栈AI基础设施将在国产算力供应链上形成明显优势，而自研芯片与自研模型的深度协同，将持续转化为更优的单位算力成本和更高的AI应用研发效率。综合各因素影响，吴泳铭表示，2031财年（2030自然年）云外部收入1000亿美元、利润率超过20%的目标不变。（第一财经）",
+          "score": 67.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 20:13:51",
+      "rank_score": 41.8
+    },
+    {
+      "eid": "c36479ce62",
+      "ekey": "亚太朋友圈生意越做越大中国机电成",
+      "kind": "event_line",
+      "title": "亚太朋友圈生意越做越大中国机电成APEC爆款",
+      "body": "来源：@央视财经微博【#亚太朋友圈生意越做越大##中国机电成APEC爆款#】海关总署最新公布的统计数据显示，今年前10个月，我对APEC其他经济体进出口同比增长25.4%。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 66.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "亚太朋友圈生意越做越大中国机电成APEC爆款",
+          "src": "新浪财经",
+          "time": "2026-11-19 23:04:04",
+          "body": "来源：@央视财经微博【#亚太朋友圈生意越做越大##中国机电成APEC爆款#】海关总署最新公布的统计数据显示，今年前10个月，我对APEC其他经济体进出口同比增长25.4%。",
+          "score": 66.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:04:04",
+      "rank_score": 41.4
+    },
+    {
+      "eid": "35c3e945ba",
+      "ekey": "公司拟发行股份|广州金南磁性材料",
+      "kind": "topic_line",
+      "title": "新莱福：并购重组审核委员会拟近期审核公司交易事项",
+      "body": "新莱福公告，公司拟发行股份及支付现金购买广州金南磁性材料有限公司100%股权，并向不超过35名（含35名）特定投资者发行股份募集配套资金。根据深圳证券交易所工作安排，深圳证券交易所并购重组审核委员会拟于近期审核本次交易，具体会议时间待确定后另行公告。本次交易尚需深圳证券交易所审核通过以及中国证券监督管理委员会同意注册后方可实施，能否通过审核及取得注册、以及最终时间均存在不确定性。",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "neutral",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 66.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "新莱福：并购重组审核委员会拟近期审核公司交易事项",
+          "src": "同花顺",
+          "time": "2026-11-19 20:15:59",
+          "body": "新莱福公告，公司拟发行股份及支付现金购买广州金南磁性材料有限公司100%股权，并向不超过35名（含35名）特定投资者发行股份募集配套资金。根据深圳证券交易所工作安排，深圳证券交易所并购重组审核委员会拟于近期审核本次交易，具体会议时间待确定后另行公告。本次交易尚需深圳证券交易所审核通过以及中国证券监督管理委员会同意注册后方可实施，能否通过审核及取得注册、以及最终时间均存在不确定性。",
+          "score": 66.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 20:15:59",
+      "rank_score": 41.4
+    },
+    {
+      "eid": "f431db65ce",
+      "ekey": "Anthropic",
+      "kind": "topic_line",
+      "title": "Anthropic上市首日 你需要知道的五件事",
+      "body": "当地时间11月19日，人工智能公司Anthropic登陆纳斯达克，股票代码为“ANT”。公司股票发行价为每股83美元，IPO募资813.4亿美元，刷新全球IPO募资纪录。按发行价计算，这家成立仅五年的公司，完全摊薄估值已达到约1.5万亿美元。截至北京时间22:51，Anthropic每股撮合价为99.6美元，较83美元的发行价上涨约20%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 65.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Anthropic上市首日 你需要知道的五件事",
+          "src": "东方财富",
+          "time": "2026-11-19 23:08:42",
+          "body": "当地时间11月19日，人工智能公司Anthropic登陆纳斯达克，股票代码为“ANT”。公司股票发行价为每股83美元，IPO募资813.4亿美元，刷新全球IPO募资纪录。按发行价计算，这家成立仅五年的公司，完全摊薄估值已达到约1.5万亿美元。截至北京时间22:51，Anthropic每股撮合价为99.6美元，较83美元的发行价上涨约20%。",
+          "score": 65.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:08:42",
+      "rank_score": 41.2
+    },
+    {
+      "eid": "40a2b49d8b",
+      "ekey": "Anthropic#股指行情",
+      "kind": "topic_line",
+      "title": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
+      "body": "纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 65.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
+          "src": "东方财富",
+          "time": "2026-11-19 23:37:39",
+          "body": "纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
+          "score": 65.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:37:39",
+      "rank_score": 41.0
+    },
+    {
+      "eid": "602135fc1d",
+      "ekey": "美股开盘美股三大指数集体高开",
+      "kind": "event_line",
+      "title": "美股开盘：美股三大指数集体高开",
+      "body": "美股三大指数集体高开，标普500指数涨0.95%，道指涨0.4%，纳指涨1.54%。大型科技股方面，谷歌A涨4.33%，微软涨2.79%，英伟达涨2.22%，超威半导体涨2.13%，亚马逊涨1.65%，特斯拉涨1.52%，Meta涨1.20%。中概股方面，拼多多涨8.87%，京东涨1.85%，蔚来涨1.26%，网易跌4.58%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T2",
+      "score": 64.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股开盘：美股三大指数集体高开",
+          "src": "同花顺",
+          "time": "2026-11-19 22:30:53",
+          "body": "美股三大指数集体高开，标普500指数涨0.95%，道指涨0.4%，纳指涨1.54%。大型科技股方面，谷歌A涨4.33%，微软涨2.79%，英伟达涨2.22%，超威半导体涨2.13%，亚马逊涨1.65%，特斯拉涨1.52%，Meta涨1.20%。中概股方面，拼多多涨8.87%，京东涨1.85%，蔚来涨1.26%，网易跌4.58%。",
+          "score": 64.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:30:53",
+      "rank_score": 40.8
+    },
+    {
+      "eid": "1431e4c106",
+      "ekey": "Anthropic|DarioAmodei",
+      "kind": "topic_line",
+      "title": "Anthropic CEO称公司目前“很享受”与SpaceX的合作",
+      "body": "Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）表示，公司目前“很享受”与SpaceX的合作。他称，虽然无法确定未来会如何安排，但目前SpaceX提供的算力质量很高，公司也很享受双方的合作。此前市场曾猜测Anthropic可能缩减对SpaceX算力资源的使用。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [
+        "半导体/AI芯片",
+        "算力/数据中心"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Anthropic CEO称公司目前“很享受”与SpaceX的合作",
+          "src": "东方财富",
+          "time": "2026-11-19 23:49:52",
+          "body": "Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）表示，公司目前“很享受”与SpaceX的合作。他称，虽然无法确定未来会如何安排，但目前SpaceX提供的算力质量很高，公司也很享受双方的合作。此前市场曾猜测Anthropic可能缩减对SpaceX算力资源的使用。",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:49:52",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "317b2fc390",
+      "ekey": "Anthropic#AI芯片",
+      "kind": "topic_line",
+      "title": "Anthropic首席执行官表示：鉴于当前销售额 其算力承诺规模并不算大 很难预测我们需要使用多少算力",
+      "body": "Anthropic首席执行官表示，鉴于当前销售额，其算力承诺规模并不算大；很难预测我们需要使用多少算力。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "算力/数据中心"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 63.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Anthropic首席执行官表示：鉴于当前销售额 其算力承诺规模并不算大 很难预测我们需要使用多少算力",
+          "src": "东方财富",
+          "time": "2026-11-19 23:17:53",
+          "body": "Anthropic首席执行官表示，鉴于当前销售额，其算力承诺规模并不算大；很难预测我们需要使用多少算力。",
+          "score": 63.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:17:53",
+      "rank_score": 40.4
+    },
+    {
+      "eid": "c068f22617",
+      "ekey": "Anthropic|DarioAmodei#大模型",
+      "kind": "topic_line",
+      "title": "Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大",
+      "body": "Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）为公司高达9000亿美元的AI投入承诺进行辩护。他表示，如果考虑公司资产负债表上的现金规模以及目前每年已实现的收入，这些承诺看起来就没有那么庞大。阿莫代伊还表示，公司在预测算力需求时，倾向于采取相对保守的估算方式。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件",
+        "算力/数据中心"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "大模型",
+      "topicLabel": "大模型与 AI 应用",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Anthropic CEO为9000亿美元AI投入承诺辩护：考虑现金储备及收入规模后并不算大",
+          "src": "东方财富",
+          "time": "2026-11-19 23:29:55",
+          "body": "Anthropic首席执行官达里奥·阿莫代伊（DarioAmodei）为公司高达9000亿美元的AI投入承诺进行辩护。他表示，如果考虑公司资产负债表上的现金规模以及目前每年已实现的收入，这些承诺看起来就没有那么庞大。阿莫代伊还表示，公司在预测算力需求时，倾向于采取相对保守的估算方式。",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:29:55",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "adad7cf513",
+      "ekey": "美联储#大模型",
+      "kind": "topic_line",
+      "title": "美联储副主席杰斐逊：人工智能对经济供给端和需求端均构成冲击",
+      "body": "美联储副主席杰斐逊表示，人工智能对经济供给端和需求端均构成冲击。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件"
+      ],
+      "ctypeName": "海外宏观",
+      "tier": "T1.5",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "美联储利率",
+      "topicLabel": "美联储动向",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美联储副主席杰斐逊：人工智能对经济供给端和需求端均构成冲击",
+          "src": "东方财富",
+          "time": "2026-11-19 22:27:18",
+          "body": "美联储副主席杰斐逊表示，人工智能对经济供给端和需求端均构成冲击。",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:27:18",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "af6f05ed52",
+      "ekey": "零跑成首家达成万台下线的中国新势",
+      "kind": "event_line",
+      "title": "零跑成首家达成200万台下线的中国新势力车企",
+      "body": "11月19日，随着一辆黑色旗舰SUV零跑D19驶下零跑金华智能制造基地的总装产线，零跑汽车正式成为首家达成200万台下线的中国新势力（同时也是第5万台D19下线），全面迈向主流车企。（人民财讯）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 63.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "零跑成首家达成200万台下线的中国新势力车企",
+          "src": "同花顺",
+          "time": "2026-11-19 21:28:58",
+          "body": "11月19日，随着一辆黑色旗舰SUV零跑D19驶下零跑金华智能制造基地的总装产线，零跑汽车正式成为首家达成200万台下线的中国新势力（同时也是第5万台D19下线），全面迈向主流车企。（人民财讯）",
+          "score": 63.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 21:28:58",
+      "rank_score": 40.2
+    },
+    {
+      "eid": "179528d0e9",
+      "ekey": "美股光通信",
+      "kind": "topic_line",
+      "title": "美股光通信股开盘普涨",
+      "body": "11月19日，美股光通信股开盘普涨，Lumentum涨3.21%，康宁涨3.45%，Coherent涨6.10%，应用光电涨4.03%，Ciena涨3.93%，博通涨2.47%，迈威尔科技涨3.22%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 62.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股光通信股开盘普涨",
+          "src": "东方财富",
+          "time": "2026-11-19 22:33:44",
+          "body": "11月19日，美股光通信股开盘普涨，Lumentum涨3.21%，康宁涨3.45%，Coherent涨6.10%，应用光电涨4.03%，Ciena涨3.93%，博通涨2.47%，迈威尔科技涨3.22%。",
+          "score": 62.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:33:44",
+      "rank_score": 40.0
+    },
+    {
+      "eid": "ed863511cc",
+      "ekey": "现货黄金日内跌幅扩大至报美元盎司",
+      "kind": "event_line",
+      "title": "现货黄金日内跌幅扩大至1% 报3686.11美元/盎司",
+      "body": "现货黄金日内跌幅扩大至1%，报3686.11美元/盎司。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "黄金/贵金属"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 62.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "现货黄金日内跌幅扩大至1% 报3686.11美元/盎司",
+          "src": "东方财富",
+          "time": "2026-11-19 23:30:59",
+          "body": "现货黄金日内跌幅扩大至1%，报3686.11美元/盎司。",
+          "score": 62.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:30:59",
+      "rank_score": 39.8
+    },
+    {
+      "eid": "233e2ec76c",
+      "ekey": "脑再生科技",
+      "kind": "topic_line",
+      "title": "中概股多数上涨 拼多多涨近13%",
+      "body": "中概股多数上涨，拼多多涨12.7%，富途涨8%，脑再生科技涨5.33%，阿里巴巴涨4.22%，慧荣科技涨4.01%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 61.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "中概股多数上涨 拼多多涨近13%",
+          "src": "东方财富",
+          "time": "2026-11-19 22:51:35",
+          "body": "中概股多数上涨，拼多多涨12.7%，富途涨8%，脑再生科技涨5.33%，阿里巴巴涨4.22%，慧荣科技涨4.01%。",
+          "score": 61.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:51:35",
+      "rank_score": 39.6
+    },
+    {
+      "eid": "18bff5364e",
+      "ekey": "ST香雪法院裁定受理公司重整并指",
+      "kind": "event_line",
+      "title": "*ST香雪：法院裁定受理公司重整并指定管理人，股票被叠加实施退市风险警示",
+      "body": "*ST香雪公告，2026年11月19日公司收到广州中院送达的（2025）粤01破申54号《民事裁定书》，裁定受理债权人广州农商行、高新租赁对公司的重整申请，并指定北京市金杜（广州）律师事务所（主办机构）、广东东方昆仑律师事务所担任公司管理人。因法院裁定受理重整申请，公司股票交易将于2026年11月20日被叠加实施退市风险警示，股票简称仍为“*ST香雪”，证券代码仍为“300147”，日涨跌幅仍为“20%”。公司2025年度经审计后净资产为负值，股票自2026年4月30日开市起已被实施退市风险警示。截至公告日，尚未完成与中选投资人广州广药资本有限公司签订重整投资协议。公司仍存在因重整失败而被宣告破产的风险。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 61.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "*ST香雪：法院裁定受理公司重整并指定管理人，股票被叠加实施退市风险警示",
+          "src": "同花顺",
+          "time": "2026-11-19 20:56:10",
+          "body": "*ST香雪公告，2026年11月19日公司收到广州中院送达的（2025）粤01破申54号《民事裁定书》，裁定受理债权人广州农商行、高新租赁对公司的重整申请，并指定北京市金杜（广州）律师事务所（主办机构）、广东东方昆仑律师事务所担任公司管理人。因法院裁定受理重整申请，公司股票交易将于2026年11月20日被叠加实施退市风险警示，股票简称仍为“*ST香雪”，证券代码仍为“300147”，日涨跌幅仍为“20%”。公司2025年度经审计后净资产为负值，股票自2026年4月30日开市起已被实施退市风险警示。截至公告日，尚未完成与中选投资人广州广药资本有限公司签订重整投资协议。公司仍存在因重整失败而被宣告破产的风险。",
+          "score": 61.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 20:56:10",
+      "rank_score": 39.6
+    },
+    {
+      "eid": "317b2fc390",
+      "ekey": "Anthropic#AI芯片",
+      "kind": "topic_line",
+      "title": "人工智能公司Anthropic高管Rao表示：公司目前75%的算力资源分配给研发活动",
+      "body": "人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件",
+        "算力/数据中心"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 61.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "人工智能公司Anthropic高管Rao表示：公司目前75%的算力资源分配给研发活动",
+          "src": "东方财富",
+          "time": "2026-11-19 23:46:37",
+          "body": "人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
+          "score": 61.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:46:37",
+      "rank_score": 39.4
+    },
+    {
+      "eid": "a1e21377ab",
+      "ekey": "主力资金连续日净流入股",
+      "kind": "event_line",
+      "title": "主力资金连续5日净流入116股",
+      "body": "据数据宝，截至11月19日收盘，深沪北共116只个股连续5日或5日以上主力资金净流入。百亚股份连续46日主力资金净流入，排名第一；史丹利连续11日主力资金净流入，位列第二。从主力资金净流入总规模来看，百亚股份主力资金净流入金额最大，连续46天累计净流入47.54亿元，北方华创紧随其后，7天累计净流入20.98亿元。从主力资金净流入占成交额的比例来看，全筑股份占比排名居首，该股近5日上涨28.57%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 61.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "主力资金连续5日净流入116股",
+          "src": "东方财富",
+          "time": "2026-11-19 22:45:07",
+          "body": "据数据宝，截至11月19日收盘，深沪北共116只个股连续5日或5日以上主力资金净流入。百亚股份连续46日主力资金净流入，排名第一；史丹利连续11日主力资金净流入，位列第二。从主力资金净流入总规模来看，百亚股份主力资金净流入金额最大，连续46天累计净流入47.54亿元，北方华创紧随其后，7天累计净流入20.98亿元。从主力资金净流入占成交额的比例来看，全筑股份占比排名居首，该股近5日上涨28.57%。",
+          "score": 61.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:45:07",
+      "rank_score": 39.4
+    },
+    {
+      "eid": "a50be3588f",
+      "ekey": "满都拉口岸过货量突破万吨创口岸开",
+      "kind": "event_line",
+      "title": "满都拉口岸过货量突破1500万吨 创口岸开放以来历史新高",
+      "body": "记者从达茂联合旗人民政府外事办公室获悉，截至11月18日21时，2026年满都拉口岸累计进出口过货量达1504.8万吨，同比增长79.1%，创口岸开放以来历史新高。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "满都拉口岸过货量突破1500万吨 创口岸开放以来历史新高",
+          "src": "东方财富",
+          "time": "2026-11-19 22:42:01",
+          "body": "记者从达茂联合旗人民政府外事办公室获悉，截至11月18日21时，2026年满都拉口岸累计进出口过货量达1504.8万吨，同比增长79.1%，创口岸开放以来历史新高。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:42:01",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "f405bd3e3e",
+      "ekey": "截至月日当周美国年度大豆出口净销",
+      "kind": "event_line",
+      "title": "截至11月12日当周 美国2026/2027年度大豆出口净销售为150.1万吨",
+      "body": "美国农业部数据显示，截至11月12日当周，美国2026/2027年度大豆出口净销售为150.1万吨，前一周为115.5万吨；美国2026/2027年度玉米出口净销售为158.8万吨，前一周为288.1万吨。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "农业/种业"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T1.5",
+      "score": 60.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "截至11月12日当周 美国2026/2027年度大豆出口净销售为150.1万吨",
+          "src": "东方财富",
+          "time": "2026-11-19 22:41:19",
+          "body": "美国农业部数据显示，截至11月12日当周，美国2026/2027年度大豆出口净销售为150.1万吨，前一周为115.5万吨；美国2026/2027年度玉米出口净销售为158.8万吨，前一周为288.1万吨。",
+          "score": 60.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:41:19",
+      "rank_score": 39.0
+    },
+    {
+      "eid": "4fc9a15c24",
+      "ekey": "SpaceX计划周四进行至少亿美",
+      "kind": "event_line",
+      "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
+      "body": "马斯克旗下SpaceX据悉计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。知情人士称，这笔债务融资由三部分组成，期限约为四年至六年。高盛集团和阿波罗全球管理担任这笔交易的管理人。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片",
+        "AI应用/软件"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "AI芯片",
+      "topicLabel": "AI 芯片与算力",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
+          "src": "东方财富",
+          "time": "2026-11-19 22:53:45",
+          "body": "马斯克旗下SpaceX据悉计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。知情人士称，这笔债务融资由三部分组成，期限约为四年至六年。高盛集团和阿波罗全球管理担任这笔交易的管理人。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:53:45",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "d917deafd4",
+      "ekey": "亚太经合组织互联互通蓝图",
+      "kind": "event_line",
+      "title": "亚太经合组织互联互通蓝图",
+      "body": "我们强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；我们以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进，实现亚太人民和子孙后代的共同繁荣。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "亚太经合组织互联互通蓝图",
+          "src": "东方财富",
+          "time": "2026-11-19 22:51:03",
+          "body": "我们强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；我们以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进，实现亚太人民和子孙后代的共同繁荣。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:51:03",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "717547e485",
+      "ekey": "微软|英伟达",
+      "kind": "topic_line",
+      "title": "纳斯达克综合指数涨幅迅速扩大至2%",
+      "body": "纳斯达克综合指数涨幅迅速扩大至2%，英伟达涨3.5%，谷歌涨超4%，微软涨超2%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "半导体/AI芯片"
+      ],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 59.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "纳斯达克综合指数涨幅迅速扩大至2%",
+          "src": "东方财富",
+          "time": "2026-11-19 22:36:12",
+          "body": "纳斯达克综合指数涨幅迅速扩大至2%，英伟达涨3.5%，谷歌涨超4%，微软涨超2%。",
+          "score": 59.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:36:12",
+      "rank_score": 38.8
+    },
+    {
+      "eid": "f431db65ce",
+      "ekey": "Anthropic",
+      "kind": "topic_line",
+      "title": "Citizens启动对Anthropic的研究覆盖",
+      "body": "Citizens启动对Anthropic的研究覆盖，给予跑赢大盘评级，目标价为125美元。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 59.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Citizens启动对Anthropic的研究覆盖",
+          "src": "东方财富",
+          "time": "2026-11-19 22:09:06",
+          "body": "Citizens启动对Anthropic的研究覆盖，给予跑赢大盘评级，目标价为125美元。",
+          "score": 59.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:09:06",
+      "rank_score": 38.6
+    },
+    {
+      "eid": "a2124561f7",
+      "ekey": "上海的新开发银行|新开发银行",
+      "kind": "topic_line",
+      "title": "新开发银行在华发行熊猫债规模突破1000亿元",
+      "body": "总部位于上海的新开发银行19日晚间宣布，最新在中国银行间债券市场发行规模为80亿元人民币的熊猫债券。至此，新开发银行累计在华发行熊猫债规模突破1000亿元人民币大关，被视为新开发银行和熊猫债市场的重要里程碑。(新华社)",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 59.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "新开发银行在华发行熊猫债规模突破1000亿元",
+          "src": "同花顺",
+          "time": "2026-11-19 22:13:35",
+          "body": "总部位于上海的新开发银行19日晚间宣布，最新在中国银行间债券市场发行规模为80亿元人民币的熊猫债券。至此，新开发银行累计在华发行熊猫债规模突破1000亿元人民币大关，被视为新开发银行和熊猫债市场的重要里程碑。(新华社)",
+          "score": 59.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:13:35",
+      "rank_score": 38.6
+    },
+    {
+      "eid": "359d5f097f",
+      "ekey": "COMEX铝期货跌超现报美元公吨",
+      "kind": "event_line",
+      "title": "COMEX铝期货跌超3% 现报2764.25美元/公吨",
+      "body": "COMEX铝期货跌超3%，现报2764.25美元/公吨。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "COMEX铝期货跌超3% 现报2764.25美元/公吨",
+          "src": "东方财富",
+          "time": "2026-11-20 00:00:32",
+          "body": "COMEX铝期货跌超3%，现报2764.25美元/公吨。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-20 00:00:32",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "2b0f197ca2",
+      "ekey": "央行",
+      "kind": "topic_line",
+      "title": "巴西央行宣布举行美元即期外汇拍卖",
+      "body": "巴西央行宣布举行美元即期外汇拍卖。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1",
+      "score": 58.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "巴西央行宣布举行美元即期外汇拍卖",
+          "src": "东方财富",
+          "time": "2026-11-19 23:07:10",
+          "body": "巴西央行宣布举行美元即期外汇拍卖。",
+          "score": 58.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:07:10",
+      "rank_score": 38.4
+    },
+    {
+      "eid": "0826c7ea65",
+      "ekey": "联想集团",
+      "kind": "topic_line",
+      "title": "杨元庆回应联想股价暴跌：让时间来证明",
+      "body": "11月19日，联想集团交出创历史新高的业绩，但公司股价在二级市场表现承压，盘中一度下跌超12%。对此，联想集团董事长兼CEO杨元庆在业绩会上回应称，“大家主要担心的还是这一轮市场爆发式增长能否持续。因此，我们借业绩发布会阐述观点与应对方案，提振市场信心，把握应该怎么样做。至于具体到我们自己的股票，我觉得要让时间来证明，也许我们说一次、一个季度不管用，那我们就连续不断地说，连续不断地兑现，最终让市场给我们信任。”（蓝鲸新闻）",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "杨元庆回应联想股价暴跌：让时间来证明",
+          "src": "同花顺",
+          "time": "2026-11-19 22:49:12",
+          "body": "11月19日，联想集团交出创历史新高的业绩，但公司股价在二级市场表现承压，盘中一度下跌超12%。对此，联想集团董事长兼CEO杨元庆在业绩会上回应称，“大家主要担心的还是这一轮市场爆发式增长能否持续。因此，我们借业绩发布会阐述观点与应对方案，提振市场信心，把握应该怎么样做。至于具体到我们自己的股票，我觉得要让时间来证明，也许我们说一次、一个季度不管用，那我们就连续不断地说，连续不断地兑现，最终让市场给我们信任。”（蓝鲸新闻）",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:49:12",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "4ef9da91c3",
+      "ekey": "限公司与中国电力",
+      "kind": "topic_line",
+      "title": "双良节能：子公司签订2.27亿元海外空冷系统采购合同",
+      "body": "双良节能公告，公司全资子公司江苏双良冷却系统有限公司与中国电力工程有限公司签订《阿尔及利亚特贝萨联合循环电厂项目直接空冷系统采购合同》，合同金额为人民币2.27亿元，占公司2025年度经审计营业收入比重为3.00%，交货期限为合同签订后24个月。本合同若顺利实施，预计对公司未来资产总额、资产净额和净利润有一定积极影响，并将有效扩大公司直接空冷系统在海外市场的销售。",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "neutral",
+      "sectors": [
+        "电力/公用"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 57.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "双良节能：子公司签订2.27亿元海外空冷系统采购合同",
+          "src": "同花顺",
+          "time": "2026-11-19 20:18:20",
+          "body": "双良节能公告，公司全资子公司江苏双良冷却系统有限公司与中国电力工程有限公司签订《阿尔及利亚特贝萨联合循环电厂项目直接空冷系统采购合同》，合同金额为人民币2.27亿元，占公司2025年度经审计营业收入比重为3.00%，交货期限为合同签订后24个月。本合同若顺利实施，预计对公司未来资产总额、资产净额和净利润有一定积极影响，并将有效扩大公司直接空冷系统在海外市场的销售。",
+          "score": 57.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 20:18:20",
+      "rank_score": 38.0
+    },
+    {
+      "eid": "9007cc6cb1",
+      "ekey": "上海市新加坡全面合作理事会第七次",
+      "kind": "event_line",
+      "title": "上海市—新加坡全面合作理事会第七次会议在沪召开",
+      "body": "据上海发布，上海市—新加坡全面合作理事会第七次会议今天（11月19日）在沪召开，签署一系列合作备忘录。会上举行了两地合作项目签约及相关成果发布仪式。沪新相关部门、机构和企业签署金融合作、科技创新、数字经济、城市治理、人文交流等领域16个项目合作文件。上海市数据局、上海市市场监管局、上海数据集团发布《沪新跨境数字身份认证应用白皮书——基于上海企业登记注册场景》。(人民财讯)",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "券商/大金融"
+      ],
+      "ctypeName": "公司事件",
+      "tier": "T2",
+      "score": 56.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "上海市—新加坡全面合作理事会第七次会议在沪召开",
+          "src": "同花顺",
+          "time": "2026-11-19 22:28:33",
+          "body": "据上海发布，上海市—新加坡全面合作理事会第七次会议今天（11月19日）在沪召开，签署一系列合作备忘录。会上举行了两地合作项目签约及相关成果发布仪式。沪新相关部门、机构和企业签署金融合作、科技创新、数字经济、城市治理、人文交流等领域16个项目合作文件。上海市数据局、上海市市场监管局、上海数据集团发布《沪新跨境数字身份认证应用白皮书——基于上海企业登记注册场景》。(人民财讯)",
+          "score": 56.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:28:33",
+      "rank_score": 37.6
+    },
+    {
+      "eid": "669e201abc",
+      "ekey": "阿里即时零售三季度非餐饮部分线上",
+      "kind": "event_line",
+      "title": "阿里即时零售三季度非餐饮部分线上交易额同比增长40%",
+      "body": "阿里电商事业群CEO蒋凡在今日的业绩会上表示，即时零售依然是阿里电商未来几年增长的核心驱动力，三季度非餐饮部分线上交易额同比增长40%，维持明年亏损缩小一半、并在2029财年实现即时零售盈利的目标。此外，闲鱼在本季度实现了29%的同比增长，并且实现多个季度盈利。（科创板日报）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 56.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "阿里即时零售三季度非餐饮部分线上交易额同比增长40%",
+          "src": "同花顺",
+          "time": "2026-11-19 20:55:18",
+          "body": "阿里电商事业群CEO蒋凡在今日的业绩会上表示，即时零售依然是阿里电商未来几年增长的核心驱动力，三季度非餐饮部分线上交易额同比增长40%，维持明年亏损缩小一半、并在2029财年实现即时零售盈利的目标。此外，闲鱼在本季度实现了29%的同比增长，并且实现多个季度盈利。（科创板日报）",
+          "score": 56.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 20:55:18",
+      "rank_score": 37.4
+    },
+    {
+      "eid": "b87f0947c4",
+      "ekey": "公司控股|动人去世天罡股份",
+      "kind": "topic_line",
+      "title": "天罡股份：控股股东、实际控制人的一致行动人去世",
+      "body": "天罡股份公告，公司控股股东、实际控制人的一致行动人戚其荣近日因病逝世。戚其荣与公司控股股东、实际控制人、董事长、总经理付涛为母子关系，与实际控制人付成林为母子关系，系公司控股股东、实际控制人的一致行动人，未在公司担任董事或高级管理人员职务。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "天罡股份：控股股东、实际控制人的一致行动人去世",
+          "src": "东方财富",
+          "time": "2026-11-19 23:41:42",
+          "body": "天罡股份公告，公司控股股东、实际控制人的一致行动人戚其荣近日因病逝世。戚其荣与公司控股股东、实际控制人、董事长、总经理付涛为母子关系，与实际控制人付成林为母子关系，系公司控股股东、实际控制人的一致行动人，未在公司担任董事或高级管理人员职务。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:41:42",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "a087c94e44",
+      "ekey": "标普指数涨幅收窄",
+      "kind": "event_line",
+      "title": "标普500指数涨幅收窄",
+      "body": "标普500指数涨幅收窄至0.4%，触及盘中低点。截至目前，道琼斯指数跌0.3%，标普500指数涨0.4%，纳斯达克综合指数涨1.02%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": "股指行情",
+      "topicLabel": "全球股指行情",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "标普500指数涨幅收窄",
+          "src": "东方财富",
+          "time": "2026-11-19 23:18:47",
+          "body": "标普500指数涨幅收窄至0.4%，触及盘中低点。截至目前，道琼斯指数跌0.3%，标普500指数涨0.4%，纳斯达克综合指数涨1.02%。",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:18:47",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "1417b55b69",
+      "ekey": "商务部",
+      "kind": "topic_line",
+      "title": "商务部：健康、智能、绿色成“双十一”关键词｜快讯",
+      "body": "来源：@华夏时报微博文/张智今年“双十一”，商务部等七部门推出品质电商“五优”行动，引导大促从低价内卷转向品质优先。11月19日，商务部新闻发言人何亚东在例行发布会上表示...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T1",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "商务部：健康、智能、绿色成“双十一”关键词｜快讯",
+          "src": "新浪财经",
+          "time": "2026-11-19 23:22:49",
+          "body": "来源：@华夏时报微博文/张智今年“双十一”，商务部等七部门推出品质电商“五优”行动，引导大促从低价内卷转向品质优先。11月19日，商务部新闻发言人何亚东在例行发布会上表示...",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:22:49",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "bb33bd1c35",
+      "ekey": "中国滑雪杖全球爆单",
+      "kind": "event_line",
+      "title": "中国滑雪杖全球爆单",
+      "body": "冰雪季临近，冰雪消费持续升温，滑雪杖、踏雪板、防滑鞋套这些“冷装备”迎来出口热。据宁波海关统计，今年1—10月，宁波市出口冰雪类产品5.1亿元，同比增长30.1%。记者走进宁波宁海县的一家旅游用品公司。装配线上，工人们正熟练地对踏雪板、滑雪杖等产品进行组装。组装下线后，它们将发往欧美市场。据了解，为了满足海外市场的需求，今年企业将这些产品进行了升级，轻量化成为主流。得益于产品升级，企业今年前10个月冰雪产品出口明显提速，订单已经排到明年2月。（央视财经）",
+      "dim": "economic",
+      "dimName": "宏观经济/政策",
+      "impact": "bull",
+      "sectors": [
+        "消费/白酒"
+      ],
+      "ctypeName": "经济数据",
+      "tier": "T2",
+      "score": 55.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "中国滑雪杖全球爆单",
+          "src": "同花顺",
+          "time": "2026-11-19 21:28:14",
+          "body": "冰雪季临近，冰雪消费持续升温，滑雪杖、踏雪板、防滑鞋套这些“冷装备”迎来出口热。据宁波海关统计，今年1—10月，宁波市出口冰雪类产品5.1亿元，同比增长30.1%。记者走进宁波宁海县的一家旅游用品公司。装配线上，工人们正熟练地对踏雪板、滑雪杖等产品进行组装。组装下线后，它们将发往欧美市场。据了解，为了满足海外市场的需求，今年企业将这些产品进行了升级，轻量化成为主流。得益于产品升级，企业今年前10个月冰雪产品出口明显提速，订单已经排到明年2月。（央视财经）",
+          "score": 55.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 21:28:14",
+      "rank_score": 37.2
+    },
+    {
+      "eid": "192aed2aa4",
+      "ekey": "国际货币基金",
+      "kind": "topic_line",
+      "title": "国际货币基金组织总裁格奥尔基耶娃：“海纳百川”，共同努力实现共同繁荣与和平",
+      "body": "11月19日上午，亚太经合组织第三十三次领导人非正式会议在深圳举行。国际货币基金组织（IMF）总裁格奥尔基耶娃在会议上发表讲话。格奥尔基耶娃说，习主席，非常感谢您让我们来到这座充满魅力和活力的城市。在平均经济增长率之外，不同经济体之间存在分化。有些能源进口国遭受厄尔尼诺现象和其他打击，它们的困难更多。因此，全球领导人需要在亚太经合组织这样的论坛上见面，讨论并合作。中国有一句谚语，海纳百川。也就是说，大海足够宽广，是因为能够容纳许多江河的水。当我们共同努力时，我们能够实现共同繁荣与和平。（央视新闻）",
+      "dim": "military",
+      "dimName": "军事地缘",
+      "impact": "bull",
+      "sectors": [
+        "石油/能源"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 55.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "同花顺"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "国际货币基金组织总裁格奥尔基耶娃：“海纳百川”，共同努力实现共同繁荣与和平",
+          "src": "同花顺",
+          "time": "2026-11-19 20:05:43",
+          "body": "11月19日上午，亚太经合组织第三十三次领导人非正式会议在深圳举行。国际货币基金组织（IMF）总裁格奥尔基耶娃在会议上发表讲话。格奥尔基耶娃说，习主席，非常感谢您让我们来到这座充满魅力和活力的城市。在平均经济增长率之外，不同经济体之间存在分化。有些能源进口国遭受厄尔尼诺现象和其他打击，它们的困难更多。因此，全球领导人需要在亚太经合组织这样的论坛上见面，讨论并合作。中国有一句谚语，海纳百川。也就是说，大海足够宽广，是因为能够容纳许多江河的水。当我们共同努力时，我们能够实现共同繁荣与和平。（央视新闻）",
+          "score": 55.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 20:05:43",
+      "rank_score": 37.0
+    },
+    {
+      "eid": "48af4341f7",
+      "ekey": "AMD",
+      "kind": "topic_line",
+      "title": "AMD股价跌幅收窄至8% 此前一度跌11%",
+      "body": "AMD股价跌幅收窄至8%，此前一度跌11%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 54.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "AMD股价跌幅收窄至8% 此前一度跌11%",
+          "src": "东方财富",
+          "time": "2026-11-20 00:00:57",
+          "body": "AMD股价跌幅收窄至8%，此前一度跌11%。",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-20 00:00:57",
+      "rank_score": 36.8
+    },
+    {
+      "eid": "86088a562d",
+      "ekey": "谭建国率队赴沪浙开展招商考察活动",
+      "kind": "event_line",
+      "title": "谭建国率队赴沪浙开展招商考察活动",
+      "body": "转自：荆门发布11月18日至19日，市委副书记、市长谭建国率队赴上海、杭州、台州等地开展招商考察活动，围绕包装新材料、长寿食品加工、生物医药等重点产业链考察重点企业...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "医药/生物",
+        "消费/白酒"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 54.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "谭建国率队赴沪浙开展招商考察活动",
+          "src": "新浪财经",
+          "time": "2026-11-19 23:11:39",
+          "body": "转自：荆门发布11月18日至19日，市委副书记、市长谭建国率队赴上海、杭州、台州等地开展招商考察活动，围绕包装新材料、长寿食品加工、生物医药等重点产业链考察重点企业...",
+          "score": 54.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:11:39",
+      "rank_score": 36.8
+    },
+    {
+      "eid": "f431db65ce",
+      "ekey": "Anthropic",
+      "kind": "topic_line",
+      "title": "Anthropic敲响纳斯达克开市钟 创史上最大规模IPO纪录",
+      "body": "当地时间11月19日，Anthropic联合创始人兼首席执行官达里奥·阿莫代伊及联合创始人兼总裁丹妮拉·阿莫代伊在纽约纳斯达克敲响开市钟，标志着公司正式登陆纳斯达克，股票代码为ANT。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "公司事件",
+      "tier": "T1.5",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Anthropic敲响纳斯达克开市钟 创史上最大规模IPO纪录",
+          "src": "东方财富",
+          "time": "2026-11-19 23:40:11",
+          "body": "当地时间11月19日，Anthropic联合创始人兼首席执行官达里奥·阿莫代伊及联合创始人兼总裁丹妮拉·阿莫代伊在纽约纳斯达克敲响开市钟，标志着公司正式登陆纳斯达克，股票代码为ANT。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:40:11",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "9edef009c2",
+      "ekey": "特斯拉",
+      "kind": "topic_line",
+      "title": "马斯克24小时中国行：点赞完深圳后飞往上海",
+      "body": "11月19日晚，特斯拉副总裁陶琳在微博上发文称，短短24小时的中国行，马斯克专门从深圳飞到上海，并称“马斯克说想来上海，感谢亚太以及中国团队。” 陶琳表示，辅助驾驶技术进展一日千里，人形机器人正在快速提升各项技能。在跟同事们面对面的交流中，马斯克分享的很多好消息让大家兴奋不已，并对上海超级工厂的制造实力、中国团队展现出的执行力和制造水准赞赏有加。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "neutral",
+      "sectors": [
+        "AI应用/软件",
+        "汽车/智能驾驶"
+      ],
+      "ctypeName": "技术进展",
+      "tier": "T1.5",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "马斯克24小时中国行：点赞完深圳后飞往上海",
+          "src": "东方财富",
+          "time": "2026-11-19 23:02:14",
+          "body": "11月19日晚，特斯拉副总裁陶琳在微博上发文称，短短24小时的中国行，马斯克专门从深圳飞到上海，并称“马斯克说想来上海，感谢亚太以及中国团队。” 陶琳表示，辅助驾驶技术进展一日千里，人形机器人正在快速提升各项技能。在跟同事们面对面的交流中，马斯克分享的很多好消息让大家兴奋不已，并对上海超级工厂的制造实力、中国团队展现出的执行力和制造水准赞赏有加。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:02:14",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "35da3d25fa",
+      "ekey": "英特尔",
+      "kind": "topic_line",
+      "title": "英特尔涨幅扩大至8%",
+      "body": "英特尔股价走高，涨幅扩大至8%。",
+      "dim": "tech",
+      "dimName": "AI 与科技",
+      "impact": "bull",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "英特尔涨幅扩大至8%",
+          "src": "东方财富",
+          "time": "2026-11-19 22:51:07",
+          "body": "英特尔股价走高，涨幅扩大至8%。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 22:51:07",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "fae633b16d",
+      "ekey": "今年新增专项债发行规模再次突破万",
+      "kind": "event_line",
+      "title": "今年新增专项债发行规模再次突破4万亿",
+      "body": "2026.11.19本文字数：1527，阅读时长大约3分钟作者 | 第一财经 陈益刊为了扩大有效投资、化解地方债务风险，地方政府通过发行新增专项债券筹资的规模继续处于高位。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "政策发布",
+      "tier": "T2",
+      "score": 54.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "今年新增专项债发行规模再次突破4万亿",
+          "src": "新浪财经",
+          "time": "2026-11-19 23:50:04",
+          "body": "2026.11.19本文字数：1527，阅读时长大约3分钟作者 | 第一财经 陈益刊为了扩大有效投资、化解地方债务风险，地方政府通过发行新增专项债券筹资的规模继续处于高位。",
+          "score": 54.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:50:04",
+      "rank_score": 36.6
+    },
+    {
+      "eid": "13d1ec4423",
+      "ekey": "欧洲三大股指集体收跌德国DAX指",
+      "kind": "event_line",
+      "title": "欧洲三大股指集体收跌 德国DAX指数跌近1%",
+      "body": "英国富时100指数收跌0.87%，德国DAX指数下跌0.92%，法国CAC40指数下跌0.76%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "bear",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "欧洲三大股指集体收跌 德国DAX指数跌近1%",
+          "src": "东方财富",
+          "time": "2026-11-20 00:37:17",
+          "body": "英国富时100指数收跌0.87%，德国DAX指数下跌0.92%，法国CAC40指数下跌0.76%。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-20 00:37:17",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "f431db65ce",
+      "ekey": "Anthropic",
+      "kind": "topic_line",
+      "title": "Anthropic首席执行官达里奥·阿莫迪表示：Anthropic“希望”未来能获得投资级信用评",
+      "body": "Anthropic首席执行官达里奥·阿莫迪表示，Anthropic“希望”未来能获得投资级信用评级。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "行业观点",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": false,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "Anthropic首席执行官达里奥·阿莫迪表示：Anthropic“希望”未来能获得投资级信用评",
+          "src": "东方财富",
+          "time": "2026-11-19 23:26:02",
+          "body": "Anthropic首席执行官达里奥·阿莫迪表示，Anthropic“希望”未来能获得投资级信用评级。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:26:02",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "6e44387a6f",
+      "ekey": "美股涨幅收窄",
+      "kind": "event_line",
+      "title": "美股涨幅收窄",
+      "body": "道指跌0.19%，标普500指数涨0.5%，纳斯达克指数涨1.28%。",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [],
+      "ctypeName": "市场动作",
+      "tier": "T1.5",
+      "score": 53.5,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "东方财富"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "美股涨幅收窄",
+          "src": "东方财富",
+          "time": "2026-11-19 23:16:47",
+          "body": "道指跌0.19%，标普500指数涨0.5%，纳斯达克指数涨1.28%。",
+          "score": 53.5
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:16:47",
+      "rank_score": 36.4
+    },
+    {
+      "eid": "46c4154330",
+      "ekey": "国投集团",
+      "kind": "topic_line",
+      "title": "专访罗甸县农业农村局副局长李春明：国投集团产业帮扶激活乡村发展动能",
+      "body": "中经记者 夏治斌 黔南罗甸报道累计购买和帮助销售农产品金额达4277.18万元，帮助引进16个帮扶项目或企业，到位投资额5.66亿元……近年来...",
+      "dim": "risk",
+      "dimName": "市场资金面",
+      "impact": "neutral",
+      "sectors": [
+        "农业/种业"
+      ],
+      "ctypeName": "行业观点",
+      "tier": "T2",
+      "score": 53.0,
+      "heat": 1.0,
+      "source_count": 1,
+      "sources": [
+        "新浪财经"
+      ],
+      "isNew": true,
+      "isRising": false,
+      "heat_delta": 0.0,
+      "fresh6h": true,
+      "risingHeat": true,
+      "topic": null,
+      "topicLabel": "",
+      "merged": false,
+      "member_count": 1,
+      "members": [
+        {
+          "title": "专访罗甸县农业农村局副局长李春明：国投集团产业帮扶激活乡村发展动能",
+          "src": "新浪财经",
+          "time": "2026-11-19 23:40:25",
+          "body": "中经记者 夏治斌 黔南罗甸报道累计购买和帮助销售农产品金额达4277.18万元，帮助引进16个帮扶项目或企业，到位投资额5.66亿元……近年来...",
+          "score": 53.0
+        }
+      ],
+      "merge_reasons": [],
+      "related": [],
+      "time": "2026-11-19 23:40:25",
+      "rank_score": 36.2
+    }
+  ],
+  "topics": [
+    {
+      "topic": "AI芯片",
+      "label": "AI 芯片与算力",
+      "count": 6,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 7.0,
+      "eids": [
+        "598084e92a",
+        "ce5820cdd5",
+        "317b2fc390",
+        "317b2fc390",
+        "317b2fc390",
+        "4fc9a15c24"
+      ],
+      "lead": "费城半导体指数涨幅扩大至4%：Coherent涨超10% 英特尔、美光涨逾5%",
+      "events": [
+        {
+          "eid": "598084e92a",
+          "ekey": "美光|英特尔#AI芯片",
+          "kind": "topic_line",
+          "title": "费城半导体指数涨幅扩大至4%：Coherent涨超10% 英特尔、美光涨逾5%",
+          "body": "费城半导体指数涨幅扩大至4%，报10044.94点。成分股中，Coherent涨10.08%，AsteraLabs涨6.80%，英特尔涨6.42%，美光科技涨5.57%，Credo涨5.55%，SiTime涨5.40%，泰瑞达涨5.23%，MACOM涨4.94%，迈威尔科技涨4.67%，高通涨4.59%，Tower半导体涨4.60%，闪迪涨4.41%，泛林集团涨4.18%，应用材料涨3.97%，科磊涨3.98%，英伟达涨3.83%，博通涨3.43%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 74.5,
+          "heat": 2.0,
+          "source_count": 2,
+          "sources": [
+            "东方财富",
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": true,
+          "member_count": 2,
+          "members": [
+            {
+              "title": "费城半导体指数涨幅扩大至4%：Coherent涨超10% 英特尔、美光涨逾5%",
+              "src": "东方财富",
+              "time": "2026-11-19 22:37:13",
+              "body": "费城半导体指数涨幅扩大至4%，报10044.94点。成分股中，Coherent涨10.08%，AsteraLabs涨6.80%，英特尔涨6.42%，美光科技涨5.57%，Credo涨5.55%，SiTime涨5.40%，泰瑞达涨5.23%，MACOM涨4.94%，迈威尔科技涨4.67%，高通涨4.59%，Tower半导体涨4.60%，闪迪涨4.41%，泛林集团涨4.18%，应用材料涨3.97%，科磊涨3.98%，英伟达涨3.83%，博通涨3.43%。",
+              "score": 74.5
+            },
+            {
+              "title": "费城半导体指数涨幅扩大至4%，报10044.94点",
+              "src": "同花顺",
+              "time": "2026-11-19 22:37:42",
+              "body": "费城半导体指数涨幅扩大至4%，报10044.94点。",
+              "score": 59.5
+            }
+          ],
+          "merge_reasons": [
+            "共享实体 费城半导体 + 同主题 AI芯片，相似度 0.34"
+          ],
+          "related": [],
+          "time": "2026-11-19 22:37:13",
+          "rank_score": 65.8
+        },
+        {
+          "eid": "ce5820cdd5",
+          "ekey": "现已转跌费城半导体|费城半导体#AI芯片",
+          "kind": "topic_line",
+          "title": "费城半导体指数回吐此前一度高达近5%的涨幅 现已转跌",
+          "body": "费城半导体指数回吐此前一度高达近5%的涨幅，现已转跌。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 70.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "费城半导体指数回吐此前一度高达近5%的涨幅 现已转跌",
+              "src": "东方财富",
+              "time": "2026-11-19 23:40:31",
+              "body": "费城半导体指数回吐此前一度高达近5%的涨幅，现已转跌。",
+              "score": 70.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-19 23:40:31",
+          "rank_score": 43.0
+        },
+        {
+          "eid": "317b2fc390",
+          "ekey": "Anthropic#AI芯片",
+          "kind": "topic_line",
+          "title": "Anthropic IPO提振市场情绪 美股纳指高开1.6% 存储、光通信等板块上扬",
+          "body": "美股三大指数开盘集体上涨，道琼斯指数涨0.44%，标普500指数涨0.98%，纳斯达克综合指数涨1.58%。AnthropicIPO提振市场情绪，AI产业链走高，存储板块方面，海力士、闪迪、美光科技涨超4%；光通信公司方面，Coherent涨超6%，Lumentum涨超3%；新型云服务公司方面，NEBIUS、CoreWeave涨超4%。美股“科技七巨头”集体上涨，苹果股价上涨0.32%，微软股价上涨2.55%，英伟达股价上涨1.98%，谷歌-A股价上涨4.21%，亚马逊股价上涨1.61%，Meta股价上涨1.1%，特斯拉股价上涨1.26%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "bull",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件",
+            "汽车/智能驾驶"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 67.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "Anthropic IPO提振市场情绪 美股纳指高开1.6% 存储、光通信等板块上扬",
+              "src": "东方财富",
+              "time": "2026-11-19 22:30:49",
+              "body": "美股三大指数开盘集体上涨，道琼斯指数涨0.44%，标普500指数涨0.98%，纳斯达克综合指数涨1.58%。AnthropicIPO提振市场情绪，AI产业链走高，存储板块方面，海力士、闪迪、美光科技涨超4%；光通信公司方面，Coherent涨超6%，Lumentum涨超3%；新型云服务公司方面，NEBIUS、CoreWeave涨超4%。美股“科技七巨头”集体上涨，苹果股价上涨0.32%，微软股价上涨2.55%，英伟达股价上涨1.98%，谷歌-A股价上涨4.21%，亚马逊股价上涨1.61%，Meta股价上涨1.1%，特斯拉股价上涨1.26%。",
+              "score": 67.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-19 22:30:49",
+          "rank_score": 42.0
+        },
+        {
+          "eid": "317b2fc390",
+          "ekey": "Anthropic#AI芯片",
+          "kind": "topic_line",
+          "title": "Anthropic首席执行官表示：鉴于当前销售额 其算力承诺规模并不算大 很难预测我们需要使用多少算力",
+          "body": "Anthropic首席执行官表示，鉴于当前销售额，其算力承诺规模并不算大；很难预测我们需要使用多少算力。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片",
+            "算力/数据中心"
+          ],
+          "ctypeName": "行业观点",
+          "tier": "T1.5",
+          "score": 63.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "Anthropic首席执行官表示：鉴于当前销售额 其算力承诺规模并不算大 很难预测我们需要使用多少算力",
+              "src": "东方财富",
+              "time": "2026-11-19 23:17:53",
+              "body": "Anthropic首席执行官表示，鉴于当前销售额，其算力承诺规模并不算大；很难预测我们需要使用多少算力。",
+              "score": 63.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-19 23:17:53",
+          "rank_score": 40.4
+        },
+        {
+          "eid": "317b2fc390",
+          "ekey": "Anthropic#AI芯片",
+          "kind": "topic_line",
+          "title": "人工智能公司Anthropic高管Rao表示：公司目前75%的算力资源分配给研发活动",
+          "body": "人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件",
+            "算力/数据中心"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 61.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "人工智能公司Anthropic高管Rao表示：公司目前75%的算力资源分配给研发活动",
+              "src": "东方财富",
+              "time": "2026-11-19 23:46:37",
+              "body": "人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
+              "score": 61.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-19 23:46:37",
+          "rank_score": 39.4
+        },
+        {
+          "eid": "4fc9a15c24",
+          "ekey": "SpaceX计划周四进行至少亿美",
+          "kind": "event_line",
+          "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
+          "body": "马斯克旗下SpaceX据悉计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。知情人士称，这笔债务融资由三部分组成，期限约为四年至六年。高盛集团和阿波罗全球管理担任这笔交易的管理人。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片",
+            "AI应用/软件"
+          ],
+          "ctypeName": "技术进展",
+          "tier": "T1.5",
+          "score": 59.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "AI芯片",
+          "topicLabel": "AI 芯片与算力",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
+              "src": "东方财富",
+              "time": "2026-11-19 22:53:45",
+              "body": "马斯克旗下SpaceX据悉计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。知情人士称，这笔债务融资由三部分组成，期限约为四年至六年。高盛集团和阿波罗全球管理担任这笔交易的管理人。",
+              "score": 59.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-19 22:53:45",
+          "rank_score": 38.8
+        }
+      ]
+    },
+    {
+      "topic": "股指行情",
+      "label": "全球股指行情",
+      "count": 3,
+      "sources": [
+        "东方财富",
+        "同花顺"
+      ],
+      "heat": 3.0,
+      "eids": [
+        "40a2b49d8b",
+        "602135fc1d",
+        "a087c94e44"
+      ],
+      "lead": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
+      "events": [
+        {
+          "eid": "40a2b49d8b",
+          "ekey": "Anthropic#股指行情",
+          "kind": "topic_line",
+          "title": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
+          "body": "纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "AI应用/软件"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 65.0,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "纳指转跌 迅速回吐此前2%的涨幅 市场静待Anthropic上市",
+              "src": "东方财富",
+              "time": "2026-11-19 23:37:39",
+              "body": "纳斯达克指数由涨转跌，迅速回吐此前约2%的涨幅。市场正密切关注人工智能公司Anthropic即将开启的上市交易。",
+              "score": 65.0
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-19 23:37:39",
+          "rank_score": 41.0
+        },
+        {
+          "eid": "602135fc1d",
+          "ekey": "美股开盘美股三大指数集体高开",
+          "kind": "event_line",
+          "title": "美股开盘：美股三大指数集体高开",
+          "body": "美股三大指数集体高开，标普500指数涨0.95%，道指涨0.4%，纳指涨1.54%。大型科技股方面，谷歌A涨4.33%，微软涨2.79%，英伟达涨2.22%，超威半导体涨2.13%，亚马逊涨1.65%，特斯拉涨1.52%，Meta涨1.20%。中概股方面，拼多多涨8.87%，京东涨1.85%，蔚来涨1.26%，网易跌4.58%。",
+          "dim": "tech",
+          "dimName": "AI 与科技",
+          "impact": "neutral",
+          "sectors": [
+            "半导体/AI芯片",
+            "汽车/智能驾驶"
+          ],
+          "ctypeName": "市场动作",
+          "tier": "T2",
+          "score": 64.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "同花顺"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "美股开盘：美股三大指数集体高开",
+              "src": "同花顺",
+              "time": "2026-11-19 22:30:53",
+              "body": "美股三大指数集体高开，标普500指数涨0.95%，道指涨0.4%，纳指涨1.54%。大型科技股方面，谷歌A涨4.33%，微软涨2.79%，英伟达涨2.22%，超威半导体涨2.13%，亚马逊涨1.65%，特斯拉涨1.52%，Meta涨1.20%。中概股方面，拼多多涨8.87%，京东涨1.85%，蔚来涨1.26%，网易跌4.58%。",
+              "score": 64.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-19 22:30:53",
+          "rank_score": 40.8
+        },
+        {
+          "eid": "a087c94e44",
+          "ekey": "标普指数涨幅收窄",
+          "kind": "event_line",
+          "title": "标普500指数涨幅收窄",
+          "body": "标普500指数涨幅收窄至0.4%，触及盘中低点。截至目前，道琼斯指数跌0.3%，标普500指数涨0.4%，纳斯达克综合指数涨1.02%。",
+          "dim": "risk",
+          "dimName": "市场资金面",
+          "impact": "neutral",
+          "sectors": [],
+          "ctypeName": "市场动作",
+          "tier": "T1.5",
+          "score": 55.5,
+          "heat": 1.0,
+          "source_count": 1,
+          "sources": [
+            "东方财富"
+          ],
+          "isNew": true,
+          "isRising": false,
+          "heat_delta": 0.0,
+          "fresh6h": true,
+          "risingHeat": true,
+          "topic": "股指行情",
+          "topicLabel": "全球股指行情",
+          "merged": false,
+          "member_count": 1,
+          "members": [
+            {
+              "title": "标普500指数涨幅收窄",
+              "src": "东方财富",
+              "time": "2026-11-19 23:18:47",
+              "body": "标普500指数涨幅收窄至0.4%，触及盘中低点。截至目前，道琼斯指数跌0.3%，标普500指数涨0.4%，纳斯达克综合指数涨1.02%。",
+              "score": 55.5
+            }
+          ],
+          "merge_reasons": [],
+          "related": [],
+          "time": "2026-11-19 23:18:47",
+          "rank_score": 37.2
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "input_articles": 60,
+    "events": 57,
+    "merged_away": 3,
+    "redundancy": 1.05,
+    "multi_source_events": 3,
+    "roundup_articles": 1,
+    "story_links": 0,
+    "method": "rule_based",
+    "topic_blocks": 2,
+    "compared_with": "2026-11-19 08:00:15",
+    "new_events": 52,
+    "rising_events": 0
+  },
+  "provenance": {
+    "method": "rule_based_clustering",
+    "status": "derived",
+    "detail": "事件合并与主题归组由标题相似度 + 实体重叠规则判定，非 LLM 语义判断；热度按独立来源数计算（48h 内每源一次，24h 减半）"
+  }
+}

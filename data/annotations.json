@@ -1,16 +1,26 @@
 {
-  "krisgfx9/Wireless-Device-Battery-Monitor": {
-    "name": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
-    "tag": "其他",
-    "auto": true
-  },
   "erkamyaman/rust-anything": {
     "name": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
     "tag": "AI Agent",
     "auto": true
   },
+  "krisgfx9/Wireless-Device-Battery-Monitor": {
+    "name": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+    "tag": "其他",
+    "auto": true
+  },
+  "gylive/google-ultra": {
+    "name": "（官方未提供简介）",
+    "tag": "其他",
+    "auto": true
+  },
   "deepseek-ai/chat-demo": {
     "name": "Chat Demo",
+    "tag": "其他",
+    "auto": true
+  },
+  "Hut-hzf/ung220z-tool": {
+    "name": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
     "tag": "其他",
     "auto": true
   },
@@ -24,6 +34,11 @@
     "tag": "模型/推理",
     "auto": true
   },
+  "Immortal-Protocols/lastbook": {
+    "name": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "tag": "开发工具",
+    "auto": true
+  },
   "apex-compute/ANR": {
     "name": "Apex Neural Rendering (ANR) by Apex Compute",
     "tag": "其他",
@@ -34,13 +49,8 @@
     "tag": "其他",
     "auto": true
   },
-  "Immortal-Protocols/lastbook": {
-    "name": "Offline knowledge AI, maps and videos for survival and rebuilding",
-    "tag": "开发工具",
-    "auto": true
-  },
-  "Hut-hzf/ung220z-tool": {
-    "name": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+  "CzzzzzzJ/mdldm-maitian": {
+    "name": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
     "tag": "其他",
     "auto": true
   },
@@ -49,34 +59,14 @@
     "tag": "开发工具",
     "auto": true
   },
-  "Kianuni/Erosion-CN": {
-    "name": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
-    "tag": "其他",
-    "auto": true
-  },
-  "FrigadeHQ/yogurt": {
-    "name": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-    "tag": "其他",
-    "auto": true
-  },
   "joshpuckett/allo": {
     "name": "Allo is your friendly neighborhood typeface, free and open source",
-    "tag": "其他",
-    "auto": true
-  },
-  "CzzzzzzJ/mdldm-maitian": {
-    "name": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
     "tag": "其他",
     "auto": true
   },
   "ZiChuanLan/freebie-radar": {
     "name": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
     "tag": "其他",
-    "auto": true
-  },
-  "boringmarketer/boring-marketing-skills": {
-    "name": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-    "tag": "AI Agent",
     "auto": true
   },
   "haziqahmedqasmi/PeakCut": {
@@ -89,13 +79,23 @@
     "tag": "其他",
     "auto": true
   },
-  "Illson/RustText": {
-    "name": "（官方未提供简介）",
+  "boringmarketer/boring-marketing-skills": {
+    "name": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "siliconjungle/shapeshift-labs-ink-studio": {
+    "name": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+    "tag": "创意/AI生成",
+    "auto": true
+  },
+  "zephyr4123/snug": {
+    "name": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.",
     "tag": "其他",
     "auto": true
   },
-  "HybridRobotics/supermimic": {
-    "name": "Humanoid whole-body motion tracking with one differentiable world model.",
+  "n4ze3m/tiny-voca": {
+    "name": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
     "tag": "模型/推理",
     "auto": true
   },
@@ -113,14 +113,14 @@
     "name": "可自托管的 AI 工作台",
     "tag": "自托管"
   },
-  "storytold/photocraft": {
-    "name": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
-    "tag": "开发工具",
-    "auto": true
-  },
   "Ebony-Vinyl/dsh-our-free-model": {
     "name": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
     "tag": "AI Agent",
+    "auto": true
+  },
+  "storytold/photocraft": {
+    "name": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+    "tag": "开发工具",
     "auto": true
   },
   "eternity4719/HowToLiveBetter": {
@@ -222,24 +222,25 @@
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
   },
-  "awesome-selfhosted/awesome-selfhosted": {
-    "name": "可自托管的开源网络服务清单",
-    "tag": "资源合集"
-  },
-  "vinta/awesome-python": {
-    "name": "Python 工具大全：想做 X，该用哪个库",
-    "tag": "资源合集"
-  },
   "mattpocock/skills": {
     "name": "一线工程师的真实 Agent 技能库",
     "tag": "Agent Skill"
   },
-  "affaan-m/ECC": {
-    "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
-    "tag": "AI Agent"
-  },
   "NousResearch/hermes-agent": {
     "name": "随你一起成长的 Agent",
     "tag": "AI Agent"
+  },
+  "torvalds/linux": {
+    "name": "Linux 内核源码",
+    "tag": "操作系统"
+  },
+  "react/react": {
+    "name": "React 前端框架源码",
+    "tag": "前端框架"
+  },
+  "anomalyco/opencode": {
+    "name": "The open source coding agent.",
+    "tag": "AI Agent",
+    "auto": true
   }
 }
