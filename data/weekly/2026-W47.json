@@ -4,403 +4,433 @@
     "2026-11-19",
     "2026-11-13"
   ],
-  "generated_at": "2026-11-19 00:42",
+  "generated_at": "2026-11-19 08:00",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "lang": "TypeScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "活跃榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 455228,
-      "stars_last": 467812,
-      "stars_growth": 12584,
+      "stars_last": 468244,
+      "stars_growth": 13016,
       "trend": "flat"
     },
     {
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
       "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "lang": "JavaScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 71301,
-      "stars_last": 79648,
-      "stars_growth": 8347,
+      "stars_last": 79786,
+      "stars_growth": 8485,
       "trend": "flat"
     },
     {
       "full_name": "storytold/craft-anything",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
       "lang": "Rust",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 29803,
-      "stars_last": 36677,
-      "stars_growth": 6874,
+      "stars_last": 37003,
+      "stars_growth": 7200,
       "trend": "flat"
     },
     {
       "full_name": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "lang": "JavaScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 189778,
-      "stars_last": 193844,
-      "stars_growth": 4066,
+      "stars_last": 194012,
+      "stars_growth": 4234,
       "trend": "flat"
     },
     {
       "full_name": "cloudflare/security-audit-skill",
       "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "lang": "JavaScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 71197,
-      "stars_last": 75222,
-      "stars_growth": 4025,
+      "stars_last": 75366,
+      "stars_growth": 4169,
       "trend": "flat"
     },
     {
       "full_name": "deepseek-ai/deepseek-harness",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
       "lang": "TypeScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 279772,
-      "stars_last": 283543,
-      "stars_growth": 3771,
+      "stars_last": 283607,
+      "stars_growth": 3835,
       "trend": "flat"
     },
     {
       "full_name": "yetone/magpie",
       "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "lang": "Go",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 35400,
-      "stars_last": 38574,
-      "stars_growth": 3174,
-      "trend": "flat"
-    },
-    {
-      "full_name": "Gathin23/cleanyourtv",
-      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-      "lang": "Python",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-13",
-      "last_date": "2026-11-19",
-      "stars_first": 57010,
-      "stars_last": 59248,
-      "stars_growth": 2238,
-      "trend": "flat"
-    },
-    {
-      "full_name": "Niko1221/Strata",
-      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-      "lang": "C++",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-13",
-      "last_date": "2026-11-19",
-      "stars_first": 43544,
-      "stars_last": 45561,
-      "stars_growth": 2017,
+      "stars_last": 38602,
+      "stars_growth": 3202,
       "trend": "flat"
     },
     {
       "full_name": "boykopovar/AnyPS5",
       "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
       "lang": "C++",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 53500,
-      "stars_last": 55489,
-      "stars_growth": 1989,
+      "stars_last": 55971,
+      "stars_growth": 2471,
       "trend": "flat"
     },
     {
-      "full_name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
+      "full_name": "Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "lang": "Python",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
-        "活跃榜"
+        "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
-      "stars_first": 262966,
-      "stars_last": 264446,
-      "stars_growth": 1480,
+      "stars_first": 57010,
+      "stars_last": 59325,
+      "stars_growth": 2315,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "lang": "C++",
+      "days_on_board": 6,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-13",
+      "last_date": "2026-11-19",
+      "stars_first": 43544,
+      "stars_last": 45637,
+      "stars_growth": 2093,
       "trend": "flat"
     },
     {
       "full_name": "JustVugg/colibri",
       "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "lang": "C",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 50441,
-      "stars_last": 51882,
-      "stars_growth": 1441,
+      "stars_last": 51970,
+      "stars_growth": 1529,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-13",
+      "last_date": "2026-11-19",
+      "stars_first": 262966,
+      "stars_last": 264490,
+      "stars_growth": 1524,
       "trend": "flat"
     },
     {
       "full_name": "storytold/photocraft",
       "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
       "lang": "Rust",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 78984,
-      "stars_last": 80250,
-      "stars_growth": 1266,
+      "stars_last": 80300,
+      "stars_growth": 1316,
       "trend": "flat"
     },
     {
       "full_name": "bilawalsidhu/gods-eye-view",
       "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "lang": "JavaScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 64525,
-      "stars_last": 65735,
-      "stars_growth": 1210,
+      "stars_last": 65789,
+      "stars_growth": 1264,
       "trend": "flat"
     },
     {
       "full_name": "eternity4719/HowToLiveBetter",
       "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "lang": "HTML",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 75335,
-      "stars_last": 76470,
-      "stars_growth": 1135,
+      "stars_last": 76494,
+      "stars_growth": 1159,
       "trend": "flat"
     },
     {
       "full_name": "hypit-ai/hypit",
       "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "lang": "TypeScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 29546,
-      "stars_last": 30575,
-      "stars_growth": 1029,
+      "stars_last": 30607,
+      "stars_growth": 1061,
       "trend": "flat"
-    },
-    {
-      "full_name": "Kianuni/Erosion-CN",
-      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-      "lang": "Swift",
-      "days_on_board": 7,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-13",
-      "last_date": "2026-11-19",
-      "stars_first": 1721,
-      "stars_last": 2452,
-      "stars_growth": 731,
-      "trend": "down"
     },
     {
       "full_name": "vorssaint/vorssaint-utils",
       "desc": "Free and open-source macOS menu bar toolkit.",
       "lang": "Swift",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 34488,
-      "stars_last": 35191,
-      "stars_growth": 703,
+      "stars_last": 35228,
+      "stars_growth": 740,
       "trend": "flat"
+    },
+    {
+      "full_name": "Kianuni/Erosion-CN",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "lang": "Swift",
+      "days_on_board": 6,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-13",
+      "last_date": "2026-11-19",
+      "stars_first": 1721,
+      "stars_last": 2455,
+      "stars_growth": 734,
+      "trend": "down"
     },
     {
       "full_name": "HybridRobotics/supermimic",
       "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
       "lang": "Python",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "火箭榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 1303,
-      "stars_last": 1800,
-      "stars_growth": 497,
+      "stars_last": 1809,
+      "stars_growth": 506,
       "trend": "down"
     },
     {
       "full_name": "anywhere-labs/dsh-desktop",
       "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "lang": "TypeScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 35861,
-      "stars_last": 36348,
-      "stars_growth": 487,
+      "stars_last": 36349,
+      "stars_growth": 488,
       "trend": "flat"
     },
     {
       "full_name": "nilbuild/developer-roadmap",
       "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "lang": "TypeScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "活跃榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 371910,
-      "stars_last": 372304,
-      "stars_growth": 394,
+      "stars_last": 372318,
+      "stars_growth": 408,
       "trend": "flat"
     },
     {
       "full_name": "openclaw/openclaw",
       "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "lang": "TypeScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "活跃榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 394410,
-      "stars_last": 394740,
-      "stars_growth": 330,
+      "stars_last": 394759,
+      "stars_growth": 349,
       "trend": "flat"
     },
     {
       "full_name": "freeCodeCamp/freeCodeCamp",
       "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "lang": "TypeScript",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "活跃榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 459054,
-      "stars_last": 459293,
-      "stars_growth": 239,
+      "stars_last": 459300,
+      "stars_growth": 246,
       "trend": "flat"
     },
     {
       "full_name": "NandhaKishorM/laya",
       "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "lang": "Python",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 35464,
-      "stars_last": 35665,
-      "stars_growth": 201,
+      "stars_last": 35669,
+      "stars_growth": 205,
       "trend": "flat"
     },
     {
       "full_name": "odysseus-dev/odysseus",
       "desc": "Self-hosted AI workspace.",
       "lang": "Python",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 95635,
-      "stars_last": 95804,
-      "stars_growth": 169,
+      "stars_last": 95810,
+      "stars_growth": 175,
       "trend": "flat"
     },
     {
       "full_name": "baidu/Unlimited-OCR",
       "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "lang": "Python",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
       "first_date": "2026-11-13",
       "last_date": "2026-11-19",
       "stars_first": 31154,
-      "stars_last": 31312,
-      "stars_growth": 158,
+      "stars_last": 31315,
+      "stars_growth": 161,
       "trend": "flat"
+    },
+    {
+      "full_name": "public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "lang": "Python",
+      "days_on_board": 5,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-13",
+      "last_date": "2026-11-19",
+      "stars_first": 498530,
+      "stars_last": 500069,
+      "stars_growth": 1539,
+      "trend": "flat"
+    },
+    {
+      "full_name": "apex-compute/ANR",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "lang": "C++",
+      "days_on_board": 5,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-14",
+      "last_date": "2026-11-19",
+      "stars_first": 1467,
+      "stars_last": 2658,
+      "stars_growth": 1191,
+      "trend": "down"
     },
     {
       "full_name": "huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "days_on_board": 6,
+      "days_on_board": 5,
       "boards": [
         "火箭榜"
       ],
@@ -412,131 +442,25 @@
       "trend": "flat"
     },
     {
-      "full_name": "apex-compute/ANR",
-      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
-      "lang": "C++",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-19",
-      "stars_first": 1467,
-      "stars_last": 2636,
-      "stars_growth": 1169,
-      "trend": "down"
-    },
-    {
       "full_name": "vinta/awesome-python",
       "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
       "lang": "Python",
-      "days_on_board": 6,
+      "days_on_board": 5,
       "boards": [
         "活跃榜"
       ],
       "first_date": "2026-11-14",
       "last_date": "2026-11-19",
       "stars_first": 334566,
-      "stars_last": 335649,
-      "stars_growth": 1083,
+      "stars_last": 335700,
+      "stars_growth": 1134,
       "trend": "flat"
-    },
-    {
-      "full_name": "FrigadeHQ/yogurt",
-      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-      "lang": "TypeScript",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-19",
-      "stars_first": 1258,
-      "stars_last": 2267,
-      "stars_growth": 1009,
-      "trend": "down"
     }
   ],
   "news_mainlines": [
     {
-      "topicLabel": "综合",
-      "title": "瑞银下调英伟达目标价",
-      "days": 5,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-14",
-          "title": "英伟达势创18个月来最差单周表现，市值蒸发逾6200亿美元",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-15",
-          "title": "黄仁勋被撤换 英伟达创14年来最长连跌纪录 超5万人请愿黄仁勋复职",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-17",
-          "title": "A股算力产业链再回应“英伟达事件影响”：采购走合规渠道 不依赖特定人员",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-18",
-          "title": "英伟达临时CEO克雷斯称 预计第四季度将是毛利率的低点",
-          "heat": 2.0,
-          "sources": 2
-        },
-        {
-          "date": "2026-11-19",
-          "title": "英伟达RTX Spark迷你AI工作站上市 最高支持本地运行1200亿参数大模型",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "影石创新：科技创新公司债券发行获证监会注册批复，面值总额不超20亿元",
-      "days": 5,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-13",
-          "title": "衍生品新规施行在即，券商跨境业务加速合规重塑",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-15",
-          "title": "吴清在上海最新发声 关系到2亿多股票投资者",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-16",
-          "title": "证监会：进一步深化市场稳定长效机制研究 有效防范市场异常波动",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-17",
-          "title": "中国证监会在沪召开国际顾问委员会第23次会议",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-18",
-          "title": "影石创新：科技创新公司债券发行获证监会注册批复，面值总额不超20亿元",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
       "topicLabel": "宏观经济/政策",
-      "title": "美联储理事沃勒：若不释放1月加息的信号 应在12月加息50个基点",
+      "title": "美联储会议纪要：一些官员称12月加息超过25个基点或是合理的",
       "days": 5,
       "kind": "topic_line",
       "points": [
@@ -566,7 +490,7 @@
         },
         {
           "date": "2026-11-19",
-          "title": "美联储理事沃勒：若不释放1月加息的信号 应在12月加息50个基点",
+          "title": "美联储12月加息25个基点的概率为92.7%",
           "heat": 1.0,
           "sources": 1
         }
@@ -574,8 +498,8 @@
     },
     {
       "topicLabel": "综合",
-      "title": "A股限售股解禁一览：92.51亿元市值限售股今日解禁",
-      "days": 4,
+      "title": "A股限售股解禁一览：20.3亿元市值限售股今日解禁",
+      "days": 5,
       "kind": "event_line",
       "points": [
         {
@@ -601,12 +525,102 @@
           "title": "A股限售股解禁一览：92.51亿元市值限售股今日解禁",
           "heat": 1.0,
           "sources": 1
+        },
+        {
+          "date": "2026-11-19",
+          "title": "A股限售股解禁一览：20.3亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
         }
       ]
     },
     {
       "topicLabel": "综合",
-      "title": "微软股价下跌3.3% 总市值报3.72万亿美元",
+      "title": "美媒披露英伟达员工大会细节：创始人哽咽发言，董事会明确拒绝黄仁勋回归",
+      "days": 4,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-14",
+          "title": "英伟达势创18个月来最差单周表现，市值蒸发逾6200亿美元",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-17",
+          "title": "英伟达推出DGX Spark高性能计算开发者套件",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-18",
+          "title": "英伟达临时CEO克雷斯称 预计第四季度将是毛利率的低点",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-19",
+          "title": "英伟达单季营收突破千亿美元 国产芯片及晶圆代工需求更加确定",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "中国证监会召开国际顾问委员会会议 聚焦增强资本市场韧性等议题",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-13",
+          "title": "衍生品新规施行在即，券商跨境业务加速合规重塑",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-16",
+          "title": "证监会：进一步深化市场稳定长效机制研究 有效防范市场异常波动",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-17",
+          "title": "中国证监会召开国际顾问委员会会议 聚焦增强资本市场韧性等议题",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "马斯克：特斯拉将生产没有方向盘的自动驾驶Model Y",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-13",
+          "title": "消息称SpaceX与特斯拉创纪录合并谈判取得进展",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-17",
+          "title": "特斯拉拟投30亿欧元扩建德国工厂 瞄准年产百万辆Cybercab",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-19",
+          "title": "马斯克：特斯拉将生产没有方向盘的自动驾驶Model Y",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "潘兴广场CEO阿克曼表示 仍看好微软 认为其股价被低估",
       "days": 3,
       "kind": "topic_line",
       "points": [
@@ -623,8 +637,8 @@
           "sources": 1
         },
         {
-          "date": "2026-11-18",
-          "title": "微软股价下跌3.3% 总市值报3.72万亿美元",
+          "date": "2026-11-19",
+          "title": "潘兴广场CEO阿克曼表示 仍看好微软 认为其股价被低估",
           "heat": 1.0,
           "sources": 1
         }
@@ -632,7 +646,7 @@
     },
     {
       "topicLabel": "宏观经济/政策",
-      "title": "美联储哈马克支持完善常设回购工具 强调区分货币政策与市场功能性操作",
+      "title": "美联储会议纪要公布后，美元指数触及日内高点",
       "days": 2,
       "kind": "topic_line",
       "points": [
@@ -643,68 +657,8 @@
           "sources": 1
         },
         {
-          "date": "2026-11-18",
-          "title": "美联储哈马克支持完善常设回购工具 强调区分货币政策与市场功能性操作",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-17",
-          "title": "商务部副部长李成钢：亚太地区2026年经济增长率将达3.4%",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
           "date": "2026-11-19",
-          "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "AI 与科技",
-      "title": "瑞银将谷歌母公司Alphabet目标价从380美元下调至320美元",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-17",
-          "title": "谷歌云公布了第七代Ironwood TPU的10项测试结果",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-18",
-          "title": "瑞银将谷歌母公司Alphabet目标价从380美元下调至320美元",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "宏观经济",
-      "title": "河北等8省（市）入选！工信部公布6G创新发展部省协同试点名单",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-14",
-          "title": "工信部：将筹备成立工业操作系统标准工作组",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-18",
-          "title": "河北等8省（市）入选！工信部公布6G创新发展部省协同试点名单",
+          "title": "美联储会议纪要公布后，美元指数触及日内高点",
           "heat": 1.0,
           "sources": 1
         }
@@ -752,19 +706,59 @@
     },
     {
       "topicLabel": "综合",
-      "title": "特斯拉据悉将投资30亿欧元扩建柏林工厂",
+      "title": "周鸿祎谈黄仁勋卸任：需要关注的不是他的个人去留",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
           "date": "2026-11-13",
-          "title": "消息称SpaceX与特斯拉创纪录合并谈判取得进展",
+          "title": "黄仁勋下台代价高昂 1.08亿美元股权作废",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-17",
-          "title": "特斯拉据悉将投资30亿欧元扩建柏林工厂",
+          "date": "2026-11-14",
+          "title": "周鸿祎谈黄仁勋卸任：需要关注的不是他的个人去留",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "Anthropic将IPO价格定为每股83美元 高于推介区间",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-13",
+          "title": "Anthropic IPO认购需求约为发行规模的6倍，拟募资最高644亿美元",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-19",
+          "title": "Anthropic IPO扩大规模后发行了9.796亿股股票 募资813.1亿美元",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "AI交易颠簸！资金回流红利 13只银行股股息率站上5%(名单)",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-14",
+          "title": "美联储发布金融稳定报告 称资产价格高企存在风险 部分由AI推动",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-16",
+          "title": "AI交易颠簸！资金回流红利 13只银行股股息率站上5%(名单)",
           "heat": 1.0,
           "sources": 1
         }
@@ -772,9 +766,9 @@
     }
   ],
   "stat": {
-    "repos_tracked": 93,
-    "repos_multi_day": 75,
-    "mainlines": 27
+    "repos_tracked": 90,
+    "repos_multi_day": 73,
+    "mainlines": 12
   },
   "provenance": {
     "method": "aggregate_over_archives",
