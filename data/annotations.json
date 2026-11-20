@@ -19,9 +19,29 @@
     "tag": "其他",
     "auto": true
   },
+  "Bodila51/gtavi-claudecode": {
+    "name": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "sourmitocand1987/VividFrame-GPU": {
+    "name": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · super-resolution · game-streaming · moonlight · dolby-vision · frame-interpolation · video-player · media-player · video-super-resolution · video-processing · upscaling · rife · vulkan · nvidia · windows · video-enhancement · ncnn",
+    "tag": "开发工具",
+    "auto": true
+  },
+  "bothaggsigym1988/frameglide": {
+    "name": "From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dlss · super-resolution · vulkan · dlss5 · upscaling · rife · neural-rendering · ps5 · rtx · remote-play · pytorch · video · chiaki · optical-flow · video-frame-interpolation · amd · tensorrt · fsr · rtx-vsr · video-upscaling",
+    "tag": "开发工具",
+    "auto": true
+  },
   "Hut-hzf/ung220z-tool": {
     "name": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
     "tag": "其他",
+    "auto": true
+  },
+  "Immortal-Protocols/lastbook": {
+    "name": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "tag": "开发工具",
     "auto": true
   },
   "sybil-solutions/inference-optimisation-skill": {
@@ -34,9 +54,9 @@
     "tag": "模型/推理",
     "auto": true
   },
-  "Immortal-Protocols/lastbook": {
-    "name": "Offline knowledge AI, maps and videos for survival and rebuilding",
-    "tag": "开发工具",
+  "0marContreras/gta6recomp": {
+    "name": "A GTA VI PC Port",
+    "tag": "其他",
     "auto": true
   },
   "apex-compute/ANR": {
@@ -77,26 +97,6 @@
   "Eynnzerr/TelemetryCleaner": {
     "name": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
     "tag": "其他",
-    "auto": true
-  },
-  "boringmarketer/boring-marketing-skills": {
-    "name": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "siliconjungle/shapeshift-labs-ink-studio": {
-    "name": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
-    "tag": "创意/AI生成",
-    "auto": true
-  },
-  "zephyr4123/snug": {
-    "name": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.",
-    "tag": "其他",
-    "auto": true
-  },
-  "n4ze3m/tiny-voca": {
-    "name": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
-    "tag": "模型/推理",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -226,6 +226,10 @@
     "name": "一线工程师的真实 Agent 技能库",
     "tag": "Agent Skill"
   },
+  "affaan-m/ECC": {
+    "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
+    "tag": "AI Agent"
+  },
   "NousResearch/hermes-agent": {
     "name": "随你一起成长的 Agent",
     "tag": "AI Agent"
@@ -237,10 +241,5 @@
   "react/react": {
     "name": "React 前端框架源码",
     "tag": "前端框架"
-  },
-  "anomalyco/opencode": {
-    "name": "The open source coding agent.",
-    "tag": "AI Agent",
-    "auto": true
   }
 }
