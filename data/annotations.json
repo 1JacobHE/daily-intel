@@ -9,6 +9,16 @@
     "tag": "其他",
     "auto": true
   },
+  "bookwjitchieni1986/blender-ai-mcp-addon": {
+    "name": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "iamajmeena/neonclipping": {
+    "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "tag": "模型/推理",
+    "auto": true
+  },
   "gylive/google-ultra": {
     "name": "（官方未提供简介）",
     "tag": "其他",
@@ -19,19 +29,14 @@
     "tag": "其他",
     "auto": true
   },
-  "Bodila51/gtavi-claudecode": {
-    "name": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
-    "tag": "AI Agent",
+  "MSNightmare/FastUnlock": {
+    "name": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+    "tag": "其他",
     "auto": true
   },
-  "sourmitocand1987/VividFrame-GPU": {
-    "name": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · super-resolution · game-streaming · moonlight · dolby-vision · frame-interpolation · video-player · media-player · video-super-resolution · video-processing · upscaling · rife · vulkan · nvidia · windows · video-enhancement · ncnn",
-    "tag": "开发工具",
-    "auto": true
-  },
-  "bothaggsigym1988/frameglide": {
-    "name": "From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dlss · super-resolution · vulkan · dlss5 · upscaling · rife · neural-rendering · ps5 · rtx · remote-play · pytorch · video · chiaki · optical-flow · video-frame-interpolation · amd · tensorrt · fsr · rtx-vsr · video-upscaling",
-    "tag": "开发工具",
+  "0marContreras/gta6recomp": {
+    "name": "A GTA VI PC Port",
+    "tag": "其他",
     "auto": true
   },
   "Hut-hzf/ung220z-tool": {
@@ -54,13 +59,8 @@
     "tag": "模型/推理",
     "auto": true
   },
-  "0marContreras/gta6recomp": {
-    "name": "A GTA VI PC Port",
-    "tag": "其他",
-    "auto": true
-  },
-  "apex-compute/ANR": {
-    "name": "Apex Neural Rendering (ANR) by Apex Compute",
+  "CzzzzzzJ/mdldm-maitian": {
+    "name": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
     "tag": "其他",
     "auto": true
   },
@@ -69,13 +69,8 @@
     "tag": "其他",
     "auto": true
   },
-  "CzzzzzzJ/mdldm-maitian": {
-    "name": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-    "tag": "其他",
-    "auto": true
-  },
-  "chuanqisun/spaceship": {
-    "name": "Steer your ideas in realtime",
+  "haziqahmedqasmi/PeakCut": {
+    "name": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
     "tag": "开发工具",
     "auto": true
   },
@@ -84,19 +79,24 @@
     "tag": "其他",
     "auto": true
   },
+  "chuanqisun/spaceship": {
+    "name": "Steer ideas like a space pilot!",
+    "tag": "开发工具",
+    "auto": true
+  },
   "ZiChuanLan/freebie-radar": {
     "name": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
     "tag": "其他",
     "auto": true
   },
-  "haziqahmedqasmi/PeakCut": {
-    "name": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-    "tag": "开发工具",
+  "Lemxy/WinRust": {
+    "name": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+    "tag": "其他",
     "auto": true
   },
-  "Eynnzerr/TelemetryCleaner": {
-    "name": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
-    "tag": "其他",
+  "siliconjungle/shapeshift-labs-ink-studio": {
+    "name": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
+    "tag": "创意/AI生成",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -200,11 +200,6 @@
     "tag": "资源合集",
     "auto": true
   },
-  "public-apis/public-apis": {
-    "name": "免费 API 大合集，做项目找数据源先看这个",
-    "tag": "资源合集",
-    "note": "48 万星，程序员必备清单"
-  },
   "morluto/rea": {
     "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "tag": "AI Agent",
@@ -241,5 +236,15 @@
   "react/react": {
     "name": "React 前端框架源码",
     "tag": "前端框架"
+  },
+  "anomalyco/opencode": {
+    "name": "The open source coding agent.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "n8n-io/n8n": {
+    "name": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "tag": "开发工具",
+    "auto": true
   }
 }
