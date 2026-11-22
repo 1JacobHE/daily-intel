@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-21 08:01:08",
-  "count": 32,
-  "latest": "2026-11-21",
+  "updated_at": "2026-11-22 08:00:14",
+  "count": 33,
+  "latest": "2026-11-22",
   "days": [
+    {
+      "date": "2026-11-22",
+      "generated_at": "2026-11-22 08:00:12",
+      "rocket_count": 20,
+      "delta_count": 66,
+      "top_repo": "ItsNotRexed/Leonida"
+    },
     {
       "date": "2026-11-21",
       "generated_at": "2026-11-21 08:01:06",
