@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 08:01",
+  "generated_at": "2026-11-22 08:00",
   "days_covered": [
     "2026-09-30",
     "2026-10-01",
@@ -32,10 +32,11 @@
     "2026-11-18",
     "2026-11-19",
     "2026-11-20",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
   ],
-  "events_tracked": 1536,
-  "multi_day_events": 83,
+  "events_tracked": 1589,
+  "multi_day_events": 84,
   "timelines": [
     {
       "ekey": "美联储#美联储利率",
@@ -812,6 +813,101 @@
       ]
     },
     {
+      "ekey": "特朗普",
+      "kind": "topic_line",
+      "title": "特朗普拟联手民主党，将信用卡利率上限设为10%",
+      "topic": null,
+      "topicLabel": "",
+      "dim": "军事地缘",
+      "days": 7,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "up",
+      "series": [
+        {
+          "date": "2026-09-30",
+          "heat": 0.6,
+          "title": "美伊僵局未破，霍尔木兹海峡封锁超 200 天，布伦特油价站上 100 美元",
+          "source_count": 1,
+          "sources": [
+            "未知"
+          ],
+          "impact": "mixed",
+          "sectors": [
+            "石油石化",
+            "油气开采",
+            "油运",
+            "煤化工",
+            "新能源（替代逻辑）",
+            "航空（受损）"
+          ],
+          "eid": "7f57090708"
+        },
+        {
+          "date": "2026-10-02",
+          "heat": 1.0,
+          "title": "特朗普：参议院必须通过“不再调时法案”",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7f57090708"
+        },
+        {
+          "date": "2026-10-03",
+          "heat": 1.0,
+          "title": "据韩国媒体报道 韩国产业通商资源部官员表示 美国总统特朗普提到的84亿美元石油项目并非韩美协议的一部分",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7f57090708"
+        },
+        {
+          "date": "2026-10-07",
+          "heat": 1.0,
+          "title": "美国总统特朗普表示 战争结束后，油价将会下跌",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7f57090708"
+        },
+        {
+          "date": "2026-10-10",
+          "heat": 1.0,
+          "title": "周六你需要知道的隔夜全球要闻",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7f57090708"
+        },
+        {
+          "date": "2026-11-14",
+          "heat": 1.0,
+          "title": "特朗普将针对石油和化肥运输的航运豁免延长90天",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7f57090708"
+        },
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "特朗普拟联手民主党，将信用卡利率上限设为10%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7f57090708"
+        }
+      ]
+    },
+    {
       "ekey": "商务部",
       "kind": "topic_line",
       "title": "老字号振兴重在固本拓新",
@@ -1056,91 +1152,6 @@
           "impact": null,
           "sectors": [],
           "eid": "f431db65ce"
-        }
-      ]
-    },
-    {
-      "ekey": "特朗普",
-      "kind": "topic_line",
-      "title": "特朗普将针对石油和化肥运输的航运豁免延长90天",
-      "topic": null,
-      "topicLabel": "",
-      "dim": "军事地缘",
-      "days": 6,
-      "first_seen": "2026-09-30",
-      "last_seen": "2026-11-14",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "up",
-      "series": [
-        {
-          "date": "2026-09-30",
-          "heat": 0.6,
-          "title": "美伊僵局未破，霍尔木兹海峡封锁超 200 天，布伦特油价站上 100 美元",
-          "source_count": 1,
-          "sources": [
-            "未知"
-          ],
-          "impact": "mixed",
-          "sectors": [
-            "石油石化",
-            "油气开采",
-            "油运",
-            "煤化工",
-            "新能源（替代逻辑）",
-            "航空（受损）"
-          ],
-          "eid": "7f57090708"
-        },
-        {
-          "date": "2026-10-02",
-          "heat": 1.0,
-          "title": "特朗普：参议院必须通过“不再调时法案”",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "7f57090708"
-        },
-        {
-          "date": "2026-10-03",
-          "heat": 1.0,
-          "title": "据韩国媒体报道 韩国产业通商资源部官员表示 美国总统特朗普提到的84亿美元石油项目并非韩美协议的一部分",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "7f57090708"
-        },
-        {
-          "date": "2026-10-07",
-          "heat": 1.0,
-          "title": "美国总统特朗普表示 战争结束后，油价将会下跌",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "7f57090708"
-        },
-        {
-          "date": "2026-10-10",
-          "heat": 1.0,
-          "title": "周六你需要知道的隔夜全球要闻",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "7f57090708"
-        },
-        {
-          "date": "2026-11-14",
-          "heat": 1.0,
-          "title": "特朗普将针对石油和化肥运输的航运豁免延长90天",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "7f57090708"
         }
       ]
     },
@@ -1500,6 +1511,72 @@
       ]
     },
     {
+      "ekey": "财政部#中东",
+      "kind": "topic_line",
+      "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
+      "topic": "中东",
+      "topicLabel": null,
+      "dim": null,
+      "days": 5,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-10-04",
+          "heat": 1.0,
+          "title": "贝森特：伊朗本周将没有石油在海上",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "398abc4544"
+        },
+        {
+          "date": "2026-10-09",
+          "heat": 1.0,
+          "title": "美国对伊朗实施新一轮制裁",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "398abc4544"
+        },
+        {
+          "date": "2026-11-07",
+          "heat": 1.0,
+          "title": "美国财政部制裁加拿大境内8家与伊朗有关联的企业",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "398abc4544"
+        },
+        {
+          "date": "2026-11-21",
+          "heat": 1.0,
+          "title": "美国财政部：对四名伊朗个人实施制裁，这些人担任“石油受托人”",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "398abc4544"
+        },
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "398abc4544"
+        }
+      ]
+    },
+    {
       "ekey": "特斯拉",
       "kind": "topic_line",
       "title": "马斯克：特斯拉将生产没有方向盘的自动驾驶Model Y",
@@ -1628,6 +1705,72 @@
           "impact": null,
           "sectors": [],
           "eid": "e6803e21b9"
+        }
+      ]
+    },
+    {
+      "ekey": "中国人民银行",
+      "kind": "topic_line",
+      "title": "稳步扩大金融市场双向开放",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 5,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-10-20",
+          "heat": 1.0,
+          "title": "中国人民银行行长潘功胜会见桥水投资公司创始人瑞·达利欧",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3772fe3e4f"
+        },
+        {
+          "date": "2026-11-06",
+          "heat": 1.0,
+          "title": "降成本 强信心 股票回购增持再贷款筑牢市场稳定基石",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3772fe3e4f"
+        },
+        {
+          "date": "2026-11-10",
+          "heat": 1.0,
+          "title": "再贷款政策持续发力 低成本资金助力上市公司回购增持",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3772fe3e4f"
+        },
+        {
+          "date": "2026-11-20",
+          "heat": 1.0,
+          "title": "征收政府债券利息所得税讨论再起 专家称短期不具备落地条件",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3772fe3e4f"
+        },
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "稳步扩大金融市场双向开放",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3772fe3e4f"
         }
       ]
     },
@@ -1815,62 +1958,6 @@
       ]
     },
     {
-      "ekey": "财政部#中东",
-      "kind": "topic_line",
-      "title": "美国财政部：对四名伊朗个人实施制裁，这些人担任“石油受托人”",
-      "topic": "美债",
-      "topicLabel": null,
-      "dim": null,
-      "days": 4,
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-11-21",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-10-04",
-          "heat": 1.0,
-          "title": "贝森特：伊朗本周将没有石油在海上",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "398abc4544"
-        },
-        {
-          "date": "2026-10-09",
-          "heat": 1.0,
-          "title": "美国对伊朗实施新一轮制裁",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "398abc4544"
-        },
-        {
-          "date": "2026-11-07",
-          "heat": 1.0,
-          "title": "美国财政部制裁加拿大境内8家与伊朗有关联的企业",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "398abc4544"
-        },
-        {
-          "date": "2026-11-21",
-          "heat": 1.0,
-          "title": "美国财政部：对四名伊朗个人实施制裁，这些人担任“石油受托人”",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "398abc4544"
-        }
-      ]
-    },
-    {
       "ekey": "商务部#关税贸易",
       "kind": "topic_line",
       "title": "“稳+进”！前9个月我国服务贸易运行态势良好",
@@ -1927,58 +2014,58 @@
       ]
     },
     {
-      "ekey": "中国人民银行",
+      "ekey": "发改委",
       "kind": "topic_line",
-      "title": "征收政府债券利息所得税讨论再起 专家称短期不具备落地条件",
+      "title": "国家发改委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
       "topic": null,
       "topicLabel": null,
       "dim": null,
       "days": 4,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-11-20",
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-11-22",
       "heat_latest": 1.0,
       "heat_peak": 1.0,
       "trend": "flat",
       "series": [
         {
+          "date": "2026-10-11",
+          "heat": 1.0,
+          "title": "国家发改委：推动“十五五”规划、“六张网”建设实施方案等明确的重大工程项目尽早开工建设，激发释放内需潜力",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f53d5d15a3"
+        },
+        {
           "date": "2026-10-20",
           "heat": 1.0,
-          "title": "中国人民银行行长潘功胜会见桥水投资公司创始人瑞·达利欧",
+          "title": "国家发展改革委答记者提问：两批88个投资项目吸引民企300余次咨询，部分项目取得实质性进展",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "3772fe3e4f"
+          "eid": "f53d5d15a3"
         },
         {
-          "date": "2026-11-06",
+          "date": "2026-10-21",
           "heat": 1.0,
-          "title": "降成本 强信心 股票回购增持再贷款筑牢市场稳定基石",
+          "title": "首批标志性重大应用场景项目发布，鸿蒙等10个广东项目入选",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "3772fe3e4f"
+          "eid": "f53d5d15a3"
         },
         {
-          "date": "2026-11-10",
+          "date": "2026-11-22",
           "heat": 1.0,
-          "title": "再贷款政策持续发力 低成本资金助力上市公司回购增持",
+          "title": "国家发改委召开视频会议调度督促政府投资资金支付使用和项目储备工作",
           "source_count": 1,
           "sources": [],
           "impact": null,
           "sectors": [],
-          "eid": "3772fe3e4f"
-        },
-        {
-          "date": "2026-11-20",
-          "heat": 1.0,
-          "title": "征收政府债券利息所得税讨论再起 专家称短期不具备落地条件",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "3772fe3e4f"
+          "eid": "f53d5d15a3"
         }
       ]
     },
@@ -2129,6 +2216,54 @@
       ]
     },
     {
+      "ekey": "特朗普|美联储#美联储利率",
+      "kind": "topic_line",
+      "title": "特朗普批美联储利率太高 美联储主席陷两难",
+      "topic": "美联储利率",
+      "topicLabel": null,
+      "dim": "宏观经济/政策",
+      "days": 3,
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "up",
+      "series": [
+        {
+          "date": "2026-10-01",
+          "heat": 0.6,
+          "title": "美国总统特朗普：他们（美联储）不断提高利率“非常糟糕”",
+          "source_count": 1,
+          "sources": [
+            "未知"
+          ],
+          "impact": "neutral",
+          "sectors": [],
+          "eid": "7f1b341d84"
+        },
+        {
+          "date": "2026-10-05",
+          "heat": 1.0,
+          "title": "美国总统特朗普的首席经济顾问呼吁前美联储主席鲍威尔离开美联储理事会",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7f1b341d84"
+        },
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "特朗普批美联储利率太高 美联储主席陷两难",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "7f1b341d84"
+        }
+      ]
+    },
+    {
       "ekey": "美联储#美债",
       "kind": "topic_line",
       "title": "美联储周二隔夜逆回购协议（RRP）使用规模为4.14亿美元 上个交易日报10.04亿美元",
@@ -2263,52 +2398,6 @@
           "impact": null,
           "sectors": [],
           "eid": "05a8b5e5da"
-        }
-      ]
-    },
-    {
-      "ekey": "发改委",
-      "kind": "topic_line",
-      "title": "首批标志性重大应用场景项目发布，鸿蒙等10个广东项目入选",
-      "topic": null,
-      "topicLabel": null,
-      "dim": null,
-      "days": 3,
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-21",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-10-11",
-          "heat": 1.0,
-          "title": "国家发改委：推动“十五五”规划、“六张网”建设实施方案等明确的重大工程项目尽早开工建设，激发释放内需潜力",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "f53d5d15a3"
-        },
-        {
-          "date": "2026-10-20",
-          "heat": 1.0,
-          "title": "国家发展改革委答记者提问：两批88个投资项目吸引民企300余次咨询，部分项目取得实质性进展",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "f53d5d15a3"
-        },
-        {
-          "date": "2026-10-21",
-          "heat": 1.0,
-          "title": "首批标志性重大应用场景项目发布，鸿蒙等10个广东项目入选",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "f53d5d15a3"
         }
       ]
     },
@@ -2652,44 +2741,6 @@
           "impact": null,
           "sectors": [],
           "eid": "cbf44511d0"
-        }
-      ]
-    },
-    {
-      "ekey": "特朗普|美联储#美联储利率",
-      "kind": "topic_line",
-      "title": "美国总统特朗普的首席经济顾问呼吁前美联储主席鲍威尔离开美联储理事会",
-      "topic": "美联储利率",
-      "topicLabel": null,
-      "dim": "宏观经济/政策",
-      "days": 2,
-      "first_seen": "2026-10-01",
-      "last_seen": "2026-10-05",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "up",
-      "series": [
-        {
-          "date": "2026-10-01",
-          "heat": 0.6,
-          "title": "美国总统特朗普：他们（美联储）不断提高利率“非常糟糕”",
-          "source_count": 1,
-          "sources": [
-            "未知"
-          ],
-          "impact": "neutral",
-          "sectors": [],
-          "eid": "7f1b341d84"
-        },
-        {
-          "date": "2026-10-05",
-          "heat": 1.0,
-          "title": "美国总统特朗普的首席经济顾问呼吁前美联储主席鲍威尔离开美联储理事会",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "7f1b341d84"
         }
       ]
     },
@@ -3554,6 +3605,42 @@
           "impact": null,
           "sectors": [],
           "eid": "4fa6591b9c"
+        }
+      ]
+    },
+    {
+      "ekey": "商业银行",
+      "kind": "topic_line",
+      "title": "商业银行总资产突破500万亿元！净息差仍在筑底",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 2,
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-17",
+          "heat": 1.0,
+          "title": "“把‘明年一季度’打在‘今年11月’” 银行旺季营销哨声提前吹响",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "4addb145a8"
+        },
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "商业银行总资产突破500万亿元！金融监管总局最新发布！",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "4addb145a8"
         }
       ]
     },
@@ -17988,32 +18075,6 @@
       ]
     },
     {
-      "ekey": "商业银行",
-      "kind": "topic_line",
-      "title": "“把‘明年一季度’打在‘今年11月’” 银行旺季营销哨声提前吹响",
-      "topic": null,
-      "topicLabel": null,
-      "dim": null,
-      "days": 1,
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "heat_latest": 1.0,
-      "heat_peak": 1.0,
-      "trend": "flat",
-      "series": [
-        {
-          "date": "2026-11-17",
-          "heat": 1.0,
-          "title": "“把‘明年一季度’打在‘今年11月’” 银行旺季营销哨声提前吹响",
-          "source_count": 1,
-          "sources": [],
-          "impact": null,
-          "sectors": [],
-          "eid": "4addb145a8"
-        }
-      ]
-    },
-    {
       "ekey": "什发表主题为科技|美联储#美联储利率",
       "kind": "topic_line",
       "title": "美联储加息新信号",
@@ -20220,6 +20281,578 @@
           "impact": null,
           "sectors": [],
           "eid": "0e541fe6a5"
+        }
+      ]
+    },
+    {
+      "ekey": "国联民生的控股",
+      "kind": "topic_line",
+      "title": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "e73f1f1550"
+        }
+      ]
+    },
+    {
+      "ekey": "华为#大模型",
+      "kind": "topic_line",
+      "title": "华为推出星芒 AI手机的故事怎么落地？",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "华为推出星芒 AI手机的故事怎么落地？",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "e7fa7700a0"
+        }
+      ]
+    },
+    {
+      "ekey": "冷冻透射电子",
+      "kind": "topic_line",
+      "title": "国产120kV冷冻透射电子显微镜发布",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "国产120kV冷冻透射电子显微镜发布",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "31e508dc5b"
+        }
+      ]
+    },
+    {
+      "ekey": "Anthropic|亚马逊",
+      "kind": "topic_line",
+      "title": "Anthropic创纪录IPO：亚马逊和谷歌成最大赢家",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "Anthropic创纪录IPO：亚马逊和谷歌成最大赢家",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3ceeba2150"
+        }
+      ]
+    },
+    {
+      "ekey": "出奇中信建投证券",
+      "kind": "topic_line",
+      "title": "中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "ce5fc3ecbc"
+        }
+      ]
+    },
+    {
+      "ekey": "多家银行|部分商业银行",
+      "kind": "topic_line",
+      "title": "多家银行发债按下“暂停键”",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "多家银行发债按下“暂停键”",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "d353810298"
+        }
+      ]
+    },
+    {
+      "ekey": "上海电气集团|吴磊拜访上海电力",
+      "kind": "topic_line",
+      "title": "上海电气与上海电力深化战略对接",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "上海电气与上海电力深化战略对接",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "ae182c71d9"
+        }
+      ]
+    },
+    {
+      "ekey": "中国汽车#新能源车",
+      "kind": "topic_line",
+      "title": "北京理工大学机械与车辆学院教授孙逢春：2035年汽车基本实现纯电驱动",
+      "topic": "新能源车",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "北京理工大学机械与车辆学院教授孙逢春：2035年汽车基本实现纯电驱动",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "d9ffa1ff98"
+        }
+      ]
+    },
+    {
+      "ekey": "中信证券|年推出中信证券",
+      "kind": "topic_line",
+      "title": "中信证券：预计全国性的核电机制电价政策有望在2027年推出",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "中信证券：预计全国性的核电机制电价政策有望在2027年推出",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "8564abeb2b"
+        }
+      ]
+    },
+    {
+      "ekey": "买家转向国际能源|持续扰动全球能源",
+      "kind": "topic_line",
+      "title": "又一百万吨长协落子 中国从最大天然气买家转向国际能源“协调者”",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "又一百万吨长协落子 中国从最大天然气买家转向国际能源“协调者”",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "56499080ac"
+        }
+      ]
+    },
+    {
+      "ekey": "多地民营银行",
+      "kind": "topic_line",
+      "title": "异地存款收紧保障储户权益",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "异地存款收紧保障储户权益",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "9d960fb6a7"
+        }
+      ]
+    },
+    {
+      "ekey": "上报科创创业半导体|多家基金#AI芯片",
+      "kind": "topic_line",
+      "title": "新指数ETF产品密集上报 覆盖半导体、算力与航运等领域",
+      "topic": "AI芯片",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "新指数ETF产品密集上报 覆盖半导体、算力与航运等领域",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "985e8d34a0"
+        }
+      ]
+    },
+    {
+      "ekey": "欧盟|通过欧洲和平基金",
+      "kind": "topic_line",
+      "title": "欧盟再对乌提供10亿欧元军事支持",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "欧盟再对乌提供10亿欧元军事支持",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f9533dde4b"
+        }
+      ]
+    },
+    {
+      "ekey": "在零跑汽车|零跑汽车#新能源车",
+      "kind": "topic_line",
+      "title": "零跑汽车高管：与Stellantis有多个项目在深入洽谈合作",
+      "topic": "新能源车",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "零跑汽车高管：与Stellantis有多个项目在深入洽谈合作",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "9f362c2b02"
+        }
+      ]
+    },
+    {
+      "ekey": "无蜂窝移动通信",
+      "kind": "topic_line",
+      "title": "中国通号：国内首款4.9GHz无蜂窝基站获证商用",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "中国通号：国内首款4.9GHz无蜂窝基站获证商用",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "4a8bd82143"
+        }
+      ]
+    },
+    {
+      "ekey": "击加沙城一辆汽车#中东",
+      "kind": "topic_line",
+      "title": "以军袭击加沙城一辆汽车 致3死多伤",
+      "topic": "中东",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "以军袭击加沙城一辆汽车 致3死多伤",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "aab4c076a7"
+        }
+      ]
+    },
+    {
+      "ekey": "加入北约创新基金|北约#俄乌",
+      "kind": "topic_line",
+      "title": "加拿大正式加入北约创新基金",
+      "topic": "俄乌",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "加拿大正式加入北约创新基金",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "778b2037a3"
+        }
+      ]
+    },
+    {
+      "ekey": "基础设施投资银行",
+      "kind": "topic_line",
+      "title": "亚投行将在香港设立办公室",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "亚投行将在香港设立办公室",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "0e83edd6a4"
+        }
+      ]
+    },
+    {
+      "ekey": "基础设施投资银行|财政部",
+      "kind": "topic_line",
+      "title": "蓝佛安出席亚洲基础设施投资银行香港办公室协定签署仪式",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "蓝佛安出席亚洲基础设施投资银行香港办公室协定签署仪式",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "4096e3f0a9"
+        }
+      ]
+    },
+    {
+      "ekey": "中国南水北调集团#大模型",
+      "kind": "topic_line",
+      "title": "南水北调“天河”大模型完成升级",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "南水北调“天河”大模型完成升级",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "a598335d46"
+        }
+      ]
+    },
+    {
+      "ekey": "上海芯钬量子科技|源杰科技",
+      "kind": "topic_line",
+      "title": "源杰科技独家直投芯钬量子A++轮融资",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "源杰科技独家直投芯钬量子A++轮融资",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "b0f39f44f3"
+        }
+      ]
+    },
+    {
+      "ekey": "卫队航空#中东",
+      "kind": "topic_line",
+      "title": "伊朗称在波斯湾北部拦截一架敌方侦察无人机",
+      "topic": "中东",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "伊朗称在波斯湾北部拦截一架敌方侦察无人机",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "ec21bb88ac"
         }
       ]
     },
@@ -41358,6 +41991,812 @@
           "impact": null,
           "sectors": [],
           "eid": "cce12229b8"
+        }
+      ]
+    },
+    {
+      "ekey": "台湾金管会宣布稳定股市措施",
+      "kind": "event_line",
+      "title": "台湾金管会宣布稳定股市措施",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "台湾金管会宣布稳定股市措施",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "15461e2a27"
+        }
+      ]
+    },
+    {
+      "ekey": "前月全国一般公共预算收入增长财政",
+      "kind": "event_line",
+      "title": "前10月全国一般公共预算收入增长4.9%——财政收支运行平稳有序",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "前10月全国一般公共预算收入增长4.9%——财政收支运行平稳有序",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "0a33925f80"
+        }
+      ]
+    },
+    {
+      "ekey": "年数学难题被攻克后数学家联手AI",
+      "kind": "event_line",
+      "title": "167年数学难题被攻克？90后数学家联手AI 最新公布",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "167年数学难题被攻克？90后数学家联手AI 最新公布",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "98d7d0fda1"
+        }
+      ]
+    },
+    {
+      "ekey": "中国文旅在伦敦世界旅游交易会受青",
+      "kind": "event_line",
+      "title": "中国文旅在伦敦世界旅游交易会受青睐",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "中国文旅在伦敦世界旅游交易会受青睐",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f0514ce770"
+        }
+      ]
+    },
+    {
+      "ekey": "GTAVI火了游戏主机也涨疯了P",
+      "kind": "event_line",
+      "title": "《GTA VI》火了 游戏主机也涨疯了！PS5 Pro一年涨价超一倍",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "《GTA VI》火了 游戏主机也涨疯了！PS5 Pro一年涨价超一倍",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "a415b9a770"
+        }
+      ]
+    },
+    {
+      "ekey": "韩国总统李在明访问蔚山SK人工智",
+      "kind": "event_line",
+      "title": "韩国总统李在明访问蔚山SK人工智能数据中心，称速度是全球竞争的关键",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "韩国总统李在明访问蔚山SK人工智能数据中心，称速度是全球竞争的关键",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "6a6ce3ab3b"
+        }
+      ]
+    },
+    {
+      "ekey": "国家电网公司自主研制首套静止全功",
+      "kind": "event_line",
+      "title": "国家电网公司自主研制首套静止全功率发生器投运",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "国家电网公司自主研制首套静止全功率发生器投运",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "61293f652e"
+        }
+      ]
+    },
+    {
+      "ekey": "亿纬锂能董事长锂电池消费税落地后",
+      "kind": "event_line",
+      "title": "亿纬锂能董事长：锂电池消费税落地后会有相当一部分企业退出市场",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "亿纬锂能董事长：锂电池消费税落地后会有相当一部分企业退出市场",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "ccb9f76cab"
+        }
+      ]
+    },
+    {
+      "ekey": "美国今年麻疹确诊病例已超例",
+      "kind": "event_line",
+      "title": "美国今年麻疹确诊病例已超5800例",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "美国今年麻疹确诊病例已超5800例",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "9dc6256f07"
+        }
+      ]
+    },
+    {
+      "ekey": "GTA带动PS价格持续上涨Pro",
+      "kind": "event_line",
+      "title": "《GTA6》带动PS5价格持续上涨，Pro版本涨至1.6万元",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "《GTA6》带动PS5价格持续上涨，Pro版本涨至1.6万元",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "572cac4a3b"
+        }
+      ]
+    },
+    {
+      "ekey": "阿根廷政府批准该国规模最大投资项",
+      "kind": "event_line",
+      "title": "阿根廷政府批准该国规模最大投资项目",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "阿根廷政府批准该国规模最大投资项目",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "45b438197b"
+        }
+      ]
+    },
+    {
+      "ekey": "刘洪建杨承新与中国中铁任鸿鹏一行",
+      "kind": "event_line",
+      "title": "刘洪建、杨承新与中国中铁任鸿鹏一行座谈",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "刘洪建、杨承新与中国中铁任鸿鹏一行座谈",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "eec43ae543"
+        }
+      ]
+    },
+    {
+      "ekey": "中国铜业亿元小公募债申报获上交所",
+      "kind": "event_line",
+      "title": "中国铜业100亿元小公募债申报获上交所受理",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "中国铜业100亿元小公募债申报获上交所受理",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "f7e945800e"
+        }
+      ]
+    },
+    {
+      "ekey": "上海航交所本周运输市场总体平稳主",
+      "kind": "event_line",
+      "title": "上海航交所：本周运输市场总体平稳 主要航线运价下跌",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "上海航交所：本周运输市场总体平稳 主要航线运价下跌",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "b02247e68c"
+        }
+      ]
+    },
+    {
+      "ekey": "黄河内蒙古段进入至年度凌汛期",
+      "kind": "event_line",
+      "title": "黄河内蒙古段进入2026至2027年度凌汛期",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "黄河内蒙古段进入2026至2027年度凌汛期",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "bad5a30efd"
+        }
+      ]
+    },
+    {
+      "ekey": "刚果金本轮埃博拉疫情死亡病例超例",
+      "kind": "event_line",
+      "title": "刚果（金）本轮埃博拉疫情死亡病例超5600例",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "刚果（金）本轮埃博拉疫情死亡病例超5600例",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "b28ce5ada2"
+        }
+      ]
+    },
+    {
+      "ekey": "受地震影响途经青藏铁路西格段部分",
+      "kind": "event_line",
+      "title": "受地震影响 途经青藏铁路西格段部分列车晚点运行",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "受地震影响 途经青藏铁路西格段部分列车晚点运行",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "432948c5e1"
+        }
+      ]
+    },
+    {
+      "ekey": "长高电气中低压产品毛利率预计在第",
+      "kind": "event_line",
+      "title": "长高电气：中低压产品毛利率预计在第四季度将有所修复",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "长高电气：中低压产品毛利率预计在第四季度将有所修复",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "069c557aad"
+        }
+      ]
+    },
+    {
+      "ekey": "多家品牌宣布下调金饰克价",
+      "kind": "event_line",
+      "title": "多家品牌宣布：下调金饰克价",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "多家品牌宣布：下调金饰克价",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "07ff8677c3"
+        }
+      ]
+    },
+    {
+      "ekey": "中国内地访日游客连降个月",
+      "kind": "event_line",
+      "title": "中国内地访日游客连降11个月",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "中国内地访日游客连降11个月",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "da9de0b257"
+        }
+      ]
+    },
+    {
+      "ekey": "西安举行光子产业投资对接会",
+      "kind": "event_line",
+      "title": "西安举行光子产业投资对接会",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "西安举行光子产业投资对接会",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "59db25328e"
+        }
+      ]
+    },
+    {
+      "ekey": "世界数据组织医疗健康专业委员会在",
+      "kind": "event_line",
+      "title": "世界数据组织医疗健康专业委员会在京启动运行",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "世界数据组织医疗健康专业委员会在京启动运行",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "a42a4c2912"
+        }
+      ]
+    },
+    {
+      "ekey": "脑机接口十五项标志性成果发布",
+      "kind": "event_line",
+      "title": "2026脑机接口十五项标志性成果发布",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "2026脑机接口十五项标志性成果发布",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "3f84b928d5"
+        }
+      ]
+    },
+    {
+      "ekey": "数万家智能工厂背后AI到底改变了",
+      "kind": "event_line",
+      "title": "数万家智能工厂背后 AI到底改变了什么？",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "数万家智能工厂背后 AI到底改变了什么？",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "4fded712bb"
+        }
+      ]
+    },
+    {
+      "ekey": "国科微亮相世界计算大会展示新一代",
+      "kind": "event_line",
+      "title": "国科微亮相世界计算大会 展示新一代端侧AI NPU",
+      "topic": "大模型",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "国科微亮相世界计算大会 展示新一代端侧AI NPU",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "bdd9d07ad6"
+        }
+      ]
+    },
+    {
+      "ekey": "前个月四川对APEC其他经济体进",
+      "kind": "event_line",
+      "title": "前10个月四川对APEC其他经济体进出口增长10.5%",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "前10个月四川对APEC其他经济体进出口增长10.5%",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "d2b8a46d8a"
+        }
+      ]
+    },
+    {
+      "ekey": "唐人神生猪出栏规划会结合市场行情",
+      "kind": "event_line",
+      "title": "唐人神：生猪出栏规划会结合市场行情等因素动态优化",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "唐人神：生猪出栏规划会结合市场行情等因素动态优化",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "9b0e548fa6"
+        }
+      ]
+    },
+    {
+      "ekey": "伊朗革命卫队称击落第架美军MQ型",
+      "kind": "event_line",
+      "title": "伊朗革命卫队称击落第19架美军MQ-1型无人机",
+      "topic": "中东",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "伊朗革命卫队称击落第19架美军MQ-1型无人机",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "fd39493b2d"
+        }
+      ]
+    },
+    {
+      "ekey": "省区市延长婚假山西甘肃天多地可达",
+      "kind": "event_line",
+      "title": "29省区市延长婚假！山西、甘肃30天，多地可达25天",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "29省区市延长婚假！山西、甘肃30天，多地可达25天",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "bbac9db86b"
+        }
+      ]
+    },
+    {
+      "ekey": "我国G工业互联网项目达万个已覆盖",
+      "kind": "event_line",
+      "title": "我国“5G+工业互联网”项目达2.7万个 已覆盖全部41个工业大类",
+      "topic": null,
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "我国“5G+工业互联网”项目达2.7万个 已覆盖全部41个工业大类",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "bd0caddf60"
+        }
+      ]
+    },
+    {
+      "ekey": "伊朗称击落第架美军死神无人机",
+      "kind": "event_line",
+      "title": "伊朗称击落第58架美军“死神”无人机",
+      "topic": "中东",
+      "topicLabel": null,
+      "dim": null,
+      "days": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "heat_latest": 1.0,
+      "heat_peak": 1.0,
+      "trend": "flat",
+      "series": [
+        {
+          "date": "2026-11-22",
+          "heat": 1.0,
+          "title": "伊朗称击落第58架美军“死神”无人机",
+          "source_count": 1,
+          "sources": [],
+          "impact": null,
+          "sectors": [],
+          "eid": "d5524b5a2e"
         }
       ]
     },
