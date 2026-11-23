@@ -1,0 +1,1791 @@
+{
+  "generated_at": "2026-11-24 03:27:52",
+  "date": "2026-11-24",
+  "prev_date": "2026-11-23",
+  "fresh_days": 10,
+  "provenance": {
+    "source": "api.github.com/search/repositories",
+    "source_type": "official_api",
+    "auth": "token (GITHUB_TOKEN)",
+    "rate_limit": "30 req/min (token)",
+    "fetched_at": "2026-11-24 03:27:45",
+    "metrics": {
+      "rocket": {
+        "status": "observed",
+        "detail": "created:>2026-11-14 stars:>80 fork:false -> 40 条"
+      },
+      "potential": {
+        "status": "observed",
+        "detail": "created:>2026-05-28 stars:>800 fork:false -> 40 条"
+      },
+      "active": {
+        "status": "observed",
+        "detail": "pushed:>2026-11-21 stars:>5000 fork:false -> 20 条"
+      },
+      "star_delta": {
+        "status": "observed",
+        "detail": "对比快照 2026-11-23，62 个项目有正向增量"
+      },
+      "stars_per_day": {
+        "status": "derived",
+        "detail": "stars ÷ 存活天数，为平均速率而非真实单日增量"
+      },
+      "star_count": {
+        "status": "observed",
+        "detail": "GitHub Search API 返回的星数，可能有分钟级缓存延迟"
+      }
+    },
+    "warnings": [
+      "6 个仓库星数较上次减少（可能被删星或上游抖动），这些仓库不计入增量榜"
+    ]
+  },
+  "deltas": {
+    "deepseek-ai/deepseek-harness": 477,
+    "DietrichGebert/ponytail": 557,
+    "Ebony-Vinyl/dsh-our-free-model": 1041,
+    "storytold/photocraft": 117,
+    "cloudflare/security-audit-skill": 377,
+    "eternity4719/HowToLiveBetter": 184,
+    "bilawalsidhu/gods-eye-view": 112,
+    "boykopovar/AnyPS5": 652,
+    "Gathin23/cleanyourtv": 178,
+    "JustVugg/colibri": 200,
+    "Niko1221/Strata": 439,
+    "storytold/craft-anything": 818,
+    "yetone/magpie": 401,
+    "anywhere-labs/dsh-desktop": 87,
+    "vorssaint/vorssaint-utils": 126,
+    "NandhaKishorM/laya": 10,
+    "baidu/Unlimited-OCR": 375,
+    "hypit-ai/hypit": 106,
+    "ccch1mneyyy/dsh-Go": 562,
+    "KnifeLemon/Filee": 263,
+    "wheresryan22/anatomy": 157,
+    "ItsNotRexed/Leonida": 13706,
+    "guillaumemeyer/watermarks-remover": 85,
+    "xai-org/grok-build": 9,
+    "milind-soni/OpenMausBot": 301,
+    "deepseek-ai/DeepInfer": 22,
+    "awesome-dsh-plugin/awesome-dsh-plugin": 73,
+    "google-research/harness2": 129,
+    "browser-use/jev-ultrafast": 7,
+    "lexmount/moli": 104,
+    "deepseek-ai/dsh-superagent-prototype": 121,
+    "firecrawl/anydoc": 15,
+    "DuarteSantos8/openGym": 346,
+    "google/elephant-goldfish-model": 233,
+    "latent-spaces/brag": 93,
+    "Vincentwei1021/video-shotcraft": 162,
+    "img2threejs/img2threejs": 45,
+    "Droid-Deck/DroidDeck": 205,
+    "storytold/pdfcraft": 92,
+    "erkamyaman/rust-anything": 647,
+    "Hut-hzf/ung220z-tool": 721,
+    "EL4CTEO/fast-anything": 1160,
+    "bookwjitchieni1986/blender-ai-mcp-addon": 19,
+    "iamajmeena/neonclipping": 199,
+    "sybil-solutions/inference-optimisation-skill": 141,
+    "omonkeyz/xbox-emulator": 290,
+    "joshpuckett/allo": 45,
+    "R0Y00/Xbox2Windows": 163,
+    "pierridotite/mobile-agent-testers": 866,
+    "Lemxy/WinRust": 124,
+    "siliconjungle/shapeshift-labs-ink-studio": 39,
+    "chuanqisun/spaceship": 19,
+    "leanprover-community/riemann-hypothesis": 210,
+    "boringmarketer/boring-marketing-skills": 16,
+    "INK-Q/agy-fast": 263,
+    "MSNightmare/FastUnlock": 19,
+    "nataphong-lab/Open-Source-Face-Recognition-Ultimate": 85,
+    "nilbuild/stick-scene": 43,
+    "0xkaka/homeport": 9,
+    "replit/datacat": 37,
+    "realdody/americas-recomp": 82,
+    "CocoSgt/riemann-hypothesis-lean": 34
+  },
+  "rocket": [
+    {
+      "full_name": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "stars": 28528,
+      "forks": 2585,
+      "lang": "Python",
+      "created": "2026-11-20",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "ItsNotRexed",
+      "avatar": "https://avatars.githubusercontent.com/u/300290919?v=4",
+      "age_days": 3,
+      "stars_per_day": 9509.3
+    },
+    {
+      "full_name": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "stars": 3028,
+      "forks": 194,
+      "lang": "Rust",
+      "created": "2026-11-21",
+      "pushed": "2026-11-23",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "developer-tools"
+      ],
+      "owner": "EL4CTEO",
+      "avatar": "https://avatars.githubusercontent.com/u/215285446?v=4",
+      "age_days": 2,
+      "stars_per_day": 1514.0
+    },
+    {
+      "full_name": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "stars": 1269,
+      "forks": 61,
+      "lang": "Swift",
+      "created": "2026-11-22",
+      "pushed": "2026-11-22",
+      "topics": [
+        "haptics",
+        "macos",
+        "swift",
+        "trackpad"
+      ],
+      "owner": "os6",
+      "avatar": "https://avatars.githubusercontent.com/u/239950?v=4",
+      "age_days": 1,
+      "stars_per_day": 1269.0
+    },
+    {
+      "full_name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "stars": 8627,
+      "forks": 697,
+      "lang": "Rust",
+      "created": "2026-11-16",
+      "pushed": "2026-11-23",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "code-migration",
+        "codex",
+        "ffi"
+      ],
+      "owner": "erkamyaman",
+      "avatar": "https://avatars.githubusercontent.com/u/88717125?v=4",
+      "age_days": 7,
+      "stars_per_day": 1232.4
+    },
+    {
+      "full_name": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "stars": 1589,
+      "forks": 104,
+      "lang": "Rust",
+      "created": "2026-11-21",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "omonkeyz",
+      "avatar": "https://avatars.githubusercontent.com/u/246595960?v=4",
+      "age_days": 2,
+      "stars_per_day": 794.5
+    },
+    {
+      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "stars": 2765,
+      "forks": 40,
+      "lang": "Other",
+      "created": "2026-11-19",
+      "pushed": "2026-11-22",
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation"
+      ],
+      "owner": "bookwjitchieni1986",
+      "avatar": "https://avatars.githubusercontent.com/u/356367752?v=4",
+      "age_days": 4,
+      "stars_per_day": 691.2
+    },
+    {
+      "full_name": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "stars": 2291,
+      "forks": 142,
+      "lang": "Python",
+      "created": "2026-11-19",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai-video-clipper",
+        "clipping",
+        "faster-whisper",
+        "ffmpeg",
+        "gameplay-clipper",
+        "local-llm"
+      ],
+      "owner": "iamajmeena",
+      "avatar": "https://avatars.githubusercontent.com/u/265551449?v=4",
+      "age_days": 4,
+      "stars_per_day": 572.8
+    },
+    {
+      "full_name": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "stars": 1668,
+      "forks": 62,
+      "lang": "Objective-C++",
+      "created": "2026-11-20",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "AFK-surf",
+      "avatar": "https://avatars.githubusercontent.com/u/221804798?v=4",
+      "age_days": 3,
+      "stars_per_day": 556.0
+    },
+    {
+      "full_name": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+      "stars": 1462,
+      "forks": 147,
+      "lang": "Python",
+      "created": "2026-11-20",
+      "pushed": "2026-11-23",
+      "topics": [
+        "d3d12",
+        "directx-raytracing",
+        "scarlett",
+        "static-recompilation",
+        "windows",
+        "xbox"
+      ],
+      "owner": "R0Y00",
+      "avatar": "https://avatars.githubusercontent.com/u/128987794?v=4",
+      "age_days": 3,
+      "stars_per_day": 487.3
+    },
+    {
+      "full_name": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "desc": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "stars": 3080,
+      "forks": 688,
+      "lang": "Python",
+      "created": "2026-11-15",
+      "pushed": "2026-11-22",
+      "topics": [],
+      "owner": "Hut-hzf",
+      "avatar": "https://avatars.githubusercontent.com/u/192405006?v=4",
+      "age_days": 8,
+      "stars_per_day": 385.0
+    },
+    {
+      "full_name": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "stars": 2093,
+      "forks": 199,
+      "lang": "Python",
+      "created": "2026-11-16",
+      "pushed": "2026-11-16",
+      "topics": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm",
+        "speculative-decoding"
+      ],
+      "owner": "sybil-solutions",
+      "avatar": "https://avatars.githubusercontent.com/u/284200730?v=4",
+      "age_days": 7,
+      "stars_per_day": 299.0
+    },
+    {
+      "full_name": "leanprover-community/riemann-hypothesis",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis",
+      "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "stars": 826,
+      "forks": 240,
+      "lang": "Lean",
+      "created": "2026-11-20",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "leanprover-community",
+      "avatar": "https://avatars.githubusercontent.com/u/41703605?v=4",
+      "age_days": 3,
+      "stars_per_day": 275.3
+    },
+    {
+      "full_name": "ivall/xcl",
+      "url": "https://github.com/ivall/xcl",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "stars": 773,
+      "forks": 66,
+      "lang": "Rust",
+      "created": "2026-11-20",
+      "pushed": "2026-11-23",
+      "topics": [
+        "d3d12",
+        "gdk",
+        "rdna2",
+        "xbox"
+      ],
+      "owner": "ivall",
+      "avatar": "https://avatars.githubusercontent.com/u/32580210?v=4",
+      "age_days": 3,
+      "stars_per_day": 257.7
+    },
+    {
+      "full_name": "sybil-solutions/skill-distill",
+      "url": "https://github.com/sybil-solutions/skill-distill",
+      "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "stars": 502,
+      "forks": 47,
+      "lang": "Python",
+      "created": "2026-11-21",
+      "pushed": "2026-11-21",
+      "topics": [],
+      "owner": "sybil-solutions",
+      "avatar": "https://avatars.githubusercontent.com/u/284200730?v=4",
+      "age_days": 2,
+      "stars_per_day": 251.0
+    },
+    {
+      "full_name": "w01fb0ss/PiBot",
+      "url": "https://github.com/w01fb0ss/PiBot",
+      "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "stars": 494,
+      "forks": 71,
+      "lang": "TypeScript",
+      "created": "2026-11-21",
+      "pushed": "2026-11-23",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "android",
+        "automation"
+      ],
+      "owner": "w01fb0ss",
+      "avatar": "https://avatars.githubusercontent.com/u/44709004?v=4",
+      "age_days": 2,
+      "stars_per_day": 247.0
+    },
+    {
+      "full_name": "Lemxy/WinRust",
+      "url": "https://github.com/Lemxy/WinRust",
+      "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+      "stars": 1351,
+      "forks": 79,
+      "lang": "Rust",
+      "created": "2026-11-17",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "Lemxy",
+      "avatar": "https://avatars.githubusercontent.com/u/183076981?v=4",
+      "age_days": 6,
+      "stars_per_day": 225.2
+    },
+    {
+      "full_name": "danielwh2/sprite-stacking",
+      "url": "https://github.com/danielwh2/sprite-stacking",
+      "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "stars": 629,
+      "forks": 49,
+      "lang": "HTML",
+      "created": "2026-11-20",
+      "pushed": "2026-11-21",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "cursor",
+        "fake-3d",
+        "gamedev"
+      ],
+      "owner": "danielwh2",
+      "avatar": "https://avatars.githubusercontent.com/u/51721416?v=4",
+      "age_days": 3,
+      "stars_per_day": 209.7
+    },
+    {
+      "full_name": "pierridotite/mobile-agent-testers",
+      "url": "https://github.com/pierridotite/mobile-agent-testers",
+      "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "stars": 1379,
+      "forks": 133,
+      "lang": "Python",
+      "created": "2026-11-16",
+      "pushed": "2026-11-23",
+      "topics": [
+        "accessibility-testing",
+        "ai-agents",
+        "ai-testing",
+        "android",
+        "android-emulator",
+        "claude"
+      ],
+      "owner": "pierridotite",
+      "avatar": "https://avatars.githubusercontent.com/u/132000863?v=4",
+      "age_days": 7,
+      "stars_per_day": 197.0
+    },
+    {
+      "full_name": "realdody/americas-recomp",
+      "url": "https://github.com/realdody/americas-recomp",
+      "desc": "",
+      "stars": 587,
+      "forks": 89,
+      "lang": "Other",
+      "created": "2026-11-20",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "realdody",
+      "avatar": "https://avatars.githubusercontent.com/u/65219829?v=4",
+      "age_days": 3,
+      "stars_per_day": 195.7
+    },
+    {
+      "full_name": "INK-Q/agy-fast",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "stars": 769,
+      "forks": 45,
+      "lang": "TypeScript",
+      "created": "2026-11-19",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai-agent",
+        "ai-coding",
+        "antigravity",
+        "antigravity-cli",
+        "antigravity-ide",
+        "antigravity-plugins"
+      ],
+      "owner": "INK-Q",
+      "avatar": "https://avatars.githubusercontent.com/u/55076202?v=4",
+      "age_days": 4,
+      "stars_per_day": 192.2
+    }
+  ],
+  "potential": [
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 286021,
+      "forks": 35602,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-22",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 102,
+      "stars_per_day": 2804.1
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 197431,
+      "forks": 11153,
+      "lang": "JavaScript",
+      "created": "2026-06-12",
+      "pushed": "2026-11-22",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules"
+      ],
+      "owner": "DietrichGebert",
+      "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "age_days": 164,
+      "stars_per_day": 1203.8
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "url": "https://github.com/odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "stars": 95915,
+      "forks": 2029,
+      "lang": "Python",
+      "created": "2026-05-31",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "odysseus-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/305418735?v=4",
+      "age_days": 176,
+      "stars_per_day": 545.0
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "stars": 84982,
+      "forks": 2388,
+      "lang": "JavaScript",
+      "created": "2026-09-24",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "Ebony-Vinyl",
+      "avatar": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "age_days": 60,
+      "stars_per_day": 1416.4
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "stars": 81156,
+      "forks": 14284,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-11-23",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 54,
+      "stars_per_day": 1502.9
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 77473,
+      "forks": 5220,
+      "lang": "JavaScript",
+      "created": "2026-06-18",
+      "pushed": "2026-09-14",
+      "topics": [],
+      "owner": "cloudflare",
+      "avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "age_days": 158,
+      "stars_per_day": 490.3
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "stars": 77264,
+      "forks": 6840,
+      "lang": "HTML",
+      "created": "2026-09-07",
+      "pushed": "2026-11-16",
+      "topics": [],
+      "owner": "eternity4719",
+      "avatar": "https://avatars.githubusercontent.com/u/230156667?v=4",
+      "age_days": 77,
+      "stars_per_day": 1003.4
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai",
+      "stars": 66492,
+      "forks": 13161,
+      "lang": "JavaScript",
+      "created": "2026-06-22",
+      "pushed": "2026-11-23",
+      "topics": [
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis"
+      ],
+      "owner": "bilawalsidhu",
+      "avatar": "https://avatars.githubusercontent.com/u/106619546?v=4",
+      "age_days": 154,
+      "stars_per_day": 431.8
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 60900,
+      "forks": 5915,
+      "lang": "C++",
+      "created": "2026-08-03",
+      "pushed": "2026-11-23",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v"
+      ],
+      "owner": "boykopovar",
+      "avatar": "https://avatars.githubusercontent.com/u/184076081?v=4",
+      "age_days": 112,
+      "stars_per_day": 543.8
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "stars": 60542,
+      "forks": 7952,
+      "lang": "Python",
+      "created": "2026-10-17",
+      "pushed": "2026-11-22",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal"
+      ],
+      "owner": "Gathin23",
+      "avatar": "https://avatars.githubusercontent.com/u/94786511?v=4",
+      "age_days": 37,
+      "stars_per_day": 1636.3
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "stars": 53120,
+      "forks": 6433,
+      "lang": "C",
+      "created": "2026-07-01",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "JustVugg",
+      "avatar": "https://avatars.githubusercontent.com/u/13022503?v=4",
+      "age_days": 145,
+      "stars_per_day": 366.3
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "stars": 47420,
+      "forks": 5314,
+      "lang": "C++",
+      "created": "2026-09-24",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "Niko1221",
+      "avatar": "https://avatars.githubusercontent.com/u/86886444?v=4",
+      "age_days": 60,
+      "stars_per_day": 790.3
+    },
+    {
+      "full_name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "stars": 42011,
+      "forks": 8317,
+      "lang": "Rust",
+      "created": "2026-10-31",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 23,
+      "stars_per_day": 1826.6
+    },
+    {
+      "full_name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "stars": 40433,
+      "forks": 3710,
+      "lang": "Go",
+      "created": "2026-09-23",
+      "pushed": "2026-11-23",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "owner": "yetone",
+      "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "age_days": 61,
+      "stars_per_day": 662.8
+    },
+    {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "stars": 36705,
+      "forks": 1660,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-23",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh"
+      ],
+      "owner": "anywhere-labs",
+      "avatar": "https://avatars.githubusercontent.com/u/286827603?v=4",
+      "age_days": 102,
+      "stars_per_day": 359.9
+    },
+    {
+      "full_name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "desc": "Free and open-source macOS menu bar toolkit.",
+      "stars": 35897,
+      "forks": 1869,
+      "lang": "Swift",
+      "created": "2026-06-12",
+      "pushed": "2026-11-23",
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake"
+      ],
+      "owner": "vorssaint",
+      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
+      "age_days": 164,
+      "stars_per_day": 218.9
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "stars": 35845,
+      "forks": 3210,
+      "lang": "Python",
+      "created": "2026-09-18",
+      "pushed": "2026-11-23",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert"
+      ],
+      "owner": "NandhaKishorM",
+      "avatar": "https://avatars.githubusercontent.com/u/48623612?v=4",
+      "age_days": 66,
+      "stars_per_day": 543.1
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": 32496,
+      "forks": 3502,
+      "lang": "Python",
+      "created": "2026-06-18",
+      "pushed": "2026-11-16",
+      "topics": [],
+      "owner": "baidu",
+      "avatar": "https://avatars.githubusercontent.com/u/13245940?v=4",
+      "age_days": 158,
+      "stars_per_day": 205.7
+    },
+    {
+      "full_name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "stars": 31215,
+      "forks": 3696,
+      "lang": "TypeScript",
+      "created": "2026-07-29",
+      "pushed": "2026-11-23",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "ai-video",
+        "compiler",
+        "dsl"
+      ],
+      "owner": "hypit-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/274059971?v=4",
+      "age_days": 117,
+      "stars_per_day": 266.8
+    },
+    {
+      "full_name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "stars": 30728,
+      "forks": 1478,
+      "lang": "Dart",
+      "created": "2026-10-25",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "owner": "ccch1mneyyy",
+      "avatar": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "age_days": 29,
+      "stars_per_day": 1059.6
+    }
+  ],
+  "active": [
+    {
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "stars": 501017,
+      "forks": 56283,
+      "lang": "Python",
+      "created": "2016-03-20",
+      "pushed": "2026-11-22",
+      "topics": [
+        "api",
+        "apis",
+        "dataset",
+        "development",
+        "free",
+        "list"
+      ],
+      "owner": "public-apis",
+      "avatar": "https://avatars.githubusercontent.com/u/51121562?v=4",
+      "age_days": 3900,
+      "stars_per_day": 128.5
+    },
+    {
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 475374,
+      "forks": 115849,
+      "lang": "TypeScript",
+      "created": "2026-04-14",
+      "pushed": "2026-11-23",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "android",
+        "claude-code",
+        "cli",
+        "cpp"
+      ],
+      "owner": "morluto",
+      "avatar": "https://avatars.githubusercontent.com/u/76467478?v=4",
+      "age_days": 223,
+      "stars_per_day": 2131.7
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 459536,
+      "forks": 47410,
+      "lang": "TypeScript",
+      "created": "2014-12-24",
+      "pushed": "2026-11-23",
+      "topics": [
+        "careers",
+        "certification",
+        "community",
+        "curriculum",
+        "d3",
+        "education"
+      ],
+      "owner": "freeCodeCamp",
+      "avatar": "https://avatars.githubusercontent.com/u/9892522?v=4",
+      "age_days": 4352,
+      "stars_per_day": 105.6
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": 395100,
+      "forks": 82962,
+      "lang": "TypeScript",
+      "created": "2025-11-24",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data"
+      ],
+      "owner": "openclaw",
+      "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "age_days": 364,
+      "stars_per_day": 1085.4
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "stars": 372631,
+      "forks": 45379,
+      "lang": "TypeScript",
+      "created": "2017-03-15",
+      "pushed": "2026-11-23",
+      "topics": [
+        "angular-roadmap",
+        "backend-roadmap",
+        "blockchain-roadmap",
+        "computer-science",
+        "dba-roadmap",
+        "developer-roadmap"
+      ],
+      "owner": "nilbuild",
+      "avatar": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "age_days": 3540,
+      "stars_per_day": 105.3
+    },
+    {
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "stars": 339807,
+      "forks": 15918,
+      "lang": "Other",
+      "created": "2015-06-01",
+      "pushed": "2026-11-22",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud",
+        "free-software",
+        "hosting",
+        "privacy"
+      ],
+      "owner": "awesome-selfhosted",
+      "avatar": "https://avatars.githubusercontent.com/u/24270415?v=4",
+      "age_days": 4193,
+      "stars_per_day": 81.0
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 309463,
+      "forks": 45519,
+      "lang": "JavaScript",
+      "created": "2026-01-18",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm"
+      ],
+      "owner": "affaan-m",
+      "avatar": "https://avatars.githubusercontent.com/u/124439313?v=4",
+      "age_days": 309,
+      "stars_per_day": 1001.5
+    },
+    {
+      "full_name": "practical-tutorials/project-based-learning",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "desc": "Curated list of project-based tutorials",
+      "stars": 290333,
+      "forks": 36853,
+      "lang": "Python",
+      "created": "2017-04-12",
+      "pushed": "2026-11-23",
+      "topics": [
+        "beginner-project",
+        "cpp",
+        "golang",
+        "javascript",
+        "project",
+        "python"
+      ],
+      "owner": "practical-tutorials",
+      "avatar": "https://avatars.githubusercontent.com/u/89421154?v=4",
+      "age_days": 3512,
+      "stars_per_day": 82.7
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 286021,
+      "forks": 35602,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-22",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 102,
+      "stars_per_day": 2804.1
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": 265631,
+      "forks": 60108,
+      "lang": "Python",
+      "created": "2025-07-22",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude"
+      ],
+      "owner": "NousResearch",
+      "avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "age_days": 489,
+      "stars_per_day": 543.2
+    },
+    {
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "desc": "Linux kernel source tree",
+      "stars": 256430,
+      "forks": 66712,
+      "lang": "C",
+      "created": "2011-09-04",
+      "pushed": "2026-11-22",
+      "topics": [],
+      "owner": "torvalds",
+      "avatar": "https://avatars.githubusercontent.com/u/1024025?v=4",
+      "age_days": 5559,
+      "stars_per_day": 46.1
+    },
+    {
+      "full_name": "react/react",
+      "url": "https://github.com/react/react",
+      "desc": "The library for web and native user interfaces.",
+      "stars": 252796,
+      "forks": 51805,
+      "lang": "JavaScript",
+      "created": "2013-05-24",
+      "pushed": "2026-11-23",
+      "topics": [
+        "declarative",
+        "frontend",
+        "javascript",
+        "library",
+        "react",
+        "ui"
+      ],
+      "owner": "react",
+      "avatar": "https://avatars.githubusercontent.com/u/102812?v=4",
+      "age_days": 4931,
+      "stars_per_day": 51.3
+    }
+  ],
+  "movers": [
+    {
+      "full_name": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "stars": 28529,
+      "forks": 2585,
+      "lang": "Python",
+      "created": "2026-11-20",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "ItsNotRexed",
+      "avatar": "https://avatars.githubusercontent.com/u/300290919?v=4",
+      "age_days": 3,
+      "stars_per_day": 9509.7,
+      "delta": 13706
+    },
+    {
+      "full_name": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "stars": 3028,
+      "forks": 194,
+      "lang": "Rust",
+      "created": "2026-11-21",
+      "pushed": "2026-11-23",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "developer-tools"
+      ],
+      "owner": "EL4CTEO",
+      "avatar": "https://avatars.githubusercontent.com/u/215285446?v=4",
+      "age_days": 2,
+      "stars_per_day": 1514.0,
+      "delta": 1160
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "stars": 84982,
+      "forks": 2388,
+      "lang": "JavaScript",
+      "created": "2026-09-24",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "Ebony-Vinyl",
+      "avatar": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "age_days": 60,
+      "stars_per_day": 1416.4,
+      "delta": 1041
+    },
+    {
+      "full_name": "pierridotite/mobile-agent-testers",
+      "url": "https://github.com/pierridotite/mobile-agent-testers",
+      "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "stars": 1379,
+      "forks": 133,
+      "lang": "Python",
+      "created": "2026-11-16",
+      "pushed": "2026-11-23",
+      "topics": [
+        "accessibility-testing",
+        "ai-agents",
+        "ai-testing",
+        "android",
+        "android-emulator",
+        "claude"
+      ],
+      "owner": "pierridotite",
+      "avatar": "https://avatars.githubusercontent.com/u/132000863?v=4",
+      "age_days": 7,
+      "stars_per_day": 197.0,
+      "delta": 866
+    },
+    {
+      "full_name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "stars": 42011,
+      "forks": 8317,
+      "lang": "Rust",
+      "created": "2026-10-31",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 23,
+      "stars_per_day": 1826.6,
+      "delta": 818
+    },
+    {
+      "full_name": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "desc": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "stars": 3080,
+      "forks": 688,
+      "lang": "Python",
+      "created": "2026-11-15",
+      "pushed": "2026-11-22",
+      "topics": [],
+      "owner": "Hut-hzf",
+      "avatar": "https://avatars.githubusercontent.com/u/192405006?v=4",
+      "age_days": 8,
+      "stars_per_day": 385.0,
+      "delta": 721
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 60900,
+      "forks": 5915,
+      "lang": "C++",
+      "created": "2026-08-03",
+      "pushed": "2026-11-23",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v"
+      ],
+      "owner": "boykopovar",
+      "avatar": "https://avatars.githubusercontent.com/u/184076081?v=4",
+      "age_days": 112,
+      "stars_per_day": 543.8,
+      "delta": 652
+    },
+    {
+      "full_name": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "stars": 8627,
+      "forks": 697,
+      "lang": "Rust",
+      "created": "2026-11-16",
+      "pushed": "2026-11-23",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "code-migration",
+        "codex",
+        "ffi"
+      ],
+      "owner": "erkamyaman",
+      "avatar": "https://avatars.githubusercontent.com/u/88717125?v=4",
+      "age_days": 7,
+      "stars_per_day": 1232.4,
+      "delta": 647
+    },
+    {
+      "full_name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "stars": 30728,
+      "forks": 1478,
+      "lang": "Dart",
+      "created": "2026-10-25",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "owner": "ccch1mneyyy",
+      "avatar": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "age_days": 29,
+      "stars_per_day": 1059.6,
+      "delta": 562
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 197431,
+      "forks": 11153,
+      "lang": "JavaScript",
+      "created": "2026-06-12",
+      "pushed": "2026-11-22",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules"
+      ],
+      "owner": "DietrichGebert",
+      "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "age_days": 164,
+      "stars_per_day": 1203.8,
+      "delta": 557
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 286021,
+      "forks": 35602,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-22",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 102,
+      "stars_per_day": 2804.1,
+      "delta": 477
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "stars": 47420,
+      "forks": 5314,
+      "lang": "C++",
+      "created": "2026-09-24",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "Niko1221",
+      "avatar": "https://avatars.githubusercontent.com/u/86886444?v=4",
+      "age_days": 60,
+      "stars_per_day": 790.3,
+      "delta": 439
+    },
+    {
+      "full_name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "stars": 40433,
+      "forks": 3710,
+      "lang": "Go",
+      "created": "2026-09-23",
+      "pushed": "2026-11-23",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "owner": "yetone",
+      "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "age_days": 61,
+      "stars_per_day": 662.8,
+      "delta": 401
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 77473,
+      "forks": 5220,
+      "lang": "JavaScript",
+      "created": "2026-06-18",
+      "pushed": "2026-09-14",
+      "topics": [],
+      "owner": "cloudflare",
+      "avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "age_days": 158,
+      "stars_per_day": 490.3,
+      "delta": 377
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": 32496,
+      "forks": 3502,
+      "lang": "Python",
+      "created": "2026-06-18",
+      "pushed": "2026-11-16",
+      "topics": [],
+      "owner": "baidu",
+      "avatar": "https://avatars.githubusercontent.com/u/13245940?v=4",
+      "age_days": 158,
+      "stars_per_day": 205.7,
+      "delta": 375
+    },
+    {
+      "full_name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "desc": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
+      "stars": 23637,
+      "forks": 3168,
+      "lang": "JavaScript",
+      "created": "2026-07-18",
+      "pushed": "2026-11-23",
+      "topics": [
+        "apple-watch",
+        "bodyweight",
+        "docker",
+        "fitness",
+        "fitness-tracker",
+        "gym"
+      ],
+      "owner": "DuarteSantos8",
+      "avatar": "https://avatars.githubusercontent.com/u/171949022?v=4",
+      "age_days": 128,
+      "stars_per_day": 184.7,
+      "delta": 346
+    },
+    {
+      "full_name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 27143,
+      "forks": 3868,
+      "lang": "TypeScript",
+      "created": "2026-08-11",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron"
+      ],
+      "owner": "milind-soni",
+      "avatar": "https://avatars.githubusercontent.com/u/46266943?v=4",
+      "age_days": 104,
+      "stars_per_day": 261.0,
+      "delta": 301
+    },
+    {
+      "full_name": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "stars": 1589,
+      "forks": 104,
+      "lang": "Rust",
+      "created": "2026-11-21",
+      "pushed": "2026-11-23",
+      "topics": [],
+      "owner": "omonkeyz",
+      "avatar": "https://avatars.githubusercontent.com/u/246595960?v=4",
+      "age_days": 2,
+      "stars_per_day": 794.5,
+      "delta": 290
+    },
+    {
+      "full_name": "KnifeLemon/Filee",
+      "url": "https://github.com/KnifeLemon/Filee",
+      "desc": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "stars": 30221,
+      "forks": 1718,
+      "lang": "C#",
+      "created": "2026-09-29",
+      "pushed": "2026-11-23",
+      "topics": [
+        "audio-converter",
+        "avalonia",
+        "batch-conversion",
+        "converter",
+        "csharp",
+        "document-converter"
+      ],
+      "owner": "KnifeLemon",
+      "avatar": "https://avatars.githubusercontent.com/u/13937016?v=4",
+      "age_days": 55,
+      "stars_per_day": 549.5,
+      "delta": 263
+    },
+    {
+      "full_name": "INK-Q/agy-fast",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "stars": 769,
+      "forks": 45,
+      "lang": "TypeScript",
+      "created": "2026-11-19",
+      "pushed": "2026-11-23",
+      "topics": [
+        "ai-agent",
+        "ai-coding",
+        "antigravity",
+        "antigravity-cli",
+        "antigravity-ide",
+        "antigravity-plugins"
+      ],
+      "owner": "INK-Q",
+      "avatar": "https://avatars.githubusercontent.com/u/55076202?v=4",
+      "age_days": 4,
+      "stars_per_day": 192.2,
+      "delta": 263
+    }
+  ],
+  "annotations": {
+    "ItsNotRexed/Leonida": {
+      "name": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "tag": "其他",
+      "auto": true
+    },
+    "EL4CTEO/fast-anything": {
+      "name": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "os6/nospeaker": {
+      "name": "make your macbook's trackpad talk using its haptic motor",
+      "tag": "资源合集",
+      "auto": true
+    },
+    "erkamyaman/rust-anything": {
+      "name": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "omonkeyz/xbox-emulator": {
+      "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "tag": "其他",
+      "auto": true
+    },
+    "bookwjitchieni1986/blender-ai-mcp-addon": {
+      "name": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "iamajmeena/neonclipping": {
+      "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "tag": "模型/推理",
+      "auto": true
+    },
+    "AFK-surf/xnulinux": {
+      "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "R0Y00/Xbox2Windows": {
+      "name": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
+      "tag": "创意/AI生成",
+      "auto": true
+    },
+    "Hut-hzf/ung220z-tool": {
+      "name": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "tag": "其他",
+      "auto": true
+    },
+    "sybil-solutions/inference-optimisation-skill": {
+      "name": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "leanprover-community/riemann-hypothesis": {
+      "name": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "tag": "其他",
+      "auto": true
+    },
+    "ivall/xcl": {
+      "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "tag": "其他",
+      "auto": true
+    },
+    "sybil-solutions/skill-distill": {
+      "name": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "w01fb0ss/PiBot": {
+      "name": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "Lemxy/WinRust": {
+      "name": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+      "tag": "其他",
+      "auto": true
+    },
+    "danielwh2/sprite-stacking": {
+      "name": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "pierridotite/mobile-agent-testers": {
+      "name": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "realdody/americas-recomp": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "INK-Q/agy-fast": {
+      "name": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "deepseek-ai/deepseek-harness": {
+      "name": "DeepSeek 官方 Agent 框架，主打「一切皆插件」，半年拿到 24 万星",
+      "tag": "AI Agent",
+      "note": "本榜增长最快的项目，生态地位类似 Claude Code 的插件体系"
+    },
+    "DietrichGebert/ponytail": {
+      "name": "让 AI 像最懒的资深工程师那样思考——最好的代码是你从没写过的代码",
+      "tag": "Agent Skill",
+      "note": "理念是让 AI 少写代码、多复用，反向优化 token 消耗"
+    },
+    "odysseus-dev/odysseus": {
+      "name": "可自托管的 AI 工作台",
+      "tag": "自托管"
+    },
+    "Ebony-Vinyl/dsh-our-free-model": {
+      "name": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "storytold/photocraft": {
+      "name": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "cloudflare/security-audit-skill": {
+      "name": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "eternity4719/HowToLiveBetter": {
+      "name": "高性价比人生指南：长寿防病、急救、省钱理财、法律红线、失业工伤、医保社保、婚育育儿、创业合规、出国技能，每条标明成本收益与证据等级",
+      "tag": "生活指南",
+      "note": "你正在办跨省医保备案，里面医保社保那一节可能用得上"
+    },
+    "bilawalsidhu/gods-eye-view": {
+      "name": "浏览器里的间谍卫星模拟器，游玩用的是真实开源地理数据",
+      "tag": "地理可视化"
+    },
+    "boykopovar/AnyPS5": {
+      "name": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "tag": "其他",
+      "auto": true
+    },
+    "Gathin23/cleanyourtv": {
+      "name": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "tag": "其他",
+      "auto": true
+    },
+    "JustVugg/colibri": {
+      "name": "纯 C 写的推理引擎，无依赖，把专家权重从磁盘流式加载，让普通机器也能跑超大 MoE 模型",
+      "tag": "本地推理"
+    },
+    "Niko1221/Strata": {
+      "name": "让 125B 超大模型跑在 8GB 显卡上：一键安装，本地起 OpenAI/Anthropic 兼容接口",
+      "tag": "本地推理",
+      "note": "显存不够跑大模型的痛点方案，消费级硬件就能用"
+    },
+    "storytold/craft-anything": {
+      "name": "Craft Anything: understand how any software works, and craft your own.",
+      "tag": "其他",
+      "auto": true
+    },
+    "yetone/magpie": {
+      "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
+      "tag": "开发工具"
+    },
+    "anywhere-labs/dsh-desktop": {
+      "name": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "vorssaint/vorssaint-utils": {
+      "name": "Free and open-source macOS menu bar toolkit.",
+      "tag": "其他",
+      "auto": true
+    },
+    "NandhaKishorM/laya": {
+      "name": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "tag": "模型/推理",
+      "auto": true
+    },
+    "baidu/Unlimited-OCR": {
+      "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "tag": "其他",
+      "auto": true
+    },
+    "hypit-ai/hypit": {
+      "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "ccch1mneyyy/dsh-Go": {
+      "name": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "public-apis/public-apis": {
+      "name": "免费 API 大合集，做项目找数据源先看这个",
+      "tag": "资源合集",
+      "note": "48 万星，程序员必备清单"
+    },
+    "morluto/rea": {
+      "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "freeCodeCamp/freeCodeCamp": {
+      "name": "免费学编程的课程与代码库",
+      "tag": "学习资源"
+    },
+    "openclaw/openclaw": {
+      "name": "跨平台通用 AI 助手，主打「真能干活」",
+      "tag": "AI Agent"
+    },
+    "nilbuild/developer-roadmap": {
+      "name": "开发者成长路线图，各技术方向该学什么一目了然",
+      "tag": "学习资源"
+    },
+    "awesome-selfhosted/awesome-selfhosted": {
+      "name": "可自托管的开源网络服务清单",
+      "tag": "资源合集"
+    },
+    "affaan-m/ECC": {
+      "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
+      "tag": "AI Agent"
+    },
+    "practical-tutorials/project-based-learning": {
+      "name": "通过做项目来学编程的教程合集",
+      "tag": "学习资源"
+    },
+    "NousResearch/hermes-agent": {
+      "name": "随你一起成长的 Agent",
+      "tag": "AI Agent"
+    },
+    "torvalds/linux": {
+      "name": "Linux 内核源码",
+      "tag": "操作系统"
+    },
+    "react/react": {
+      "name": "React 前端框架源码",
+      "tag": "前端框架"
+    }
+  }
+}

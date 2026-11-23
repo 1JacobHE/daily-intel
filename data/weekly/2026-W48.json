@@ -1,10 +1,10 @@
 {
   "week": "2026-W48",
   "date_range": [
-    "2026-11-23",
-    "2026-11-17"
+    "2026-11-24",
+    "2026-11-18"
   ],
-  "generated_at": "2026-11-23 08:00",
+  "generated_at": "2026-11-24 03:28",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
@@ -14,11 +14,26 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 464092,
-      "stars_last": 474062,
-      "stars_growth": 9970,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 466271,
+      "stars_last": 475374,
+      "stars_growth": 9103,
+      "trend": "flat"
+    },
+    {
+      "full_name": "erkamyaman/rust-anything",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "lang": "Rust",
+      "days_on_board": 7,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 1242,
+      "stars_last": 8627,
+      "stars_growth": 7385,
       "trend": "flat"
     },
     {
@@ -29,11 +44,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 77279,
-      "stars_last": 83941,
-      "stars_growth": 6662,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 78515,
+      "stars_last": 84982,
+      "stars_growth": 6467,
       "trend": "flat"
     },
     {
@@ -44,11 +59,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 34763,
-      "stars_last": 41193,
-      "stars_growth": 6430,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 35702,
+      "stars_last": 42011,
+      "stars_growth": 6309,
       "trend": "flat"
     },
     {
@@ -59,11 +74,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 54529,
-      "stars_last": 60248,
-      "stars_growth": 5719,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 54918,
+      "stars_last": 60900,
+      "stars_growth": 5982,
       "trend": "flat"
     },
     {
@@ -74,11 +89,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 192158,
-      "stars_last": 196874,
-      "stars_growth": 4716,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 193014,
+      "stars_last": 197431,
+      "stars_growth": 4417,
       "trend": "flat"
     },
     {
@@ -89,11 +104,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 282331,
-      "stars_last": 285544,
-      "stars_growth": 3213,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 282981,
+      "stars_last": 286021,
+      "stars_growth": 3040,
       "trend": "flat"
     },
     {
@@ -104,11 +119,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 73934,
-      "stars_last": 77096,
-      "stars_growth": 3162,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 74775,
+      "stars_last": 77473,
+      "stars_growth": 2698,
       "trend": "flat"
     },
     {
@@ -119,11 +134,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 37545,
-      "stars_last": 40032,
-      "stars_growth": 2487,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 38088,
+      "stars_last": 40433,
+      "stars_growth": 2345,
       "trend": "flat"
     },
     {
@@ -134,11 +149,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 44929,
-      "stars_last": 46981,
-      "stars_growth": 2052,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 45305,
+      "stars_last": 47420,
+      "stars_growth": 2115,
       "trend": "flat"
     },
     {
@@ -149,11 +164,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 58676,
-      "stars_last": 60364,
-      "stars_growth": 1688,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 59024,
+      "stars_last": 60542,
+      "stars_growth": 1518,
       "trend": "flat"
     },
     {
@@ -164,11 +179,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 263916,
-      "stars_last": 265424,
-      "stars_growth": 1508,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 264216,
+      "stars_last": 265631,
+      "stars_growth": 1415,
       "trend": "flat"
     },
     {
@@ -179,71 +194,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 51582,
-      "stars_last": 52920,
-      "stars_growth": 1338,
-      "trend": "flat"
-    },
-    {
-      "full_name": "storytold/photocraft",
-      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
-      "lang": "Rust",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 79827,
-      "stars_last": 81039,
-      "stars_growth": 1212,
-      "trend": "flat"
-    },
-    {
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "lang": "JavaScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 65299,
-      "stars_last": 66380,
-      "stars_growth": 1081,
-      "trend": "flat"
-    },
-    {
-      "full_name": "eternity4719/HowToLiveBetter",
-      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "lang": "HTML",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 76112,
-      "stars_last": 77080,
-      "stars_growth": 968,
-      "trend": "flat"
-    },
-    {
-      "full_name": "hypit-ai/hypit",
-      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 30173,
-      "stars_last": 31109,
-      "stars_growth": 936,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 51766,
+      "stars_last": 53120,
+      "stars_growth": 1354,
       "trend": "flat"
     },
     {
@@ -254,11 +209,56 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 31269,
-      "stars_last": 32121,
-      "stars_growth": 852,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 31291,
+      "stars_last": 32496,
+      "stars_growth": 1205,
+      "trend": "flat"
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "lang": "Rust",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 80095,
+      "stars_last": 81156,
+      "stars_growth": 1061,
+      "trend": "flat"
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "lang": "HTML",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 76316,
+      "stars_last": 77264,
+      "stars_growth": 948,
+      "trend": "flat"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 65559,
+      "stars_last": 66492,
+      "stars_growth": 933,
       "trend": "flat"
     },
     {
@@ -269,26 +269,26 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 34990,
-      "stars_last": 35771,
-      "stars_growth": 781,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 35096,
+      "stars_last": 35897,
+      "stars_growth": 801,
       "trend": "flat"
     },
     {
-      "full_name": "openclaw/openclaw",
-      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "full_name": "hypit-ai/hypit",
+      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
       "lang": "TypeScript",
       "days_on_board": 7,
       "boards": [
-        "活跃榜"
+        "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 394601,
-      "stars_last": 395055,
-      "stars_growth": 454,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 30444,
+      "stars_last": 31215,
+      "stars_growth": 771,
       "trend": "flat"
     },
     {
@@ -299,11 +299,26 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 36168,
-      "stars_last": 36618,
-      "stars_growth": 450,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 36268,
+      "stars_last": 36705,
+      "stars_growth": 437,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 394685,
+      "stars_last": 395100,
+      "stars_growth": 415,
       "trend": "flat"
     },
     {
@@ -314,11 +329,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 372174,
-      "stars_last": 372579,
-      "stars_growth": 405,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 372242,
+      "stars_last": 372631,
+      "stars_growth": 389,
       "trend": "flat"
     },
     {
@@ -329,11 +344,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 459224,
-      "stars_last": 459500,
-      "stars_growth": 276,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 459265,
+      "stars_last": 459536,
+      "stars_growth": 271,
       "trend": "flat"
     },
     {
@@ -344,11 +359,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 35605,
-      "stars_last": 35835,
-      "stars_growth": 230,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 35642,
+      "stars_last": 35845,
+      "stars_growth": 203,
       "trend": "flat"
     },
     {
@@ -359,26 +374,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 95725,
-      "stars_last": 95915,
-      "stars_growth": 190,
-      "trend": "flat"
-    },
-    {
-      "full_name": "erkamyaman/rust-anything",
-      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-      "lang": "Rust",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
       "first_date": "2026-11-18",
-      "last_date": "2026-11-23",
-      "stars_first": 1242,
-      "stars_last": 7980,
-      "stars_growth": 6738,
+      "last_date": "2026-11-24",
+      "stars_first": 95768,
+      "stars_last": 95915,
+      "stars_growth": 147,
       "trend": "flat"
     },
     {
@@ -389,27 +389,42 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-22",
-      "stars_first": 304630,
-      "stars_last": 308366,
-      "stars_growth": 3736,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 305482,
+      "stars_last": 309463,
+      "stars_growth": 3981,
       "trend": "flat"
     },
     {
-      "full_name": "KnifeLemon/Filee",
-      "desc": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-      "lang": "C#",
+      "full_name": "Hut-hzf/ung220z-tool",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "lang": "Python",
       "days_on_board": 6,
       "boards": [
-        "势能榜"
+        "火箭榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-22",
-      "stars_first": 28057,
-      "stars_last": 29690,
-      "stars_growth": 1633,
-      "trend": "flat"
+      "first_date": "2026-11-19",
+      "last_date": "2026-11-24",
+      "stars_first": 1159,
+      "stars_last": 3080,
+      "stars_growth": 1921,
+      "trend": "down"
+    },
+    {
+      "full_name": "sybil-solutions/inference-optimisation-skill",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-24",
+      "stars_first": 915,
+      "stars_last": 2093,
+      "stars_growth": 1178,
+      "trend": "down"
     },
     {
       "full_name": "public-apis/public-apis",
@@ -419,57 +434,36 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 499613,
-      "stars_last": 500852,
-      "stars_growth": 1239,
+      "first_date": "2026-11-19",
+      "last_date": "2026-11-24",
+      "stars_first": 500069,
+      "stars_last": 501017,
+      "stars_growth": 948,
       "trend": "flat"
     },
     {
-      "full_name": "haziqahmedqasmi/PeakCut",
-      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "lang": "Python",
-      "days_on_board": 6,
+      "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+      "lang": "C++",
+      "days_on_board": 5,
       "boards": [
         "火箭榜"
       ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 654,
-      "stars_last": 1758,
-      "stars_growth": 1104,
-      "trend": "down"
-    },
-    {
-      "full_name": "duwqijlk/muse-protocol",
-      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "lang": "Python",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-23",
-      "stars_first": 1435,
-      "stars_last": 1752,
-      "stars_growth": 317,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-22",
+      "stars_first": 2624,
+      "stars_last": 5806,
+      "stars_growth": 3182,
       "trend": "down"
     }
   ],
   "news_mainlines": [
     {
       "topicLabel": "综合",
-      "title": "英伟达跌幅扩大至10%",
+      "title": "数据显示：随着英伟达股价升至168.5美元 英伟达卖空者预计将录得约122亿美元的账面亏损",
       "days": 5,
       "kind": "topic_line",
       "points": [
-        {
-          "date": "2026-11-17",
-          "title": "英伟达推出DGX Spark高性能计算开发者套件",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-18",
           "title": "英伟达临时CEO克雷斯称 预计第四季度将是毛利率的低点",
@@ -478,7 +472,7 @@
         },
         {
           "date": "2026-11-19",
-          "title": "英伟达单季营收突破千亿美元 国产芯片及晶圆代工需求更加确定",
+          "title": "瑞银下调英伟达目标价",
           "heat": 1.0,
           "sources": 1
         },
@@ -493,6 +487,12 @@
           "title": "英伟达暴跌14% “AI交易”抛售加剧使得美股进入回调区间",
           "heat": 2.0,
           "sources": 2
+        },
+        {
+          "date": "2026-11-24",
+          "title": "美股纳指高开近7% 英伟达大涨33% 芯片股集体高开",
+          "heat": 1.0,
+          "sources": 1
         }
       ]
     },
@@ -510,7 +510,7 @@
         },
         {
           "date": "2026-11-19",
-          "title": "美联储12月加息25个基点的概率为92.7%",
+          "title": "美联储理事沃勒：若不释放1月加息的信号 应在12月加息50个基点",
           "heat": 1.0,
           "sources": 1
         },
@@ -536,16 +536,48 @@
     },
     {
       "topicLabel": "综合",
-      "title": "A股限售股解禁一览：30.05亿元市值限售股今日解禁",
+      "title": "据报道 SpaceX需要建成新的数据中心才能履行Anthropic的订单",
       "days": 5,
-      "kind": "event_line",
+      "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-17",
-          "title": "A股限售股解禁一览：13.97亿元市值限售股今日解禁",
+          "date": "2026-11-18",
+          "title": "Anthropic据称已吸引多笔规模达到100亿美元或以上的IPO认购订单",
           "heat": 1.0,
           "sources": 1
         },
+        {
+          "date": "2026-11-19",
+          "title": "Anthropic IPO扩大规模后发行了9.796亿股股票 募资813.1亿美元",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-20",
+          "title": "美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-21",
+          "title": "Anthropic跌幅收窄至不足6% 此前一度跌约10%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-24",
+          "title": "据报道 SpaceX需要建成新的数据中心才能履行Anthropic的订单",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "A股限售股解禁一览：30.05亿元市值限售股今日解禁",
+      "days": 4,
+      "kind": "event_line",
+      "points": [
         {
           "date": "2026-11-18",
           "title": "A股限售股解禁一览：92.51亿元市值限售股今日解禁",
@@ -573,37 +605,17 @@
       ]
     },
     {
-      "topicLabel": "综合",
-      "title": "据报道：Anthropic的IPO吸引了约1150亿至1200亿美元的散户需求",
+      "topicLabel": "宏观经济/政策",
+      "title": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
       "days": 3,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-19",
-          "title": "Anthropic IPO扩大规模后发行了9.796亿股股票 募资813.1亿美元",
+          "date": "2026-11-18",
+          "title": "美联储哈马克支持完善常设回购工具 强调区分货币政策与市场功能性操作",
           "heat": 1.0,
           "sources": 1
         },
-        {
-          "date": "2026-11-20",
-          "title": "美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元",
-          "heat": 2.0,
-          "sources": 2
-        },
-        {
-          "date": "2026-11-21",
-          "title": "Anthropic较早些时候的低点有所反弹 最新下跌10%",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "宏观经济/政策",
-      "title": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
         {
           "date": "2026-11-19",
           "title": "美联储会议纪要公布后，美元指数触及日内高点",
@@ -620,13 +632,111 @@
     },
     {
       "topicLabel": "综合",
+      "title": "首批高标准数字园区建设对象名单公布",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-19",
+          "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-20",
+          "title": "商务部：健康、智能、绿色成“双十一”关键词｜快讯",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-24",
+          "title": "首批高标准数字园区建设对象名单公布",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "特斯拉涨幅扩大至12%",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-19",
+          "title": "马斯克：特斯拉将生产没有方向盘的自动驾驶Model Y",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-20",
+          "title": "马斯克24小时中国行：点赞完深圳后飞往上海",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-24",
+          "title": "特斯拉涨幅扩大至12%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "强势美元“冲击波”再起",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-18",
+          "title": "美国制造业产值连续第二个月增长0.3% 延续今年回升势头",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-20",
+          "title": "有色大跌 专家谈后市演绎",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-23",
+          "title": "强势美元“冲击波”再起",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "资金面扰动有限 流动性平稳跨月可期",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-20",
+          "title": "巴西央行宣布举行美元即期外汇拍卖",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-23",
+          "title": "资金面扰动有限 流动性平稳跨月可期",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
       "title": "沪深交易所、中国结算推出一揽子降费措施",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-17",
-          "title": "中国证监会召开国际顾问委员会会议 聚焦增强资本市场韧性等议题",
+          "date": "2026-11-18",
+          "title": "影石创新：科技创新公司债券发行获证监会注册批复，面值总额不超20亿元",
           "heat": 1.0,
           "sources": 1
         },
@@ -660,46 +770,6 @@
     },
     {
       "topicLabel": "综合",
-      "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-21",
-          "title": "美国财政部：对四名伊朗个人实施制裁，这些人担任“石油受托人”",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-22",
-          "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "马斯克：特斯拉将生产没有方向盘的自动驾驶Model Y",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-17",
-          "title": "特斯拉拟投30亿欧元扩建德国工厂 瞄准年产百万辆Cybercab",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-19",
-          "title": "马斯克：特斯拉将生产没有方向盘的自动驾驶Model Y",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
       "title": "稳步扩大金融市场双向开放",
       "days": 2,
       "kind": "topic_line",
@@ -717,52 +787,12 @@
           "sources": 1
         }
       ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "强势美元“冲击波”再起",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-20",
-          "title": "有色大跌 专家谈后市演绎",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-23",
-          "title": "强势美元“冲击波”再起",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "费城半导体指数跌幅扩大至10%",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-17",
-          "title": "美股收跌：纳指跌超2% 费城半导体指数重挫逾5% 消费零售股逆势走高",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-21",
-          "title": "费城半导体指数跌幅扩大至10%",
-          "heat": 2.0,
-          "sources": 2
-        }
-      ]
     }
   ],
   "stat": {
     "repos_tracked": 97,
-    "repos_multi_day": 65,
-    "mainlines": 14
+    "repos_multi_day": 67,
+    "mainlines": 24
   },
   "provenance": {
     "method": "aggregate_over_archives",
