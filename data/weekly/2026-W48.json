@@ -1,0 +1,772 @@
+{
+  "week": "2026-W48",
+  "date_range": [
+    "2026-11-23",
+    "2026-11-17"
+  ],
+  "generated_at": "2026-11-23 08:00",
+  "github_persistent": [
+    {
+      "full_name": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 464092,
+      "stars_last": 474062,
+      "stars_growth": 9970,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 77279,
+      "stars_last": 83941,
+      "stars_growth": 6662,
+      "trend": "flat"
+    },
+    {
+      "full_name": "storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "lang": "Rust",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 34763,
+      "stars_last": 41193,
+      "stars_growth": 6430,
+      "trend": "flat"
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 54529,
+      "stars_last": 60248,
+      "stars_growth": 5719,
+      "trend": "flat"
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 192158,
+      "stars_last": 196874,
+      "stars_growth": 4716,
+      "trend": "flat"
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 282331,
+      "stars_last": 285544,
+      "stars_growth": 3213,
+      "trend": "flat"
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 73934,
+      "stars_last": 77096,
+      "stars_growth": 3162,
+      "trend": "flat"
+    },
+    {
+      "full_name": "yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "lang": "Go",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 37545,
+      "stars_last": 40032,
+      "stars_growth": 2487,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "lang": "C++",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 44929,
+      "stars_last": 46981,
+      "stars_growth": 2052,
+      "trend": "flat"
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 58676,
+      "stars_last": 60364,
+      "stars_growth": 1688,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 263916,
+      "stars_last": 265424,
+      "stars_growth": 1508,
+      "trend": "flat"
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "lang": "C",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 51582,
+      "stars_last": 52920,
+      "stars_growth": 1338,
+      "trend": "flat"
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "lang": "Rust",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 79827,
+      "stars_last": 81039,
+      "stars_growth": 1212,
+      "trend": "flat"
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 65299,
+      "stars_last": 66380,
+      "stars_growth": 1081,
+      "trend": "flat"
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "lang": "HTML",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 76112,
+      "stars_last": 77080,
+      "stars_growth": 968,
+      "trend": "flat"
+    },
+    {
+      "full_name": "hypit-ai/hypit",
+      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 30173,
+      "stars_last": 31109,
+      "stars_growth": 936,
+      "trend": "flat"
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 31269,
+      "stars_last": 32121,
+      "stars_growth": 852,
+      "trend": "flat"
+    },
+    {
+      "full_name": "vorssaint/vorssaint-utils",
+      "desc": "Free and open-source macOS menu bar toolkit.",
+      "lang": "Swift",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 34990,
+      "stars_last": 35771,
+      "stars_growth": 781,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 394601,
+      "stars_last": 395055,
+      "stars_growth": 454,
+      "trend": "flat"
+    },
+    {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 36168,
+      "stars_last": 36618,
+      "stars_growth": 450,
+      "trend": "flat"
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 372174,
+      "stars_last": 372579,
+      "stars_growth": 405,
+      "trend": "flat"
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 459224,
+      "stars_last": 459500,
+      "stars_growth": 276,
+      "trend": "flat"
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 35605,
+      "stars_last": 35835,
+      "stars_growth": 230,
+      "trend": "flat"
+    },
+    {
+      "full_name": "odysseus-dev/odysseus",
+      "desc": "Self-hosted AI workspace.",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 95725,
+      "stars_last": 95915,
+      "stars_growth": 190,
+      "trend": "flat"
+    },
+    {
+      "full_name": "erkamyaman/rust-anything",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "lang": "Rust",
+      "days_on_board": 6,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-23",
+      "stars_first": 1242,
+      "stars_last": 7980,
+      "stars_growth": 6738,
+      "trend": "flat"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "days_on_board": 6,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-22",
+      "stars_first": 304630,
+      "stars_last": 308366,
+      "stars_growth": 3736,
+      "trend": "flat"
+    },
+    {
+      "full_name": "KnifeLemon/Filee",
+      "desc": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "lang": "C#",
+      "days_on_board": 6,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-22",
+      "stars_first": 28057,
+      "stars_last": 29690,
+      "stars_growth": 1633,
+      "trend": "flat"
+    },
+    {
+      "full_name": "public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 499613,
+      "stars_last": 500852,
+      "stars_growth": 1239,
+      "trend": "flat"
+    },
+    {
+      "full_name": "haziqahmedqasmi/PeakCut",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 654,
+      "stars_last": 1758,
+      "stars_growth": 1104,
+      "trend": "down"
+    },
+    {
+      "full_name": "duwqijlk/muse-protocol",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "lang": "Python",
+      "days_on_board": 6,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-23",
+      "stars_first": 1435,
+      "stars_last": 1752,
+      "stars_growth": 317,
+      "trend": "down"
+    }
+  ],
+  "news_mainlines": [
+    {
+      "topicLabel": "综合",
+      "title": "英伟达跌幅扩大至10%",
+      "days": 5,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-17",
+          "title": "英伟达推出DGX Spark高性能计算开发者套件",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-18",
+          "title": "英伟达临时CEO克雷斯称 预计第四季度将是毛利率的低点",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-19",
+          "title": "英伟达单季营收突破千亿美元 国产芯片及晶圆代工需求更加确定",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-20",
+          "title": "据报道：英伟达接近以逾5亿美元收购一家扩散式AI开发商Inception",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-21",
+          "title": "英伟达暴跌14% “AI交易”抛售加剧使得美股进入回调区间",
+          "heat": 2.0,
+          "sources": 2
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "CME“美联储观察”：美联储12月加息25个基点的概率为91.4%",
+      "days": 5,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-18",
+          "title": "美联储12月加息25个基点的概率为96.8%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-19",
+          "title": "美联储12月加息25个基点的概率为92.7%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-20",
+          "title": "美联储12月加息25个基点的概率为96.4%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-21",
+          "title": "OIS合约不再充分反映美联储12月加息25个基点",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-23",
+          "title": "CME“美联储观察”：美联储12月加息25个基点的概率为91.4%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "A股限售股解禁一览：30.05亿元市值限售股今日解禁",
+      "days": 5,
+      "kind": "event_line",
+      "points": [
+        {
+          "date": "2026-11-17",
+          "title": "A股限售股解禁一览：13.97亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-18",
+          "title": "A股限售股解禁一览：92.51亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-19",
+          "title": "A股限售股解禁一览：20.3亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-20",
+          "title": "A股限售股解禁一览：53.32亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-23",
+          "title": "A股限售股解禁一览：30.05亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "据报道：Anthropic的IPO吸引了约1150亿至1200亿美元的散户需求",
+      "days": 3,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-19",
+          "title": "Anthropic IPO扩大规模后发行了9.796亿股股票 募资813.1亿美元",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-20",
+          "title": "美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-21",
+          "title": "Anthropic较早些时候的低点有所反弹 最新下跌10%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "宏观经济/政策",
+      "title": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-19",
+          "title": "美联储会议纪要公布后，美元指数触及日内高点",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-21",
+          "title": "美联储“鹰派”阴云压顶 金价连失四大整数关口",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "沪深交易所、中国结算推出一揽子降费措施",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-17",
+          "title": "中国证监会召开国际顾问委员会会议 聚焦增强资本市场韧性等议题",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-23",
+          "title": "沪深北交易所降低融资保证金比例下限至80%  理论上可带来增量资金近4000亿元",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化 奥特曼支持限制",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-21",
+          "title": "OpenAI推出MedChemBench基准，评估AI辅助药物研发能力",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-23",
+          "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化 奥特曼支持限制",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-21",
+          "title": "美国财政部：对四名伊朗个人实施制裁，这些人担任“石油受托人”",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-22",
+          "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "马斯克：特斯拉将生产没有方向盘的自动驾驶Model Y",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-17",
+          "title": "特斯拉拟投30亿欧元扩建德国工厂 瞄准年产百万辆Cybercab",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-19",
+          "title": "马斯克：特斯拉将生产没有方向盘的自动驾驶Model Y",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "稳步扩大金融市场双向开放",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-20",
+          "title": "征收政府债券利息所得税讨论再起 专家称短期不具备落地条件",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-22",
+          "title": "稳步扩大金融市场双向开放",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "强势美元“冲击波”再起",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-20",
+          "title": "有色大跌 专家谈后市演绎",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-23",
+          "title": "强势美元“冲击波”再起",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "费城半导体指数跌幅扩大至10%",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-17",
+          "title": "美股收跌：纳指跌超2% 费城半导体指数重挫逾5% 消费零售股逆势走高",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-21",
+          "title": "费城半导体指数跌幅扩大至10%",
+          "heat": 2.0,
+          "sources": 2
+        }
+      ]
+    }
+  ],
+  "stat": {
+    "repos_tracked": 97,
+    "repos_multi_day": 65,
+    "mainlines": 14
+  },
+  "provenance": {
+    "method": "aggregate_over_archives",
+    "status": "derived",
+    "detail": "对近 7 天归档做叠加统计：GitHub 用「上榜天数+星数净增」，要闻主线复用跨天事件串联结果"
+  }
+}
