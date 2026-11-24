@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-11-24 08:00:17",
-  "count": 35,
-  "latest": "2026-11-24",
+  "updated_at": "2026-11-25 04:37:36",
+  "count": 38,
+  "latest": "2026-11-25",
   "days": [
+    {
+      "date": "2026-11-25",
+      "generated_at": "2026-11-25 04:37:31",
+      "rocket_count": 20,
+      "delta_count": 69,
+      "top_repo": "Marvisak/VIctory"
+    },
     {
       "date": "2026-11-24",
       "generated_at": "2026-11-24 08:00:15",
@@ -67,6 +74,13 @@
       "top_repo": "huamidev/GestaltX"
     },
     {
+      "date": "2026-11-15",
+      "generated_at": "2026-11-15 14:17:13",
+      "rocket_count": 20,
+      "delta_count": 52,
+      "top_repo": "huamidev/GestaltX"
+    },
+    {
       "date": "2026-11-14",
       "generated_at": "2026-11-14 08:00:13",
       "rocket_count": 20,
@@ -85,6 +99,13 @@
       "generated_at": "2026-11-12 08:00:13",
       "rocket_count": 20,
       "delta_count": 60,
+      "top_repo": "huamidev/GestaltX"
+    },
+    {
+      "date": "2026-11-11",
+      "generated_at": "2026-11-11 14:00:31",
+      "rocket_count": 20,
+      "delta_count": 69,
       "top_repo": "huamidev/GestaltX"
     },
     {
@@ -131,7 +152,7 @@
     },
     {
       "date": "2026-11-04",
-      "generated_at": "2026-11-04 23:03:44",
+      "generated_at": "2026-11-04 23:20:42",
       "rocket_count": 20,
       "delta_count": 31,
       "top_repo": "deepseek-ai/dsh-superagent-prototype"

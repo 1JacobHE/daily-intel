@@ -4,13 +4,23 @@
     "tag": "其他",
     "auto": true
   },
-  "erkamyaman/rust-anything": {
-    "name": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-    "tag": "AI Agent",
+  "xcl-dev/xcl": {
+    "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+    "tag": "其他",
+    "auto": true
+  },
+  "ubiquitarianism/leonida": {
+    "name": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
+    "tag": "其他",
     "auto": true
   },
   "EL4CTEO/fast-anything": {
     "name": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "erkamyaman/rust-anything": {
+    "name": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
     "tag": "AI Agent",
     "auto": true
   },
@@ -19,8 +29,8 @@
     "tag": "资源合集",
     "auto": true
   },
-  "omonkeyz/xbox-emulator": {
-    "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+  "4lwayz/portwatch-vi": {
+    "name": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
     "tag": "其他",
     "auto": true
   },
@@ -29,14 +39,14 @@
     "tag": "开发工具",
     "auto": true
   },
+  "omonkeyz/xbox-emulator": {
+    "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "tag": "其他",
+    "auto": true
+  },
   "iamajmeena/neonclipping": {
     "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
     "tag": "模型/推理",
-    "auto": true
-  },
-  "ivall/xcl": {
-    "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-    "tag": "其他",
     "auto": true
   },
   "R0Y00/Xbox2Windows": {
@@ -44,8 +54,13 @@
     "tag": "创意/AI生成",
     "auto": true
   },
-  "Hut-hzf/ung220z-tool": {
-    "name": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+  "Avaneesh-Inamdar/Stream-Tube-Desktop": {
+    "name": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+    "tag": "开发工具",
+    "auto": true
+  },
+  "deterministic-machines/deslop-please": {
+    "name": "Bring (back) sanity to your code",
     "tag": "其他",
     "auto": true
   },
@@ -60,13 +75,13 @@
     "auto": true
   },
   "leanprover-community/riemann-hypothesis": {
-    "name": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+    "name": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
     "tag": "其他",
     "auto": true
   },
-  "Lemxy/WinRust": {
-    "name": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
-    "tag": "其他",
+  "INK-Q/agy-fast": {
+    "name": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+    "tag": "AI Agent",
     "auto": true
   },
   "Ahmet-Dedeler/awesome-gta6-reverse-engineering": {
@@ -74,28 +89,13 @@
     "tag": "资源合集",
     "auto": true
   },
-  "pierridotite/mobile-agent-testers": {
-    "name": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-    "tag": "AI Agent",
-    "auto": true
-  },
   "sybil-solutions/skill-distill": {
     "name": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
     "tag": "AI Agent",
     "auto": true
   },
-  "joshpuckett/allo": {
-    "name": "Allo is your friendly neighborhood typeface, free and open source",
-    "tag": "其他",
-    "auto": true
-  },
-  "w01fb0ss/PiBot": {
-    "name": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "danielwh2/sprite-stacking": {
-    "name": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+  "pierridotite/mobile-agent-testers": {
+    "name": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
     "tag": "AI Agent",
     "auto": true
   },
@@ -195,11 +195,6 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "public-apis/public-apis": {
-    "name": "免费 API 大合集，做项目找数据源先看这个",
-    "tag": "资源合集",
-    "note": "48 万星，程序员必备清单"
-  },
   "morluto/rea": {
     "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "tag": "AI Agent",
@@ -209,6 +204,11 @@
     "name": "免费学编程的课程与代码库",
     "tag": "学习资源"
   },
+  "EbookFoundation/free-programming-books": {
+    "name": ":books: Freely available programming books",
+    "tag": "资源合集",
+    "auto": true
+  },
   "openclaw/openclaw": {
     "name": "跨平台通用 AI 助手，主打「真能干活」",
     "tag": "AI Agent"
@@ -217,9 +217,9 @@
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
   },
-  "awesome-selfhosted/awesome-selfhosted": {
-    "name": "可自托管的开源网络服务清单",
-    "tag": "资源合集"
+  "mattpocock/skills": {
+    "name": "一线工程师的真实 Agent 技能库",
+    "tag": "Agent Skill"
   },
   "affaan-m/ECC": {
     "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
@@ -240,5 +240,10 @@
   "react/react": {
     "name": "React 前端框架源码",
     "tag": "前端框架"
+  },
+  "anomalyco/opencode": {
+    "name": "The open source coding agent.",
+    "tag": "AI Agent",
+    "auto": true
   }
 }
