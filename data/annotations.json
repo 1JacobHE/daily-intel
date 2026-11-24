@@ -1,7 +1,12 @@
 {
-  "ItsNotRexed/Leonida": {
-    "name": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+  "Marvisak/VIctory": {
+    "name": "An attempt at running GTA VI on PC",
     "tag": "其他",
+    "auto": true
+  },
+  "erkamyaman/rust-anything": {
+    "name": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+    "tag": "AI Agent",
     "auto": true
   },
   "EL4CTEO/fast-anything": {
@@ -14,19 +19,14 @@
     "tag": "资源合集",
     "auto": true
   },
-  "erkamyaman/rust-anything": {
-    "name": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-    "tag": "AI Agent",
-    "auto": true
-  },
   "omonkeyz/xbox-emulator": {
     "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "tag": "其他",
     "auto": true
   },
-  "bookwjitchieni1986/blender-ai-mcp-addon": {
-    "name": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-    "tag": "AI Agent",
+  "AFK-surf/xnulinux": {
+    "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "tag": "开发工具",
     "auto": true
   },
   "iamajmeena/neonclipping": {
@@ -34,9 +34,9 @@
     "tag": "模型/推理",
     "auto": true
   },
-  "AFK-surf/xnulinux": {
-    "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-    "tag": "开发工具",
+  "ivall/xcl": {
+    "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+    "tag": "其他",
     "auto": true
   },
   "R0Y00/Xbox2Windows": {
@@ -54,24 +54,14 @@
     "tag": "AI Agent",
     "auto": true
   },
+  "erkamyaman/safe-anything": {
+    "name": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+    "tag": "AI Agent",
+    "auto": true
+  },
   "leanprover-community/riemann-hypothesis": {
     "name": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
     "tag": "其他",
-    "auto": true
-  },
-  "ivall/xcl": {
-    "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-    "tag": "其他",
-    "auto": true
-  },
-  "sybil-solutions/skill-distill": {
-    "name": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "w01fb0ss/PiBot": {
-    "name": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-    "tag": "AI Agent",
     "auto": true
   },
   "Lemxy/WinRust": {
@@ -79,9 +69,9 @@
     "tag": "其他",
     "auto": true
   },
-  "danielwh2/sprite-stacking": {
-    "name": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
-    "tag": "AI Agent",
+  "Ahmet-Dedeler/awesome-gta6-reverse-engineering": {
+    "name": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
+    "tag": "资源合集",
     "auto": true
   },
   "pierridotite/mobile-agent-testers": {
@@ -89,13 +79,23 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "realdody/americas-recomp": {
-    "name": "（官方未提供简介）",
+  "sybil-solutions/skill-distill": {
+    "name": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "joshpuckett/allo": {
+    "name": "Allo is your friendly neighborhood typeface, free and open source",
     "tag": "其他",
     "auto": true
   },
-  "INK-Q/agy-fast": {
-    "name": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+  "w01fb0ss/PiBot": {
+    "name": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "danielwh2/sprite-stacking": {
+    "name": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
     "tag": "AI Agent",
     "auto": true
   },
