@@ -14,9 +14,9 @@
     "tag": "其他",
     "auto": true
   },
-  "erkamyaman/rust-anything": {
-    "name": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-    "tag": "AI Agent",
+  "Belobug/VIctory-Belobug-AMD": {
+    "name": "（官方未提供简介）",
+    "tag": "其他",
     "auto": true
   },
   "ubiquitarianism/leonida": {
@@ -39,13 +39,43 @@
     "tag": "开发工具",
     "auto": true
   },
+  "Indigo-0167/universal-game-mod-manager": {
+    "name": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+    "tag": "其他",
+    "auto": true
+  },
+  "Umbra9179/clipboard-history-manager-windows": {
+    "name": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+    "tag": "开发工具",
+    "auto": true
+  },
   "os6/nospeaker": {
     "name": "make your macbook's trackpad talk using its haptic motor",
     "tag": "资源合集",
     "auto": true
   },
+  "solv4626/steam-achievement-manager-windows": {
+    "name": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+    "tag": "其他",
+    "auto": true
+  },
+  "zero5122/offline-file-converter-windows": {
+    "name": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
+    "tag": "开发工具",
+    "auto": true
+  },
+  "kai415-debug/ffmpeg-video-audio-converter": {
+    "name": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+    "tag": "开发工具",
+    "auto": true
+  },
   "omonkeyz/xbox-emulator": {
     "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "tag": "其他",
+    "auto": true
+  },
+  "rowanbyte3329/stardew-valley-mod-manager": {
+    "name": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles.",
     "tag": "其他",
     "auto": true
   },
@@ -59,44 +89,14 @@
     "tag": "创意/AI生成",
     "auto": true
   },
+  "crhywun/g1-acq": {
+    "name": "（官方未提供简介）",
+    "tag": "其他",
+    "auto": true
+  },
   "Avaneesh-Inamdar/Stream-Tube-Desktop": {
     "name": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
     "tag": "开发工具",
-    "auto": true
-  },
-  "sybil-solutions/inference-optimisation-skill": {
-    "name": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "deterministic-machines/deslop-please": {
-    "name": "Bring (back) sanity to your code",
-    "tag": "其他",
-    "auto": true
-  },
-  "leanprover-community/riemann-hypothesis": {
-    "name": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
-    "tag": "其他",
-    "auto": true
-  },
-  "erkamyaman/safe-anything": {
-    "name": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "pierridotite/mobile-agent-testers": {
-    "name": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "INK-Q/agy-fast": {
-    "name": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "Lemxy/WinRust": {
-    "name": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
-    "tag": "其他",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -185,13 +185,13 @@
     "tag": "其他",
     "auto": true
   },
-  "hypit-ai/hypit": {
-    "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+  "ccch1mneyyy/dsh-Go": {
+    "name": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "tag": "AI Agent",
     "auto": true
   },
-  "ccch1mneyyy/dsh-Go": {
-    "name": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+  "hypit-ai/hypit": {
+    "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
     "tag": "AI Agent",
     "auto": true
   },
@@ -226,14 +226,6 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "affaan-m/ECC": {
-    "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
-    "tag": "AI Agent"
-  },
-  "practical-tutorials/project-based-learning": {
-    "name": "通过做项目来学编程的教程合集",
-    "tag": "学习资源"
-  },
   "NousResearch/hermes-agent": {
     "name": "随你一起成长的 Agent",
     "tag": "AI Agent"
@@ -245,5 +237,15 @@
   "react/react": {
     "name": "React 前端框架源码",
     "tag": "前端框架"
+  },
+  "anomalyco/opencode": {
+    "name": "The open source coding agent.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "n8n-io/n8n": {
+    "name": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "tag": "开发工具",
+    "auto": true
   }
 }
