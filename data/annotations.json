@@ -4,19 +4,14 @@
     "tag": "其他",
     "auto": true
   },
+  "fxceless/victory-fork": {
+    "name": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+    "tag": "其他",
+    "auto": true
+  },
   "xcl-dev/xcl": {
     "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
     "tag": "其他",
-    "auto": true
-  },
-  "ubiquitarianism/leonida": {
-    "name": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
-    "tag": "其他",
-    "auto": true
-  },
-  "EL4CTEO/fast-anything": {
-    "name": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-    "tag": "AI Agent",
     "auto": true
   },
   "erkamyaman/rust-anything": {
@@ -24,9 +19,14 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "os6/nospeaker": {
-    "name": "make your macbook's trackpad talk using its haptic motor",
-    "tag": "资源合集",
+  "ubiquitarianism/leonida": {
+    "name": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+    "tag": "其他",
+    "auto": true
+  },
+  "EL4CTEO/fast-anything": {
+    "name": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "tag": "AI Agent",
     "auto": true
   },
   "4lwayz/portwatch-vi": {
@@ -37,6 +37,11 @@
   "AFK-surf/xnulinux": {
     "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
     "tag": "开发工具",
+    "auto": true
+  },
+  "os6/nospeaker": {
+    "name": "make your macbook's trackpad talk using its haptic motor",
+    "tag": "资源合集",
     "auto": true
   },
   "omonkeyz/xbox-emulator": {
@@ -59,14 +64,19 @@
     "tag": "开发工具",
     "auto": true
   },
+  "sybil-solutions/inference-optimisation-skill": {
+    "name": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "tag": "AI Agent",
+    "auto": true
+  },
   "deterministic-machines/deslop-please": {
     "name": "Bring (back) sanity to your code",
     "tag": "其他",
     "auto": true
   },
-  "sybil-solutions/inference-optimisation-skill": {
-    "name": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-    "tag": "AI Agent",
+  "leanprover-community/riemann-hypothesis": {
+    "name": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
+    "tag": "其他",
     "auto": true
   },
   "erkamyaman/safe-anything": {
@@ -74,9 +84,9 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "leanprover-community/riemann-hypothesis": {
-    "name": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
-    "tag": "其他",
+  "pierridotite/mobile-agent-testers": {
+    "name": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+    "tag": "AI Agent",
     "auto": true
   },
   "INK-Q/agy-fast": {
@@ -84,19 +94,9 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "Ahmet-Dedeler/awesome-gta6-reverse-engineering": {
-    "name": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
-    "tag": "资源合集",
-    "auto": true
-  },
-  "sybil-solutions/skill-distill": {
-    "name": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
-    "tag": "AI Agent",
-    "auto": true
-  },
-  "pierridotite/mobile-agent-testers": {
-    "name": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-    "tag": "AI Agent",
+  "Lemxy/WinRust": {
+    "name": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+    "tag": "其他",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -221,6 +221,11 @@
     "name": "一线工程师的真实 Agent 技能库",
     "tag": "Agent Skill"
   },
+  "obra/superpowers": {
+    "name": "An agentic skills framework & software development methodology that works.",
+    "tag": "AI Agent",
+    "auto": true
+  },
   "affaan-m/ECC": {
     "name": "Agent 运行框架的性能优化系统：技能、直觉、记忆、安全",
     "tag": "AI Agent"
@@ -240,10 +245,5 @@
   "react/react": {
     "name": "React 前端框架源码",
     "tag": "前端框架"
-  },
-  "anomalyco/opencode": {
-    "name": "The open source coding agent.",
-    "tag": "AI Agent",
-    "auto": true
   }
 }
