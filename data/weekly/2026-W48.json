@@ -1,10 +1,10 @@
 {
   "week": "2026-W48",
   "date_range": [
-    "2026-11-26",
-    "2026-11-20"
+    "2026-11-27",
+    "2026-11-21"
   ],
-  "generated_at": "2026-11-26 08:00",
+  "generated_at": "2026-11-27 02:24",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
@@ -14,11 +14,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 469972,
-      "stars_last": 478451,
-      "stars_growth": 8479,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 471470,
+      "stars_last": 479535,
+      "stars_growth": 8065,
       "trend": "flat"
     },
     {
@@ -29,11 +29,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 80977,
-      "stars_last": 87091,
-      "stars_growth": 6114,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 82074,
+      "stars_last": 88062,
+      "stars_growth": 5988,
       "trend": "flat"
     },
     {
@@ -44,11 +44,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 38457,
-      "stars_last": 43471,
-      "stars_growth": 5014,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 39500,
+      "stars_last": 44026,
+      "stars_growth": 4526,
       "trend": "flat"
     },
     {
@@ -59,11 +59,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 194835,
-      "stars_last": 198715,
-      "stars_growth": 3880,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 195615,
+      "stars_last": 199248,
+      "stars_growth": 3633,
       "trend": "flat"
     },
     {
@@ -74,11 +74,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 57823,
-      "stars_last": 61498,
-      "stars_growth": 3675,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 58801,
+      "stars_last": 62013,
+      "stars_growth": 3212,
       "trend": "flat"
     },
     {
@@ -89,26 +89,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 284197,
-      "stars_last": 287058,
-      "stars_growth": 2861,
-      "trend": "flat"
-    },
-    {
-      "full_name": "cloudflare/security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "lang": "JavaScript",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 75827,
-      "stars_last": 78355,
-      "stars_growth": 2528,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 284698,
+      "stars_last": 287551,
+      "stars_growth": 2853,
       "trend": "flat"
     },
     {
@@ -119,11 +104,26 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 39050,
-      "stars_last": 41478,
-      "stars_growth": 2428,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 39512,
+      "stars_last": 41975,
+      "stars_growth": 2463,
+      "trend": "flat"
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 76281,
+      "stars_last": 78732,
+      "stars_growth": 2451,
       "trend": "flat"
     },
     {
@@ -134,11 +134,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 45927,
-      "stars_last": 48151,
-      "stars_growth": 2224,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 46294,
+      "stars_last": 48382,
+      "stars_growth": 2088,
       "trend": "flat"
     },
     {
@@ -149,11 +149,41 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 31342,
-      "stars_last": 32800,
-      "stars_growth": 1458,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 31364,
+      "stars_last": 32839,
+      "stars_growth": 1475,
+      "trend": "flat"
+    },
+    {
+      "full_name": "iamajmeena/neonclipping",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 1240,
+      "stars_last": 2697,
+      "stars_growth": 1457,
+      "trend": "down"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 264986,
+      "stars_last": 266334,
+      "stars_growth": 1348,
       "trend": "flat"
     },
     {
@@ -164,26 +194,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 59596,
-      "stars_last": 61006,
-      "stars_growth": 1410,
-      "trend": "flat"
-    },
-    {
-      "full_name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "lang": "Python",
-      "days_on_board": 7,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 264756,
-      "stars_last": 266120,
-      "stars_growth": 1364,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 59847,
+      "stars_last": 61182,
+      "stars_growth": 1335,
       "trend": "flat"
     },
     {
@@ -194,11 +209,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 52237,
-      "stars_last": 53489,
-      "stars_growth": 1252,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 52475,
+      "stars_last": 53575,
+      "stars_growth": 1100,
       "trend": "flat"
     },
     {
@@ -209,11 +224,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 35356,
-      "stars_last": 36364,
-      "stars_growth": 1008,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 35494,
+      "stars_last": 36517,
+      "stars_growth": 1023,
       "trend": "flat"
     },
     {
@@ -224,26 +239,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 80517,
-      "stars_last": 81500,
-      "stars_growth": 983,
-      "trend": "flat"
-    },
-    {
-      "full_name": "eternity4719/HowToLiveBetter",
-      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-      "lang": "HTML",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 76675,
-      "stars_last": 77573,
-      "stars_growth": 898,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 80736,
+      "stars_last": 81665,
+      "stars_growth": 929,
       "trend": "flat"
     },
     {
@@ -254,11 +254,26 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 65960,
-      "stars_last": 66819,
-      "stars_growth": 859,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 66126,
+      "stars_last": 67008,
+      "stars_growth": 882,
+      "trend": "flat"
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "lang": "HTML",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 76828,
+      "stars_last": 77705,
+      "stars_growth": 877,
       "trend": "flat"
     },
     {
@@ -269,11 +284,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 30745,
-      "stars_last": 31512,
-      "stars_growth": 767,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 30870,
+      "stars_last": 31560,
+      "stars_growth": 690,
       "trend": "flat"
     },
     {
@@ -284,11 +299,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 256119,
-      "stars_last": 256761,
-      "stars_growth": 642,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 256255,
+      "stars_last": 256859,
+      "stars_growth": 604,
       "trend": "flat"
     },
     {
@@ -299,26 +314,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 36430,
-      "stars_last": 36845,
-      "stars_growth": 415,
-      "trend": "flat"
-    },
-    {
-      "full_name": "openclaw/openclaw",
-      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "lang": "TypeScript",
-      "days_on_board": 7,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 394831,
-      "stars_last": 395227,
-      "stars_growth": 396,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 36500,
+      "stars_last": 36906,
+      "stars_growth": 406,
       "trend": "flat"
     },
     {
@@ -329,11 +329,26 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 372392,
-      "stars_last": 372782,
-      "stars_growth": 390,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 372455,
+      "stars_last": 372827,
+      "stars_growth": 372,
+      "trend": "flat"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "days_on_board": 7,
+      "boards": [
+        "活跃榜"
+      ],
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 394929,
+      "stars_last": 395287,
+      "stars_growth": 358,
       "trend": "flat"
     },
     {
@@ -344,11 +359,11 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 459354,
-      "stars_last": 459636,
-      "stars_growth": 282,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 459396,
+      "stars_last": 459675,
+      "stars_growth": 279,
       "trend": "flat"
     },
     {
@@ -359,11 +374,11 @@
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 35711,
-      "stars_last": 35965,
-      "stars_growth": 254,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 35750,
+      "stars_last": 35991,
+      "stars_growth": 241,
       "trend": "flat"
     },
     {
@@ -374,102 +389,81 @@
       "boards": [
         "活跃榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-26",
-      "stars_first": 252800,
-      "stars_last": 252969,
-      "stars_growth": 169,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 252838,
+      "stars_last": 252986,
+      "stars_growth": 148,
       "trend": "flat"
+    },
+    {
+      "full_name": "omonkeyz/xbox-emulator",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "lang": "Rust",
+      "days_on_board": 6,
+      "boards": [
+        "火箭榜"
+      ],
+      "first_date": "2026-11-22",
+      "last_date": "2026-11-27",
+      "stars_first": 743,
+      "stars_last": 1852,
+      "stars_growth": 1109,
+      "trend": "down"
     },
     {
       "full_name": "odysseus-dev/odysseus",
       "desc": "Self-hosted AI workspace.",
       "lang": "Python",
-      "days_on_board": 7,
+      "days_on_board": 6,
       "boards": [
         "势能榜"
       ],
-      "first_date": "2026-11-20",
+      "first_date": "2026-11-21",
       "last_date": "2026-11-26",
-      "stars_first": 95837,
+      "stars_first": 95870,
       "stars_last": 95971,
-      "stars_growth": 134,
+      "stars_growth": 101,
       "trend": "flat"
     },
     {
       "full_name": "erkamyaman/rust-anything",
       "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "lang": "Rust",
-      "days_on_board": 6,
-      "boards": [
-        "火箭榜"
-      ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-25",
-      "stars_first": 5148,
-      "stars_last": 9202,
-      "stars_growth": 4054,
-      "trend": "down"
-    },
-    {
-      "full_name": "iamajmeena/neonclipping",
-      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-      "lang": "Python",
-      "days_on_board": 6,
+      "days_on_board": 5,
       "boards": [
         "火箭榜"
       ],
       "first_date": "2026-11-21",
-      "last_date": "2026-11-26",
-      "stars_first": 1240,
-      "stars_last": 2628,
-      "stars_growth": 1388,
-      "trend": "down"
-    },
-    {
-      "full_name": "affaan-m/ECC",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "lang": "JavaScript",
-      "days_on_board": 5,
-      "boards": [
-        "活跃榜"
-      ],
-      "first_date": "2026-11-20",
       "last_date": "2026-11-25",
-      "stars_first": 307275,
-      "stars_last": 310204,
-      "stars_growth": 2929,
-      "trend": "flat"
+      "stars_first": 6626,
+      "stars_last": 9202,
+      "stars_growth": 2576,
+      "trend": "down"
     },
     {
-      "full_name": "Hut-hzf/ung220z-tool",
-      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "lang": "Python",
+      "full_name": "ccch1mneyyy/dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "lang": "Dart",
       "days_on_board": 5,
       "boards": [
-        "火箭榜"
+        "势能榜"
       ],
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-24",
-      "stars_first": 1740,
-      "stars_last": 3224,
-      "stars_growth": 1484,
-      "trend": "down"
+      "first_date": "2026-11-23",
+      "last_date": "2026-11-27",
+      "stars_first": 30166,
+      "stars_last": 32612,
+      "stars_growth": 2446,
+      "trend": "flat"
     }
   ],
   "news_mainlines": [
     {
       "topicLabel": "宏观经济/政策",
       "title": "美联储12月加息25个基点的概率为97.2%",
-      "days": 6,
+      "days": 5,
       "kind": "topic_line",
       "points": [
-        {
-          "date": "2026-11-20",
-          "title": "美联储12月加息25个基点的概率为96.4%",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-21",
           "title": "OIS合约不再充分反映美联储12月加息25个基点",
@@ -504,16 +498,10 @@
     },
     {
       "topicLabel": "综合",
-      "title": "CoreWeave和英伟达信用风险指标创新高",
-      "days": 5,
+      "title": "英伟达芯片卖家争相寻找买家",
+      "days": 4,
       "kind": "topic_line",
       "points": [
-        {
-          "date": "2026-11-20",
-          "title": "据报道：英伟达接近以逾5亿美元收购一家扩散式AI开发商Inception",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-21",
           "title": "英伟达暴跌14% “AI交易”抛售加剧使得美股进入回调区间",
@@ -522,19 +510,83 @@
         },
         {
           "date": "2026-11-24",
-          "title": "周二你需要知道的隔夜全球要闻：黄仁勋复职英伟达暴涨超31%；黄仁勋下周将赴美参议院公开作证；富国上调美国大盘股评级至“最看好”",
+          "title": "数据显示：随着英伟达股价升至168.5美元 英伟达卖空者预计将录得约122亿美元的账面亏损",
           "heat": 1.0,
           "sources": 1
         },
         {
           "date": "2026-11-25",
-          "title": "黄仁勋主持员工大会：英伟达不需要接班人计划",
+          "title": "英伟达股价延续跌势，最新下跌6%",
           "heat": 1.0,
           "sources": 1
         },
         {
           "date": "2026-11-26",
-          "title": "美股收盘：道指翻红 芯片股继续调整 英伟达跌近4%",
+          "title": "英伟达芯片卖家争相寻找买家",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "Anthropic股价重回83美元的IPO发行价上方",
+      "days": 4,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-21",
+          "title": "Anthropic跌幅收窄至不足6% 此前一度跌约10%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-24",
+          "title": "据报道 SpaceX需要建成新的数据中心才能履行Anthropic的订单",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-25",
+          "title": "Anthropic股价跌幅一度扩大至13.6% 市值失守1万亿美元关口",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-26",
+          "title": "Anthropic股价重回83美元的IPO发行价上方",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "德国下调第三季度经济增速",
+      "days": 4,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-21",
+          "title": "前10个月，江苏经济运行总体平稳",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-24",
+          "title": "原煤产量稳步爬坡 煤企四季度业绩改善可期",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-25",
+          "title": "前10月广东规上工业增加值同比增长6.1%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-26",
+          "title": "德国下调第三季度经济增速",
           "heat": 1.0,
           "sources": 1
         }
@@ -543,15 +595,9 @@
     {
       "topicLabel": "综合",
       "title": "A股限售股解禁一览：5.88亿元市值限售股今日解禁",
-      "days": 5,
+      "days": 4,
       "kind": "event_line",
       "points": [
-        {
-          "date": "2026-11-20",
-          "title": "A股限售股解禁一览：53.32亿元市值限售股今日解禁",
-          "heat": 1.0,
-          "sources": 1
-        },
         {
           "date": "2026-11-23",
           "title": "A股限售股解禁一览：30.05亿元市值限售股今日解禁",
@@ -579,32 +625,26 @@
       ]
     },
     {
-      "topicLabel": "综合",
-      "title": "Anthropic推出桌面新功能 Claude生成内容可一键变身独立软件",
-      "days": 4,
+      "topicLabel": "宏观经济/政策",
+      "title": "巴西股市上涨3.4% 创10月5日以来最大单日涨幅",
+      "days": 3,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-20",
-          "title": "美三大股指高开低走均跌超2% Anthropic首秀市值站上1.27万亿美元",
-          "heat": 2.0,
-          "sources": 2
-        },
-        {
           "date": "2026-11-21",
-          "title": "Anthropic较早些时候的低点有所反弹 最新下跌10%",
+          "title": "前10个月全国一般公共预算收入同比增长4.9%",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-24",
-          "title": "Anthropic首席执行官Amodei以每股83美元的价格出售340万股股票",
+          "date": "2026-11-26",
+          "title": "财政部等五部门印发《常态化帮扶资金绩效评价办法》",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-25",
-          "title": "Anthropic推出桌面新功能 Claude生成内容可一键变身独立软件",
+          "date": "2026-11-27",
+          "title": "巴西股市上涨3.4% 创10月5日以来最大单日涨幅",
           "heat": 1.0,
           "sources": 1
         }
@@ -638,51 +678,25 @@
     },
     {
       "topicLabel": "综合",
-      "title": "德国下调第三季度经济增速",
+      "title": "美股开盘：美股三大指数集体低开",
       "days": 3,
-      "kind": "topic_line",
+      "kind": "event_line",
       "points": [
         {
-          "date": "2026-11-24",
-          "title": "原煤产量稳步爬坡 煤企四季度业绩改善可期",
-          "heat": 2.0,
-          "sources": 2
+          "date": "2026-11-21",
+          "title": "美股开盘：美股三大指数集体低开",
+          "heat": 1.0,
+          "sources": 1
         },
         {
           "date": "2026-11-25",
-          "title": "前10月广东规上工业增加值同比增长6.1%",
+          "title": "美股开盘：美股三大指数集体低开",
           "heat": 1.0,
           "sources": 1
         },
         {
           "date": "2026-11-26",
-          "title": "德国下调第三季度经济增速",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "南向资金11月恢复净流入态势 机构建言红利为底等待布局时机",
-      "days": 3,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-20",
-          "title": "有色大跌 专家谈后市演绎",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-23",
-          "title": "强势美元“冲击波”再起",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-25",
-          "title": "南向资金11月恢复净流入态势 机构建言红利为底等待布局时机",
+          "title": "美股开盘：美股三大指数集体低开",
           "heat": 1.0,
           "sources": 1
         }
@@ -709,22 +723,42 @@
       ]
     },
     {
-      "topicLabel": "宏观经济/政策",
-      "title": "财政部前瞻性补充国有大型金融机构资本",
+      "topicLabel": "综合",
+      "title": "商务部：各级政府机关、事业单位带头过紧日子，建立跨部门、跨级次、跨地区的调剂共享机制，让闲置资产活起来、二手商品转起来",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-21",
-          "title": "前10个月财政收入逾19.5万亿元 个税收入规模超去年全年",
+          "date": "2026-11-24",
+          "title": "首批高标准数字园区建设对象名单公布",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-26",
-          "title": "财政部前瞻性补充国有大型金融机构资本",
+          "date": "2026-11-27",
+          "title": "商务部：各级政府机关、事业单位带头过紧日子，建立跨部门、跨级次、跨地区的调剂共享机制，让闲置资产活起来、二手商品转起来",
           "heat": 1.0,
           "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "军事地缘",
+      "title": "特朗普指责政府蓄意低报经济增长 要求展开调查",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-22",
+          "title": "特朗普拟联手民主党，将信用卡利率上限设为10%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-27",
+          "title": "特朗普指责政府蓄意低报经济增长 要求展开调查",
+          "heat": 2.0,
+          "sources": 2
         }
       ]
     },
@@ -747,52 +781,12 @@
           "sources": 1
         }
       ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化 奥特曼支持限制",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-21",
-          "title": "OpenAI推出MedChemBench基准，评估AI辅助药物研发能力",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-23",
-          "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化 奥特曼支持限制",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
-      "days": 2,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-21",
-          "title": "美国财政部：对四名伊朗个人实施制裁，这些人担任“石油受托人”",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-22",
-          "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
     }
   ],
   "stat": {
-    "repos_tracked": 107,
+    "repos_tracked": 105,
     "repos_multi_day": 71,
-    "mainlines": 18
+    "mainlines": 21
   },
   "provenance": {
     "method": "aggregate_over_archives",

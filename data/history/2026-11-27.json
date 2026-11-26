@@ -1,0 +1,1759 @@
+{
+  "generated_at": "2026-11-27 02:24:02",
+  "date": "2026-11-27",
+  "prev_date": "2026-11-26",
+  "fresh_days": 10,
+  "provenance": {
+    "source": "api.github.com/search/repositories",
+    "source_type": "official_api",
+    "auth": "token (GITHUB_TOKEN)",
+    "rate_limit": "30 req/min (token)",
+    "fetched_at": "2026-11-27 02:23:55",
+    "metrics": {
+      "rocket": {
+        "status": "observed",
+        "detail": "created:>2026-11-17 stars:>80 fork:false -> 40 条"
+      },
+      "potential": {
+        "status": "observed",
+        "detail": "created:>2026-05-31 stars:>800 fork:false -> 40 条"
+      },
+      "active": {
+        "status": "observed",
+        "detail": "pushed:>2026-11-24 stars:>5000 fork:false -> 20 条"
+      },
+      "star_delta": {
+        "status": "observed",
+        "detail": "对比快照 2026-11-26，68 个项目有正向增量"
+      },
+      "stars_per_day": {
+        "status": "derived",
+        "detail": "stars ÷ 存活天数，为平均速率而非真实单日增量"
+      },
+      "star_count": {
+        "status": "observed",
+        "detail": "GitHub Search API 返回的星数，可能有分钟级缓存延迟"
+      }
+    },
+    "warnings": []
+  },
+  "deltas": {
+    "deepseek-ai/deepseek-harness": 493,
+    "DietrichGebert/ponytail": 533,
+    "Ebony-Vinyl/dsh-our-free-model": 971,
+    "storytold/photocraft": 165,
+    "cloudflare/security-audit-skill": 377,
+    "eternity4719/HowToLiveBetter": 132,
+    "bilawalsidhu/gods-eye-view": 189,
+    "boykopovar/AnyPS5": 515,
+    "Gathin23/cleanyourtv": 176,
+    "JustVugg/colibri": 86,
+    "Niko1221/Strata": 231,
+    "storytold/craft-anything": 555,
+    "yetone/magpie": 497,
+    "anywhere-labs/dsh-desktop": 61,
+    "vorssaint/vorssaint-utils": 153,
+    "NandhaKishorM/laya": 26,
+    "baidu/Unlimited-OCR": 39,
+    "ccch1mneyyy/dsh-Go": 653,
+    "hypit-ai/hypit": 48,
+    "KnifeLemon/Filee": 335,
+    "wheresryan22/anatomy": 139,
+    "guillaumemeyer/watermarks-remover": 153,
+    "milind-soni/OpenMausBot": 257,
+    "xai-org/grok-build": 9,
+    "deepseek-ai/DeepInfer": 15,
+    "awesome-dsh-plugin/awesome-dsh-plugin": 57,
+    "google-research/harness2": 99,
+    "browser-use/jev-ultrafast": 14,
+    "deepseek-ai/dsh-superagent-prototype": 83,
+    "lexmount/moli": 45,
+    "DuarteSantos8/openGym": 126,
+    "firecrawl/anydoc": 10,
+    "google/elephant-goldfish-model": 158,
+    "Vincentwei1021/video-shotcraft": 159,
+    "latent-spaces/brag": 74,
+    "heydamir/unslop": 401,
+    "Droid-Deck/DroidDeck": 158,
+    "img2threejs/img2threejs": 48,
+    "storytold/pdfcraft": 72,
+    "Marvisak/VIctory": 575,
+    "xcl-dev/xcl": 241,
+    "4lwayz/portwatch-vi": 1268,
+    "AFK-surf/xnulinux": 267,
+    "EL4CTEO/fast-anything": 244,
+    "fxceless/victory-fork": 191,
+    "iamajmeena/neonclipping": 69,
+    "ubiquitarianism/leonida": 162,
+    "R0Y00/Xbox2Windows": 7,
+    "os6/nospeaker": 58,
+    "omonkeyz/xbox-emulator": 3,
+    "Belobug/VIctory-Belobug-AMD": 162,
+    "INK-Q/agy-fast": 186,
+    "crhywun/g1-acq": 385,
+    "Avaneesh-Inamdar/Stream-Tube-Desktop": 209,
+    "leanprover-community/riemann-hypothesis": 184,
+    "Indigo-0167/universal-game-mod-manager": 3,
+    "Umbra9179/clipboard-history-manager-windows": 2,
+    "deterministic-machines/deslop-please": 87,
+    "zero5122/offline-file-converter-windows": 11,
+    "danielwh2/sprite-stacking": 116,
+    "sous-labs/songe": 44,
+    "sybil-solutions/skill-distill": 78,
+    "xikhar/papercraft": 95,
+    "Ahmet-Dedeler/awesome-gta6-reverse-engineering": 40,
+    "erkamyaman/safe-anything": 73,
+    "ItsNotRexed/Hookshot": 14,
+    "MSNightmare/FastUnlock": 7,
+    "ThreatDefence/agentic-attack-detections": 43
+  },
+  "rocket": [
+    {
+      "full_name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "desc": "An attempt at running GTA VI on PC",
+      "stars": 13169,
+      "forks": 2196,
+      "lang": "Rust",
+      "created": "2026-11-23",
+      "pushed": "2026-11-25",
+      "topics": [],
+      "owner": "Marvisak",
+      "avatar": "https://avatars.githubusercontent.com/u/60314886?v=4",
+      "age_days": 3,
+      "stars_per_day": 4389.7
+    },
+    {
+      "full_name": "Belobug/VIctory-Belobug-AMD",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+      "desc": "",
+      "stars": 1809,
+      "forks": 339,
+      "lang": "Rust",
+      "created": "2026-11-25",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "Belobug",
+      "avatar": "https://avatars.githubusercontent.com/u/169477042?v=4",
+      "age_days": 1,
+      "stars_per_day": 1809.0
+    },
+    {
+      "full_name": "avatarmanz/VIctory-7900XTX",
+      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+      "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+      "stars": 1793,
+      "forks": 580,
+      "lang": "Rust",
+      "created": "2026-11-25",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "avatarmanz",
+      "avatar": "https://avatars.githubusercontent.com/u/64326402?v=4",
+      "age_days": 1,
+      "stars_per_day": 1793.0
+    },
+    {
+      "full_name": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "stars": 3250,
+      "forks": 967,
+      "lang": "Rust",
+      "created": "2026-11-24",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "fxceless",
+      "avatar": "https://avatars.githubusercontent.com/u/36782933?v=4",
+      "age_days": 2,
+      "stars_per_day": 1625.0
+    },
+    {
+      "full_name": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "stars": 8550,
+      "forks": 1189,
+      "lang": "Rust",
+      "created": "2026-11-20",
+      "pushed": "2026-11-26",
+      "topics": [
+        "d3d12",
+        "gdk",
+        "rdna2",
+        "xbox"
+      ],
+      "owner": "xcl-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/360790281?v=4",
+      "age_days": 6,
+      "stars_per_day": 1425.0
+    },
+    {
+      "full_name": "alesha-pro/llm.asm",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "stars": 1289,
+      "forks": 186,
+      "lang": "Assembly",
+      "created": "2026-11-25",
+      "pushed": "2026-11-25",
+      "topics": [
+        "assembly",
+        "avx2",
+        "bare-metal",
+        "llm",
+        "machine-learning",
+        "nasm"
+      ],
+      "owner": "alesha-pro",
+      "avatar": "https://avatars.githubusercontent.com/u/68546545?v=4",
+      "age_days": 1,
+      "stars_per_day": 1289.0
+    },
+    {
+      "full_name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "stars": 5363,
+      "forks": 159,
+      "lang": "JavaScript",
+      "created": "2026-11-21",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "4lwayz",
+      "avatar": "https://avatars.githubusercontent.com/u/359682649?v=4",
+      "age_days": 5,
+      "stars_per_day": 1072.6
+    },
+    {
+      "full_name": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "stars": 4194,
+      "forks": 304,
+      "lang": "Rust",
+      "created": "2026-11-21",
+      "pushed": "2026-11-25",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "developer-tools"
+      ],
+      "owner": "EL4CTEO",
+      "avatar": "https://avatars.githubusercontent.com/u/215285446?v=4",
+      "age_days": 5,
+      "stars_per_day": 838.8
+    },
+    {
+      "full_name": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "stars": 2487,
+      "forks": 567,
+      "lang": "Python",
+      "created": "2026-11-23",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "ubiquitarianism",
+      "avatar": "https://avatars.githubusercontent.com/u/283527159?v=4",
+      "age_days": 3,
+      "stars_per_day": 829.0
+    },
+    {
+      "full_name": "lsernau/grh-lean",
+      "url": "https://github.com/lsernau/grh-lean",
+      "desc": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+      "stars": 824,
+      "forks": 87,
+      "lang": "Lean",
+      "created": "2026-11-25",
+      "pushed": "2026-11-25",
+      "topics": [],
+      "owner": "lsernau",
+      "avatar": "https://avatars.githubusercontent.com/u/4541943?v=4",
+      "age_days": 1,
+      "stars_per_day": 824.0
+    },
+    {
+      "full_name": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "stars": 4195,
+      "forks": 208,
+      "lang": "C",
+      "created": "2026-11-20",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "AFK-surf",
+      "avatar": "https://avatars.githubusercontent.com/u/221804798?v=4",
+      "age_days": 6,
+      "stars_per_day": 699.2
+    },
+    {
+      "full_name": "Reukix/Reloc",
+      "url": "https://github.com/Reukix/Reloc",
+      "desc": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "stars": 684,
+      "forks": 130,
+      "lang": "Swift",
+      "created": "2026-11-25",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "Reukix",
+      "avatar": "https://avatars.githubusercontent.com/u/120629904?v=4",
+      "age_days": 1,
+      "stars_per_day": 684.0
+    },
+    {
+      "full_name": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "stars": 1944,
+      "forks": 102,
+      "lang": "Swift",
+      "created": "2026-11-22",
+      "pushed": "2026-11-24",
+      "topics": [
+        "haptics",
+        "macos",
+        "swift",
+        "trackpad"
+      ],
+      "owner": "os6",
+      "avatar": "https://avatars.githubusercontent.com/u/239950?v=4",
+      "age_days": 4,
+      "stars_per_day": 486.0
+    },
+    {
+      "full_name": "Indigo-0167/universal-game-mod-manager",
+      "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+      "desc": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "stars": 1301,
+      "forks": 0,
+      "lang": "Rust",
+      "created": "2026-11-23",
+      "pushed": "2026-11-23",
+      "topics": [
+        "automation",
+        "desktop",
+        "epic-games",
+        "game-development",
+        "game-engine",
+        "game-mods"
+      ],
+      "owner": "Indigo-0167",
+      "avatar": "https://avatars.githubusercontent.com/u/360265394?v=4",
+      "age_days": 3,
+      "stars_per_day": 433.7
+    },
+    {
+      "full_name": "Umbra9179/clipboard-history-manager-windows",
+      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+      "desc": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "stars": 1263,
+      "forks": 1,
+      "lang": "C#",
+      "created": "2026-11-23",
+      "pushed": "2026-11-23",
+      "topics": [
+        "clipboard",
+        "clipboard-history",
+        "clipboard-manager",
+        "desktop-app",
+        "desktop-application",
+        "dotnet"
+      ],
+      "owner": "Umbra9179",
+      "avatar": "https://avatars.githubusercontent.com/u/357439170?v=4",
+      "age_days": 3,
+      "stars_per_day": 421.0
+    },
+    {
+      "full_name": "crhywun/g1-acq",
+      "url": "https://github.com/crhywun/g1-acq",
+      "desc": "",
+      "stars": 1607,
+      "forks": 374,
+      "lang": "JavaScript",
+      "created": "2026-11-22",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "crhywun",
+      "avatar": "https://avatars.githubusercontent.com/u/38809664?v=4",
+      "age_days": 4,
+      "stars_per_day": 401.8
+    },
+    {
+      "full_name": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "stars": 2697,
+      "forks": 168,
+      "lang": "Python",
+      "created": "2026-11-19",
+      "pushed": "2026-11-24",
+      "topics": [
+        "ai-video-clipper",
+        "clipping",
+        "faster-whisper",
+        "ffmpeg",
+        "gameplay-clipper",
+        "local-llm"
+      ],
+      "owner": "iamajmeena",
+      "avatar": "https://avatars.githubusercontent.com/u/265551449?v=4",
+      "age_days": 7,
+      "stars_per_day": 385.3
+    },
+    {
+      "full_name": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "stars": 1852,
+      "forks": 125,
+      "lang": "Rust",
+      "created": "2026-11-21",
+      "pushed": "2026-11-25",
+      "topics": [],
+      "owner": "omonkeyz",
+      "avatar": "https://avatars.githubusercontent.com/u/246595960?v=4",
+      "age_days": 5,
+      "stars_per_day": 370.4
+    },
+    {
+      "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "stars": 1432,
+      "forks": 124,
+      "lang": "Rust",
+      "created": "2026-11-22",
+      "pushed": "2026-11-26",
+      "topics": [
+        "dearrow",
+        "desktop-app",
+        "gpui",
+        "mpv",
+        "rust",
+        "sponsorblock"
+      ],
+      "owner": "Avaneesh-Inamdar",
+      "avatar": "https://avatars.githubusercontent.com/u/104128879?v=4",
+      "age_days": 4,
+      "stars_per_day": 358.0
+    },
+    {
+      "full_name": "zero5122/offline-file-converter-windows",
+      "url": "https://github.com/zero5122/offline-file-converter-windows",
+      "desc": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
+      "stars": 1069,
+      "forks": 2,
+      "lang": "Python",
+      "created": "2026-11-23",
+      "pushed": "2026-11-23",
+      "topics": [
+        "audio-converter",
+        "batch-conversion",
+        "conversion",
+        "convert",
+        "converter",
+        "desktop-app"
+      ],
+      "owner": "zero5122",
+      "avatar": "https://avatars.githubusercontent.com/u/358666762?v=4",
+      "age_days": 3,
+      "stars_per_day": 356.3
+    }
+  ],
+  "potential": [
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 287551,
+      "forks": 35903,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-22",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 105,
+      "stars_per_day": 2738.6
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 199248,
+      "forks": 11315,
+      "lang": "JavaScript",
+      "created": "2026-06-12",
+      "pushed": "2026-11-22",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules"
+      ],
+      "owner": "DietrichGebert",
+      "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "age_days": 167,
+      "stars_per_day": 1193.1
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "stars": 88062,
+      "forks": 2492,
+      "lang": "JavaScript",
+      "created": "2026-09-24",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "Ebony-Vinyl",
+      "avatar": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "age_days": 63,
+      "stars_per_day": 1397.8
+    },
+    {
+      "full_name": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "desc": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "stars": 81665,
+      "forks": 14357,
+      "lang": "Rust",
+      "created": "2026-09-30",
+      "pushed": "2026-11-26",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor",
+        "images",
+        "photo-editing"
+      ],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 57,
+      "stars_per_day": 1432.7
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 78732,
+      "forks": 5331,
+      "lang": "JavaScript",
+      "created": "2026-06-18",
+      "pushed": "2026-09-14",
+      "topics": [],
+      "owner": "cloudflare",
+      "avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "age_days": 161,
+      "stars_per_day": 489.0
+    },
+    {
+      "full_name": "eternity4719/HowToLiveBetter",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "desc": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+      "stars": 77705,
+      "forks": 6877,
+      "lang": "HTML",
+      "created": "2026-09-07",
+      "pushed": "2026-11-25",
+      "topics": [],
+      "owner": "eternity4719",
+      "avatar": "https://avatars.githubusercontent.com/u/230156667?v=4",
+      "age_days": 80,
+      "stars_per_day": 971.3
+    },
+    {
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai",
+      "stars": 67008,
+      "forks": 13275,
+      "lang": "JavaScript",
+      "created": "2026-06-22",
+      "pushed": "2026-11-26",
+      "topics": [
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis"
+      ],
+      "owner": "bilawalsidhu",
+      "avatar": "https://avatars.githubusercontent.com/u/106619546?v=4",
+      "age_days": 157,
+      "stars_per_day": 426.8
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 62013,
+      "forks": 6039,
+      "lang": "C++",
+      "created": "2026-08-03",
+      "pushed": "2026-11-26",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v"
+      ],
+      "owner": "boykopovar",
+      "avatar": "https://avatars.githubusercontent.com/u/184076081?v=4",
+      "age_days": 115,
+      "stars_per_day": 539.2
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "stars": 61182,
+      "forks": 8049,
+      "lang": "Python",
+      "created": "2026-10-17",
+      "pushed": "2026-11-26",
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal"
+      ],
+      "owner": "Gathin23",
+      "avatar": "https://avatars.githubusercontent.com/u/94786511?v=4",
+      "age_days": 40,
+      "stars_per_day": 1529.5
+    },
+    {
+      "full_name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "stars": 53575,
+      "forks": 6487,
+      "lang": "C",
+      "created": "2026-07-01",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "JustVugg",
+      "avatar": "https://avatars.githubusercontent.com/u/13022503?v=4",
+      "age_days": 148,
+      "stars_per_day": 362.0
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "stars": 48382,
+      "forks": 5455,
+      "lang": "C++",
+      "created": "2026-09-24",
+      "pushed": "2026-11-25",
+      "topics": [],
+      "owner": "Niko1221",
+      "avatar": "https://avatars.githubusercontent.com/u/86886444?v=4",
+      "age_days": 63,
+      "stars_per_day": 768.0
+    },
+    {
+      "full_name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "stars": 44026,
+      "forks": 8707,
+      "lang": "Rust",
+      "created": "2026-10-31",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 26,
+      "stars_per_day": 1693.3
+    },
+    {
+      "full_name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "desc": "Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.",
+      "stars": 41975,
+      "forks": 3856,
+      "lang": "Go",
+      "created": "2026-09-23",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "deepseek"
+      ],
+      "owner": "yetone",
+      "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "age_days": 64,
+      "stars_per_day": 655.9
+    },
+    {
+      "full_name": "anywhere-labs/dsh-desktop",
+      "url": "https://github.com/anywhere-labs/dsh-desktop",
+      "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "stars": 36906,
+      "forks": 1667,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-26",
+      "topics": [
+        "cordis",
+        "cordis-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "desktop",
+        "dsh"
+      ],
+      "owner": "anywhere-labs",
+      "avatar": "https://avatars.githubusercontent.com/u/286827603?v=4",
+      "age_days": 105,
+      "stars_per_day": 351.5
+    },
+    {
+      "full_name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "desc": "Free and open-source macOS menu bar toolkit.",
+      "stars": 36517,
+      "forks": 1912,
+      "lang": "Swift",
+      "created": "2026-06-12",
+      "pushed": "2026-11-25",
+      "topics": [
+        "alt-tab",
+        "app-uninstaller",
+        "appkit",
+        "finder",
+        "free",
+        "keep-awake"
+      ],
+      "owner": "vorssaint",
+      "avatar": "https://avatars.githubusercontent.com/u/259901989?v=4",
+      "age_days": 167,
+      "stars_per_day": 218.7
+    },
+    {
+      "full_name": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "stars": 35991,
+      "forks": 3219,
+      "lang": "Python",
+      "created": "2026-09-18",
+      "pushed": "2026-11-26",
+      "topics": [
+        "calibration",
+        "classification",
+        "decision-model",
+        "huggingface",
+        "jev",
+        "modernbert"
+      ],
+      "owner": "NandhaKishorM",
+      "avatar": "https://avatars.githubusercontent.com/u/48623612?v=4",
+      "age_days": 69,
+      "stars_per_day": 521.6
+    },
+    {
+      "full_name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "stars": 32839,
+      "forks": 3536,
+      "lang": "Python",
+      "created": "2026-06-18",
+      "pushed": "2026-11-16",
+      "topics": [],
+      "owner": "baidu",
+      "avatar": "https://avatars.githubusercontent.com/u/13245940?v=4",
+      "age_days": 161,
+      "stars_per_day": 204.0
+    },
+    {
+      "full_name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "stars": 32612,
+      "forks": 1571,
+      "lang": "Dart",
+      "created": "2026-10-25",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "owner": "ccch1mneyyy",
+      "avatar": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "age_days": 32,
+      "stars_per_day": 1019.1
+    },
+    {
+      "full_name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "stars": 31560,
+      "forks": 3734,
+      "lang": "TypeScript",
+      "created": "2026-07-29",
+      "pushed": "2026-11-25",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "ai-video",
+        "compiler",
+        "dsl"
+      ],
+      "owner": "hypit-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/274059971?v=4",
+      "age_days": 120,
+      "stars_per_day": 263.0
+    },
+    {
+      "full_name": "KnifeLemon/Filee",
+      "url": "https://github.com/KnifeLemon/Filee",
+      "desc": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "stars": 31542,
+      "forks": 1817,
+      "lang": "C#",
+      "created": "2026-09-29",
+      "pushed": "2026-11-25",
+      "topics": [
+        "audio-converter",
+        "avalonia",
+        "batch-conversion",
+        "converter",
+        "csharp",
+        "document-converter"
+      ],
+      "owner": "KnifeLemon",
+      "avatar": "https://avatars.githubusercontent.com/u/13937016?v=4",
+      "age_days": 58,
+      "stars_per_day": 543.8
+    }
+  ],
+  "active": [
+    {
+      "full_name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 479535,
+      "forks": 116584,
+      "lang": "TypeScript",
+      "created": "2026-04-14",
+      "pushed": "2026-11-26",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "android",
+        "claude-code",
+        "cli",
+        "cpp"
+      ],
+      "owner": "morluto",
+      "avatar": "https://avatars.githubusercontent.com/u/76467478?v=4",
+      "age_days": 226,
+      "stars_per_day": 2121.8
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 459675,
+      "forks": 47388,
+      "lang": "TypeScript",
+      "created": "2014-12-24",
+      "pushed": "2026-11-26",
+      "topics": [
+        "careers",
+        "certification",
+        "community",
+        "curriculum",
+        "d3",
+        "education"
+      ],
+      "owner": "freeCodeCamp",
+      "avatar": "https://avatars.githubusercontent.com/u/9892522?v=4",
+      "age_days": 4355,
+      "stars_per_day": 105.6
+    },
+    {
+      "full_name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "desc": ":books: Freely available programming books",
+      "stars": 402343,
+      "forks": 67256,
+      "lang": "Python",
+      "created": "2013-10-11",
+      "pushed": "2026-11-25",
+      "topics": [
+        "books",
+        "education",
+        "hacktoberfest",
+        "list",
+        "resource"
+      ],
+      "owner": "EbookFoundation",
+      "avatar": "https://avatars.githubusercontent.com/u/14127308?v=4",
+      "age_days": 4794,
+      "stars_per_day": 83.9
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": 395287,
+      "forks": 82995,
+      "lang": "TypeScript",
+      "created": "2025-11-24",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data"
+      ],
+      "owner": "openclaw",
+      "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "age_days": 367,
+      "stars_per_day": 1077.1
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "stars": 372827,
+      "forks": 45420,
+      "lang": "TypeScript",
+      "created": "2017-03-15",
+      "pushed": "2026-11-26",
+      "topics": [
+        "angular-roadmap",
+        "backend-roadmap",
+        "blockchain-roadmap",
+        "computer-science",
+        "dba-roadmap",
+        "developer-roadmap"
+      ],
+      "owner": "nilbuild",
+      "avatar": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "age_days": 3543,
+      "stars_per_day": 105.2
+    },
+    {
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "stars": 340736,
+      "forks": 15954,
+      "lang": "Other",
+      "created": "2015-06-01",
+      "pushed": "2026-11-25",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud",
+        "free-software",
+        "hosting",
+        "privacy"
+      ],
+      "owner": "awesome-selfhosted",
+      "avatar": "https://avatars.githubusercontent.com/u/24270415?v=4",
+      "age_days": 4196,
+      "stars_per_day": 81.2
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 333476,
+      "forks": 28058,
+      "lang": "Shell",
+      "created": "2026-02-03",
+      "pushed": "2026-11-25",
+      "topics": [],
+      "owner": "mattpocock",
+      "avatar": "https://avatars.githubusercontent.com/u/28293365?v=4",
+      "age_days": 296,
+      "stars_per_day": 1126.6
+    },
+    {
+      "full_name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "stars": 327290,
+      "forks": 29024,
+      "lang": "Shell",
+      "created": "2025-10-09",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills"
+      ],
+      "owner": "obra",
+      "avatar": "https://avatars.githubusercontent.com/u/45416?v=4",
+      "age_days": 413,
+      "stars_per_day": 792.5
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": 266334,
+      "forks": 60436,
+      "lang": "Python",
+      "created": "2025-07-22",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude"
+      ],
+      "owner": "NousResearch",
+      "avatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "age_days": 492,
+      "stars_per_day": 541.3
+    },
+    {
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "desc": "Linux kernel source tree",
+      "stars": 256859,
+      "forks": 66748,
+      "lang": "C",
+      "created": "2011-09-04",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "torvalds",
+      "avatar": "https://avatars.githubusercontent.com/u/1024025?v=4",
+      "age_days": 5562,
+      "stars_per_day": 46.2
+    },
+    {
+      "full_name": "react/react",
+      "url": "https://github.com/react/react",
+      "desc": "The library for web and native user interfaces.",
+      "stars": 252986,
+      "forks": 51836,
+      "lang": "JavaScript",
+      "created": "2013-05-24",
+      "pushed": "2026-11-26",
+      "topics": [
+        "declarative",
+        "frontend",
+        "javascript",
+        "library",
+        "react",
+        "ui"
+      ],
+      "owner": "react",
+      "avatar": "https://avatars.githubusercontent.com/u/102812?v=4",
+      "age_days": 4934,
+      "stars_per_day": 51.3
+    },
+    {
+      "full_name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "stars": 229371,
+      "forks": 31240,
+      "lang": "TypeScript",
+      "created": "2025-04-30",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "anomalyco",
+      "avatar": "https://avatars.githubusercontent.com/u/66570915?v=4",
+      "age_days": 575,
+      "stars_per_day": 398.9
+    }
+  ],
+  "movers": [
+    {
+      "full_name": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "stars": 5363,
+      "forks": 159,
+      "lang": "JavaScript",
+      "created": "2026-11-21",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "4lwayz",
+      "avatar": "https://avatars.githubusercontent.com/u/359682649?v=4",
+      "age_days": 5,
+      "stars_per_day": 1072.6,
+      "delta": 1268
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "stars": 88062,
+      "forks": 2492,
+      "lang": "JavaScript",
+      "created": "2026-09-24",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "Ebony-Vinyl",
+      "avatar": "https://avatars.githubusercontent.com/u/245557608?v=4",
+      "age_days": 63,
+      "stars_per_day": 1397.8,
+      "delta": 971
+    },
+    {
+      "full_name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "stars": 32612,
+      "forks": 1571,
+      "lang": "Dart",
+      "created": "2026-10-25",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai-agent",
+        "android",
+        "android-app",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "owner": "ccch1mneyyy",
+      "avatar": "https://avatars.githubusercontent.com/u/268149062?v=4",
+      "age_days": 32,
+      "stars_per_day": 1019.1,
+      "delta": 653
+    },
+    {
+      "full_name": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "desc": "An attempt at running GTA VI on PC",
+      "stars": 13169,
+      "forks": 2196,
+      "lang": "Rust",
+      "created": "2026-11-23",
+      "pushed": "2026-11-25",
+      "topics": [],
+      "owner": "Marvisak",
+      "avatar": "https://avatars.githubusercontent.com/u/60314886?v=4",
+      "age_days": 3,
+      "stars_per_day": 4389.7,
+      "delta": 575
+    },
+    {
+      "full_name": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "stars": 44026,
+      "forks": 8707,
+      "lang": "Rust",
+      "created": "2026-10-31",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "storytold",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "age_days": 26,
+      "stars_per_day": 1693.3,
+      "delta": 555
+    },
+    {
+      "full_name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 199248,
+      "forks": 11315,
+      "lang": "JavaScript",
+      "created": "2026-06-12",
+      "pushed": "2026-11-22",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules"
+      ],
+      "owner": "DietrichGebert",
+      "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "age_days": 167,
+      "stars_per_day": 1193.1,
+      "delta": 533
+    },
+    {
+      "full_name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 62013,
+      "forks": 6039,
+      "lang": "C++",
+      "created": "2026-08-03",
+      "pushed": "2026-11-26",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v"
+      ],
+      "owner": "boykopovar",
+      "avatar": "https://avatars.githubusercontent.com/u/184076081?v=4",
+      "age_days": 115,
+      "stars_per_day": 539.2,
+      "delta": 515
+    },
+    {
+      "full_name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "desc": "Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.",
+      "stars": 41975,
+      "forks": 3856,
+      "lang": "Go",
+      "created": "2026-09-23",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "deepseek"
+      ],
+      "owner": "yetone",
+      "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "age_days": 64,
+      "stars_per_day": 655.9,
+      "delta": 497
+    },
+    {
+      "full_name": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "desc": "DeepSeek Harness: Everything is a Plugin.",
+      "stars": 287551,
+      "forks": 35903,
+      "lang": "TypeScript",
+      "created": "2026-08-13",
+      "pushed": "2026-11-22",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "owner": "deepseek-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+      "age_days": 105,
+      "stars_per_day": 2738.6,
+      "delta": 493
+    },
+    {
+      "full_name": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "stars": 22135,
+      "forks": 1379,
+      "lang": "JavaScript",
+      "created": "2026-10-29",
+      "pushed": "2026-11-15",
+      "topics": [],
+      "owner": "heydamir",
+      "avatar": "https://avatars.githubusercontent.com/u/97800728?v=4",
+      "age_days": 28,
+      "stars_per_day": 790.5,
+      "delta": 401
+    },
+    {
+      "full_name": "crhywun/g1-acq",
+      "url": "https://github.com/crhywun/g1-acq",
+      "desc": "",
+      "stars": 1607,
+      "forks": 374,
+      "lang": "JavaScript",
+      "created": "2026-11-22",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "crhywun",
+      "avatar": "https://avatars.githubusercontent.com/u/38809664?v=4",
+      "age_days": 4,
+      "stars_per_day": 401.8,
+      "delta": 385
+    },
+    {
+      "full_name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 78732,
+      "forks": 5331,
+      "lang": "JavaScript",
+      "created": "2026-06-18",
+      "pushed": "2026-09-14",
+      "topics": [],
+      "owner": "cloudflare",
+      "avatar": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "age_days": 161,
+      "stars_per_day": 489.0,
+      "delta": 377
+    },
+    {
+      "full_name": "KnifeLemon/Filee",
+      "url": "https://github.com/KnifeLemon/Filee",
+      "desc": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "stars": 31542,
+      "forks": 1817,
+      "lang": "C#",
+      "created": "2026-09-29",
+      "pushed": "2026-11-25",
+      "topics": [
+        "audio-converter",
+        "avalonia",
+        "batch-conversion",
+        "converter",
+        "csharp",
+        "document-converter"
+      ],
+      "owner": "KnifeLemon",
+      "avatar": "https://avatars.githubusercontent.com/u/13937016?v=4",
+      "age_days": 58,
+      "stars_per_day": 543.8,
+      "delta": 335
+    },
+    {
+      "full_name": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "stars": 4195,
+      "forks": 208,
+      "lang": "C",
+      "created": "2026-11-20",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "AFK-surf",
+      "avatar": "https://avatars.githubusercontent.com/u/221804798?v=4",
+      "age_days": 6,
+      "stars_per_day": 699.2,
+      "delta": 267
+    },
+    {
+      "full_name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 28098,
+      "forks": 4003,
+      "lang": "TypeScript",
+      "created": "2026-08-11",
+      "pushed": "2026-11-26",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron"
+      ],
+      "owner": "milind-soni",
+      "avatar": "https://avatars.githubusercontent.com/u/46266943?v=4",
+      "age_days": 107,
+      "stars_per_day": 262.6,
+      "delta": 257
+    },
+    {
+      "full_name": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "stars": 4194,
+      "forks": 304,
+      "lang": "Rust",
+      "created": "2026-11-21",
+      "pushed": "2026-11-25",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "developer-tools"
+      ],
+      "owner": "EL4CTEO",
+      "avatar": "https://avatars.githubusercontent.com/u/215285446?v=4",
+      "age_days": 5,
+      "stars_per_day": 838.8,
+      "delta": 244
+    },
+    {
+      "full_name": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "stars": 8550,
+      "forks": 1189,
+      "lang": "Rust",
+      "created": "2026-11-20",
+      "pushed": "2026-11-26",
+      "topics": [
+        "d3d12",
+        "gdk",
+        "rdna2",
+        "xbox"
+      ],
+      "owner": "xcl-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/360790281?v=4",
+      "age_days": 6,
+      "stars_per_day": 1425.0,
+      "delta": 241
+    },
+    {
+      "full_name": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "desc": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "stars": 48382,
+      "forks": 5455,
+      "lang": "C++",
+      "created": "2026-09-24",
+      "pushed": "2026-11-25",
+      "topics": [],
+      "owner": "Niko1221",
+      "avatar": "https://avatars.githubusercontent.com/u/86886444?v=4",
+      "age_days": 63,
+      "stars_per_day": 768.0,
+      "delta": 231
+    },
+    {
+      "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "stars": 1432,
+      "forks": 124,
+      "lang": "Rust",
+      "created": "2026-11-22",
+      "pushed": "2026-11-26",
+      "topics": [
+        "dearrow",
+        "desktop-app",
+        "gpui",
+        "mpv",
+        "rust",
+        "sponsorblock"
+      ],
+      "owner": "Avaneesh-Inamdar",
+      "avatar": "https://avatars.githubusercontent.com/u/104128879?v=4",
+      "age_days": 4,
+      "stars_per_day": 358.0,
+      "delta": 209
+    },
+    {
+      "full_name": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "stars": 3250,
+      "forks": 967,
+      "lang": "Rust",
+      "created": "2026-11-24",
+      "pushed": "2026-11-26",
+      "topics": [],
+      "owner": "fxceless",
+      "avatar": "https://avatars.githubusercontent.com/u/36782933?v=4",
+      "age_days": 2,
+      "stars_per_day": 1625.0,
+      "delta": 191
+    }
+  ],
+  "annotations": {
+    "Marvisak/VIctory": {
+      "name": "An attempt at running GTA VI on PC",
+      "tag": "其他",
+      "auto": true
+    },
+    "Belobug/VIctory-Belobug-AMD": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "avatarmanz/VIctory-7900XTX": {
+      "name": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+      "tag": "其他",
+      "auto": true
+    },
+    "fxceless/victory-fork": {
+      "name": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "tag": "其他",
+      "auto": true
+    },
+    "xcl-dev/xcl": {
+      "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "tag": "其他",
+      "auto": true
+    },
+    "alesha-pro/llm.asm": {
+      "name": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "tag": "模型/推理",
+      "auto": true
+    },
+    "4lwayz/portwatch-vi": {
+      "name": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "tag": "其他",
+      "auto": true
+    },
+    "EL4CTEO/fast-anything": {
+      "name": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "ubiquitarianism/leonida": {
+      "name": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "tag": "其他",
+      "auto": true
+    },
+    "lsernau/grh-lean": {
+      "name": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+      "tag": "其他",
+      "auto": true
+    },
+    "AFK-surf/xnulinux": {
+      "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "Reukix/Reloc": {
+      "name": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+      "tag": "其他",
+      "auto": true
+    },
+    "os6/nospeaker": {
+      "name": "make your macbook's trackpad talk using its haptic motor",
+      "tag": "资源合集",
+      "auto": true
+    },
+    "Indigo-0167/universal-game-mod-manager": {
+      "name": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "tag": "其他",
+      "auto": true
+    },
+    "Umbra9179/clipboard-history-manager-windows": {
+      "name": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "crhywun/g1-acq": {
+      "name": "（官方未提供简介）",
+      "tag": "其他",
+      "auto": true
+    },
+    "iamajmeena/neonclipping": {
+      "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "tag": "模型/推理",
+      "auto": true
+    },
+    "omonkeyz/xbox-emulator": {
+      "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "tag": "其他",
+      "auto": true
+    },
+    "Avaneesh-Inamdar/Stream-Tube-Desktop": {
+      "name": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "zero5122/offline-file-converter-windows": {
+      "name": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "deepseek-ai/deepseek-harness": {
+      "name": "DeepSeek 官方 Agent 框架，主打「一切皆插件」，半年拿到 24 万星",
+      "tag": "AI Agent",
+      "note": "本榜增长最快的项目，生态地位类似 Claude Code 的插件体系"
+    },
+    "DietrichGebert/ponytail": {
+      "name": "让 AI 像最懒的资深工程师那样思考——最好的代码是你从没写过的代码",
+      "tag": "Agent Skill",
+      "note": "理念是让 AI 少写代码、多复用，反向优化 token 消耗"
+    },
+    "Ebony-Vinyl/dsh-our-free-model": {
+      "name": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "storytold/photocraft": {
+      "name": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "cloudflare/security-audit-skill": {
+      "name": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "eternity4719/HowToLiveBetter": {
+      "name": "高性价比人生指南：长寿防病、急救、省钱理财、法律红线、失业工伤、医保社保、婚育育儿、创业合规、出国技能，每条标明成本收益与证据等级",
+      "tag": "生活指南",
+      "note": "你正在办跨省医保备案，里面医保社保那一节可能用得上"
+    },
+    "bilawalsidhu/gods-eye-view": {
+      "name": "浏览器里的间谍卫星模拟器，游玩用的是真实开源地理数据",
+      "tag": "地理可视化"
+    },
+    "boykopovar/AnyPS5": {
+      "name": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "tag": "其他",
+      "auto": true
+    },
+    "Gathin23/cleanyourtv": {
+      "name": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "tag": "其他",
+      "auto": true
+    },
+    "JustVugg/colibri": {
+      "name": "纯 C 写的推理引擎，无依赖，把专家权重从磁盘流式加载，让普通机器也能跑超大 MoE 模型",
+      "tag": "本地推理"
+    },
+    "Niko1221/Strata": {
+      "name": "让 125B 超大模型跑在 8GB 显卡上：一键安装，本地起 OpenAI/Anthropic 兼容接口",
+      "tag": "本地推理",
+      "note": "显存不够跑大模型的痛点方案，消费级硬件就能用"
+    },
+    "storytold/craft-anything": {
+      "name": "Craft Anything: understand how any software works, and craft your own.",
+      "tag": "其他",
+      "auto": true
+    },
+    "yetone/magpie": {
+      "name": "一个菜单栏工具，统一管理各家 AI 模型：让 Codex 跑 DeepSeek、Claude Code 跑 Kimi",
+      "tag": "开发工具"
+    },
+    "anywhere-labs/dsh-desktop": {
+      "name": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "vorssaint/vorssaint-utils": {
+      "name": "Free and open-source macOS menu bar toolkit.",
+      "tag": "其他",
+      "auto": true
+    },
+    "NandhaKishorM/laya": {
+      "name": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "tag": "模型/推理",
+      "auto": true
+    },
+    "baidu/Unlimited-OCR": {
+      "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "tag": "其他",
+      "auto": true
+    },
+    "ccch1mneyyy/dsh-Go": {
+      "name": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "hypit-ai/hypit": {
+      "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "KnifeLemon/Filee": {
+      "name": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "tag": "开发工具",
+      "auto": true
+    },
+    "morluto/rea": {
+      "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "freeCodeCamp/freeCodeCamp": {
+      "name": "免费学编程的课程与代码库",
+      "tag": "学习资源"
+    },
+    "EbookFoundation/free-programming-books": {
+      "name": ":books: Freely available programming books",
+      "tag": "资源合集",
+      "auto": true
+    },
+    "openclaw/openclaw": {
+      "name": "跨平台通用 AI 助手，主打「真能干活」",
+      "tag": "AI Agent"
+    },
+    "nilbuild/developer-roadmap": {
+      "name": "开发者成长路线图，各技术方向该学什么一目了然",
+      "tag": "学习资源"
+    },
+    "awesome-selfhosted/awesome-selfhosted": {
+      "name": "可自托管的开源网络服务清单",
+      "tag": "资源合集"
+    },
+    "mattpocock/skills": {
+      "name": "一线工程师的真实 Agent 技能库",
+      "tag": "Agent Skill"
+    },
+    "obra/superpowers": {
+      "name": "An agentic skills framework & software development methodology that works.",
+      "tag": "AI Agent",
+      "auto": true
+    },
+    "NousResearch/hermes-agent": {
+      "name": "随你一起成长的 Agent",
+      "tag": "AI Agent"
+    },
+    "torvalds/linux": {
+      "name": "Linux 内核源码",
+      "tag": "操作系统"
+    },
+    "react/react": {
+      "name": "React 前端框架源码",
+      "tag": "前端框架"
+    },
+    "anomalyco/opencode": {
+      "name": "The open source coding agent.",
+      "tag": "AI Agent",
+      "auto": true
+    }
+  }
+}

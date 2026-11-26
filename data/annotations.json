@@ -9,6 +9,11 @@
     "tag": "其他",
     "auto": true
   },
+  "avatarmanz/VIctory-7900XTX": {
+    "name": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+    "tag": "其他",
+    "auto": true
+  },
   "fxceless/victory-fork": {
     "name": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
     "tag": "其他",
@@ -17,6 +22,11 @@
   "xcl-dev/xcl": {
     "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
     "tag": "其他",
+    "auto": true
+  },
+  "alesha-pro/llm.asm": {
+    "name": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+    "tag": "模型/推理",
     "auto": true
   },
   "4lwayz/portwatch-vi": {
@@ -34,9 +44,19 @@
     "tag": "其他",
     "auto": true
   },
+  "lsernau/grh-lean": {
+    "name": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+    "tag": "其他",
+    "auto": true
+  },
   "AFK-surf/xnulinux": {
     "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
     "tag": "开发工具",
+    "auto": true
+  },
+  "Reukix/Reloc": {
+    "name": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+    "tag": "其他",
     "auto": true
   },
   "os6/nospeaker": {
@@ -54,6 +74,11 @@
     "tag": "开发工具",
     "auto": true
   },
+  "crhywun/g1-acq": {
+    "name": "（官方未提供简介）",
+    "tag": "其他",
+    "auto": true
+  },
   "iamajmeena/neonclipping": {
     "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
     "tag": "模型/推理",
@@ -64,39 +89,14 @@
     "tag": "其他",
     "auto": true
   },
-  "zero5122/offline-file-converter-windows": {
-    "name": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
-    "tag": "开发工具",
-    "auto": true
-  },
-  "solv4626/steam-achievement-manager-windows": {
-    "name": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
-    "tag": "其他",
-    "auto": true
-  },
-  "kai415-debug/ffmpeg-video-audio-converter": {
-    "name": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
-    "tag": "开发工具",
-    "auto": true
-  },
-  "R0Y00/Xbox2Windows": {
-    "name": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
-    "tag": "创意/AI生成",
-    "auto": true
-  },
   "Avaneesh-Inamdar/Stream-Tube-Desktop": {
     "name": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
     "tag": "开发工具",
     "auto": true
   },
-  "crhywun/g1-acq": {
-    "name": "（官方未提供简介）",
-    "tag": "其他",
-    "auto": true
-  },
-  "deterministic-machines/deslop-please": {
-    "name": "Bring (back) sanity to your code",
-    "tag": "其他",
+  "zero5122/offline-file-converter-windows": {
+    "name": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
+    "tag": "开发工具",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -108,10 +108,6 @@
     "name": "让 AI 像最懒的资深工程师那样思考——最好的代码是你从没写过的代码",
     "tag": "Agent Skill",
     "note": "理念是让 AI 少写代码、多复用，反向优化 token 消耗"
-  },
-  "odysseus-dev/odysseus": {
-    "name": "可自托管的 AI 工作台",
-    "tag": "自托管"
   },
   "Ebony-Vinyl/dsh-our-free-model": {
     "name": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
@@ -193,6 +189,11 @@
   "hypit-ai/hypit": {
     "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
     "tag": "AI Agent",
+    "auto": true
+  },
+  "KnifeLemon/Filee": {
+    "name": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+    "tag": "开发工具",
     "auto": true
   },
   "morluto/rea": {
