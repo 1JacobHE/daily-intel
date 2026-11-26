@@ -4,6 +4,11 @@
     "tag": "其他",
     "auto": true
   },
+  "Belobug/VIctory-Belobug-AMD": {
+    "name": "（官方未提供简介）",
+    "tag": "其他",
+    "auto": true
+  },
   "fxceless/victory-fork": {
     "name": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
     "tag": "其他",
@@ -14,13 +19,8 @@
     "tag": "其他",
     "auto": true
   },
-  "Belobug/VIctory-Belobug-AMD": {
-    "name": "（官方未提供简介）",
-    "tag": "其他",
-    "auto": true
-  },
-  "ubiquitarianism/leonida": {
-    "name": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+  "4lwayz/portwatch-vi": {
+    "name": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
     "tag": "其他",
     "auto": true
   },
@@ -29,14 +29,19 @@
     "tag": "AI Agent",
     "auto": true
   },
-  "4lwayz/portwatch-vi": {
-    "name": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+  "ubiquitarianism/leonida": {
+    "name": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
     "tag": "其他",
     "auto": true
   },
   "AFK-surf/xnulinux": {
     "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
     "tag": "开发工具",
+    "auto": true
+  },
+  "os6/nospeaker": {
+    "name": "make your macbook's trackpad talk using its haptic motor",
+    "tag": "资源合集",
     "auto": true
   },
   "Indigo-0167/universal-game-mod-manager": {
@@ -49,13 +54,13 @@
     "tag": "开发工具",
     "auto": true
   },
-  "os6/nospeaker": {
-    "name": "make your macbook's trackpad talk using its haptic motor",
-    "tag": "资源合集",
+  "iamajmeena/neonclipping": {
+    "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "tag": "模型/推理",
     "auto": true
   },
-  "solv4626/steam-achievement-manager-windows": {
-    "name": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+  "omonkeyz/xbox-emulator": {
+    "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "tag": "其他",
     "auto": true
   },
@@ -64,24 +69,14 @@
     "tag": "开发工具",
     "auto": true
   },
+  "solv4626/steam-achievement-manager-windows": {
+    "name": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+    "tag": "其他",
+    "auto": true
+  },
   "kai415-debug/ffmpeg-video-audio-converter": {
     "name": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
     "tag": "开发工具",
-    "auto": true
-  },
-  "omonkeyz/xbox-emulator": {
-    "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-    "tag": "其他",
-    "auto": true
-  },
-  "rowanbyte3329/stardew-valley-mod-manager": {
-    "name": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles.",
-    "tag": "其他",
-    "auto": true
-  },
-  "iamajmeena/neonclipping": {
-    "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-    "tag": "模型/推理",
     "auto": true
   },
   "R0Y00/Xbox2Windows": {
@@ -89,14 +84,19 @@
     "tag": "创意/AI生成",
     "auto": true
   },
+  "Avaneesh-Inamdar/Stream-Tube-Desktop": {
+    "name": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+    "tag": "开发工具",
+    "auto": true
+  },
   "crhywun/g1-acq": {
     "name": "（官方未提供简介）",
     "tag": "其他",
     "auto": true
   },
-  "Avaneesh-Inamdar/Stream-Tube-Desktop": {
-    "name": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
-    "tag": "开发工具",
+  "deterministic-machines/deslop-please": {
+    "name": "Bring (back) sanity to your code",
+    "tag": "其他",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -217,6 +217,10 @@
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
   },
+  "awesome-selfhosted/awesome-selfhosted": {
+    "name": "可自托管的开源网络服务清单",
+    "tag": "资源合集"
+  },
   "mattpocock/skills": {
     "name": "一线工程师的真实 Agent 技能库",
     "tag": "Agent Skill"
@@ -241,11 +245,6 @@
   "anomalyco/opencode": {
     "name": "The open source coding agent.",
     "tag": "AI Agent",
-    "auto": true
-  },
-  "n8n-io/n8n": {
-    "name": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-    "tag": "开发工具",
     "auto": true
   }
 }
