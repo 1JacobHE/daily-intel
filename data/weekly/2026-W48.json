@@ -4,7 +4,7 @@
     "2026-11-27",
     "2026-11-21"
   ],
-  "generated_at": "2026-11-27 02:24",
+  "generated_at": "2026-11-27 08:00",
   "github_persistent": [
     {
       "full_name": "morluto/rea",
@@ -17,8 +17,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 471470,
-      "stars_last": 479535,
-      "stars_growth": 8065,
+      "stars_last": 479750,
+      "stars_growth": 8280,
       "trend": "flat"
     },
     {
@@ -32,8 +32,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 82074,
-      "stars_last": 88062,
-      "stars_growth": 5988,
+      "stars_last": 88156,
+      "stars_growth": 6082,
       "trend": "flat"
     },
     {
@@ -47,8 +47,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 39500,
-      "stars_last": 44026,
-      "stars_growth": 4526,
+      "stars_last": 44123,
+      "stars_growth": 4623,
       "trend": "flat"
     },
     {
@@ -62,8 +62,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 195615,
-      "stars_last": 199248,
-      "stars_growth": 3633,
+      "stars_last": 199353,
+      "stars_growth": 3738,
       "trend": "flat"
     },
     {
@@ -77,8 +77,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 58801,
-      "stars_last": 62013,
-      "stars_growth": 3212,
+      "stars_last": 62229,
+      "stars_growth": 3428,
       "trend": "flat"
     },
     {
@@ -92,23 +92,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 284698,
-      "stars_last": 287551,
-      "stars_growth": 2853,
-      "trend": "flat"
-    },
-    {
-      "full_name": "yetone/magpie",
-      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "lang": "Go",
-      "days_on_board": 7,
-      "boards": [
-        "势能榜"
-      ],
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-27",
-      "stars_first": 39512,
-      "stars_last": 41975,
-      "stars_growth": 2463,
+      "stars_last": 287604,
+      "stars_growth": 2906,
       "trend": "flat"
     },
     {
@@ -122,8 +107,23 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 76281,
-      "stars_last": 78732,
-      "stars_growth": 2451,
+      "stars_last": 78850,
+      "stars_growth": 2569,
+      "trend": "flat"
+    },
+    {
+      "full_name": "yetone/magpie",
+      "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "lang": "Go",
+      "days_on_board": 7,
+      "boards": [
+        "势能榜"
+      ],
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-27",
+      "stars_first": 39512,
+      "stars_last": 42018,
+      "stars_growth": 2506,
       "trend": "flat"
     },
     {
@@ -137,8 +137,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 46294,
-      "stars_last": 48382,
-      "stars_growth": 2088,
+      "stars_last": 48435,
+      "stars_growth": 2141,
       "trend": "flat"
     },
     {
@@ -152,8 +152,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 31364,
-      "stars_last": 32839,
-      "stars_growth": 1475,
+      "stars_last": 32850,
+      "stars_growth": 1486,
       "trend": "flat"
     },
     {
@@ -167,8 +167,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 1240,
-      "stars_last": 2697,
-      "stars_growth": 1457,
+      "stars_last": 2718,
+      "stars_growth": 1478,
       "trend": "down"
     },
     {
@@ -182,8 +182,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 264986,
-      "stars_last": 266334,
-      "stars_growth": 1348,
+      "stars_last": 266384,
+      "stars_growth": 1398,
       "trend": "flat"
     },
     {
@@ -197,8 +197,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 59847,
-      "stars_last": 61182,
-      "stars_growth": 1335,
+      "stars_last": 61230,
+      "stars_growth": 1383,
       "trend": "flat"
     },
     {
@@ -212,8 +212,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 52475,
-      "stars_last": 53575,
-      "stars_growth": 1100,
+      "stars_last": 53594,
+      "stars_growth": 1119,
       "trend": "flat"
     },
     {
@@ -227,8 +227,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 35494,
-      "stars_last": 36517,
-      "stars_growth": 1023,
+      "stars_last": 36559,
+      "stars_growth": 1065,
       "trend": "flat"
     },
     {
@@ -242,8 +242,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 80736,
-      "stars_last": 81665,
-      "stars_growth": 929,
+      "stars_last": 81692,
+      "stars_growth": 956,
       "trend": "flat"
     },
     {
@@ -257,8 +257,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 66126,
-      "stars_last": 67008,
-      "stars_growth": 882,
+      "stars_last": 67046,
+      "stars_growth": 920,
       "trend": "flat"
     },
     {
@@ -272,8 +272,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 76828,
-      "stars_last": 77705,
-      "stars_growth": 877,
+      "stars_last": 77709,
+      "stars_growth": 881,
       "trend": "flat"
     },
     {
@@ -287,8 +287,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 30870,
-      "stars_last": 31560,
-      "stars_growth": 690,
+      "stars_last": 31576,
+      "stars_growth": 706,
       "trend": "flat"
     },
     {
@@ -302,8 +302,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 256255,
-      "stars_last": 256859,
-      "stars_growth": 604,
+      "stars_last": 256889,
+      "stars_growth": 634,
       "trend": "flat"
     },
     {
@@ -317,8 +317,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 36500,
-      "stars_last": 36906,
-      "stars_growth": 406,
+      "stars_last": 36907,
+      "stars_growth": 407,
       "trend": "flat"
     },
     {
@@ -332,8 +332,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 372455,
-      "stars_last": 372827,
-      "stars_growth": 372,
+      "stars_last": 372837,
+      "stars_growth": 382,
       "trend": "flat"
     },
     {
@@ -347,8 +347,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 394929,
-      "stars_last": 395287,
-      "stars_growth": 358,
+      "stars_last": 395299,
+      "stars_growth": 370,
       "trend": "flat"
     },
     {
@@ -362,8 +362,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 459396,
-      "stars_last": 459675,
-      "stars_growth": 279,
+      "stars_last": 459676,
+      "stars_growth": 280,
       "trend": "flat"
     },
     {
@@ -377,8 +377,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 35750,
-      "stars_last": 35991,
-      "stars_growth": 241,
+      "stars_last": 35994,
+      "stars_growth": 244,
       "trend": "flat"
     },
     {
@@ -392,8 +392,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-27",
       "stars_first": 252838,
-      "stars_last": 252986,
-      "stars_growth": 148,
+      "stars_last": 252991,
+      "stars_growth": 153,
       "trend": "flat"
     },
     {
@@ -452,16 +452,16 @@
       "first_date": "2026-11-23",
       "last_date": "2026-11-27",
       "stars_first": 30166,
-      "stars_last": 32612,
-      "stars_growth": 2446,
+      "stars_last": 32667,
+      "stars_growth": 2501,
       "trend": "flat"
     }
   ],
   "news_mainlines": [
     {
       "topicLabel": "宏观经济/政策",
-      "title": "美联储12月加息25个基点的概率为97.2%",
-      "days": 5,
+      "title": "美联储12月加息25个基点的概率为97.4%",
+      "days": 6,
       "kind": "topic_line",
       "points": [
         {
@@ -493,36 +493,10 @@
           "title": "美联储12月加息25个基点的概率为97.2%",
           "heat": 1.0,
           "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "英伟达芯片卖家争相寻找买家",
-      "days": 4,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-21",
-          "title": "英伟达暴跌14% “AI交易”抛售加剧使得美股进入回调区间",
-          "heat": 2.0,
-          "sources": 2
         },
         {
-          "date": "2026-11-24",
-          "title": "数据显示：随着英伟达股价升至168.5美元 英伟达卖空者预计将录得约122亿美元的账面亏损",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-25",
-          "title": "英伟达股价延续跌势，最新下跌6%",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-26",
-          "title": "英伟达芯片卖家争相寻找买家",
+          "date": "2026-11-27",
+          "title": "美联储12月加息25个基点的概率为97.4%",
           "heat": 1.0,
           "sources": 1
         }
@@ -530,72 +504,8 @@
     },
     {
       "topicLabel": "综合",
-      "title": "Anthropic股价重回83美元的IPO发行价上方",
-      "days": 4,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-21",
-          "title": "Anthropic跌幅收窄至不足6% 此前一度跌约10%",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-24",
-          "title": "据报道 SpaceX需要建成新的数据中心才能履行Anthropic的订单",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-25",
-          "title": "Anthropic股价跌幅一度扩大至13.6% 市值失守1万亿美元关口",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-26",
-          "title": "Anthropic股价重回83美元的IPO发行价上方",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "德国下调第三季度经济增速",
-      "days": 4,
-      "kind": "topic_line",
-      "points": [
-        {
-          "date": "2026-11-21",
-          "title": "前10个月，江苏经济运行总体平稳",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-24",
-          "title": "原煤产量稳步爬坡 煤企四季度业绩改善可期",
-          "heat": 2.0,
-          "sources": 2
-        },
-        {
-          "date": "2026-11-25",
-          "title": "前10月广东规上工业增加值同比增长6.1%",
-          "heat": 1.0,
-          "sources": 1
-        },
-        {
-          "date": "2026-11-26",
-          "title": "德国下调第三季度经济增速",
-          "heat": 1.0,
-          "sources": 1
-        }
-      ]
-    },
-    {
-      "topicLabel": "综合",
-      "title": "A股限售股解禁一览：5.88亿元市值限售股今日解禁",
-      "days": 4,
+      "title": "A股限售股解禁一览：2.3亿元市值限售股今日解禁",
+      "days": 5,
       "kind": "event_line",
       "points": [
         {
@@ -621,30 +531,74 @@
           "title": "A股限售股解禁一览：5.88亿元市值限售股今日解禁",
           "heat": 1.0,
           "sources": 1
+        },
+        {
+          "date": "2026-11-27",
+          "title": "A股限售股解禁一览：2.3亿元市值限售股今日解禁",
+          "heat": 1.0,
+          "sources": 1
         }
       ]
     },
     {
-      "topicLabel": "宏观经济/政策",
-      "title": "巴西股市上涨3.4% 创10月5日以来最大单日涨幅",
-      "days": 3,
+      "topicLabel": "综合",
+      "title": "CoreWeave和英伟达信用风险指标创新高",
+      "days": 4,
       "kind": "topic_line",
       "points": [
         {
           "date": "2026-11-21",
-          "title": "前10个月全国一般公共预算收入同比增长4.9%",
+          "title": "英伟达暴跌14% “AI交易”抛售加剧使得美股进入回调区间",
+          "heat": 2.0,
+          "sources": 2
+        },
+        {
+          "date": "2026-11-24",
+          "title": "周二你需要知道的隔夜全球要闻：黄仁勋复职英伟达暴涨超31%；黄仁勋下周将赴美参议院公开作证；富国上调美国大盘股评级至“最看好”",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-25",
+          "title": "黄仁勋主持员工大会：英伟达不需要接班人计划",
           "heat": 1.0,
           "sources": 1
         },
         {
           "date": "2026-11-26",
-          "title": "财政部等五部门印发《常态化帮扶资金绩效评价办法》",
+          "title": "美股收盘：道指翻红 芯片股继续调整 英伟达跌近4%",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "史上最大IPO四天破发意味着什么",
+      "days": 4,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-21",
+          "title": "Anthropic较早些时候的低点有所反弹 最新下跌10%",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-24",
+          "title": "Anthropic首席执行官Amodei以每股83美元的价格出售340万股股票",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-25",
+          "title": "Anthropic推出桌面新功能 Claude生成内容可一键变身独立软件",
           "heat": 1.0,
           "sources": 1
         },
         {
           "date": "2026-11-27",
-          "title": "巴西股市上涨3.4% 创10月5日以来最大单日涨幅",
+          "title": "史上最大IPO四天破发意味着什么",
           "heat": 1.0,
           "sources": 1
         }
@@ -678,25 +632,25 @@
     },
     {
       "topicLabel": "综合",
-      "title": "美股开盘：美股三大指数集体低开",
+      "title": "德国下调第三季度经济增速",
       "days": 3,
-      "kind": "event_line",
+      "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-21",
-          "title": "美股开盘：美股三大指数集体低开",
-          "heat": 1.0,
-          "sources": 1
+          "date": "2026-11-24",
+          "title": "原煤产量稳步爬坡 煤企四季度业绩改善可期",
+          "heat": 2.0,
+          "sources": 2
         },
         {
           "date": "2026-11-25",
-          "title": "美股开盘：美股三大指数集体低开",
+          "title": "前10月广东规上工业增加值同比增长6.1%",
           "heat": 1.0,
           "sources": 1
         },
         {
           "date": "2026-11-26",
-          "title": "美股开盘：美股三大指数集体低开",
+          "title": "德国下调第三季度经济增速",
           "heat": 1.0,
           "sources": 1
         }
@@ -723,20 +677,20 @@
       ]
     },
     {
-      "topicLabel": "综合",
-      "title": "商务部：各级政府机关、事业单位带头过紧日子，建立跨部门、跨级次、跨地区的调剂共享机制，让闲置资产活起来、二手商品转起来",
+      "topicLabel": "宏观经济/政策",
+      "title": "财政部前瞻性补充国有大型金融机构资本",
       "days": 2,
       "kind": "topic_line",
       "points": [
         {
-          "date": "2026-11-24",
-          "title": "首批高标准数字园区建设对象名单公布",
+          "date": "2026-11-21",
+          "title": "前10个月财政收入逾19.5万亿元 个税收入规模超去年全年",
           "heat": 1.0,
           "sources": 1
         },
         {
-          "date": "2026-11-27",
-          "title": "商务部：各级政府机关、事业单位带头过紧日子，建立跨部门、跨级次、跨地区的调剂共享机制，让闲置资产活起来、二手商品转起来",
+          "date": "2026-11-26",
+          "title": "财政部前瞻性补充国有大型金融机构资本",
           "heat": 1.0,
           "sources": 1
         }
@@ -744,7 +698,7 @@
     },
     {
       "topicLabel": "军事地缘",
-      "title": "特朗普指责政府蓄意低报经济增长 要求展开调查",
+      "title": "特朗普指政府蓄意低报经济增长 要求展开调查",
       "days": 2,
       "kind": "topic_line",
       "points": [
@@ -756,9 +710,9 @@
         },
         {
           "date": "2026-11-27",
-          "title": "特朗普指责政府蓄意低报经济增长 要求展开调查",
-          "heat": 2.0,
-          "sources": 2
+          "title": "美国GDP大幅上调 特朗普猛批“误导选民”：为什么中期选举前不早说？",
+          "heat": 1.0,
+          "sources": 1
         }
       ]
     },
@@ -781,12 +735,52 @@
           "sources": 1
         }
       ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化 奥特曼支持限制",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-21",
+          "title": "OpenAI推出MedChemBench基准，评估AI辅助药物研发能力",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-23",
+          "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化 奥特曼支持限制",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
+    },
+    {
+      "topicLabel": "综合",
+      "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
+      "days": 2,
+      "kind": "topic_line",
+      "points": [
+        {
+          "date": "2026-11-21",
+          "title": "美国财政部：对四名伊朗个人实施制裁，这些人担任“石油受托人”",
+          "heat": 1.0,
+          "sources": 1
+        },
+        {
+          "date": "2026-11-22",
+          "title": "美财长称仍面临伊朗安全“威胁” 目前住在军事基地",
+          "heat": 1.0,
+          "sources": 1
+        }
+      ]
     }
   ],
   "stat": {
-    "repos_tracked": 105,
-    "repos_multi_day": 71,
-    "mainlines": 21
+    "repos_tracked": 106,
+    "repos_multi_day": 70,
+    "mainlines": 17
   },
   "provenance": {
     "method": "aggregate_over_archives",
