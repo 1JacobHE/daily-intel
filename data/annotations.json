@@ -4,8 +4,8 @@
     "tag": "其他",
     "auto": true
   },
-  "Belobug/VIctory-Belobug-AMD": {
-    "name": "（官方未提供简介）",
+  "Pixel679-cmyk/windows-titlebar-blur-customizer": {
+    "name": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
     "tag": "其他",
     "auto": true
   },
@@ -24,9 +24,9 @@
     "tag": "其他",
     "auto": true
   },
-  "avatarmanz/VIctory-7900XTX": {
-    "name": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
-    "tag": "其他",
+  "nexu-io/opengame": {
+    "name": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+    "tag": "AI Agent",
     "auto": true
   },
   "alesha-pro/llm.asm": {
@@ -34,9 +34,24 @@
     "tag": "模型/推理",
     "auto": true
   },
+  "DoubleGhosty/cool_fox": {
+    "name": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
+    "tag": "开发工具",
+    "auto": true
+  },
+  "trustno1-coder/VIctory-NVIDIA": {
+    "name": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+    "tag": "其他",
+    "auto": true
+  },
   "EL4CTEO/fast-anything": {
     "name": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
     "tag": "AI Agent",
+    "auto": true
+  },
+  "Reukix/Reloc": {
+    "name": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+    "tag": "其他",
     "auto": true
   },
   "ubiquitarianism/leonida": {
@@ -54,18 +69,13 @@
     "tag": "其他",
     "auto": true
   },
-  "nexu-io/opengame": {
-    "name": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
-    "tag": "AI Agent",
-    "auto": true
-  },
   "os6/nospeaker": {
     "name": "make your macbook's trackpad talk using its haptic motor",
     "tag": "资源合集",
     "auto": true
   },
-  "Reukix/Reloc": {
-    "name": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+  "ZigZagBoi1/ScarlettPort": {
+    "name": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
     "tag": "其他",
     "auto": true
   },
@@ -81,16 +91,6 @@
   },
   "Indigo-0167/universal-game-mod-manager": {
     "name": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
-    "tag": "其他",
-    "auto": true
-  },
-  "Umbra9179/clipboard-history-manager-windows": {
-    "name": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
-    "tag": "开发工具",
-    "auto": true
-  },
-  "omonkeyz/xbox-emulator": {
-    "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "tag": "其他",
     "auto": true
   },
@@ -176,24 +176,24 @@
     "tag": "模型/推理",
     "auto": true
   },
-  "baidu/Unlimited-OCR": {
-    "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-    "tag": "其他",
-    "auto": true
-  },
   "ccch1mneyyy/dsh-Go": {
     "name": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "tag": "AI Agent",
     "auto": true
   },
-  "hypit-ai/hypit": {
-    "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-    "tag": "AI Agent",
+  "baidu/Unlimited-OCR": {
+    "name": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+    "tag": "其他",
     "auto": true
   },
   "KnifeLemon/Filee": {
     "name": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
     "tag": "开发工具",
+    "auto": true
+  },
+  "hypit-ai/hypit": {
+    "name": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+    "tag": "AI Agent",
     "auto": true
   },
   "morluto/rea": {
@@ -217,10 +217,6 @@
   "nilbuild/developer-roadmap": {
     "name": "开发者成长路线图，各技术方向该学什么一目了然",
     "tag": "学习资源"
-  },
-  "awesome-selfhosted/awesome-selfhosted": {
-    "name": "可自托管的开源网络服务清单",
-    "tag": "资源合集"
   },
   "mattpocock/skills": {
     "name": "一线工程师的真实 Agent 技能库",
@@ -246,6 +242,11 @@
   "anomalyco/opencode": {
     "name": "The open source coding agent.",
     "tag": "AI Agent",
+    "auto": true
+  },
+  "n8n-io/n8n": {
+    "name": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "tag": "开发工具",
     "auto": true
   }
 }
