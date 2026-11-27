@@ -9,8 +9,8 @@
     "tag": "其他",
     "auto": true
   },
-  "avatarmanz/VIctory-7900XTX": {
-    "name": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+  "xcl-dev/xcl": {
+    "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
     "tag": "其他",
     "auto": true
   },
@@ -19,19 +19,19 @@
     "tag": "其他",
     "auto": true
   },
-  "xcl-dev/xcl": {
-    "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+  "4lwayz/portwatch-vi": {
+    "name": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "tag": "其他",
+    "auto": true
+  },
+  "avatarmanz/VIctory-7900XTX": {
+    "name": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
     "tag": "其他",
     "auto": true
   },
   "alesha-pro/llm.asm": {
     "name": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
     "tag": "模型/推理",
-    "auto": true
-  },
-  "4lwayz/portwatch-vi": {
-    "name": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-    "tag": "其他",
     "auto": true
   },
   "EL4CTEO/fast-anything": {
@@ -44,14 +44,24 @@
     "tag": "其他",
     "auto": true
   },
+  "AFK-surf/xnulinux": {
+    "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "tag": "开发工具",
+    "auto": true
+  },
   "lsernau/grh-lean": {
     "name": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
     "tag": "其他",
     "auto": true
   },
-  "AFK-surf/xnulinux": {
-    "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-    "tag": "开发工具",
+  "nexu-io/opengame": {
+    "name": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+    "tag": "AI Agent",
+    "auto": true
+  },
+  "os6/nospeaker": {
+    "name": "make your macbook's trackpad talk using its haptic motor",
+    "tag": "资源合集",
     "auto": true
   },
   "Reukix/Reloc": {
@@ -59,9 +69,14 @@
     "tag": "其他",
     "auto": true
   },
-  "os6/nospeaker": {
-    "name": "make your macbook's trackpad talk using its haptic motor",
-    "tag": "资源合集",
+  "iamajmeena/neonclipping": {
+    "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "tag": "模型/推理",
+    "auto": true
+  },
+  "crhywun/g1-acq": {
+    "name": "（官方未提供简介）",
+    "tag": "其他",
     "auto": true
   },
   "Indigo-0167/universal-game-mod-manager": {
@@ -74,16 +89,6 @@
     "tag": "开发工具",
     "auto": true
   },
-  "crhywun/g1-acq": {
-    "name": "（官方未提供简介）",
-    "tag": "其他",
-    "auto": true
-  },
-  "iamajmeena/neonclipping": {
-    "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-    "tag": "模型/推理",
-    "auto": true
-  },
   "omonkeyz/xbox-emulator": {
     "name": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "tag": "其他",
@@ -91,11 +96,6 @@
   },
   "Avaneesh-Inamdar/Stream-Tube-Desktop": {
     "name": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
-    "tag": "开发工具",
-    "auto": true
-  },
-  "zero5122/offline-file-converter-windows": {
-    "name": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
     "tag": "开发工具",
     "auto": true
   },
