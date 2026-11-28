@@ -4,13 +4,18 @@
     "tag": "其他",
     "auto": true
   },
-  "Pixel679-cmyk/windows-titlebar-blur-customizer": {
-    "name": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+  "xcl-dev/xcl": {
+    "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
     "tag": "其他",
     "auto": true
   },
-  "xcl-dev/xcl": {
-    "name": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+  "trustno1-coder/VIctory-NVIDIA": {
+    "name": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+    "tag": "其他",
+    "auto": true
+  },
+  "4lwayz/portwatch-vi": {
+    "name": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
     "tag": "其他",
     "auto": true
   },
@@ -19,8 +24,8 @@
     "tag": "其他",
     "auto": true
   },
-  "4lwayz/portwatch-vi": {
-    "name": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+  "Pixel679-cmyk/windows-titlebar-blur-customizer": {
+    "name": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
     "tag": "其他",
     "auto": true
   },
@@ -34,19 +39,19 @@
     "tag": "模型/推理",
     "auto": true
   },
-  "DoubleGhosty/cool_fox": {
-    "name": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
-    "tag": "开发工具",
+  "EL4CTEO/fast-anything": {
+    "name": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
+    "tag": "AI Agent",
     "auto": true
   },
-  "trustno1-coder/VIctory-NVIDIA": {
-    "name": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+  "ProjectLeonida/mandy": {
+    "name": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
     "tag": "其他",
     "auto": true
   },
-  "EL4CTEO/fast-anything": {
-    "name": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-    "tag": "AI Agent",
+  "AFK-surf/xnulinux": {
+    "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "tag": "开发工具",
     "auto": true
   },
   "Reukix/Reloc": {
@@ -54,13 +59,8 @@
     "tag": "其他",
     "auto": true
   },
-  "ubiquitarianism/leonida": {
-    "name": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-    "tag": "其他",
-    "auto": true
-  },
-  "AFK-surf/xnulinux": {
-    "name": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+  "DoubleGhosty/cool_fox": {
+    "name": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
     "tag": "开发工具",
     "auto": true
   },
@@ -74,14 +74,14 @@
     "tag": "资源合集",
     "auto": true
   },
-  "ZigZagBoi1/ScarlettPort": {
-    "name": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
-    "tag": "其他",
-    "auto": true
-  },
   "iamajmeena/neonclipping": {
     "name": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
     "tag": "模型/推理",
+    "auto": true
+  },
+  "ZigZagBoi1/ScarlettPort": {
+    "name": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
+    "tag": "其他",
     "auto": true
   },
   "crhywun/g1-acq": {
@@ -89,14 +89,14 @@
     "tag": "其他",
     "auto": true
   },
-  "Indigo-0167/universal-game-mod-manager": {
-    "name": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
-    "tag": "其他",
-    "auto": true
-  },
   "Avaneesh-Inamdar/Stream-Tube-Desktop": {
     "name": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
     "tag": "开发工具",
+    "auto": true
+  },
+  "Indigo-0167/universal-game-mod-manager": {
+    "name": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+    "tag": "其他",
     "auto": true
   },
   "deepseek-ai/deepseek-harness": {
@@ -196,6 +196,11 @@
     "tag": "AI Agent",
     "auto": true
   },
+  "public-apis/public-apis": {
+    "name": "免费 API 大合集，做项目找数据源先看这个",
+    "tag": "资源合集",
+    "note": "48 万星，程序员必备清单"
+  },
   "morluto/rea": {
     "name": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "tag": "AI Agent",
@@ -242,11 +247,6 @@
   "anomalyco/opencode": {
     "name": "The open source coding agent.",
     "tag": "AI Agent",
-    "auto": true
-  },
-  "n8n-io/n8n": {
-    "name": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-    "tag": "开发工具",
     "auto": true
   }
 }
